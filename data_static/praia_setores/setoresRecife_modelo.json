@@ -1,0 +1,176 @@
+[
+  {
+    "id": "ID_0001",
+    "nome": "Brasília Teimosa",
+    "centro": {
+      "latitude": -8.083843,
+      "longitude": -34.87689
+    },
+    "limites": {
+      "latMax": -8.077572,
+      "lonMax": -34.875,
+      "latMin": -8.091545,
+      "lonMin": -34.880212
+    },
+    "atributos": {
+      "correnteRetorno": true,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": true,
+      "piscinasNaturais": true,
+      "incidentesTubarao": true,
+      "restinga": false,
+      "acessibilidade": false,
+      "balneabilidade": {
+        "status": "sem-informacoes",
+        "dataReferencia": "05/03/2026",
+        "periodo": "27/02/2026 a 05/03/2026"
+      }
+    }
+  },
+  {
+    "id": "ID_0002",
+    "nome": "Pina",
+    "centro": {
+      "latitude": -8.096769,
+      "longitude": -34.881376
+    },
+    "limites": {
+      "latMax": -8.091545,
+      "lonMax": -34.880212,
+      "latMin": -8.103279,
+      "lonMin": -34.885169
+    },
+    "atributos": {
+      "correnteRetorno": true,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": true,
+      "piscinasNaturais": true,
+      "incidentesTubarao": true,
+      "restinga": true,
+      "acessibilidade": true,
+      "balneabilidade": {
+        "status": "propria",
+        "dataReferencia": "05/03/2026",
+        "periodo": "27/02/2026 a 05/03/2026"
+      }
+    }
+  },
+  {
+    "id": "ID_0003",
+    "nome": "Segundo Jardim",
+    "centro": {
+      "latitude": -8.109925,
+      "longitude": -34.887677
+    },
+    "limites": {
+      "latMax": -8.103279,
+      "lonMax": -34.885169,
+      "latMin": -8.116201,
+      "lonMin": -34.89213
+    },
+    "atributos": {
+      "correnteRetorno": true,
+      "correntePermanente": false,
+      "mesesCorrenteSazonal": "2;3",
+      "protecaoRecifal": true,
+      "piscinasNaturais": false,
+      "incidentesTubarao": false,
+      "restinga": true,
+      "acessibilidade": false,
+      "balneabilidade": {
+        "status": "propria",
+        "dataReferencia": "05/03/2026",
+        "periodo": "27/02/2026 a 05/03/2026"
+      }
+    }
+  },
+  {
+    "id": "ID_0004",
+    "nome": "Acaiaca",
+    "centro": {
+      "latitude": -8.121252,
+      "longitude": -34.894456
+    },
+    "limites": {
+      "latMax": -8.116201,
+      "lonMax": -34.89213,
+      "latMin": -8.128039,
+      "lonMin": -34.897982
+    },
+    "atributos": {
+      "correnteRetorno": false,
+      "correntePermanente": false,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": true,
+      "piscinasNaturais": true,
+      "incidentesTubarao": true,
+      "restinga": false,
+      "acessibilidade": false,
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "05/03/2026",
+        "periodo": "27/02/2026 a 05/03/2026"
+      }
+    }
+  },
+  {
+    "id": "ID_0005",
+    "nome": "Enroncamento",
+    "centro": {
+      "latitude": -8.137277,
+      "longitude": -34.90094
+    },
+    "limites": {
+      "latMax": -8.128039,
+      "lonMax": -34.897982,
+      "latMin": -8.14862,
+      "lonMin": -34.906498
+    },
+    "atributos": {
+      "correnteRetorno": false,
+      "correntePermanente": false,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": true,
+      "piscinasNaturais": true,
+      "incidentesTubarao": false,
+      "restinga": false,
+      "acessibilidade": false,
+      "balneabilidade": {
+        "status": "propria",
+        "dataReferencia": "05/03/2026",
+        "periodo": "27/02/2026 a 05/03/2026"
+      }
+    }
+  },
+  {
+    "id": "ID_0006",
+    "nome": "Limite Recife-Jaboatão",
+    "centro": {
+      "latitude": -8.155164,
+      "longitude": -34.907997
+    },
+    "limites": {
+      "latMax": -8.14862,
+      "lonMax": -34.906498,
+      "latMin": -8.162376,
+      "lonMin": -34.912005
+    },
+    "atributos": {
+      "correnteRetorno": true,
+      "correntePermanente": false,
+      "mesesCorrenteSazonal": "1",
+      "protecaoRecifal": false,
+      "piscinasNaturais": false,
+      "incidentesTubarao": true,
+      "restinga": false,
+      "acessibilidade": true,
+      "balneabilidade": {
+        "status": "sem-informacoes",
+        "dataReferencia": "05/03/2026",
+        "periodo": "27/02/2026 a 05/03/2026"
+      }
+    }
+  }
+]
