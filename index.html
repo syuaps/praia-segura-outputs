@@ -4,27 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Praia Segura — Outputs</title>
-  <style>
-    :root { --bg:#0b1220; --card:#121b2e; --text:#e8eefc; --muted:#b7c3e3; --link:#7dd3fc; --line:#223152; }
-    body { margin:0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; background:var(--bg); color:var(--text); }
-    header { padding:28px 18px 12px; max-width:980px; margin:0 auto; }
-    h1 { margin:0 0 6px; font-size:22px; font-weight:700; }
-    p { margin:6px 0; color:var(--muted); line-height:1.4; }
-    main { max-width:980px; margin:0 auto; padding:0 18px 28px; }
-    .card { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:14px 14px; margin:12px 0; }
-    .row { display:flex; gap:10px; flex-wrap:wrap; }
-    a { color:var(--link); text-decoration:none; }
-    a:hover { text-decoration:underline; }
-    code { background:#0e1730; border:1px solid var(--line); padding:2px 6px; border-radius:8px; color:var(--text); }
-    details { border:1px solid var(--line); border-radius:14px; padding:12px 12px; background:rgba(0,0,0,0.12); }
-    details + details { margin-top:10px; }
-    summary { cursor:pointer; font-weight:650; }
-    ul { margin:10px 0 0 18px; color:var(--muted); }
-    li { margin:6px 0; }
-    .muted { color:var(--muted); }
-    footer { max-width:980px; margin:0 auto; padding:0 18px 28px; color:var(--muted); font-size:13px; }
-    .pill { display:inline-block; padding:4px 10px; border-radius:999px; border:1px solid var(--line); background:#0e1730; color:var(--muted); font-size:12px; }
-  </style>
+  <link rel="stylesheet" href="./styles.css" />
 </head>
 <body>
   <header>
@@ -40,7 +20,7 @@
         <a href="./rodada_atual.json">rodada_atual.json</a>
         <span class="muted">— carimbo da última atualização</span>
       </div>
-      <p style="margin-top:10px">Se o link acima abrir, o Pages está servindo corretamente os arquivos.</p>
+      <p class="card-note">Se o link acima abrir, o Pages está servindo corretamente os arquivos.</p>
     </div>
 
     <details open>
