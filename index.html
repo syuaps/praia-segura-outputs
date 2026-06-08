@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Praia Segura — Outputs</title>
+  <style>
+    :root { --bg:#0b1220; --card:#121b2e; --text:#e8eefc; --muted:#b7c3e3; --link:#7dd3fc; --line:#223152; }
+    body { margin:0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; background:var(--bg); color:var(--text); }
+    header { padding:28px 18px 12px; max-width:980px; margin:0 auto; }
+    h1 { margin:0 0 6px; font-size:22px; font-weight:700; }
+    p { margin:6px 0; color:var(--muted); line-height:1.4; }
+    main { max-width:980px; margin:0 auto; padding:0 18px 28px; }
+    .card { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:14px 14px; margin:12px 0; }
+    .row { display:flex; gap:10px; flex-wrap:wrap; }
+    a { color:var(--link); text-decoration:none; }
+    a:hover { text-decoration:underline; }
+    code { background:#0e1730; border:1px solid var(--line); padding:2px 6px; border-radius:8px; color:var(--text); }
+    details { border:1px solid var(--line); border-radius:14px; padding:12px 12px; background:rgba(0,0,0,0.12); }
+    details + details { margin-top:10px; }
+    summary { cursor:pointer; font-weight:650; }
+    ul { margin:10px 0 0 18px; color:var(--muted); }
+    li { margin:6px 0; }
+    .muted { color:var(--muted); }
+    footer { max-width:980px; margin:0 auto; padding:0 18px 28px; color:var(--muted); font-size:13px; }
+    .pill { display:inline-block; padding:4px 10px; border-radius:999px; border:1px solid var(--line); background:#0e1730; color:var(--muted); font-size:12px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Praia Segura — Publicação de arquivos (GitHub Pages)</h1>
+    <p>Este site serve como “servidor” estático para o aplicativo. O GitHub Pages <b>não lista pastas automaticamente</b>; por isso este <code>index.html</code> funciona como menu.</p>
+    <p class="muted">Base URL para o app: <code>https://syuaps.github.io/praia-segura-outputs/</code></p>
+  </header>
+
+  <main>
+    <div class="card">
+      <div class="row">
+        <span class="pill">Atalho</span>
+        <a href="./rodada_atual.json">rodada_atual.json</a>
+        <span class="muted">— carimbo da última atualização</span>
+      </div>
+      <p style="margin-top:10px">Se o link acima abrir, o Pages está servindo corretamente os arquivos.</p>
+    </div>
+
+    <details open>
+      <summary>Previsão — arquivos principais</summary>
+      <ul>
+        <li><a href="./outputs/forecast_full.json">outputs/forecast_full.json</a> (agregado)</li>
+        <li><a href="./outputs/json/ifs_oper__recife.json">outputs/json/ifs_oper__recife.json</a> (Centro Europeu de Previsões — operacional)</li>
+        <li><a href="./outputs/json/ifs_ens_probs__recife.json">outputs/json/ifs_ens_probs__recife.json</a> (Centro Europeu de Previsões — probabilidades)</li>
+        <li><a href="./outputs/json/TPXO10_atlas_v2_recife.json">outputs/json/TPXO10_atlas_v2_recife.json</a> (atlas de marés)</li>
+        <li><a href="./outputs/json/cmems_mod_glo_phy_anfc_merged-sl_PT1H-i__recife_timeseries.json">outputs/json/cmems_mod_glo_phy_anfc_merged-sl_PT1H-i__recife_timeseries.json</a> (Copernicus Marine — série temporal)</li>
+      </ul>
+      <p class="muted">Dica: no app, comece lendo <code>rodada_atual.json</code> e depois consuma os JSON acima por URL.</p>
+    </details>
+
+    <details>
+      <summary>Dados estáticos — balneabilidade, setores e piscinas</summary>
+      <ul>
+        <li><a href="./data_static/guiaTemas.json">data_static/guiaTemas.json</a></li>
+        <li><a href="./data_static/balneabilidade.xlsx">data_static/balneabilidade.xlsx</a></li>
+        <li><a href="./data_static/informativo-balneabilidade-2026-02-12.pdf">data_static/informativo-balneabilidade-2026-02-12.pdf</a></li>
+        <li><a href="./data_static/praia_setores/setoresRecife.json">data_static/praia_setores/setoresRecife.json</a></li>
+        <li><a href="./data_static/piscinas/piscinasNaturais.json">data_static/piscinas/piscinasNaturais.json</a></li>
+      </ul>
+    </details>
+
+    <details>
+      <summary>Ilustrações (PNG)</summary>
+      <ul>
+        <li><a href="./data_static/ilustracoes/balneabilidade_de_praia.png">balneabilidade_de_praia.png</a></li>
+        <li><a href="./data_static/ilustracoes/corrente_de_retorno_setas.png">corrente_de_retorno_setas.png</a></li>
+        <li><a href="./data_static/ilustracoes/ondas_com_setas.png">ondas_com_setas.png</a></li>
+        <li><a href="./data_static/ilustracoes/regua_de_mare.png">regua_de_mare.png</a></li>
+        <li><a href="./data_static/ilustracoes/sol_agua_sombra.png">sol_agua_sombra.png</a></li>
+      </ul>
+      <p class="muted">Você pode adicionar/remover links aqui conforme for criando novas imagens.</p>
+    </details>
+
+    <details>
+      <summary>Imagens dos setores e piscinas (JPG)</summary>
+      <ul>
+        <li><a href="./data_static/setores_img/ID_0001.jpg">setores_img/ID_0001.jpg</a></li>
+        <li><a href="./data_static/setores_img/ID_0002.jpg">setores_img/ID_0002.jpg</a></li>
+        <li><a href="./data_static/setores_img/ID_0003.jpg">setores_img/ID_0003.jpg</a></li>
+        <li><a href="./data_static/piscinas_img/PISCINA_PINA.jpg">piscinas_img/PISCINA_PINA.jpg</a></li>
+        <li><a href="./data_static/piscinas_img/PISCINA_BRASILIA_TEIMOSA.jpg">piscinas_img/PISCINA_BRASILIA_TEIMOSA.jpg</a></li>
+      </ul>
+    </details>
+
+    <details>
+      <summary>Arquivos “products” (espelho dos JSON)</summary>
+      <ul>
+        <li><a href="./outputs/products/ifs_oper__recife.json">outputs/products/ifs_oper__recife.json</a></li>
+        <li><a href="./outputs/products/ifs_ens_probs__recife.json">outputs/products/ifs_ens_probs__recife.json</a></li>
+        <li><a href="./outputs/products/TPXO10_atlas_v2_recife.json">outputs/products/TPXO10_atlas_v2_recife.json</a></li>
+        <li><a href="./outputs/products/cmems_mod_glo_phy_anfc_merged-sl_PT1H-i__recife_timeseries.json">outputs/products/cmems_mod_glo_phy_anfc_merged-sl_PT1H-i__recife_timeseries.json</a></li>
+      </ul>
+      <p class="muted">Se você decidir manter só uma cópia dos JSON (em <code>outputs/json</code>), dá para remover a pasta products depois.</p>
+    </details>
+  </main>
+
+  <footer>
+    <p>Se algum link der 404: confira se o nome do arquivo está exatamente igual (inclusive maiúsculas/minúsculas) e aguarde 1–3 minutos após o último <code>git push</code>.</p>
+  </footer>
+</body>
+</html>
