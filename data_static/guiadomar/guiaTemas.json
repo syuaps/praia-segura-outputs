@@ -3,7 +3,7 @@
     "id": "mar-hoje",
     "titulo": "Como está o mar hoje?",
     "subtitulo": "Leitura rápida das condições do dia",
-    "imagem": "sol_agua_sombra",
+    "imagem": "mar-hoje",
     "resumo": "Veja vento, ondas e maré antes de entrar no mar.",
     "explicacao": "Uma checagem simples evita riscos. Observe o nível das ondas, direção do vento e horário da maré antes de escolher o local de banho.",
     "dicas": [
@@ -17,7 +17,7 @@
     "id": "mare",
     "titulo": "Maré: o relógio da praia",
     "subtitulo": "Entenda como o nível da água muda ao longo do dia",
-    "imagem": "regua_de_mare",
+    "imagem": "mare",
     "resumo": "A maré altera profundidade, corrente e exposição dos recifes.",
     "explicacao": "Maré alta e maré baixa mudam totalmente a praia. Em algumas áreas, recifes e piscinas naturais só aparecem na maré baixa.",
     "dicas": [
@@ -31,7 +31,7 @@
     "id": "ondas",
     "titulo": "Ondas: quando parece pouco, mas não é",
     "subtitulo": "Mesmo ondas pequenas podem empurrar forte",
-    "imagem": "ondas_com_setas",
+    "imagem": "ondas",
     "resumo": "Séries de ondas podem aumentar de forma repentina.",
     "explicacao": "A altura média das ondas não conta toda a história. Em muitos dias, algumas ondas maiores chegam em sequência e pegam banhistas desprevenidos.",
     "dicas": [
@@ -45,7 +45,7 @@
     "id": "correntes",
     "titulo": "Correntes de retorno",
     "subtitulo": "O que são e como sair delas",
-    "imagem": "corrente_de_retorno_setas",
+    "imagem": "correntes",
     "resumo": "Correntes puxam para fora, mas há forma correta de sair.",
     "explicacao": "Correntes de retorno são canais de água que voltam para o mar. Elas não puxam para baixo, mas podem afastar rapidamente da borda.",
     "dicas": [
@@ -59,7 +59,7 @@
     "id": "recifes",
     "titulo": "Recifes e piscinas naturais",
     "subtitulo": "Proteção natural em condições favoráveis",
-    "imagem": "recife_e_piscina",
+    "imagem": "recifes",
     "resumo": "Recifes reduzem força das ondas em alguns trechos.",
     "explicacao": "Recifes criam zonas mais calmas em maré baixa, mas também podem ficar escorregadios e causar cortes. Todo cuidado continua necessário.",
     "dicas": [
@@ -73,7 +73,7 @@
     "id": "tubaroes",
     "titulo": "Tubarões: cuidado sem pânico",
     "subtitulo": "Prevenção e escolha de horário fazem diferença",
-    "imagem": "tubarao_distante_placa",
+    "imagem": "tubaroes",
     "resumo": "Respeite avisos locais e evite áreas de maior risco.",
     "explicacao": "Em algumas regiões há histórico de incidentes. O foco é reduzir exposição: horário seguro, distância da costa e obediência à sinalização.",
     "dicas": [
@@ -87,7 +87,7 @@
     "id": "restingas",
     "titulo": "Restingas e a proteção da costa",
     "subtitulo": "Vegetação que segura areia e protege a praia",
-    "imagem": "restinga_recife_cultura",
+    "imagem": "restingas",
     "resumo": "A restinga ajuda a conter erosão e manter o ecossistema.",
     "explicacao": "A vegetação de restinga reduz impacto do vento e mar, preserva dunas e serve de abrigo para fauna local. Pisoteio e lixo fragilizam essa proteção.",
     "dicas": [
@@ -101,7 +101,7 @@
     "id": "balneabilidade",
     "titulo": "Balneabilidade da praia",
     "subtitulo": "Entenda quando a água está própria para banho",
-    "imagem": "balneabilidade_de_praia",
+    "imagem": "balneabilidade",
     "resumo": "A balneabilidade indica a qualidade da água para recreação.",
     "explicacao": "Esse indicador considera análises da água e ajuda a reduzir risco de contato com contaminação. Sempre confira a classificação mais recente antes de entrar no mar.",
     "dicas": [
@@ -122,7 +122,7 @@
     "id": "mar-turvo-chuva",
     "titulo": "Mar turvo, risco em dobro",
     "subtitulo": "Chuva forte pode deixar a água mais turbulenta e perigosa",
-    "imagem": "mar_turvo_chuvas",
+    "imagem": "mar-turvo-chuva",
     "resumo": "Após chuva, o mar pode ficar mais forte, turvo e com menor visibilidade.",
     "explicacao": "Com chuvas intensas, rios e canais despejam mais água e sedimentos no mar. Isso pode aumentar turbulência, correntes e dificultar a leitura do fundo, elevando risco de afogamentos e incidentes com tubarão em áreas sensíveis.",
     "dicas": [

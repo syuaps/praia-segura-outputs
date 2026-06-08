@@ -4,62 +4,62 @@
     "nome": "Piscina natural de Buraco da véia",
     "descricao": "Area de piscina natural na orla de Buraco da véia.",
     "setorId": "ID_0001",
-    "imagem": "PISCINA_BURACO_DA_VEIA"
+    "imagem": "ID_0001"
   },
   {
     "id": "PISCINA_PINA_1",
     "nome": "Piscina natural de Pina 1",
     "descricao": "Area de piscina natural na orla de Pina 1.",
     "setorId": "ID_0005",
-    "imagem": "PISCINA_PINA_1"
+    "imagem": "ID_0005"
   },
   {
     "id": "PISCINA_PINA_2",
     "nome": "Piscina natural de Pina 2",
     "descricao": "Area de piscina natural na orla de Pina 2.",
     "setorId": "ID_0006",
-    "imagem": "PISCINA_PINA_2"
+    "imagem": "ID_0006"
   },
   {
     "id": "PISCINA_ACAIACA_1",
     "nome": "Piscina natural de Acaiaca 1",
     "descricao": "Area de piscina natural na orla de Acaiaca 1.",
     "setorId": "ID_0016",
-    "imagem": "PISCINA_ACAIACA_1"
+    "imagem": "ID_0016"
   },
   {
     "id": "PISCINA_ACAIACA_3",
     "nome": "Piscina natural de Acaiaca 3",
     "descricao": "Area de piscina natural na orla de Acaiaca 3.",
     "setorId": "ID_0018",
-    "imagem": "PISCINA_ACAIACA_3"
+    "imagem": "ID_0018"
   },
   {
     "id": "PISCINA_ACAIACA_4",
     "nome": "Piscina natural de Acaiaca 4",
     "descricao": "Area de piscina natural na orla de Acaiaca 4.",
     "setorId": "ID_0019",
-    "imagem": "PISCINA_ACAIACA_4"
+    "imagem": "ID_0019"
   },
   {
     "id": "PISCINA_PRACINHA_DE_BOA_VIAGEM",
     "nome": "Piscina natural de Pracinha de Boa Viagem",
     "descricao": "Area de piscina natural na orla de Pracinha de Boa Viagem.",
     "setorId": "ID_0022",
-    "imagem": "PISCINA_PRACINHA_DE_BOA_VIAGEM"
+    "imagem": "ID_0022"
   },
   {
     "id": "PISCINA_TRANSATLANTICO",
     "nome": "Piscina natural de Transatlântico",
     "descricao": "Area de piscina natural na orla de Transatlântico.",
     "setorId": "ID_0023",
-    "imagem": "PISCINA_TRANSATLANTICO"
+    "imagem": "ID_0023"
   },
   {
     "id": "PISCINA_ATLANTE_PLAZA",
     "nome": "Piscina natural de Atlante Plaza",
     "descricao": "Area de piscina natural na orla de Atlante Plaza.",
     "setorId": "ID_0024",
-    "imagem": "PISCINA_ATLANTE_PLAZA"
+    "imagem": "ID_0024"
   }
 ]
