@@ -1,0 +1,242 @@
+[
+  {
+    "id": "de-delegacia-orla-norte",
+    "categoria": "DE",
+    "nome": "Delegacia Fictícia da Orla Norte",
+    "endereco": "Posto fictício no trecho de Brasília Teimosa",
+    "telefone": "(81) 3000-0101",
+    "setorId": "ID_0002",
+    "iconName": "shield-star",
+    "iconColor": "#1f5fc4"
+  },
+  {
+    "id": "de-delegacia-pina",
+    "categoria": "DE",
+    "nome": "Base Comunitária Fictícia do Pina",
+    "endereco": "Avenida litorânea fictícia, Pina",
+    "telefone": "(81) 3000-0102",
+    "setorId": "ID_0005",
+    "iconName": "shield-star",
+    "iconColor": "#1f5fc4"
+  },
+  {
+    "id": "ho-hospital-pina",
+    "categoria": "HO",
+    "nome": "Hospital Fictício Praia do Pina",
+    "endereco": "Rua de apoio fictícia ao banhista, Pina",
+    "telefone": "(81) 3000-0201",
+    "setorId": "ID_0006",
+    "iconName": "hospital-box",
+    "iconColor": "#dc3b3b"
+  },
+  {
+    "id": "ho-upa-boa-viagem",
+    "categoria": "HO",
+    "nome": "Unidade de Pronto Atendimento Fictícia Boa Viagem",
+    "endereco": "Trecho fictício de Boa Viagem",
+    "telefone": "(81) 3000-0202",
+    "setorId": "ID_0018",
+    "iconName": "hospital-box",
+    "iconColor": "#dc3b3b"
+  },
+  {
+    "id": "sv-posto-segundo-jardim",
+    "categoria": "SV",
+    "nome": "Posto Fictício de Salva-vidas Segundo Jardim",
+    "endereco": "Faixa de areia fictícia do Segundo Jardim",
+    "telefone": "(81) 3000-0301",
+    "setorId": "ID_0011",
+    "iconName": "lifebuoy",
+    "iconColor": "#ff9d2e"
+  },
+  {
+    "id": "sv-posto-acaiaca",
+    "categoria": "SV",
+    "nome": "Posto Fictício de Salva-vidas Acaiaca",
+    "endereco": "Trecho fictício próximo ao Acaiaca",
+    "telefone": "(81) 3000-0302",
+    "setorId": "ID_0016",
+    "iconName": "lifebuoy",
+    "iconColor": "#ff9d2e"
+  },
+  {
+    "id": "bh-banheiro-pina",
+    "categoria": "BH",
+    "nome": "Banheiro Público Fictício Pina",
+    "endereco": "Calçadão fictício do Pina",
+    "telefone": "(81) 3000-0401",
+    "setorId": "ID_0007",
+    "iconName": "human-male-female",
+    "iconColor": "#2da86d"
+  },
+  {
+    "id": "bh-banheiro-setubal",
+    "categoria": "BH",
+    "nome": "Banheiro Público Fictício Setúbal",
+    "endereco": "Acesso fictício à praia de Setúbal",
+    "telefone": "(81) 3000-0402",
+    "setorId": "ID_0027",
+    "iconName": "human-male-female",
+    "iconColor": "#2da86d"
+  },
+  {
+    "id": "qs-quiosque-primeiro-jardim",
+    "categoria": "QS",
+    "nome": "Quiosque Fictício Primeiro Jardim",
+    "endereco": "Praça fictícia do Primeiro Jardim",
+    "telefone": "(81) 3000-0501",
+    "setorId": "ID_0009",
+    "iconName": "storefront-outline",
+    "iconColor": "#7b4cc2"
+  },
+  {
+    "id": "qs-quiosque-boa-viagem",
+    "categoria": "QS",
+    "nome": "Quiosque Fictício Boa Viagem",
+    "endereco": "Calçadão fictício de Boa Viagem",
+    "telefone": "(81) 3000-0502",
+    "setorId": "ID_0019",
+    "iconName": "storefront-outline",
+    "iconColor": "#7b4cc2"
+  },
+  {
+    "id": "ra-rampa-pina",
+    "categoria": "RA",
+    "nome": "Rampa de Acesso Fictícia do Pina",
+    "endereco": "Acesso inclusivo fictício no Pina",
+    "telefone": "(81) 3000-0601",
+    "setorId": "ID_0008",
+    "iconName": "wheelchair-accessibility",
+    "iconColor": "#2b8f7e"
+  },
+  {
+    "id": "ra-rampa-terceiro-jardim",
+    "categoria": "RA",
+    "nome": "Rampa de Acesso Fictícia Terceiro Jardim",
+    "endereco": "Entrada fictícia do Terceiro Jardim",
+    "telefone": "(81) 3000-0602",
+    "setorId": "ID_0014",
+    "iconName": "wheelchair-accessibility",
+    "iconColor": "#2b8f7e"
+  },
+  {
+    "id": "es-escada-brasilia-teimosa",
+    "categoria": "ES",
+    "nome": "Escada de Acesso Fictícia Brasília Teimosa",
+    "endereco": "Acesso fictício ao calçadão",
+    "telefone": "(81) 3000-0701",
+    "setorId": "ID_0003",
+    "iconName": "stairs",
+    "iconColor": "#8f6a21"
+  },
+  {
+    "id": "es-escada-boa-viagem",
+    "categoria": "ES",
+    "nome": "Escada de Acesso Fictícia Boa Viagem",
+    "endereco": "Trecho fictício de acesso à areia",
+    "telefone": "(81) 3000-0702",
+    "setorId": "ID_0020",
+    "iconName": "stairs",
+    "iconColor": "#8f6a21"
+  },
+  {
+    "id": "qd-quadra-pina",
+    "categoria": "QD",
+    "nome": "Quadra Fictícia Poliesportiva do Pina",
+    "endereco": "Área esportiva fictícia do Pina",
+    "telefone": "(81) 3000-0801",
+    "setorId": "ID_0006",
+    "iconName": "basketball",
+    "iconColor": "#cf5e1a"
+  },
+  {
+    "id": "qd-volei-boa-viagem",
+    "categoria": "QD",
+    "nome": "Quadra Fictícia de Vôlei Boa Viagem",
+    "endereco": "Faixa de areia fictícia de Boa Viagem",
+    "telefone": "(81) 3000-0802",
+    "setorId": "ID_0021",
+    "iconName": "basketball",
+    "iconColor": "#cf5e1a"
+  },
+  {
+    "id": "bi-parquinho-primeiro-jardim",
+    "categoria": "BI",
+    "nome": "Parquinho Fictício Primeiro Jardim",
+    "endereco": "Área infantil fictícia do Primeiro Jardim",
+    "telefone": "(81) 3000-0901",
+    "setorId": "ID_0010",
+    "iconName": "slide",
+    "iconColor": "#d45ba6"
+  },
+  {
+    "id": "bi-parquinho-setubal",
+    "categoria": "BI",
+    "nome": "Brinquedos Infantis Fictícios Setúbal",
+    "endereco": "Espaço infantil fictício de Setúbal",
+    "telefone": "(81) 3000-0902",
+    "setorId": "ID_0028",
+    "iconName": "slide",
+    "iconColor": "#d45ba6"
+  },
+  {
+    "id": "rs-skate-segundo-jardim",
+    "categoria": "RS",
+    "nome": "Rampa de Skate Fictícia Segundo Jardim",
+    "endereco": "Pista fictícia junto ao Segundo Jardim",
+    "telefone": "(81) 3000-1001",
+    "setorId": "ID_0012",
+    "iconName": "skateboard",
+    "iconColor": "#4554d8"
+  },
+  {
+    "id": "rs-skate-boa-viagem",
+    "categoria": "RS",
+    "nome": "Rampa de Skate Fictícia Boa Viagem",
+    "endereco": "Área radical fictícia de Boa Viagem",
+    "telefone": "(81) 3000-1002",
+    "setorId": "ID_0022",
+    "iconName": "skateboard",
+    "iconColor": "#4554d8"
+  },
+  {
+    "id": "pb-base-praia-sem-barreiras",
+    "categoria": "PB",
+    "nome": "Base Fictícia Praia Sem Barreiras",
+    "endereco": "Ponto acessível fictício em Boa Viagem",
+    "telefone": "(81) 3000-1101",
+    "setorId": "ID_0017",
+    "iconName": "beach",
+    "iconColor": "#1aa6a6"
+  },
+  {
+    "id": "pb-cadeira-anfibia-pina",
+    "categoria": "PB",
+    "nome": "Apoio Fictício com Cadeira Anfíbia",
+    "endereco": "Ponto inclusivo fictício no Pina",
+    "telefone": "(81) 3000-1102",
+    "setorId": "ID_0005",
+    "iconName": "beach",
+    "iconColor": "#1aa6a6"
+  },
+  {
+    "id": "ac-academia-terceiro-jardim",
+    "categoria": "AC",
+    "nome": "Academia da Cidade Fictícia Terceiro Jardim",
+    "endereco": "Estação fitness fictícia do Terceiro Jardim",
+    "telefone": "(81) 3000-1201",
+    "setorId": "ID_0013",
+    "iconName": "dumbbell",
+    "iconColor": "#148c5a"
+  },
+  {
+    "id": "ac-academia-setubal",
+    "categoria": "AC",
+    "nome": "Academia da Cidade Fictícia Setúbal",
+    "endereco": "Área de exercícios fictícia de Setúbal",
+    "telefone": "(81) 3000-1202",
+    "setorId": "ID_0029",
+    "iconName": "dumbbell",
+    "iconColor": "#148c5a"
+  }
+]
