@@ -3,13 +3,13 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Praia Segura — Outputs</title>
+  <title>Praia Segura - Outputs</title>
   <link rel="stylesheet" href="./styles.css" />
 </head>
 <body>
   <header>
-    <h1>Praia Segura — Publicação de arquivos (GitHub Pages)</h1>
-    <p>Este site serve como “servidor” estático para o aplicativo. O GitHub Pages <b>não lista pastas automaticamente</b>; por isso este <code>index.html</code> funciona como menu.</p>
+    <h1>Praia Segura - Publica&ccedil;&atilde;o de arquivos (GitHub Pages)</h1>
+    <p>Este site serve como &quot;servidor&quot; est&aacute;tico para o aplicativo. O GitHub Pages <b>n&atilde;o lista pastas automaticamente</b>; por isso este <code>index.html</code> funciona como menu.</p>
     <p class="muted">Base URL para o app: <code>https://syuaps.github.io/praia-segura-outputs/</code></p>
   </header>
 
@@ -18,21 +18,21 @@
       <div class="row">
         <span class="pill">Atalho</span>
         <a href="./rodada_atual.json">rodada_atual.json</a>
-        <span class="muted">— carimbo da última atualização</span>
+        <span class="muted">- carimbo da &uacute;ltima atualiza&ccedil;&atilde;o</span>
       </div>
-      <p class="card-note">Se o link acima abrir, o Pages está servindo corretamente os arquivos.</p>
+      <p class="card-note">Se o link acima abrir, o Pages est&aacute; servindo corretamente os arquivos.</p>
     </div>
 
     <details open>
-      <summary>Previsão — nova estrutura em outputs/</summary>
+      <summary>Previs&atilde;o - outputs/</summary>
       <ul>
         <li><a href="./outputs/forecast_full.json">outputs/forecast_full.json</a> (agregador principal da rodada)</li>
-        <li><a href="./outputs/products/ifs_oper__recife.json">outputs/products/ifs_oper__recife.json</a> (ECMWF Open Data — IFS HRES operacional)</li>
-        <li><a href="./outputs/products/ifs_ens_probs__recife.json">outputs/products/ifs_ens_probs__recife.json</a> (ECMWF Open Data — probabilidades do ensemble)</li>
-        <li><a href="./outputs/products/TPXO10_atlas_v2_recife.json">outputs/products/TPXO10_atlas_v2_recife.json</a> (marés TPXO10 atlas v2)</li>
-        <li><a href="./outputs/products/cmems_mod_glo_phy_anfc_merged-sl_PT1H-i__recife_timeseries.json">outputs/products/cmems_mod_glo_phy_anfc_merged-sl_PT1H-i__recife_timeseries.json</a> (Copernicus Marine — série temporal em Recife)</li>
+        <li><a href="./outputs/products/ifs_oper__recife.json">outputs/products/ifs_oper__recife.json</a> (ECMWF Open Data - IFS HRES operacional)</li>
+        <li><a href="./outputs/products/ifs_ens_probs__recife.json">outputs/products/ifs_ens_probs__recife.json</a> (ECMWF Open Data - probabilidades do ensemble)</li>
+        <li><a href="./outputs/products/TPXO10_atlas_v2_recife.json">outputs/products/TPXO10_atlas_v2_recife.json</a> (mar&eacute;s TPXO10 atlas v2)</li>
+        <li><a href="./outputs/products/cmems_mod_glo_phy_anfc_merged-sl_PT1H-i__recife_timeseries.json">outputs/products/cmems_mod_glo_phy_anfc_merged-sl_PT1H-i__recife_timeseries.json</a> (Copernicus Marine - s&eacute;rie temporal em Recife)</li>
       </ul>
-      <p class="muted">Fluxo recomendado no app: <code>rodada_atual.json</code> → <code>outputs/forecast_full.json</code> → produtos específicos em <code>outputs/products/</code>.</p>
+      <p class="muted">Fluxo recomendado no app: <code>rodada_atual.json</code> &rarr; <code>outputs/forecast_full.json</code> &rarr; produtos espec&iacute;ficos em <code>outputs/products/</code>.</p>
     </details>
 
     <details>
@@ -45,21 +45,27 @@
     </details>
 
     <details>
+      <summary>Emerg&ecirc;ncia</summary>
+      <ul>
+        <li><a href="./data_static/emergencia/emergencia.json">data_static/emergencia/emergencia.json</a></li>
+      </ul>
+    </details>
+
+    <details>
       <summary>Guia do Mar (temas + imagens)</summary>
       <ul>
         <li><a href="./data_static/guiadomar/guiaTemas.json">data_static/guiadomar/guiaTemas.json</a></li>
-        <li><a href="./data_static/guiadomar/guiadomar_img/balneabilidade.png">guiadomar_img/balneabilidade.png</a></li>
-        <li><a href="./data_static/guiadomar/guiadomar_img/correntes.png">guiadomar_img/correntes.png</a></li>
-        <li><a href="./data_static/guiadomar/guiadomar_img/mar-hoje.png">guiadomar_img/mar-hoje.png</a></li>
-        <li><a href="./data_static/guiadomar/guiadomar_img/mar-turvo-chuva.png">guiadomar_img/mar-turvo-chuva.png</a></li>
-        <li><a href="./data_static/guiadomar/guiadomar_img/mare.png">guiadomar_img/mare.png</a></li>
-        <li><a href="./data_static/guiadomar/guiadomar_img/oceanografia.png">guiadomar_img/oceanografia.png</a></li>
-        <li><a href="./data_static/guiadomar/guiadomar_img/ondas.png">guiadomar_img/ondas.png</a></li>
-        <li><a href="./data_static/guiadomar/guiadomar_img/recifes.png">guiadomar_img/recifes.png</a></li>
-        <li><a href="./data_static/guiadomar/guiadomar_img/restingas.png">guiadomar_img/restingas.png</a></li>
-        <li><a href="./data_static/guiadomar/guiadomar_img/tubaroes.png">guiadomar_img/tubaroes.png</a></li>
+        <li><a href="./data_static/guiadomar/guiadomar_img/balneabilidade.png">data_static/guiadomar/guiadomar_img/balneabilidade.png</a></li>
+        <li><a href="./data_static/guiadomar/guiadomar_img/correntes.png">data_static/guiadomar/guiadomar_img/correntes.png</a></li>
+        <li><a href="./data_static/guiadomar/guiadomar_img/mar-hoje.png">data_static/guiadomar/guiadomar_img/mar-hoje.png</a></li>
+        <li><a href="./data_static/guiadomar/guiadomar_img/mar-turvo-chuva.png">data_static/guiadomar/guiadomar_img/mar-turvo-chuva.png</a></li>
+        <li><a href="./data_static/guiadomar/guiadomar_img/mare.png">data_static/guiadomar/guiadomar_img/mare.png</a></li>
+        <li><a href="./data_static/guiadomar/guiadomar_img/oceanografia.png">data_static/guiadomar/guiadomar_img/oceanografia.png</a></li>
+        <li><a href="./data_static/guiadomar/guiadomar_img/ondas.png">data_static/guiadomar/guiadomar_img/ondas.png</a></li>
+        <li><a href="./data_static/guiadomar/guiadomar_img/recifes.png">data_static/guiadomar/guiadomar_img/recifes.png</a></li>
+        <li><a href="./data_static/guiadomar/guiadomar_img/restingas.png">data_static/guiadomar/guiadomar_img/restingas.png</a></li>
+        <li><a href="./data_static/guiadomar/guiadomar_img/tubaroes.png">data_static/guiadomar/guiadomar_img/tubaroes.png</a></li>
       </ul>
-      <p class="muted">Você pode adicionar novos links conforme novas imagens/temas forem entrando.</p>
     </details>
 
     <details>
@@ -67,17 +73,31 @@
       <ul>
         <li><a href="./data_static/piscinas/piscinas.xlsx">data_static/piscinas/piscinas.xlsx</a></li>
         <li><a href="./data_static/piscinas/piscinasNaturais.json">data_static/piscinas/piscinasNaturais.json</a></li>
-        <li><a href="./data_static/piscinas/piscinas_img/ID_0001.jpg">piscinas_img/ID_0001.jpg</a></li>
-        <li><a href="./data_static/piscinas/piscinas_img/ID_0005.jpg">piscinas_img/ID_0005.jpg</a></li>
-        <li><a href="./data_static/piscinas/piscinas_img/ID_0006.jpg">piscinas_img/ID_0006.jpg</a></li>
-        <li><a href="./data_static/piscinas/piscinas_img/ID_0016.jpg">piscinas_img/ID_0016.jpg</a></li>
-        <li><a href="./data_static/piscinas/piscinas_img/ID_0018.jpg">piscinas_img/ID_0018.jpg</a></li>
-        <li><a href="./data_static/piscinas/piscinas_img/ID_0019.jpg">piscinas_img/ID_0019.jpg</a></li>
-        <li><a href="./data_static/piscinas/piscinas_img/ID_0022.jpg">piscinas_img/ID_0022.jpg</a></li>
-        <li><a href="./data_static/piscinas/piscinas_img/ID_0023.jpg">piscinas_img/ID_0023.jpg</a></li>
-        <li><a href="./data_static/piscinas/piscinas_img/ID_0024.jpg">piscinas_img/ID_0024.jpg</a></li>
+        <li><a href="./data_static/piscinas/piscinas_img/ID_0001.jpg">data_static/piscinas/piscinas_img/ID_0001.jpg</a></li>
+        <li><a href="./data_static/piscinas/piscinas_img/ID_0005.jpg">data_static/piscinas/piscinas_img/ID_0005.jpg</a></li>
+        <li><a href="./data_static/piscinas/piscinas_img/ID_0006.jpg">data_static/piscinas/piscinas_img/ID_0006.jpg</a></li>
+        <li><a href="./data_static/piscinas/piscinas_img/ID_0016.jpg">data_static/piscinas/piscinas_img/ID_0016.jpg</a></li>
+        <li><a href="./data_static/piscinas/piscinas_img/ID_0018.jpg">data_static/piscinas/piscinas_img/ID_0018.jpg</a></li>
+        <li><a href="./data_static/piscinas/piscinas_img/ID_0019.jpg">data_static/piscinas/piscinas_img/ID_0019.jpg</a></li>
+        <li><a href="./data_static/piscinas/piscinas_img/ID_0022.jpg">data_static/piscinas/piscinas_img/ID_0022.jpg</a></li>
+        <li><a href="./data_static/piscinas/piscinas_img/ID_0023.jpg">data_static/piscinas/piscinas_img/ID_0023.jpg</a></li>
+        <li><a href="./data_static/piscinas/piscinas_img/ID_0024.jpg">data_static/piscinas/piscinas_img/ID_0024.jpg</a></li>
       </ul>
-      <p class="muted">Se você adicionar novas fotos, basta incluir novos links aqui.</p>
+    </details>
+
+    <details>
+      <summary>Projetos</summary>
+      <ul>
+        <li><a href="./data_static/projetos/projetos.json">data_static/projetos/projetos.json</a></li>
+      </ul>
+    </details>
+
+    <details>
+      <summary>Servi&ccedil;os</summary>
+      <ul>
+        <li><a href="./data_static/servicos/servicos.json">data_static/servicos/servicos.json</a></li>
+        <li><a href="./data_static/servicos/servicos.xlsx">data_static/servicos/servicos.xlsx</a></li>
+      </ul>
     </details>
 
     <details>
@@ -85,53 +105,43 @@
       <ul>
         <li><a href="./data_static/setores/setores.xlsx">data_static/setores/setores.xlsx</a></li>
         <li><a href="./data_static/setores/setoresRecife.json">data_static/setores/setoresRecife.json</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0001.jpg">setores_img/ID_0001.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0002.jpg">setores_img/ID_0002.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0003.jpg">setores_img/ID_0003.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0004.jpg">setores_img/ID_0004.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0005.jpg">setores_img/ID_0005.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0006.jpg">setores_img/ID_0006.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0007.jpg">setores_img/ID_0007.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0008.jpg">setores_img/ID_0008.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0009.jpg">setores_img/ID_0009.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0010.jpg">setores_img/ID_0010.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0011.jpg">setores_img/ID_0011.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0012.jpg">setores_img/ID_0012.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0013.jpg">setores_img/ID_0013.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0014.jpg">setores_img/ID_0014.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0015.jpg">setores_img/ID_0015.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0016.jpg">setores_img/ID_0016.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0017.jpg">setores_img/ID_0017.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0018.jpg">setores_img/ID_0018.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0019.jpg">setores_img/ID_0019.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0020.jpg">setores_img/ID_0020.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0021.jpg">setores_img/ID_0021.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0022.jpg">setores_img/ID_0022.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0023.jpg">setores_img/ID_0023.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0024.jpg">setores_img/ID_0024.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0025.jpg">setores_img/ID_0025.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0026.jpg">setores_img/ID_0026.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0027.jpg">setores_img/ID_0027.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0028.jpg">setores_img/ID_0028.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0029.jpg">setores_img/ID_0029.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0030.jpg">setores_img/ID_0030.jpg</a></li>
-        <li><a href="./data_static/setores/setores_img/ID_0031.jpg">setores_img/ID_0031.jpg</a></li>
-      </ul>
-      <p class="muted">A lista acima inclui todas as imagens informadas no tree atual.</p>
-    </details>
-
-    <details>
-      <summary>Serviços (planilhas)</summary>
-      <ul>
-        <li><a href="./data_static/servicos/atributos.xlsx">data_static/servicos/atributos.xlsx</a></li>
-        <li><a href="./data_static/servicos/servicos.json">data_static/servicos/servicos.json</a></li>
-        <li><a href="./data_static/servicos/servicos.xlsx">data_static/servicos/servicos.xlsx</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0001.jpg">data_static/setores/setores_img/ID_0001.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0002.jpg">data_static/setores/setores_img/ID_0002.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0003.jpg">data_static/setores/setores_img/ID_0003.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0004.jpg">data_static/setores/setores_img/ID_0004.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0005.jpg">data_static/setores/setores_img/ID_0005.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0006.jpg">data_static/setores/setores_img/ID_0006.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0007.jpg">data_static/setores/setores_img/ID_0007.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0008.jpg">data_static/setores/setores_img/ID_0008.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0009.jpg">data_static/setores/setores_img/ID_0009.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0010.jpg">data_static/setores/setores_img/ID_0010.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0011.jpg">data_static/setores/setores_img/ID_0011.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0012.jpg">data_static/setores/setores_img/ID_0012.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0013.jpg">data_static/setores/setores_img/ID_0013.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0014.jpg">data_static/setores/setores_img/ID_0014.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0015.jpg">data_static/setores/setores_img/ID_0015.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0016.jpg">data_static/setores/setores_img/ID_0016.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0017.jpg">data_static/setores/setores_img/ID_0017.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0018.jpg">data_static/setores/setores_img/ID_0018.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0019.jpg">data_static/setores/setores_img/ID_0019.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0020.jpg">data_static/setores/setores_img/ID_0020.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0021.jpg">data_static/setores/setores_img/ID_0021.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0022.jpg">data_static/setores/setores_img/ID_0022.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0023.jpg">data_static/setores/setores_img/ID_0023.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0024.jpg">data_static/setores/setores_img/ID_0024.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0025.jpg">data_static/setores/setores_img/ID_0025.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0026.jpg">data_static/setores/setores_img/ID_0026.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0027.jpg">data_static/setores/setores_img/ID_0027.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0028.jpg">data_static/setores/setores_img/ID_0028.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0029.jpg">data_static/setores/setores_img/ID_0029.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0030.jpg">data_static/setores/setores_img/ID_0030.jpg</a></li>
+        <li><a href="./data_static/setores/setores_img/ID_0031.jpg">data_static/setores/setores_img/ID_0031.jpg</a></li>
       </ul>
     </details>
   </main>
 
   <footer>
-    <p>Se algum link der 404: confira se o nome do arquivo está exatamente igual (inclusive maiúsculas/minúsculas) e aguarde 1–3 minutos após o último <code>git push</code>.</p>
+    <p>Se algum link der 404: confira se o nome do arquivo est&aacute; exatamente igual (inclusive mai&uacute;sculas/min&uacute;sculas) e aguarde 1 a 3 minutos ap&oacute;s o &uacute;ltimo <code>git push</code>.</p>
   </footer>
 </body>
 </html>
