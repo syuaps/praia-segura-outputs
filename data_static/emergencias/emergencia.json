@@ -1,0 +1,38 @@
+[
+  {
+    "id": "policia",
+    "titulo": "Emergências",
+    "subtitulo": "Polícia Militar",
+    "numero": "190"
+  },
+  {
+    "id": "bombeiros",
+    "titulo": "Corpo de Bombeiros",
+    "subtitulo": "",
+    "numero": "193"
+  },
+  {
+    "id": "samu",
+    "titulo": "SAMU - Ambulância",
+    "subtitulo": "",
+    "numero": "192"
+  },
+  {
+    "id": "defesa-civil",
+    "titulo": "Defesa Civil",
+    "subtitulo": "Emergências e desastres",
+    "numero": "199"
+  },
+  {
+    "id": "hospitais",
+    "titulo": "Pronto socorro",
+    "subtitulo": "",
+    "numero": "Lista"
+  },
+  {
+    "id": "denuncia",
+    "titulo": "Disque-denúncia",
+    "subtitulo": "",
+    "numero": "181"
+  }
+]
