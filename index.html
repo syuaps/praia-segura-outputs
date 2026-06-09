@@ -24,21 +24,23 @@
     </div>
 
     <details open>
-      <summary>Previsão — arquivos principais</summary>
+      <summary>Previsão — nova estrutura em outputs/</summary>
       <ul>
-        <li><a href="./outputs/forecast_full.json">outputs/forecast_full.json</a> (agregado)</li>
-        <li><a href="./outputs/products/ifs_oper__recife.json">outputs/products/ifs_oper__recife.json</a> (Centro Europeu de Previsões — operacional)</li>
-        <li><a href="./outputs/products/ifs_ens_probs__recife.json">outputs/products/ifs_ens_probs__recife.json</a> (Centro Europeu de Previsões — probabilidades)</li>
-        <li><a href="./outputs/products/TPXO10_atlas_v2_recife.json">outputs/products/TPXO10_atlas_v2_recife.json</a> (atlas de marés)</li>
-        <li><a href="./outputs/products/cmems_mod_glo_phy_anfc_merged-sl_PT1H-i__recife_timeseries.json">outputs/products/cmems_mod_glo_phy_anfc_merged-sl_PT1H-i__recife_timeseries.json</a> (Copernicus Marine — série temporal)</li>
+        <li><a href="./outputs/forecast_full.json">outputs/forecast_full.json</a> (agregador principal da rodada)</li>
+        <li><a href="./outputs/products/ifs_oper__recife.json">outputs/products/ifs_oper__recife.json</a> (ECMWF Open Data — IFS HRES operacional)</li>
+        <li><a href="./outputs/products/ifs_ens_probs__recife.json">outputs/products/ifs_ens_probs__recife.json</a> (ECMWF Open Data — probabilidades do ensemble)</li>
+        <li><a href="./outputs/products/TPXO10_atlas_v2_recife.json">outputs/products/TPXO10_atlas_v2_recife.json</a> (marés TPXO10 atlas v2)</li>
+        <li><a href="./outputs/products/cmems_mod_glo_phy_anfc_merged-sl_PT1H-i__recife_timeseries.json">outputs/products/cmems_mod_glo_phy_anfc_merged-sl_PT1H-i__recife_timeseries.json</a> (Copernicus Marine — série temporal em Recife)</li>
       </ul>
-      <p class="muted">Dica: no app, comece lendo <code>rodada_atual.json</code> e depois consuma os JSON acima por URL.</p>
+      <p class="muted">Fluxo recomendado no app: <code>rodada_atual.json</code> → <code>outputs/forecast_full.json</code> → produtos específicos em <code>outputs/products/</code>.</p>
     </details>
 
     <details>
       <summary>Balneabilidade</summary>
       <ul>
         <li><a href="./data_static/balneabilidade/balneabilidade.xlsx">data_static/balneabilidade/balneabilidade.xlsx</a></li>
+        <li><a href="./data_static/balneabilidade/balneabilidade_latest.json">data_static/balneabilidade/balneabilidade_latest.json</a></li>
+        <li><a href="./data_static/balneabilidade/pdfs/informativo-balneabilidade-23_2026-enterolert.pdf">data_static/balneabilidade/pdfs/informativo-balneabilidade-23_2026-enterolert.pdf</a></li>
       </ul>
     </details>
 
@@ -122,6 +124,7 @@
       <summary>Serviços (planilhas)</summary>
       <ul>
         <li><a href="./data_static/servicos/atributos.xlsx">data_static/servicos/atributos.xlsx</a></li>
+        <li><a href="./data_static/servicos/servicos.json">data_static/servicos/servicos.json</a></li>
         <li><a href="./data_static/servicos/servicos.xlsx">data_static/servicos/servicos.xlsx</a></li>
       </ul>
     </details>
