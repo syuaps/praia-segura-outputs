@@ -133,7 +133,7 @@
       "lonMin": -34.880257
     },
     "atributos": {
-      "correnteRetorno": false,
+      "correnteRetorno": true,
       "correntePermanente": true,
       "mesesCorrenteSazonal": "",
       "protecaoRecifal": true,
@@ -163,7 +163,7 @@
       "lonMin": -34.881098
     },
     "atributos": {
-      "correnteRetorno": false,
+      "correnteRetorno": true,
       "correntePermanente": true,
       "mesesCorrenteSazonal": "",
       "protecaoRecifal": true,
@@ -463,10 +463,10 @@
       "lonMin": -34.893061
     },
     "atributos": {
-      "correnteRetorno": false,
+      "correnteRetorno": true,
       "correntePermanente": true,
       "mesesCorrenteSazonal": "",
-      "protecaoRecifal": false,
+      "protecaoRecifal": true,
       "piscinasNaturais": true,
       "incidentesTubarao": false,
       "restinga": false,
@@ -523,7 +523,7 @@
       "lonMin": -34.895824
     },
     "atributos": {
-      "correnteRetorno": false,
+      "correnteRetorno": true,
       "correntePermanente": true,
       "mesesCorrenteSazonal": "",
       "protecaoRecifal": true,
@@ -553,7 +553,7 @@
       "lonMin": -34.896779
     },
     "atributos": {
-      "correnteRetorno": false,
+      "correnteRetorno": true,
       "correntePermanente": true,
       "mesesCorrenteSazonal": "",
       "protecaoRecifal": true,
@@ -643,10 +643,10 @@
       "lonMin": -34.899934
     },
     "atributos": {
-      "correnteRetorno": false,
+      "correnteRetorno": true,
       "correntePermanente": true,
       "mesesCorrenteSazonal": "",
-      "protecaoRecifal": false,
+      "protecaoRecifal": true,
       "piscinasNaturais": true,
       "incidentesTubarao": false,
       "restinga": false,
