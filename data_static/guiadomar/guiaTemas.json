@@ -145,5 +145,20 @@
       "Use informação científica para decidir com segurança."
     ],
     "alertaFinal": "Conhecimento do mar salva tempo e pode salvar vidas."
+  },
+  {
+    "id": "trechos-abertos",
+    "titulo": "Trechos sem proteção recifal",
+    "subtitulo": "Por que o mar aberto pode ser mais perigoso",
+    "imagem": "trechos-abertos",
+    "resumo": "Sem o recife como barreira, ondas e correntes chegam com mais força.",
+    "explicacao": "Em áreas sem proteção recifal, as ondas quebram com mais energia e a água costuma circular com mais velocidade. Isso aumenta a chance de ser empurrado para a arrebentação, perder o pé de repente e ser levado por correntes de retorno, especialmente quando a maré está enchendo ou vazando forte. Mesmo em dias aparentemente “calmos”, séries de ondas podem surpreender e abrir canais de corrente.",
+    "dicas": [
+      "Prefira entrar em trechos com recife/piscinas naturais quando as condições forem favoráveis e houver visibilidade do fundo.",
+      "Evite mar aberto quando houver ondas mais altas, vento forte ou mar turvo (piora a leitura de correntes e do fundo).",
+      "Observe o mar por alguns minutos: se notar “corredores” sem ondas quebrando ou espuma indo para o largo, pode ser corrente de retorno.",
+      "Entre sempre perto de guarda-vidas e com outras pessoas por perto."
+    ],
+    "alertaFinal": "No mar aberto, um passo a mais pode virar fundo de repente. Escolha trechos protegidos quando possível."
   }
 ]
