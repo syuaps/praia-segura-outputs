@@ -8,8 +8,8 @@
     "imagem": "ID_0001",
     "balneabilidade": {
       "status": "impropria",
-      "dataReferencia": "04/06/2026",
-      "periodo": "05/06/2026 a 11/06/2026",
+      "dataReferencia": "11/06/2026",
+      "periodo": "12/06/2026 a 18/06/2026",
       "codCPRHBalneabilidade": "REC-80"
     }
   },
@@ -22,8 +22,8 @@
     "imagem": "ID_0005",
     "balneabilidade": {
       "status": "impropria",
-      "dataReferencia": "04/06/2026",
-      "periodo": "05/06/2026 a 11/06/2026",
+      "dataReferencia": "11/06/2026",
+      "periodo": "12/06/2026 a 18/06/2026",
       "codCPRHBalneabilidade": "REC-80"
     }
   },
@@ -36,8 +36,8 @@
     "imagem": "ID_0006",
     "balneabilidade": {
       "status": "impropria",
-      "dataReferencia": "04/06/2026",
-      "periodo": "05/06/2026 a 11/06/2026",
+      "dataReferencia": "11/06/2026",
+      "periodo": "12/06/2026 a 18/06/2026",
       "codCPRHBalneabilidade": "REC-80"
     }
   },
@@ -50,8 +50,8 @@
     "imagem": "ID_0016",
     "balneabilidade": {
       "status": "propria",
-      "dataReferencia": "04/06/2026",
-      "periodo": "05/06/2026 a 11/06/2026",
+      "dataReferencia": "11/06/2026",
+      "periodo": "12/06/2026 a 18/06/2026",
       "codCPRHBalneabilidade": "REC-50"
     }
   },
@@ -64,8 +64,8 @@
     "imagem": "ID_0018",
     "balneabilidade": {
       "status": "propria",
-      "dataReferencia": "04/06/2026",
-      "periodo": "05/06/2026 a 11/06/2026",
+      "dataReferencia": "11/06/2026",
+      "periodo": "12/06/2026 a 18/06/2026",
       "codCPRHBalneabilidade": "REC-50"
     }
   },
@@ -78,8 +78,8 @@
     "imagem": "ID_0019",
     "balneabilidade": {
       "status": "propria",
-      "dataReferencia": "04/06/2026",
-      "periodo": "05/06/2026 a 11/06/2026",
+      "dataReferencia": "11/06/2026",
+      "periodo": "12/06/2026 a 18/06/2026",
       "codCPRHBalneabilidade": "REC-50"
     }
   },
@@ -92,8 +92,8 @@
     "imagem": "ID_0022",
     "balneabilidade": {
       "status": "propria",
-      "dataReferencia": "04/06/2026",
-      "periodo": "05/06/2026 a 11/06/2026",
+      "dataReferencia": "11/06/2026",
+      "periodo": "12/06/2026 a 18/06/2026",
       "codCPRHBalneabilidade": "REC-50"
     }
   },
@@ -106,8 +106,8 @@
     "imagem": "ID_0023",
     "balneabilidade": {
       "status": "propria",
-      "dataReferencia": "04/06/2026",
-      "periodo": "05/06/2026 a 11/06/2026",
+      "dataReferencia": "11/06/2026",
+      "periodo": "12/06/2026 a 18/06/2026",
       "codCPRHBalneabilidade": "REC-10"
     }
   },
@@ -120,8 +120,8 @@
     "imagem": "ID_0024",
     "balneabilidade": {
       "status": "propria",
-      "dataReferencia": "04/06/2026",
-      "periodo": "05/06/2026 a 11/06/2026",
+      "dataReferencia": "11/06/2026",
+      "periodo": "12/06/2026 a 18/06/2026",
       "codCPRHBalneabilidade": "REC-10"
     }
   }
