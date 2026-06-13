@@ -18,7 +18,7 @@
       "mesesCorrenteSazonal": "",
       "protecaoRecifal": true,
       "piscinasNaturais": true,
-      "incidentesTubarao": false,
+      "incidentesTubarao": true,
       "restinga": false,
       "acessibilidade": false,
       "balneabilidade": {
@@ -138,7 +138,7 @@
       "mesesCorrenteSazonal": "",
       "protecaoRecifal": true,
       "piscinasNaturais": true,
-      "incidentesTubarao": false,
+      "incidentesTubarao": true,
       "restinga": false,
       "acessibilidade": false,
       "balneabilidade": {
@@ -168,7 +168,7 @@
       "mesesCorrenteSazonal": "",
       "protecaoRecifal": true,
       "piscinasNaturais": true,
-      "incidentesTubarao": false,
+      "incidentesTubarao": true,
       "restinga": true,
       "acessibilidade": false,
       "balneabilidade": {
@@ -468,7 +468,7 @@
       "mesesCorrenteSazonal": "",
       "protecaoRecifal": true,
       "piscinasNaturais": true,
-      "incidentesTubarao": false,
+      "incidentesTubarao": true,
       "restinga": false,
       "acessibilidade": false,
       "balneabilidade": {
@@ -528,7 +528,7 @@
       "mesesCorrenteSazonal": "",
       "protecaoRecifal": true,
       "piscinasNaturais": true,
-      "incidentesTubarao": false,
+      "incidentesTubarao": true,
       "restinga": false,
       "acessibilidade": true,
       "balneabilidade": {
@@ -558,7 +558,7 @@
       "mesesCorrenteSazonal": "",
       "protecaoRecifal": true,
       "piscinasNaturais": true,
-      "incidentesTubarao": false,
+      "incidentesTubarao": true,
       "restinga": false,
       "acessibilidade": false,
       "balneabilidade": {
@@ -648,7 +648,7 @@
       "mesesCorrenteSazonal": "",
       "protecaoRecifal": true,
       "piscinasNaturais": true,
-      "incidentesTubarao": false,
+      "incidentesTubarao": true,
       "restinga": false,
       "acessibilidade": false,
       "balneabilidade": {
@@ -678,7 +678,7 @@
       "mesesCorrenteSazonal": "",
       "protecaoRecifal": true,
       "piscinasNaturais": true,
-      "incidentesTubarao": false,
+      "incidentesTubarao": true,
       "restinga": false,
       "acessibilidade": false,
       "balneabilidade": {
@@ -708,7 +708,7 @@
       "mesesCorrenteSazonal": "",
       "protecaoRecifal": true,
       "piscinasNaturais": true,
-      "incidentesTubarao": false,
+      "incidentesTubarao": true,
       "restinga": false,
       "acessibilidade": false,
       "balneabilidade": {
