@@ -1,103 +1,103 @@
 {
   "schema_version": "1.2-opendata",
-  "generated_at_utc": "2026-06-16T12:51:08Z",
+  "generated_at_utc": "2026-06-17T09:23:54Z",
   "product": "ECMWF Open Data – ENS probability products via ecmwf-opendata",
   "run_summary": {
     "oper": [
-      "2026-06-16T00:00:00Z"
+      "2026-06-17T00:00:00Z"
     ],
     "wave": [
-      "2026-06-16T00:00:00Z"
+      "2026-06-17T00:00:00Z"
     ],
     "enfo_ep": [
-      "2026-06-16T00:00:00Z"
+      "2026-06-17T00:00:00Z"
     ],
     "waef_ep": [
-      "2026-06-16T00:00:00Z"
+      "2026-06-17T00:00:00Z"
     ]
   },
   "days_ahead_requested": 6,
   "requests_used": [
     {
-      "run_datetime_utc": "2026-06-16T00:00:00Z",
+      "run_datetime_utc": "2026-06-17T00:00:00Z",
       "stream": "enfo",
       "type": "ep",
       "param": "tpg1",
       "n_steps_requested": 6,
-      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260616_00z_enfo_ep_tpg1.grib2",
-      "temporary_file_size_mb": 2.939
+      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260617_00z_enfo_ep_tpg1.grib2",
+      "temporary_file_size_mb": 2.927
     },
     {
-      "run_datetime_utc": "2026-06-16T00:00:00Z",
+      "run_datetime_utc": "2026-06-17T00:00:00Z",
       "stream": "enfo",
       "type": "ep",
       "param": "tpg5",
       "n_steps_requested": 6,
-      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260616_00z_enfo_ep_tpg5.grib2",
-      "temporary_file_size_mb": 2.195
+      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260617_00z_enfo_ep_tpg5.grib2",
+      "temporary_file_size_mb": 2.176
     },
     {
-      "run_datetime_utc": "2026-06-16T00:00:00Z",
+      "run_datetime_utc": "2026-06-17T00:00:00Z",
       "stream": "enfo",
       "type": "ep",
       "param": "tpg10",
       "n_steps_requested": 6,
-      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260616_00z_enfo_ep_tpg10.grib2",
-      "temporary_file_size_mb": 1.535
+      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260617_00z_enfo_ep_tpg10.grib2",
+      "temporary_file_size_mb": 1.53
     },
     {
-      "run_datetime_utc": "2026-06-16T00:00:00Z",
+      "run_datetime_utc": "2026-06-17T00:00:00Z",
       "stream": "enfo",
       "type": "ep",
       "param": "tpg20",
       "n_steps_requested": 6,
-      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260616_00z_enfo_ep_tpg20.grib2",
-      "temporary_file_size_mb": 0.867
+      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260617_00z_enfo_ep_tpg20.grib2",
+      "temporary_file_size_mb": 0.87
     },
     {
-      "run_datetime_utc": "2026-06-16T00:00:00Z",
+      "run_datetime_utc": "2026-06-17T00:00:00Z",
       "stream": "enfo",
       "type": "ep",
       "param": "10fgg10",
       "n_steps_requested": 6,
-      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260616_00z_enfo_ep_10fgg10.grib2",
-      "temporary_file_size_mb": 2.856
+      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260617_00z_enfo_ep_10fgg10.grib2",
+      "temporary_file_size_mb": 2.851
     },
     {
-      "run_datetime_utc": "2026-06-16T00:00:00Z",
+      "run_datetime_utc": "2026-06-17T00:00:00Z",
       "stream": "enfo",
       "type": "ep",
       "param": "10fgg15",
       "n_steps_requested": 6,
-      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260616_00z_enfo_ep_10fgg15.grib2",
-      "temporary_file_size_mb": 2.064
+      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260617_00z_enfo_ep_10fgg15.grib2",
+      "temporary_file_size_mb": 2.043
     },
     {
-      "run_datetime_utc": "2026-06-16T00:00:00Z",
+      "run_datetime_utc": "2026-06-17T00:00:00Z",
       "stream": "enfo",
       "type": "ep",
       "param": "10fgg25",
       "n_steps_requested": 6,
-      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260616_00z_enfo_ep_10fgg25.grib2",
-      "temporary_file_size_mb": 0.543
+      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260617_00z_enfo_ep_10fgg25.grib2",
+      "temporary_file_size_mb": 0.547
     },
     {
-      "run_datetime_utc": "2026-06-16T00:00:00Z",
+      "run_datetime_utc": "2026-06-17T00:00:00Z",
       "stream": "waef",
       "type": "ep",
       "param": "swhg2",
       "n_steps_requested": 12,
-      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260616_00z_waef_ep_swhg2.grib2",
-      "temporary_file_size_mb": 3.103
+      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260617_00z_waef_ep_swhg2.grib2",
+      "temporary_file_size_mb": 3.132
     },
     {
-      "run_datetime_utc": "2026-06-16T00:00:00Z",
+      "run_datetime_utc": "2026-06-17T00:00:00Z",
       "stream": "waef",
       "type": "ep",
       "param": "swhg4",
       "n_steps_requested": 12,
-      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260616_00z_waef_ep_swhg4.grib2",
-      "temporary_file_size_mb": 2.348
+      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260617_00z_waef_ep_swhg4.grib2",
+      "temporary_file_size_mb": 2.339
     }
   ],
   "notes": {
@@ -110,176 +110,176 @@
   "enfo_ep": {
     "tpg1": {
       "times_utc": [
-        "2026-06-17T00:00:00Z",
         "2026-06-18T00:00:00Z",
         "2026-06-19T00:00:00Z",
         "2026-06-20T00:00:00Z",
         "2026-06-21T00:00:00Z",
-        "2026-06-22T00:00:00Z"
+        "2026-06-22T00:00:00Z",
+        "2026-06-23T00:00:00Z"
       ],
       "time_recife_local": [
-        "2026-06-16T21:00:00",
         "2026-06-17T21:00:00",
         "2026-06-18T21:00:00",
         "2026-06-19T21:00:00",
         "2026-06-20T21:00:00",
-        "2026-06-21T21:00:00"
+        "2026-06-21T21:00:00",
+        "2026-06-22T21:00:00"
       ],
       "values": [
-        92.75,
-        56.0,
-        80.75,
-        85.5,
-        85.0,
-        85.25
+        15.0,
+        66.75,
+        99.0,
+        98.5,
+        82.5,
+        91.5
       ]
     },
     "tpg5": {
       "times_utc": [
-        "2026-06-17T00:00:00Z",
         "2026-06-18T00:00:00Z",
         "2026-06-19T00:00:00Z",
         "2026-06-20T00:00:00Z",
         "2026-06-21T00:00:00Z",
-        "2026-06-22T00:00:00Z"
+        "2026-06-22T00:00:00Z",
+        "2026-06-23T00:00:00Z"
       ],
       "time_recife_local": [
-        "2026-06-16T21:00:00",
         "2026-06-17T21:00:00",
         "2026-06-18T21:00:00",
         "2026-06-19T21:00:00",
         "2026-06-20T21:00:00",
-        "2026-06-21T21:00:00"
+        "2026-06-21T21:00:00",
+        "2026-06-22T21:00:00"
       ],
       "values": [
-        12.75,
-        3.5,
-        9.5,
-        38.25,
-        31.25,
-        21.0
+        0.0,
+        7.0,
+        50.75,
+        83.5,
+        34.25,
+        44.5
       ]
     },
     "tpg10": {
       "times_utc": [
-        "2026-06-17T00:00:00Z",
         "2026-06-18T00:00:00Z",
         "2026-06-19T00:00:00Z",
         "2026-06-20T00:00:00Z",
         "2026-06-21T00:00:00Z",
-        "2026-06-22T00:00:00Z"
+        "2026-06-22T00:00:00Z",
+        "2026-06-23T00:00:00Z"
       ],
       "time_recife_local": [
-        "2026-06-16T21:00:00",
         "2026-06-17T21:00:00",
         "2026-06-18T21:00:00",
         "2026-06-19T21:00:00",
         "2026-06-20T21:00:00",
-        "2026-06-21T21:00:00"
+        "2026-06-21T21:00:00",
+        "2026-06-22T21:00:00"
       ],
       "values": [
         0.0,
-        0.0,
-        1.25,
-        7.0,
-        6.75,
-        6.75
+        0.5,
+        7.75,
+        54.5,
+        15.75,
+        15.0
       ]
     },
     "tpg20": {
       "times_utc": [
-        "2026-06-17T00:00:00Z",
         "2026-06-18T00:00:00Z",
         "2026-06-19T00:00:00Z",
         "2026-06-20T00:00:00Z",
         "2026-06-21T00:00:00Z",
-        "2026-06-22T00:00:00Z"
+        "2026-06-22T00:00:00Z",
+        "2026-06-23T00:00:00Z"
       ],
       "time_recife_local": [
-        "2026-06-16T21:00:00",
         "2026-06-17T21:00:00",
         "2026-06-18T21:00:00",
         "2026-06-19T21:00:00",
         "2026-06-20T21:00:00",
-        "2026-06-21T21:00:00"
+        "2026-06-21T21:00:00",
+        "2026-06-22T21:00:00"
       ],
       "values": [
         0.0,
         0.0,
         0.0,
-        0.0,
-        0.0,
-        1.25
+        15.75,
+        4.25,
+        4.75
       ]
     },
     "10fgg10": {
       "times_utc": [
-        "2026-06-17T00:00:00Z",
         "2026-06-18T00:00:00Z",
         "2026-06-19T00:00:00Z",
         "2026-06-20T00:00:00Z",
         "2026-06-21T00:00:00Z",
-        "2026-06-22T00:00:00Z"
+        "2026-06-22T00:00:00Z",
+        "2026-06-23T00:00:00Z"
       ],
       "time_recife_local": [
-        "2026-06-16T21:00:00",
         "2026-06-17T21:00:00",
         "2026-06-18T21:00:00",
         "2026-06-19T21:00:00",
         "2026-06-20T21:00:00",
-        "2026-06-21T21:00:00"
+        "2026-06-21T21:00:00",
+        "2026-06-22T21:00:00"
       ],
       "values": [
-        15.75,
-        0.25,
-        57.5,
-        99.0,
-        46.0,
-        16.5
+        0.0,
+        65.75,
+        99.75,
+        68.5,
+        43.0,
+        38.75
       ]
     },
     "10fgg15": {
       "times_utc": [
-        "2026-06-17T00:00:00Z",
         "2026-06-18T00:00:00Z",
         "2026-06-19T00:00:00Z",
         "2026-06-20T00:00:00Z",
         "2026-06-21T00:00:00Z",
-        "2026-06-22T00:00:00Z"
+        "2026-06-22T00:00:00Z",
+        "2026-06-23T00:00:00Z"
       ],
       "time_recife_local": [
-        "2026-06-16T21:00:00",
         "2026-06-17T21:00:00",
         "2026-06-18T21:00:00",
         "2026-06-19T21:00:00",
         "2026-06-20T21:00:00",
-        "2026-06-21T21:00:00"
+        "2026-06-21T21:00:00",
+        "2026-06-22T21:00:00"
       ],
       "values": [
         0.0,
         0.0,
         0.0,
+        2.25,
         0.0,
-        0.0,
-        0.0
+        0.75
       ]
     },
     "10fgg25": {
       "times_utc": [
-        "2026-06-17T00:00:00Z",
         "2026-06-18T00:00:00Z",
         "2026-06-19T00:00:00Z",
         "2026-06-20T00:00:00Z",
         "2026-06-21T00:00:00Z",
-        "2026-06-22T00:00:00Z"
+        "2026-06-22T00:00:00Z",
+        "2026-06-23T00:00:00Z"
       ],
       "time_recife_local": [
-        "2026-06-16T21:00:00",
         "2026-06-17T21:00:00",
         "2026-06-18T21:00:00",
         "2026-06-19T21:00:00",
         "2026-06-20T21:00:00",
-        "2026-06-21T21:00:00"
+        "2026-06-21T21:00:00",
+        "2026-06-22T21:00:00"
       ],
       "values": [
         0.0,
@@ -294,8 +294,6 @@
   "waef_ep": {
     "swhg2": {
       "times_utc": [
-        "2026-06-16T12:00:00Z",
-        "2026-06-17T00:00:00Z",
         "2026-06-17T12:00:00Z",
         "2026-06-18T00:00:00Z",
         "2026-06-18T12:00:00Z",
@@ -305,11 +303,11 @@
         "2026-06-20T12:00:00Z",
         "2026-06-21T00:00:00Z",
         "2026-06-21T12:00:00Z",
-        "2026-06-22T00:00:00Z"
+        "2026-06-22T00:00:00Z",
+        "2026-06-22T12:00:00Z",
+        "2026-06-23T00:00:00Z"
       ],
       "time_recife_local": [
-        "2026-06-16T09:00:00",
-        "2026-06-16T21:00:00",
         "2026-06-17T09:00:00",
         "2026-06-17T21:00:00",
         "2026-06-18T09:00:00",
@@ -319,27 +317,27 @@
         "2026-06-20T09:00:00",
         "2026-06-20T21:00:00",
         "2026-06-21T09:00:00",
-        "2026-06-21T21:00:00"
+        "2026-06-21T21:00:00",
+        "2026-06-22T09:00:00",
+        "2026-06-22T21:00:00"
       ],
       "values": [
         0.0,
         0.0,
         0.0,
         0.0,
+        1.5,
+        42.5,
+        53.5,
+        33.0,
+        2.5,
         0.0,
-        0.0,
-        8.0,
-        19.0,
-        4.0,
-        2.0,
-        4.0,
-        3.5
+        1.5,
+        0.0
       ]
     },
     "swhg4": {
       "times_utc": [
-        "2026-06-16T12:00:00Z",
-        "2026-06-17T00:00:00Z",
         "2026-06-17T12:00:00Z",
         "2026-06-18T00:00:00Z",
         "2026-06-18T12:00:00Z",
@@ -349,11 +347,11 @@
         "2026-06-20T12:00:00Z",
         "2026-06-21T00:00:00Z",
         "2026-06-21T12:00:00Z",
-        "2026-06-22T00:00:00Z"
+        "2026-06-22T00:00:00Z",
+        "2026-06-22T12:00:00Z",
+        "2026-06-23T00:00:00Z"
       ],
       "time_recife_local": [
-        "2026-06-16T09:00:00",
-        "2026-06-16T21:00:00",
         "2026-06-17T09:00:00",
         "2026-06-17T21:00:00",
         "2026-06-18T09:00:00",
@@ -363,7 +361,9 @@
         "2026-06-20T09:00:00",
         "2026-06-20T21:00:00",
         "2026-06-21T09:00:00",
-        "2026-06-21T21:00:00"
+        "2026-06-21T21:00:00",
+        "2026-06-22T09:00:00",
+        "2026-06-22T21:00:00"
       ],
       "values": [
         0.0,
