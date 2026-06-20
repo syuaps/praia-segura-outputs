@@ -18,14 +18,17 @@
       "mesesCorrenteSazonal": "",
       "protecaoRecifal": true,
       "piscinasNaturais": true,
-      "incidentesTubarao": true,
+      "incidentesTubarao": false,
       "restinga": false,
+      "enroncamento": false,
       "acessibilidade": false,
+      "observacao": "Piscinas naturais em maré baixa. Não arrisque durante maré alta!",
       "balneabilidade": {
         "status": "impropria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-80"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-80",
+        "distEstacaoCPRHKm": 1.4269
       }
     }
   },
@@ -43,19 +46,22 @@
       "lonMin": -34.877346
     },
     "atributos": {
-      "correnteRetorno": true,
+      "correnteRetorno": false,
       "correntePermanente": true,
       "mesesCorrenteSazonal": "",
-      "protecaoRecifal": false,
+      "protecaoRecifal": true,
       "piscinasNaturais": false,
       "incidentesTubarao": true,
       "restinga": false,
+      "enroncamento": true,
       "acessibilidade": false,
+      "observacao": "Sem área de proteção! Banho não é seguro.",
       "balneabilidade": {
         "status": "impropria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-80"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-80",
+        "distEstacaoCPRHKm": 1.1575
       }
     }
   },
@@ -73,19 +79,22 @@
       "lonMin": -34.878314
     },
     "atributos": {
-      "correnteRetorno": true,
+      "correnteRetorno": false,
       "correntePermanente": true,
       "mesesCorrenteSazonal": "",
-      "protecaoRecifal": false,
+      "protecaoRecifal": true,
       "piscinasNaturais": false,
       "incidentesTubarao": true,
       "restinga": false,
+      "enroncamento": true,
       "acessibilidade": false,
+      "observacao": "Sem área de proteção! Banho não é seguro.",
       "balneabilidade": {
         "status": "impropria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-80"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-80",
+        "distEstacaoCPRHKm": 0.8405
       }
     }
   },
@@ -103,19 +112,22 @@
       "lonMin": -34.879207
     },
     "atributos": {
-      "correnteRetorno": true,
+      "correnteRetorno": false,
       "correntePermanente": true,
       "mesesCorrenteSazonal": "",
-      "protecaoRecifal": false,
+      "protecaoRecifal": true,
       "piscinasNaturais": false,
       "incidentesTubarao": true,
-      "restinga": true,
+      "restinga": false,
+      "enroncamento": true,
       "acessibilidade": false,
+      "observacao": "Sem área de proteção! Banho não é seguro.",
       "balneabilidade": {
         "status": "impropria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-80"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-80",
+        "distEstacaoCPRHKm": 0.5427
       }
     }
   },
@@ -140,12 +152,15 @@
       "piscinasNaturais": true,
       "incidentesTubarao": true,
       "restinga": false,
+      "enroncamento": true,
       "acessibilidade": false,
+      "observacao": "Piscinas naturais em maré baixa. Não arrisque durante maré alta!",
       "balneabilidade": {
         "status": "impropria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-80"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-80",
+        "distEstacaoCPRHKm": 0.2605
       }
     }
   },
@@ -170,12 +185,15 @@
       "piscinasNaturais": true,
       "incidentesTubarao": true,
       "restinga": true,
+      "enroncamento": false,
       "acessibilidade": false,
+      "observacao": "Piscinas naturais em maré baixa. Não arrisque durante maré alta!",
       "balneabilidade": {
         "status": "impropria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-80"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-80",
+        "distEstacaoCPRHKm": 0.1599
       }
     }
   },
@@ -193,19 +211,22 @@
       "lonMin": -34.881883
     },
     "atributos": {
-      "correnteRetorno": true,
+      "correnteRetorno": false,
       "correntePermanente": true,
       "mesesCorrenteSazonal": "",
       "protecaoRecifal": false,
       "piscinasNaturais": false,
       "incidentesTubarao": true,
       "restinga": true,
+      "enroncamento": false,
       "acessibilidade": false,
+      "observacao": "Mar aberto sem proteção! Banho não é seguro.",
       "balneabilidade": {
         "status": "impropria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-80"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-80",
+        "distEstacaoCPRHKm": 0.4117
       }
     }
   },
@@ -226,16 +247,19 @@
       "correnteRetorno": true,
       "correntePermanente": true,
       "mesesCorrenteSazonal": "",
-      "protecaoRecifal": false,
-      "piscinasNaturais": false,
+      "protecaoRecifal": true,
+      "piscinasNaturais": true,
       "incidentesTubarao": true,
       "restinga": true,
+      "enroncamento": false,
       "acessibilidade": false,
+      "observacao": "Piscina natural restrita com correntes de retorno. Banho não é indicado.",
       "balneabilidade": {
         "status": "impropria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-80"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-80",
+        "distEstacaoCPRHKm": 0.6953
       }
     }
   },
@@ -260,12 +284,15 @@
       "piscinasNaturais": false,
       "incidentesTubarao": true,
       "restinga": true,
+      "enroncamento": false,
       "acessibilidade": false,
+      "observacao": "Área com correntes de retorno! Banho não é seguro.",
       "balneabilidade": {
         "status": "impropria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-80"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-80",
+        "distEstacaoCPRHKm": 1.0009
       }
     }
   },
@@ -290,12 +317,15 @@
       "piscinasNaturais": false,
       "incidentesTubarao": true,
       "restinga": true,
+      "enroncamento": false,
       "acessibilidade": false,
+      "observacao": "Área com correntes de retorno! Banho não é seguro.",
       "balneabilidade": {
         "status": "impropria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-80"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-80",
+        "distEstacaoCPRHKm": 1.2984
       }
     }
   },
@@ -320,12 +350,15 @@
       "piscinasNaturais": false,
       "incidentesTubarao": true,
       "restinga": true,
+      "enroncamento": false,
       "acessibilidade": false,
+      "observacao": "Área com correntes de retorno! Banho não é seguro.",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-50"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-50",
+        "distEstacaoCPRHKm": 1.3496
       }
     }
   },
@@ -350,12 +383,15 @@
       "piscinasNaturais": false,
       "incidentesTubarao": true,
       "restinga": true,
+      "enroncamento": false,
       "acessibilidade": false,
+      "observacao": "Área com correntes de retorno! Banho não é seguro.",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-50"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-50",
+        "distEstacaoCPRHKm": 1.0493
       }
     }
   },
@@ -380,12 +416,15 @@
       "piscinasNaturais": false,
       "incidentesTubarao": true,
       "restinga": true,
+      "enroncamento": false,
       "acessibilidade": false,
+      "observacao": "Área com correntes de retorno! Banho não é seguro.",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-50"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-50",
+        "distEstacaoCPRHKm": 0.7502
       }
     }
   },
@@ -406,16 +445,19 @@
       "correnteRetorno": true,
       "correntePermanente": true,
       "mesesCorrenteSazonal": "",
-      "protecaoRecifal": false,
+      "protecaoRecifal": true,
       "piscinasNaturais": false,
       "incidentesTubarao": true,
       "restinga": true,
+      "enroncamento": false,
       "acessibilidade": false,
+      "observacao": "Área com correntes de retorno! Banho não é seguro.",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-50"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-50",
+        "distEstacaoCPRHKm": 0.445
       }
     }
   },
@@ -440,12 +482,15 @@
       "piscinasNaturais": false,
       "incidentesTubarao": true,
       "restinga": false,
+      "enroncamento": false,
       "acessibilidade": false,
+      "observacao": "Área com correntes de retorno! Banho não é seguro.",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-50"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-50",
+        "distEstacaoCPRHKm": 0.1423
       }
     }
   },
@@ -470,12 +515,15 @@
       "piscinasNaturais": true,
       "incidentesTubarao": true,
       "restinga": false,
+      "enroncamento": false,
       "acessibilidade": false,
+      "observacao": "Piscinas naturais em maré baixa. Não arrisque durante maré alta!",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-50"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-50",
+        "distEstacaoCPRHKm": 0.177
       }
     }
   },
@@ -500,12 +548,15 @@
       "piscinasNaturais": false,
       "incidentesTubarao": true,
       "restinga": false,
+      "enroncamento": false,
       "acessibilidade": false,
+      "observacao": "Área com correntes de retorno! Banho não é seguro.",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-50"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-50",
+        "distEstacaoCPRHKm": 0.471
       }
     }
   },
@@ -530,12 +581,15 @@
       "piscinasNaturais": true,
       "incidentesTubarao": true,
       "restinga": false,
+      "enroncamento": false,
       "acessibilidade": true,
+      "observacao": "Piscinas naturais em maré baixa. Não arrisque durante maré alta!",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-50"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-50",
+        "distEstacaoCPRHKm": 0.7746
       }
     }
   },
@@ -553,19 +607,22 @@
       "lonMin": -34.896779
     },
     "atributos": {
-      "correnteRetorno": true,
+      "correnteRetorno": false,
       "correntePermanente": true,
       "mesesCorrenteSazonal": "",
       "protecaoRecifal": true,
       "piscinasNaturais": true,
       "incidentesTubarao": true,
       "restinga": false,
+      "enroncamento": false,
       "acessibilidade": false,
+      "observacao": "Piscinas naturais em maré baixa. Não arrisque durante maré alta!",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-50"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-50",
+        "distEstacaoCPRHKm": 1.0947
       }
     }
   },
@@ -590,12 +647,15 @@
       "piscinasNaturais": false,
       "incidentesTubarao": true,
       "restinga": false,
+      "enroncamento": false,
       "acessibilidade": false,
+      "observacao": "Área com correntes de retorno! Banho não é seguro.",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-50"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-50",
+        "distEstacaoCPRHKm": 1.4056
       }
     }
   },
@@ -620,12 +680,15 @@
       "piscinasNaturais": false,
       "incidentesTubarao": true,
       "restinga": false,
+      "enroncamento": true,
       "acessibilidade": false,
+      "observacao": "Área com correntes de retorno! Banho não é seguro.",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-50"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-50",
+        "distEstacaoCPRHKm": 1.704
       }
     }
   },
@@ -643,19 +706,22 @@
       "lonMin": -34.899934
     },
     "atributos": {
-      "correnteRetorno": true,
+      "correnteRetorno": false,
       "correntePermanente": true,
       "mesesCorrenteSazonal": "",
       "protecaoRecifal": true,
       "piscinasNaturais": true,
       "incidentesTubarao": true,
       "restinga": false,
+      "enroncamento": true,
       "acessibilidade": false,
+      "observacao": "Piscinas naturais em maré baixa. Não arrisque durante maré alta!",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-50"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-50",
+        "distEstacaoCPRHKm": 1.9992
       }
     }
   },
@@ -680,12 +746,15 @@
       "piscinasNaturais": true,
       "incidentesTubarao": true,
       "restinga": false,
+      "enroncamento": true,
       "acessibilidade": false,
+      "observacao": "Piscinas naturais em maré baixa. Não arrisque durante maré alta!",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-10"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-10",
+        "distEstacaoCPRHKm": 1.8567
       }
     }
   },
@@ -708,14 +777,17 @@
       "mesesCorrenteSazonal": "",
       "protecaoRecifal": true,
       "piscinasNaturais": true,
-      "incidentesTubarao": true,
+      "incidentesTubarao": false,
       "restinga": false,
+      "enroncamento": true,
       "acessibilidade": false,
+      "observacao": "Piscinas naturais em maré baixa. Não arrisque durante maré alta!",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-10"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-10",
+        "distEstacaoCPRHKm": 1.5459
       }
     }
   },
@@ -733,19 +805,22 @@
       "lonMin": -34.902697
     },
     "atributos": {
-      "correnteRetorno": true,
+      "correnteRetorno": false,
       "correntePermanente": true,
       "mesesCorrenteSazonal": "",
       "protecaoRecifal": false,
       "piscinasNaturais": false,
-      "incidentesTubarao": true,
+      "incidentesTubarao": false,
       "restinga": false,
+      "enroncamento": true,
       "acessibilidade": false,
+      "observacao": "Mar aberto sem proteção! Banho não é seguro.",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-10"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-10",
+        "distEstacaoCPRHKm": 1.2497
       }
     }
   },
@@ -763,19 +838,22 @@
       "lonMin": -34.903752
     },
     "atributos": {
-      "correnteRetorno": true,
+      "correnteRetorno": false,
       "correntePermanente": true,
       "mesesCorrenteSazonal": "",
       "protecaoRecifal": false,
       "piscinasNaturais": false,
-      "incidentesTubarao": true,
+      "incidentesTubarao": false,
       "restinga": false,
+      "enroncamento": true,
       "acessibilidade": false,
+      "observacao": "Mar aberto sem proteção! Banho não é seguro.",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-10"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-10",
+        "distEstacaoCPRHKm": 0.9512
       }
     }
   },
@@ -793,19 +871,22 @@
       "lonMin": -34.904991
     },
     "atributos": {
-      "correnteRetorno": true,
+      "correnteRetorno": false,
       "correntePermanente": true,
       "mesesCorrenteSazonal": "",
       "protecaoRecifal": false,
       "piscinasNaturais": false,
-      "incidentesTubarao": true,
+      "incidentesTubarao": false,
       "restinga": false,
+      "enroncamento": true,
       "acessibilidade": false,
+      "observacao": "Mar aberto sem proteção! Banho não é seguro.",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-10"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-10",
+        "distEstacaoCPRHKm": 0.6419
       }
     }
   },
@@ -823,19 +904,22 @@
       "lonMin": -34.906222
     },
     "atributos": {
-      "correnteRetorno": true,
+      "correnteRetorno": false,
       "correntePermanente": true,
       "mesesCorrenteSazonal": "",
       "protecaoRecifal": false,
       "piscinasNaturais": false,
-      "incidentesTubarao": true,
-      "restinga": false,
+      "incidentesTubarao": false,
+      "restinga": true,
+      "enroncamento": true,
       "acessibilidade": false,
+      "observacao": "Mar aberto sem proteção! Banho não é seguro.",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-10"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-10",
+        "distEstacaoCPRHKm": 0.3396
       }
     }
   },
@@ -853,19 +937,22 @@
       "lonMin": -34.907267
     },
     "atributos": {
-      "correnteRetorno": true,
+      "correnteRetorno": false,
       "correntePermanente": true,
       "mesesCorrenteSazonal": "",
       "protecaoRecifal": false,
       "piscinasNaturais": false,
-      "incidentesTubarao": true,
+      "incidentesTubarao": false,
       "restinga": true,
+      "enroncamento": false,
       "acessibilidade": false,
+      "observacao": "Mar aberto sem proteção! Banho não é seguro.",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-10"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-10",
+        "distEstacaoCPRHKm": 0.0425
       }
     }
   },
@@ -883,19 +970,22 @@
       "lonMin": -34.908319
     },
     "atributos": {
-      "correnteRetorno": true,
+      "correnteRetorno": false,
       "correntePermanente": true,
       "mesesCorrenteSazonal": "",
       "protecaoRecifal": false,
       "piscinasNaturais": false,
-      "incidentesTubarao": true,
+      "incidentesTubarao": false,
       "restinga": true,
+      "enroncamento": false,
       "acessibilidade": false,
+      "observacao": "Mar aberto sem proteção! Banho não é seguro.",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "REC-10"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "REC-10",
+        "distEstacaoCPRHKm": 0.2539
       }
     }
   },
@@ -913,19 +1003,22 @@
       "lonMin": -34.909105
     },
     "atributos": {
-      "correnteRetorno": true,
+      "correnteRetorno": false,
       "correntePermanente": true,
       "mesesCorrenteSazonal": "",
       "protecaoRecifal": false,
       "piscinasNaturais": false,
       "incidentesTubarao": true,
       "restinga": true,
+      "enroncamento": false,
       "acessibilidade": false,
+      "observacao": "Mar aberto sem proteção! Banho não é seguro.",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "11/06/2026",
-        "periodo": "12/06/2026 a 18/06/2026",
-        "codCPRHBalneabilidade": "JAB-80"
+        "dataReferencia": "17/06/2026",
+        "periodo": "19/06/2026 a 25/06/2026",
+        "codCPRHBalneabilidade": "JAB-80",
+        "distEstacaoCPRHKm": 0.33
       }
     }
   }
