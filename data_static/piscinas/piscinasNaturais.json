@@ -5,7 +5,13 @@
     "descricao": "Area de piscina natural na orla de Buraco da véia.",
     "setorId": "ID_0001",
     "codCPRHBalneabilidade": "REC-80",
-    "imagem": "ID_0001"
+    "imagem": "ID_0001",
+    "balneabilidade": {
+      "status": "impropria",
+      "dataReferencia": "17/06/2026",
+      "periodo": "19/06/2026 a 25/06/2026",
+      "codCPRHBalneabilidade": "REC-80"
+    }
   },
   {
     "id": "PISCINA_PINA_1",
@@ -13,7 +19,13 @@
     "descricao": "Area de piscina natural na orla de Pina 1.",
     "setorId": "ID_0005",
     "codCPRHBalneabilidade": "REC-80",
-    "imagem": "ID_0005"
+    "imagem": "ID_0005",
+    "balneabilidade": {
+      "status": "impropria",
+      "dataReferencia": "17/06/2026",
+      "periodo": "19/06/2026 a 25/06/2026",
+      "codCPRHBalneabilidade": "REC-80"
+    }
   },
   {
     "id": "PISCINA_PINA_2",
@@ -21,7 +33,13 @@
     "descricao": "Area de piscina natural na orla de Pina 2.",
     "setorId": "ID_0006",
     "codCPRHBalneabilidade": "REC-80",
-    "imagem": "ID_0006"
+    "imagem": "ID_0006",
+    "balneabilidade": {
+      "status": "impropria",
+      "dataReferencia": "17/06/2026",
+      "periodo": "19/06/2026 a 25/06/2026",
+      "codCPRHBalneabilidade": "REC-80"
+    }
   },
   {
     "id": "PISCINA_PINA_4",
@@ -29,7 +47,13 @@
     "descricao": "Area de piscina natural na orla de Pina 4.",
     "setorId": "ID_0008",
     "codCPRHBalneabilidade": "REC-80",
-    "imagem": "ID_0008"
+    "imagem": "ID_0008",
+    "balneabilidade": {
+      "status": "impropria",
+      "dataReferencia": "17/06/2026",
+      "periodo": "19/06/2026 a 25/06/2026",
+      "codCPRHBalneabilidade": "REC-80"
+    }
   },
   {
     "id": "PISCINA_ACAIACA_1",
@@ -37,7 +61,13 @@
     "descricao": "Area de piscina natural na orla de Acaiaca 1.",
     "setorId": "ID_0016",
     "codCPRHBalneabilidade": "REC-50",
-    "imagem": "ID_0016"
+    "imagem": "ID_0016",
+    "balneabilidade": {
+      "status": "propria",
+      "dataReferencia": "17/06/2026",
+      "periodo": "19/06/2026 a 25/06/2026",
+      "codCPRHBalneabilidade": "REC-50"
+    }
   },
   {
     "id": "PISCINA_ACAIACA_3",
@@ -45,7 +75,13 @@
     "descricao": "Area de piscina natural na orla de Acaiaca 3.",
     "setorId": "ID_0018",
     "codCPRHBalneabilidade": "REC-50",
-    "imagem": "ID_0018"
+    "imagem": "ID_0018",
+    "balneabilidade": {
+      "status": "propria",
+      "dataReferencia": "17/06/2026",
+      "periodo": "19/06/2026 a 25/06/2026",
+      "codCPRHBalneabilidade": "REC-50"
+    }
   },
   {
     "id": "PISCINA_ACAIACA_4",
@@ -53,7 +89,13 @@
     "descricao": "Area de piscina natural na orla de Acaiaca 4.",
     "setorId": "ID_0019",
     "codCPRHBalneabilidade": "REC-50",
-    "imagem": "ID_0019"
+    "imagem": "ID_0019",
+    "balneabilidade": {
+      "status": "propria",
+      "dataReferencia": "17/06/2026",
+      "periodo": "19/06/2026 a 25/06/2026",
+      "codCPRHBalneabilidade": "REC-50"
+    }
   },
   {
     "id": "PISCINA_PRACINHA_DE_BOA_VIAGEM",
@@ -61,7 +103,13 @@
     "descricao": "Area de piscina natural na orla de Pracinha de Boa Viagem.",
     "setorId": "ID_0022",
     "codCPRHBalneabilidade": "REC-50",
-    "imagem": "ID_0022"
+    "imagem": "ID_0022",
+    "balneabilidade": {
+      "status": "propria",
+      "dataReferencia": "17/06/2026",
+      "periodo": "19/06/2026 a 25/06/2026",
+      "codCPRHBalneabilidade": "REC-50"
+    }
   },
   {
     "id": "PISCINA_TRANSATLANTICO",
@@ -69,7 +117,13 @@
     "descricao": "Area de piscina natural na orla de Transatlântico.",
     "setorId": "ID_0023",
     "codCPRHBalneabilidade": "REC-10",
-    "imagem": "ID_0023"
+    "imagem": "ID_0023",
+    "balneabilidade": {
+      "status": "propria",
+      "dataReferencia": "17/06/2026",
+      "periodo": "19/06/2026 a 25/06/2026",
+      "codCPRHBalneabilidade": "REC-10"
+    }
   },
   {
     "id": "PISCINA_ATLANTE_PLAZA",
@@ -77,6 +131,12 @@
     "descricao": "Area de piscina natural na orla de Atlante Plaza.",
     "setorId": "ID_0024",
     "codCPRHBalneabilidade": "REC-10",
-    "imagem": "ID_0024"
+    "imagem": "ID_0024",
+    "balneabilidade": {
+      "status": "propria",
+      "dataReferencia": "17/06/2026",
+      "periodo": "19/06/2026 a 25/06/2026",
+      "codCPRHBalneabilidade": "REC-10"
+    }
   }
 ]
