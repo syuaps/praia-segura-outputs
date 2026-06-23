@@ -56,6 +56,20 @@
   "alertaFinal": "Atenção aos avisos oficiais é essencial."
   },
   {
+  "id": "risco-noturno",
+  "titulo": "Mar à noite: risco maior",
+  "subtitulo": "Baixa visibilidade aumenta o perigo",
+  "imagem": "risco-noturno",
+  "resumo": "No escuro, é mais difícil ver ondas, buracos, pedras e correntes.",
+  "explicacao": "Durante a noite, a visibilidade cai muito e o banhista perde referências importantes da praia. Fica mais difícil perceber a força das ondas, reconhecer correntes, enxergar buracos, pedras, recifes, animais marinhos e pedir ajuda rapidamente.",
+  "dicas": [
+    "Evite entrar no mar durante a noite, mesmo em praias conhecidas.",
+    "Não nade sozinho nem em locais sem iluminação e sem guarda-vidas.",
+    "Se quiser ficar na praia à noite, permaneça na areia e longe da arrebentação."
+  ],
+  "alertaFinal": "À noite, o mais seguro é admirar o mar pela areia."
+  },
+  {
   "id": "trechos-abertos",
   "titulo": "Mar aberto não é piscina",
   "subtitulo": "Sem recifes, o mar exige mais atenção",
