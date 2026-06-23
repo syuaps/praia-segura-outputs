@@ -1,164 +1,163 @@
 [
   {
-    "id": "mar-hoje",
-    "titulo": "Como está o mar hoje?",
-    "subtitulo": "Leitura rápida das condições do dia",
-    "imagem": "mar-hoje",
-    "resumo": "Veja vento, ondas e maré antes de entrar no mar.",
-    "explicacao": "Uma checagem simples evita riscos. Observe o nível das ondas, direção do vento e horário da maré antes de escolher o local de banho.",
-    "dicas": [
-      "Evite entrar quando o mar estiver mais agitado que o normal.",
-      "Prefira horários com mais movimento e guarda-vidas por perto.",
-      "Se tiver dúvida, escolha um trecho mais protegido."
-    ],
-    "alertaFinal": "Segurança vem antes de qualquer mergulho."
+  "id": "mar-hoje",
+  "titulo": "Como está o mar hoje?",
+  "subtitulo": "Veja as condições antes de entrar",
+  "imagem": "mar-hoje",
+  "resumo": "Confira vento, ondas, maré e alertas do dia.",
+  "explicacao": "Antes de entrar no mar, observe as condições do dia. Vento, ondas, chuva, maré e visibilidade da água podem mudar rapidamente a segurança do banho.",
+  "dicas": [
+    "Evite entrar se o mar estiver mais agitado que o normal.",
+    "Prefira trechos monitorados e com guarda-vidas por perto.",
+    "Na dúvida, escolha uma área mais protegida."
+  ],
+  "alertaFinal": "Olhar o mar antes de entrar é o primeiro cuidado."
   },
   {
-    "id": "mare",
-    "titulo": "Maré: o relógio da praia",
-    "subtitulo": "Entenda como o nível da água muda ao longo do dia",
-    "imagem": "mare",
-    "resumo": "A maré altera profundidade, corrente e exposição dos recifes.",
-    "explicacao": "Maré alta e maré baixa mudam totalmente a praia. Em algumas áreas, recifes e piscinas naturais só aparecem na maré baixa.",
-    "dicas": [
-      "Consulte os horários de maré antes de sair de casa.",
-      "Não atravesse recifes quando a maré estiver subindo rápido.",
-      "Com crianças, prefira períodos de maré mais tranquila."
-    ],
-    "alertaFinal": "Planejar pela maré reduz surpresas e acidentes."
+  "id": "mar-turvo-chuva",
+  "titulo": "Mar turvo, risco em dobro",
+  "subtitulo": "Chuva forte pode deixar o banho perigoso",
+  "imagem": "mar-turvo-chuva",
+  "resumo": "Após chuva, o mar pode ficar mais turvo, forte e difícil de ler.",
+  "explicacao": "Chuvas fortes levam água e sedimentos de rios e canais para o mar. Isso reduz a visibilidade, aumenta a turbulência e pode dificultar a identificação de buracos, correntes e obstáculos.",
+  "dicas": [
+    "Evite banho logo após chuva forte.",
+    "Não entre se a água estiver muito turva ou agitada.",
+    "Respeite placas, alertas e orientação dos guarda-vidas."
+  ],
+  "alertaFinal": "Em mar turvo e agitado, a escolha mais segura é não entrar."
   },
   {
-    "id": "ondas",
-    "titulo": "Ondas: quando parece pouco, mas não é",
-    "subtitulo": "Mesmo ondas pequenas podem empurrar forte",
-    "imagem": "ondas",
-    "resumo": "Séries de ondas podem aumentar de forma repentina.",
-    "explicacao": "A altura média das ondas não conta toda a história. Em muitos dias, algumas ondas maiores chegam em sequência e pegam banhistas desprevenidos.",
-    "dicas": [
-      "Observe o mar por alguns minutos antes de entrar.",
-      "Não fique de costas para as ondas em trechos fundos.",
-      "Se a areia estiver cedendo, afaste-se da arrebentação."
-    ],
-    "alertaFinal": "Leia o padrão das ondas antes de entrar na água."
+  "id": "correntes",
+  "titulo": "Correntes de retorno",
+  "subtitulo": "Entenda como reconhecer e sair",
+  "imagem": "correntes",
+  "resumo": "Elas puxam para o largo, mas há forma correta de sair.",
+  "explicacao": "Correntes de retorno são faixas de água que voltam para o mar. Elas não puxam para baixo, mas podem afastar rapidamente o banhista da areia.",
+  "dicas": [
+    "Mantenha a calma e não nade contra a corrente.",
+    "Nade para os lados, paralelo à praia.",
+    "Depois de sair da corrente, volte em diagonal para a areia."
+  ],
+  "alertaFinal": "Não lute contra a corrente. Saia pelos lados."
   },
   {
-    "id": "correntes",
-    "titulo": "Correntes de retorno",
-    "subtitulo": "O que são e como sair delas",
-    "imagem": "correntes",
-    "resumo": "Correntes puxam para fora, mas há forma correta de sair.",
-    "explicacao": "Correntes de retorno são canais de água que voltam para o mar. Elas não puxam para baixo, mas podem afastar rapidamente da borda.",
-    "dicas": [
-      "Mantenha a calma e evite nadar contra a corrente.",
-      "Nade para os lados, paralelo à praia, até sair do canal.",
-      "Depois, retorne em diagonal para a areia e sinalize ajuda."
-    ],
-    "alertaFinal": "Não lute contra a corrente. Movimente-se para os lados."
+  "id": "tubaroes",
+  "titulo": "Tubarões: cuidado sem pânico",
+  "subtitulo": "Informação ajuda a reduzir riscos",
+  "imagem": "tubaroes",
+  "resumo": "Respeite os avisos locais e evite áreas de maior risco.",
+  "explicacao": "Em alguns trechos há histórico de incidentes. O cuidado principal é reduzir a exposição: respeitar placas, evitar horários de baixa visibilidade e não entrar em áreas sinalizadas.",
+  "dicas": [
+    "Não entre em áreas com alerta ou proibição.",
+    "Evite banho em mar turvo, chuva forte ou fim de tarde.",
+    "Não nade perto de canais profundos, estuários ou sozinho."
+  ],
+  "alertaFinal": "Atenção aos avisos oficiais é essencial."
   },
   {
-    "id": "recifes",
-    "titulo": "Recifes e piscinas naturais",
-    "subtitulo": "Proteção natural em condições favoráveis",
-    "imagem": "recifes",
-    "resumo": "Recifes reduzem força das ondas em alguns trechos.",
-    "explicacao": "Recifes criam zonas mais calmas em maré baixa, mas também podem ficar escorregadios e causar cortes. Todo cuidado continua necessário.",
-    "dicas": [
-      "Use calçado aquático em área de pedras.",
-      "Não pise em organismos vivos nos recifes.",
-      "Não mergulhe onde não consegue ver o fundo."
-    ],
-    "alertaFinal": "Proteja você e preserve o ambiente recifal."
+  "id": "trechos-abertos",
+  "titulo": "Mar aberto não é piscina",
+  "subtitulo": "Sem recifes, o mar exige mais atenção",
+  "imagem": "trechos-abertos",
+  "resumo": "Sem barreira natural, ondas e correntes chegam com mais força.",
+  "explicacao": "Em áreas sem proteção recifal, as ondas quebram com mais energia e as correntes podem ser mais fortes. Isso aumenta o risco de perder o pé, ser empurrado pela arrebentação ou levado para o largo.",
+  "dicas": [
+    "Prefira trechos protegidos quando as condições forem favoráveis.",
+    "Evite mar aberto com ondas altas, vento forte ou água turva.",
+    "Observe se há espuma indo para o largo, sinal comum de corrente."
+  ],
+  "alertaFinal": "No mar aberto, o fundo pode mudar de repente."
   },
   {
-    "id": "tubaroes",
-    "titulo": "Tubarões: cuidado sem pânico",
-    "subtitulo": "Prevenção e escolha de horário fazem diferença",
-    "imagem": "tubaroes",
-    "resumo": "Respeite avisos locais e evite áreas de maior risco.",
-    "explicacao": "Em algumas regiões há histórico de incidentes. O foco é reduzir exposição: horário seguro, distância da costa e obediência à sinalização.",
-    "dicas": [
-      "Evite entrar sozinho e em horários de baixa visibilidade.",
-      "Não nade perto de canais profundos e estuários.",
-      "Saia da água se houver alerta oficial na praia."
-    ],
-    "alertaFinal": "Atenção aos avisos oficiais é essencial."
+  "id": "balneabilidade",
+  "titulo": "Balneabilidade da praia",
+  "subtitulo": "Saiba quando a água está própria",
+  "imagem": "balneabilidade",
+  "resumo": "A balneabilidade indica a qualidade da água para banho.",
+  "explicacao": "A classificação da água ajuda a evitar contato com contaminação. Sempre confira a informação mais recente antes de entrar no mar, principalmente após chuvas.",
+  "dicas": [
+    "Verifique placas e boletins oficiais.",
+    "Evite banho após chuvas fortes.",
+    "Não entre se houver lixo, cheiro forte ou água muito turva."
+  ],
+  "linksDicas": [
+  {
+  "indice": 0,
+  "label": "Relatórios",
+  "url": "https://www2.cprh.pe.gov.br/monitoramento-ambiental/balneabilidade/relatorios-de-balneabilidade/"
+  }
+  ],
+  "alertaFinal": "Água imprópria exige cuidado e mudança de local."
   },
   {
-    "id": "restingas",
-    "titulo": "Restingas e a proteção da costa",
-    "subtitulo": "Vegetação que segura areia e protege a praia",
-    "imagem": "restingas",
-    "resumo": "A restinga ajuda a conter erosão e manter o ecossistema.",
-    "explicacao": "A vegetação de restinga reduz impacto do vento e mar, preserva dunas e serve de abrigo para fauna local. Pisoteio e lixo fragilizam essa proteção.",
-    "dicas": [
-      "Use passarelas e caminhos sinalizados.",
-      "Não remova plantas, sementes ou areia da área.",
-      "Descarte resíduos corretamente e recolha o próprio lixo."
-    ],
-    "alertaFinal": "Cuidar da restinga é cuidar da própria praia."
+  "id": "mare",
+  "titulo": "Maré: o relógio da praia",
+  "subtitulo": "A maré muda a praia ao longo do dia",
+  "imagem": "mare",
+  "resumo": "A maré altera profundidade, corrente e exposição dos recifes.",
+  "explicacao": "Maré alta e maré baixa mudam a profundidade, a força da água e a exposição dos recifes. Em algumas áreas, piscinas naturais só ficam visíveis na maré baixa.",
+  "dicas": [
+    "Consulte os horários de maré antes de sair.",
+    "Evite ficar nos recifes com a maré subindo.",
+    "Com crianças, prefira períodos mais tranquilos."
+  ],
+  "alertaFinal": "Planejar pela maré reduz surpresas e acidentes."
   },
   {
-    "id": "balneabilidade",
-    "titulo": "Balneabilidade da praia",
-    "subtitulo": "Entenda quando a água está própria para banho",
-    "imagem": "balneabilidade",
-    "resumo": "A balneabilidade indica a qualidade da água para recreação.",
-    "explicacao": "Esse indicador considera análises da água e ajuda a reduzir risco de contato com contaminação. Sempre confira a classificação mais recente antes de entrar no mar.",
-    "dicas": [
-      "Verifique placas e boletins oficiais da prefeitura e órgãos ambientais.",
-      "Evite banho após chuvas fortes, quando o risco de contaminação aumenta.",
-      "Se a água estiver turva, com cheiro forte ou lixo, procure outro trecho."
-    ],
-    "linksDicas": [
-      {
-        "indice": 0,
-        "label": "Relatórios",
-        "url": "https://www2.cprh.pe.gov.br/monitoramento-ambiental/balneabilidade/relatorios-de-balneabilidade/"
-      }
-    ],
-    "alertaFinal": "Água imprópria para banho exige cuidado e mudança de local."
+  "id": "ondas",
+  "titulo": "Ondas: quando parece pouco, mas não é",
+  "subtitulo": "Ondas pequenas também podem empurrar",
+  "imagem": "ondas",
+  "resumo": "Algumas séries de ondas podem chegar maiores de repente.",
+  "explicacao": "A altura média das ondas não mostra tudo. Em alguns momentos, ondas maiores chegam em sequência e podem derrubar ou empurrar banhistas desprevenidos.",
+  "dicas": [
+    "Observe o mar por alguns minutos antes de entrar.",
+    "Não fique de costas para as ondas.",
+    "Se a areia estiver cedendo, afaste-se da arrebentação."
+  ],
+  "alertaFinal": "Leia o ritmo das ondas antes de entrar."
   },
   {
-    "id": "mar-turvo-chuva",
-    "titulo": "Mar turvo, risco em dobro",
-    "subtitulo": "Chuva forte pode deixar a água mais turbulenta e perigosa",
-    "imagem": "mar-turvo-chuva",
-    "resumo": "Após chuva, o mar pode ficar mais forte, turvo e com menor visibilidade.",
-    "explicacao": "Com chuvas intensas, rios e canais despejam mais água e sedimentos no mar. Isso pode aumentar turbulência, correntes e dificultar a leitura do fundo, elevando risco de afogamentos e incidentes com tubarão em áreas sensíveis.",
-    "dicas": [
-      "Evite banho de mar logo após chuva forte ou tempo fechado persistente.",
-      "Se a água estiver muito turva ou com corrente puxando, saia imediatamente.",
-      "Prefira trechos monitorados e respeite sinalização e orientação de guarda-vidas."
-    ],
-    "alertaFinal": "Em mar turvo e agitado, a decisão mais segura é não entrar."
+  "id": "recifes",
+  "titulo": "Recifes e piscinas naturais",
+  "subtitulo": "Proteção natural com cuidado",
+  "imagem": "recifes",
+  "resumo": "Recifes podem reduzir a força das ondas em alguns trechos.",
+  "explicacao": "Recifes ajudam a formar áreas mais calmas na maré baixa, mas também podem ser escorregadios, rasos e causar cortes. Mesmo em piscinas naturais, o cuidado continua necessário.",
+  "dicas": [
+    "Evite pisar nos recifes.",
+    "Não mergulhe onde não vê o fundo.",
+    "Proteja os organismos vivos e não retire nada do ambiente."
+  ],
+  "alertaFinal": "Use os recifes como proteção, não como caminho."
   },
   {
-    "id": "oceanografia",
-    "titulo": "O que é oceanografia?",
-    "subtitulo": "Ciência que ajuda a entender e prever o mar",
-    "imagem": "oceanografia",
-    "resumo": "Dados de vento, ondas e correntes viram previsão útil.",
-    "explicacao": "A oceanografia reúne observações e modelos para explicar o comportamento do mar. Isso apoia alertas, segurança costeira e planejamento urbano.",
-    "dicas": [
-      "Consulte fontes confiáveis de previsão antes da praia.",
-      "Compare previsão com observação local ao chegar.",
-      "Use informação científica para decidir com segurança."
-    ],
-    "alertaFinal": "Conhecimento do mar salva tempo e pode salvar vidas."
+  "id": "restingas",
+  "titulo": "Restingas protegem a costa",
+  "subtitulo": "A vegetação ajuda a segurar a praia",
+  "imagem": "restingas",
+  "resumo": "A restinga reduz erosão e protege o ecossistema costeiro.",
+  "explicacao": "A vegetação de restinga ajuda a fixar a areia, proteger a praia do vento e do avanço do mar, além de servir de abrigo para a fauna local.",
+  "dicas": [
+    "Use passarelas e caminhos sinalizados.",
+    "Não pise nem remova plantas da restinga.",
+    "Leve seu lixo de volta ou descarte corretamente."
+  ],
+  "alertaFinal": "Cuidar da restinga é cuidar da própria praia."
   },
   {
-    "id": "trechos-abertos",
-    "titulo": "Mar aberto não é piscina",
-    "subtitulo": "Sem recifes, o mar exige mais atenção",
-    "imagem": "trechos-abertos",
-    "resumo": "Sem o recife como barreira, ondas e correntes chegam com mais força.",
-    "explicacao": "Em áreas sem proteção recifal, as ondas quebram com mais energia e as correntes podem ser mais fortes. Isso aumenta o risco de perder o pé, ser empurrado pela arrebentação ou levado por correntes de retorno, mesmo em dias que parecem calmos.",
-    "dicas": [
-      "Prefira trechos com recifes ou piscinas naturais quando as condições forem favoráveis.",
-      "Evite mar aberto com ondas altas, vento forte ou água turva.",
-      "Observe o mar antes de entrar: espuma indo para o largo pode indicar corrente de retorno.",
-      "Entre sempre perto de guarda-vidas e com outras pessoas por perto."
-    ],
-    "alertaFinal": "No mar aberto, o fundo pode mudar de repente. Escolha trechos protegidos quando possível."
+  "id": "oceanografia",
+  "titulo": "O que é oceanografia?",
+  "subtitulo": "A ciência que ajuda a entender o mar",
+  "imagem": "oceanografia",
+  "resumo": "Dados de vento, ondas, maré e correntes viram informação útil.",
+  "explicacao": "A oceanografia usa observações e modelos para entender o comportamento do mar. Esse conhecimento apoia alertas, segurança dos banhistas e gestão da costa.",
+  "dicas": [
+    "Consulte previsões e fontes confiáveis.",
+    "Compare a previsão com o que você observa na praia.",
+    "Use informação científica para decidir com segurança."
+  ],
+  "alertaFinal": "Conhecer o mar ajuda a prevenir riscos."
   }
 ]
