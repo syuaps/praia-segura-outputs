@@ -149,16 +149,16 @@
   {
     "id": "trechos-abertos",
     "titulo": "Mar aberto não é piscina",
-    "subtitulo": "Por que o mar aberto pode ser mais perigoso",
+    "subtitulo": "Sem recifes, o mar exige mais atenção",
     "imagem": "trechos-abertos",
     "resumo": "Sem o recife como barreira, ondas e correntes chegam com mais força.",
-    "explicacao": "Em áreas sem proteção recifal, as ondas quebram com mais energia e a água costuma circular com mais velocidade. Isso aumenta a chance de ser empurrado para a arrebentação, perder o pé de repente e ser levado por correntes de retorno, especialmente quando a maré está enchendo ou vazando forte. Mesmo em dias aparentemente “calmos”, séries de ondas podem surpreender e abrir canais de corrente.",
+    "explicacao": "Em áreas sem proteção recifal, as ondas quebram com mais energia e as correntes podem ser mais fortes. Isso aumenta o risco de perder o pé, ser empurrado pela arrebentação ou levado por correntes de retorno, mesmo em dias que parecem calmos.",
     "dicas": [
-      "Prefira entrar em trechos com recife/piscinas naturais quando as condições forem favoráveis e houver visibilidade do fundo.",
-      "Evite mar aberto quando houver ondas mais altas, vento forte ou mar turvo (piora a leitura de correntes e do fundo).",
-      "Observe o mar por alguns minutos: se notar “corredores” sem ondas quebrando ou espuma indo para o largo, pode ser corrente de retorno.",
+      "Prefira trechos com recifes ou piscinas naturais quando as condições forem favoráveis.",
+      "Evite mar aberto com ondas altas, vento forte ou água turva.",
+      "Observe o mar antes de entrar: espuma indo para o largo pode indicar corrente de retorno.",
       "Entre sempre perto de guarda-vidas e com outras pessoas por perto."
     ],
-    "alertaFinal": "No mar aberto, um passo a mais pode virar fundo de repente. Escolha trechos protegidos quando possível."
+    "alertaFinal": "No mar aberto, o fundo pode mudar de repente. Escolha trechos protegidos quando possível."
   }
 ]
