@@ -61,12 +61,15 @@ Este repositório **não contém o aplicativo mobile/web em si**. Ele é a camad
 Base URL: https://syuaps.github.io/praia-segura-outputs/
 ```
 
+Índice dedicado de outputs: [https://syuaps.github.io/praia-segura-outputs/outputs/](https://syuaps.github.io/praia-segura-outputs/outputs/)
+
 Fluxo recomendado para verificar se há dados novos e carregar a previsão:
 
 ```
 1. GET rodada_atual.json           → verifica timestamp da última rodada
 2. GET outputs/forecast_full.json  → carrega previsão completa 5 dias
-3. (opcional) GET outputs/products/<produto>.json  → dados brutos por fonte
+3. (opcional) GET outputs/index.html  → índice navegável dos arquivos de previsão
+4. (opcional) GET outputs/products/<produto>.json  → dados brutos por fonte
 ```
 
 ---
@@ -81,6 +84,7 @@ praia-segura-outputs/
 ├── publicar.bat                              # script de publicação (backend → GitHub)
 │
 ├── outputs/                                  # dados dinâmicos (atualizam ~diariamente)
+│   ├── index.html                            # índice dedicado de outputs
 │   ├── forecast_full.json                    # agregador principal — use este no app
 │   └── products/                             # produtos brutos por fonte
 │       ├── ifs_oper__recife.json
@@ -123,8 +127,8 @@ Arquivo de sinalização. O app deve verificar este arquivo para saber se há da
 }
 ```
 
-| Campo | Tipo | Descrição |
-|---|---|---|
+| Campo          | Tipo                         | Descrição                                                        |
+| -------------- | ---------------------------- | ------------------------------------------------------------------ |
 | `updated_at` | string ISO 8601 com timezone | Horário local (America/Recife, UTC-3) da última rodada publicada |
 
 ---
@@ -135,18 +139,18 @@ Agregador da rodada. Contém previsão dia a dia para os próximos 5 dias, com t
 
 **Campos raiz:**
 
-| Campo | Tipo | Descrição |
-|---|---|---|
-| `schema_version` | string | Versão do schema (`"1.1"`) |
-| `generated_at_local` | string ISO 8601 | Horário de geração em America/Recife |
-| `timezone` | string | `"America/Recife"` |
-| `location.name` | string | `"Recife, PE"` |
-| `location.bbox` | object | Bounding box usada para extração dos dados (`minLon`, `maxLon`, `minLat`, `maxLat`) |
-| `location.sun_point` | object | Ponto de referência para cálculo de nascer/pôr do sol (`lat`, `lon`) |
-| `time_window` | object | Janela temporal coberta (`start_utc`, `end_utc`, em UTC e local) |
-| `sources` | object | Metadados das fontes usadas na rodada |
-| `notes` | object | Notas técnicas sobre aproximações aplicadas |
-| `days` | array | Array com um objeto por dia (ver abaixo) |
+| Campo                  | Tipo            | Descrição                                                                                   |
+| ---------------------- | --------------- | --------------------------------------------------------------------------------------------- |
+| `schema_version`     | string          | Versão do schema (`"1.1"`)                                                                 |
+| `generated_at_local` | string ISO 8601 | Horário de geração em America/Recife                                                       |
+| `timezone`           | string          | `"America/Recife"`                                                                          |
+| `location.name`      | string          | `"Recife, PE"`                                                                              |
+| `location.bbox`      | object          | Bounding box usada para extração dos dados (`minLon`, `maxLon`, `minLat`, `maxLat`) |
+| `location.sun_point` | object          | Ponto de referência para cálculo de nascer/pôr do sol (`lat`, `lon`)                   |
+| `time_window`        | object          | Janela temporal coberta (`start_utc`, `end_utc`, em UTC e local)                          |
+| `sources`            | object          | Metadados das fontes usadas na rodada                                                         |
+| `notes`              | object          | Notas técnicas sobre aproximações aplicadas                                                |
+| `days`               | array           | Array com um objeto por dia (ver abaixo)                                                      |
 
 **Estrutura de cada item em `days[]`:**
 
@@ -210,18 +214,18 @@ Produto bruto ECMWF IFS HRES operacional. Contém as séries horárias completas
 
 **Variáveis disponíveis (parâmetros ECMWF):**
 
-| Código ECMWF | Descrição | Unidade |
-|---|---|---|
-| `2t` | Temperatura do ar a 2 m | K → °C |
-| `2d` | Temperatura de ponto de orvalho a 2 m | K → °C |
-| `10u` / `10v` | Componentes U e V do vento a 10 m | m/s |
-| `tp` | Precipitação total acumulada | m |
-| `ssrd` | Radiação solar de onda curta acumulada | J/m² |
-| `msl` | Pressão ao nível médio do mar | Pa → hPa |
-| `tcc` | Cobertura de nuvens total | fração (0–1) |
-| `swh` | Altura significativa das ondas | m |
-| `mwd` | Direção das ondas (mean wave direction) | graus |
-| `mwp` | Período médio das ondas | s |
+| Código ECMWF     | Descrição                               | Unidade         |
+| ----------------- | ----------------------------------------- | --------------- |
+| `2t`            | Temperatura do ar a 2 m                   | K → °C        |
+| `2d`            | Temperatura de ponto de orvalho a 2 m     | K → °C        |
+| `10u` / `10v` | Componentes U e V do vento a 10 m         | m/s             |
+| `tp`            | Precipitação total acumulada            | m               |
+| `ssrd`          | Radiação solar de onda curta acumulada  | J/m²           |
+| `msl`           | Pressão ao nível médio do mar          | Pa → hPa       |
+| `tcc`           | Cobertura de nuvens total                 | fração (0–1) |
+| `swh`           | Altura significativa das ondas            | m               |
+| `mwd`           | Direção das ondas (mean wave direction) | graus           |
+| `mwp`           | Período médio das ondas                 | s               |
 
 ---
 
@@ -229,15 +233,15 @@ Produto bruto ECMWF IFS HRES operacional. Contém as séries horárias completas
 
 Probabilidades do ensemble ECMWF (stream `enfo`, type `ep`). Fornece limiares de precipitação e vento forte para os próximos 6 dias, com resolução diária.
 
-| Parâmetro | Significado |
-|---|---|
-| `tpg1` | Prob. precipitação acumulada > 1 mm/dia |
-| `tpg5` | Prob. precipitação acumulada > 5 mm/dia |
-| `tpg10` | Prob. precipitação acumulada > 10 mm/dia |
-| `tpg20` | Prob. precipitação acumulada > 20 mm/dia |
-| `10fgg10` | Prob. rajada de vento > 10 m/s |
-| `10fgg15` | Prob. rajada de vento > 15 m/s |
-| `10fgg25` | Prob. rajada de vento > 25 m/s |
+| Parâmetro  | Significado                                |
+| ----------- | ------------------------------------------ |
+| `tpg1`    | Prob. precipitação acumulada > 1 mm/dia  |
+| `tpg5`    | Prob. precipitação acumulada > 5 mm/dia  |
+| `tpg10`   | Prob. precipitação acumulada > 10 mm/dia |
+| `tpg20`   | Prob. precipitação acumulada > 20 mm/dia |
+| `10fgg10` | Prob. rajada de vento > 10 m/s             |
+| `10fgg15` | Prob. rajada de vento > 15 m/s             |
+| `10fgg25` | Prob. rajada de vento > 25 m/s             |
 
 > ⚠️ `rain_prob_pct` nas séries de 3 h em `forecast_full.json` é uma **aproximação**: a probabilidade diária do ensemble é redistribuída proporcionalmente ao `tp` HRES em cada passo. Para resolução sub-diária exata seria necessário processar os membros individuais (`enfo-ef`).
 
@@ -248,6 +252,7 @@ Probabilidades do ensemble ECMWF (stream `enfo`, type `ep`). Fornece limiares de
 Maré astronômica calculada pelo modelo **TPXO10-atlas-v2** com 15 componentes harmônicas (M2, S2, N2, K2, 2N2, K1, O1, P1, Q1, S1, M4, MS4, MN4, Mm, Mf). Resolução temporal: **5 minutos**. Datum aplicado: +1,282 m (Porto do Recife).
 
 Série temporal de 6 dias com campos:
+
 - `series.time_utc` — timestamps em UTC
 - `series.tide_m` — altura da maré em metros (datum Porto do Recife)
 - `tides_extremes` — lista de preamar/baixamar com hora e altura
@@ -258,12 +263,12 @@ Série temporal de 6 dias com campos:
 
 Série temporal da **análise e previsão oceânica global** do Copernicus Marine Service (CMEMS). Resolução horária, agregada espacialmente como média da bbox de Recife.
 
-| Variável | Descrição | Unidade |
-|---|---|---|
-| `total_sea_level` | Nível do mar acima do geoide (+ datum Porto) | m |
-| `ocean_tide` | Componente de maré (+ datum Porto) | m |
+| Variável           | Descrição                                   | Unidade |
+| ------------------- | --------------------------------------------- | ------- |
+| `total_sea_level` | Nível do mar acima do geoide (+ datum Porto) | m       |
+| `ocean_tide`      | Componente de maré (+ datum Porto)           | m       |
 
-Dataset ID: `cmems_mod_glo_phy_anfc_merged-sl_PT1H-i`  
+Dataset ID: `cmems_mod_glo_phy_anfc_merged-sl_PT1H-i`
 DOI: `10.48670/moi-00016`
 
 ---
@@ -321,7 +326,7 @@ Array com os **31 setores de praia do Recife**. Cada setor tem:
 }
 ```
 
-Imagens dos setores: `data_static/setores/setores_img/ID_XXXX.jpg`  
+Imagens dos setores: `data_static/setores/setores_img/ID_XXXX.jpg`
 URL de exemplo: `https://syuaps.github.io/praia-segura-outputs/data_static/setores/setores_img/ID_0001.jpg`
 
 ---
@@ -355,16 +360,16 @@ Imagens: `data_static/piscinas/piscinas_img/ID_XXXX.jpg`
 
 Array de temas educativos sobre segurança no mar. Cada tema possui:
 
-| Campo | Descrição |
-|---|---|
-| `id` | Identificador único |
-| `titulo` | Título do tema |
-| `subtitulo` | Subtítulo |
-| `imagem` | Nome do arquivo de imagem (sem extensão) em `guiadomar_img/` |
-| `resumo` | Texto curto para card/preview |
-| `explicacao` | Texto explicativo completo |
-| `dicas` | Array de strings com dicas práticas |
-| `alertaFinal` | Mensagem de alerta final |
+| Campo           | Descrição                                                    |
+| --------------- | -------------------------------------------------------------- |
+| `id`          | Identificador único                                           |
+| `titulo`      | Título do tema                                                |
+| `subtitulo`   | Subtítulo                                                     |
+| `imagem`      | Nome do arquivo de imagem (sem extensão) em`guiadomar_img/` |
+| `resumo`      | Texto curto para card/preview                                  |
+| `explicacao`  | Texto explicativo completo                                     |
+| `dicas`       | Array de strings com dicas práticas                           |
+| `alertaFinal` | Mensagem de alerta final                                       |
 
 Temas disponíveis: `mar-hoje`, `mare`, `ondas`, `correntes`, `recifes`, `tubaroes`, `balneabilidade`, `oceanografia`, `restingas`.
 
@@ -374,15 +379,15 @@ Temas disponíveis: `mar-hoje`, `mare`, `ondas`, `correntes`, `recifes`, `tubaro
 
 Array de pontos de serviço e infraestrutura na orla. Cada ponto possui:
 
-| Campo | Descrição |
-|---|---|
-| `id` | Identificador único |
-| `categoria` | Código de categoria (ex: `"AC"` = Academia da Cidade, `"BH"` = Banheiro, etc.) |
-| `nome` | Nome do serviço |
-| `endereco` | Endereço (pode estar vazio) |
-| `contato` | Telefone/contato (pode estar vazio) |
-| `funcionamento` | Horário de funcionamento (pode estar vazio) |
-| `latitude` / `longitude` | Coordenadas geográficas |
+| Campo                        | Descrição                                                                        |
+| ---------------------------- | ---------------------------------------------------------------------------------- |
+| `id`                       | Identificador único                                                               |
+| `categoria`                | Código de categoria (ex:`"AC"` = Academia da Cidade, `"BH"` = Banheiro, etc.) |
+| `nome`                     | Nome do serviço                                                                   |
+| `endereco`                 | Endereço (pode estar vazio)                                                       |
+| `contato`                  | Telefone/contato (pode estar vazio)                                                |
+| `funcionamento`            | Horário de funcionamento (pode estar vazio)                                       |
+| `latitude` / `longitude` | Coordenadas geográficas                                                           |
 
 ---
 
@@ -390,12 +395,12 @@ Array de pontos de serviço e infraestrutura na orla. Cada ponto possui:
 
 Array com números de emergência.
 
-| Campo | Descrição |
-|---|---|
-| `id` | Identificador |
-| `titulo` | Nome do serviço |
-| `subtitulo` | Descrição adicional |
-| `numero` | Número de telefone ou `"Lista"` (para link para lista) |
+| Campo         | Descrição                                              |
+| ------------- | -------------------------------------------------------- |
+| `id`        | Identificador                                            |
+| `titulo`    | Nome do serviço                                         |
+| `subtitulo` | Descrição adicional                                    |
+| `numero`    | Número de telefone ou`"Lista"` (para link para lista) |
 
 ---
 
@@ -403,13 +408,13 @@ Array com números de emergência.
 
 Array com projetos e iniciativas costeiras relacionadas ao aplicativo.
 
-| Campo | Descrição |
-|---|---|
-| `id` | Identificador |
-| `title` | Nome do projeto |
-| `summary` | Resumo |
-| `focus` | Área de foco |
-| `links` | Array de `{ "label", "url" }` |
+| Campo       | Descrição                    |
+| ----------- | ------------------------------ |
+| `id`      | Identificador                  |
+| `title`   | Nome do projeto                |
+| `summary` | Resumo                         |
+| `focus`   | Área de foco                  |
+| `links`   | Array de`{ "label", "url" }` |
 
 ---
 
@@ -447,10 +452,9 @@ GitHub Pages publica automaticamente (~1–3 min após push)
 ### O que o app precisa fazer
 
 1. **Verificar se há dados novos** (poll de `rodada_atual.json`): comparar `updated_at` com o valor em cache local. Se diferente, baixar os dados.
-
 2. **Carregar previsão**: `GET outputs/forecast_full.json`. Este arquivo já agrega tudo; na maioria dos casos o app **não precisa** acessar os arquivos em `outputs/products/`.
-
 3. **Carregar dados estáticos** (na primeira inicialização ou quando houver nova versão):
+
    - `data_static/setores/setoresRecife.json` — 31 setores
    - `data_static/piscinas/piscinasNaturais.json` — piscinas
    - `data_static/guiadomar/guiaTemas.json` — guia do mar
@@ -458,8 +462,8 @@ GitHub Pages publica automaticamente (~1–3 min após push)
    - `data_static/emergencia/emergencia.json` — emergências
    - `data_static/projetos/projetos.json` — projetos
    - `data_static/balneabilidade/balneabilidade_latest.json` — metadados do boletim
-
 4. **Imagens**: todas as imagens são servidas diretamente via URL. Não há API separada de imagens.
+
    ```
    Setor:   .../data_static/setores/setores_img/ID_0001.jpg
    Piscina: .../data_static/piscinas/piscinas_img/ID_0001.jpg
@@ -468,16 +472,16 @@ GitHub Pages publica automaticamente (~1–3 min após push)
 
 ### Considerações técnicas
 
-| Item | Detalhe |
-|---|---|
-| **Protocolo** | HTTPS somente (GitHub Pages força HTTPS) |
-| **CORS** | GitHub Pages serve com `Access-Control-Allow-Origin: *` — qualquer origem pode consumir a API |
-| **Cache** | GitHub Pages aplica cache agressivo. O app deve usar cache-busting no `rodada_atual.json` (ex: `?t=<timestamp>`) para garantir leitura fresca |
-| **Autenticação** | Nenhuma — todos os arquivos são públicos |
-| **Rate limit** | Não há rate limit imposto por este repositório. GitHub Pages tem limites de banda (100 GB/mês por repositório), suficientes para uso normal |
-| **Formato** | JSON UTF-8 sem BOM |
-| **Timezone** | Todos os horários locais estão em `America/Recife` (UTC-3, sem horário de verão) |
-| **Datum de maré** | +1,282 m em relação ao datum do Porto do Recife — já aplicado em todos os campos de nível do mar |
+| Item                     | Detalhe                                                                                                                                          |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Protocolo**      | HTTPS somente (GitHub Pages força HTTPS)                                                                                                        |
+| **CORS**           | GitHub Pages serve com`Access-Control-Allow-Origin: *` — qualquer origem pode consumir a API                                                  |
+| **Cache**          | GitHub Pages aplica cache agressivo. O app deve usar cache-busting no`rodada_atual.json` (ex: `?t=<timestamp>`) para garantir leitura fresca |
+| **Autenticação** | Nenhuma — todos os arquivos são públicos                                                                                                      |
+| **Rate limit**     | Não há rate limit imposto por este repositório. GitHub Pages tem limites de banda (100 GB/mês por repositório), suficientes para uso normal |
+| **Formato**        | JSON UTF-8 sem BOM                                                                                                                               |
+| **Timezone**       | Todos os horários locais estão em`America/Recife` (UTC-3, sem horário de verão)                                                            |
+| **Datum de maré** | +1,282 m em relação ao datum do Porto do Recife — já aplicado em todos os campos de nível do mar                                            |
 
 ### Exemplo de requisição (JavaScript/fetch)
 
@@ -498,33 +502,33 @@ const setores = await fetch(`${BASE_URL}/data_static/setores/setoresRecife.json`
 
 ## Fontes de dados externas
 
-| Fonte | Dataset | Variáveis usadas | Licença |
-|---|---|---|---|
-| **ECMWF Open Data** | IFS HRES 0.25° | vento, temperatura, umidade, precipitação, radiação solar, ondas | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| **ECMWF Open Data** | IFS ENS probability products | probabilidade de chuva e vento forte | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| **Copernicus Marine Service** | `cmems_mod_glo_phy_anfc_merged-sl_PT1H-i` | nível total do mar, componente de maré oceânica | [Copernicus Marine Licence](https://marine.copernicus.eu/user-corner/service-commitments-and-licence) |
-| **TPXO10-atlas-v2** | Oregon State University | maré astronômica (15 constituintes) | Uso acadêmico/científico — verificar licença para uso comercial |
-| **CPRH-PE** | Boletins semanais de balneabilidade | status própria/imprópria por ponto | Dados públicos do governo estadual |
+| Fonte                               | Dataset                                     | Variáveis usadas                                                    | Licença                                                                                           |
+| ----------------------------------- | ------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| **ECMWF Open Data**           | IFS HRES 0.25°                             | vento, temperatura, umidade, precipitação, radiação solar, ondas | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)                                             |
+| **ECMWF Open Data**           | IFS ENS probability products                | probabilidade de chuva e vento forte                                 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)                                             |
+| **Copernicus Marine Service** | `cmems_mod_glo_phy_anfc_merged-sl_PT1H-i` | nível total do mar, componente de maré oceânica                   | [Copernicus Marine Licence](https://marine.copernicus.eu/user-corner/service-commitments-and-licence) |
+| **TPXO10-atlas-v2**           | Oregon State University                     | maré astronômica (15 constituintes)                                | Uso acadêmico/científico — verificar licença para uso comercial                                |
+| **CPRH-PE**                   | Boletins semanais de balneabilidade         | status própria/imprópria por ponto                                 | Dados públicos do governo estadual                                                                |
 
 ---
 
 ## Repositórios relacionados
 
-| Repositório | Descrição | Acesso |
-|---|---|---|
-| `praia-segura-outputs` (este) | API estática + GitHub Pages | Público |
-| `praia_segura_backend` | Scripts Python de coleta e processamento | Privado |
+| Repositório                    | Descrição                              | Acesso   |
+| ------------------------------- | ---------------------------------------- | -------- |
+| `praia-segura-outputs` (este) | API estática + GitHub Pages             | Público |
+| `praia_segura_backend`        | Scripts Python de coleta e processamento | Privado  |
 
 ---
 
 ## Manutenção e troubleshooting
 
-| Problema | Causa provável | Solução |
-|---|---|---|
-| `rodada_atual.json` desatualizado há > 24 h | Rodada do backend não rodou ou falhou | Rodar `publicar.bat` manualmente após corrigir o backend |
-| Arquivo retorna 404 | Nome errado (case-sensitive) ou push ainda não propagou | Conferir nome exato no `index.html` e aguardar 1–3 min após push |
-| Dados de balneabilidade desatualizados | Boletim CPRH ainda não publicado ou script não rodou | Verificar em `https://www2.cprh.pe.gov.br/monitoramento-ambiental/balneabilidade/` |
-| Maré com valores inesperados | Datum não aplicado no cliente | Confirmar que os valores já chegam ajustados (+1,282 m) — não aplicar novamente |
+| Problema                                       | Causa provável                                          | Solução                                                                           |
+| ---------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| `rodada_atual.json` desatualizado há > 24 h | Rodada do backend não rodou ou falhou                   | Rodar`publicar.bat` manualmente após corrigir o backend                          |
+| Arquivo retorna 404                            | Nome errado (case-sensitive) ou push ainda não propagou | Conferir nome exato no`index.html` e aguardar 1–3 min após push                 |
+| Dados de balneabilidade desatualizados         | Boletim CPRH ainda não publicado ou script não rodou   | Verificar em`https://www2.cprh.pe.gov.br/monitoramento-ambiental/balneabilidade/` |
+| Maré com valores inesperados                  | Datum não aplicado no cliente                           | Confirmar que os valores já chegam ajustados (+1,282 m) — não aplicar novamente  |
 
 ---
 
