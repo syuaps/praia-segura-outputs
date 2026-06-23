@@ -4,14 +4,14 @@
   "titulo": "Como está o mar hoje?",
   "subtitulo": "Veja as condições antes de entrar",
   "imagem": "mar-hoje",
-  "resumo": "Confira vento, ondas, maré e alertas do dia.",
-  "explicacao": "Antes de entrar no mar, observe as condições do dia. Vento, ondas, chuva, maré e visibilidade da água podem mudar rapidamente a segurança do banho.",
+  "resumo": "A tela reúne risco do dia, chuva, ondas, vento, maré e melhor horário para banho.",
+  "explicacao": "O mar muda ao longo do dia. Por isso, o Praia Segura combina diferentes informações para ajudar na decisão: risco geral, chance de chuva, altura das ondas, vento, maré, nascer e pôr do sol e melhor janela para banho. Esses fatores ajudam a indicar quando o mar pode estar mais agitado, turvo, fundo ou com correntes mais fortes.",
   "dicas": [
-    "Evite entrar se o mar estiver mais agitado que o normal.",
-    "Prefira trechos monitorados e com guarda-vidas por perto.",
-    "Na dúvida, escolha uma área mais protegida."
+    "Comece pelo nível de risco: se estiver alto, redobre a atenção e considere não entrar.",
+    "Observe chuva, ondas e vento: quando esses fatores aumentam, o banho pode ficar mais perigoso.",
+    "Use a maré e a janela indicada apenas como apoio. Sempre compare com as condições reais da praia."
   ],
-  "alertaFinal": "Olhar o mar antes de entrar é o primeiro cuidado."
+  "alertaFinal": "A previsão ajuda, mas a decisão final deve considerar o mar, a sinalização e os guarda-vidas."
   },
   {
   "id": "mar-turvo-chuva",
@@ -165,13 +165,13 @@
   "titulo": "O que é oceanografia?",
   "subtitulo": "A ciência que ajuda a entender o mar",
   "imagem": "oceanografia",
-  "resumo": "Dados de vento, ondas, maré e correntes viram informação útil.",
-  "explicacao": "A oceanografia usa observações e modelos para entender o comportamento do mar. Esse conhecimento apoia alertas, segurança dos banhistas e gestão da costa.",
+  "resumo": "Dados sobre vento, ondas, maré e correntes ajudam a traduzir o mar para o banho seguro.",
+  "explicacao": "A oceanografia estuda o comportamento do mar e transforma dados ambientais em informação útil para a sociedade. No Praia Segura, esse conhecimento ajuda a interpretar condições como ondas, vento, maré, correntes, chuva e proteção recifal, apoiando alertas e orientações para quem frequenta a praia.",
   "dicas": [
-    "Consulte previsões e fontes confiáveis.",
-    "Compare a previsão com o que você observa na praia.",
-    "Use informação científica para decidir com segurança."
+    "Observe como vento, ondas, maré e chuva mudam a praia ao longo do dia.",
+    "Use o app para entender melhor por que uma área pode estar mais segura ou mais perigosa.",
+    "Conheça mais sobre oceanografia: ela ajuda na segurança, na conservação e no planejamento das cidades costeiras."
   ],
-  "alertaFinal": "Conhecer o mar ajuda a prevenir riscos."
+  "alertaFinal": "Quando a ciência ajuda a entender o mar, todos podem fazer escolhas mais seguras."
   }
 ]
