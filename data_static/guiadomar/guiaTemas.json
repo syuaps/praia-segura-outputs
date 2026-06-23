@@ -105,6 +105,20 @@
   "alertaFinal": "Água imprópria exige cuidado e mudança de local."
   },
   {
+  "id": "caravelas",
+  "titulo": "Caravelas: cuidado ao tocar",
+  "subtitulo": "Mesmo na areia, elas podem causar queimaduras",
+  "imagem": "caravelas",
+  "resumo": "Caravelas têm tentáculos que podem causar dor intensa e irritação na pele.",
+  "explicacao": "Caravelas podem aparecer no mar ou encalhadas na areia, levadas pelo vento e pelas correntes. Seus tentáculos liberam substâncias urticantes que causam ardência, dor e marcas na pele. Mesmo fora da água ou aparentemente mortas, ainda podem provocar acidentes.",
+  "dicas": [
+    "Se avistar caravelas na água ou na areia, não toque e evite entrar no mar.",
+    "Em caso de contato, saia da água, não esfregue a pele e não lave com água doce.",
+    "Remova tentáculos com cuidado, de preferência com pinça ou mão protegida, e procure atendimento se houver dor forte, mal-estar ou reação extensa."
+  ],
+  "alertaFinal": "Queimou? Saia da água, evite esfregar e procure orientação de saúde."
+  },
+  {
   "id": "mare",
   "titulo": "Maré: o relógio da praia",
   "subtitulo": "A maré muda a praia ao longo do dia",
