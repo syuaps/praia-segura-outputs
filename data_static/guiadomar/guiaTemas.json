@@ -175,6 +175,57 @@
   "alertaFinal": "Cuidar da restinga é cuidar da própria praia."
   },
   {
+  "id": "animal-encalhado",
+  "titulo": "Animal encalhado: o que fazer?",
+  "subtitulo": "Não toque e acione o órgão correto",
+  "imagem": "animal-encalhado",
+  "resumo": "Se encontrar um animal vivo, ferido ou morto na praia, mantenha distância e informe a localização.",
+  "explicacao": "Animais encalhados ou mortos podem indicar risco ambiental, doença, ferimentos ou morte recente. Não tente empurrar, carregar, enterrar, abrir ou remover o animal por conta própria. O ideal é manter pessoas e pets afastados, registrar o local com foto e ponto de referência e acionar o serviço responsável.",
+  "dicas": [
+    "Animal morto em área pública: acione a Emlurb pelo 156 ou pelo Conecta Recife e informe endereço, ponto de referência e fotos.",
+    "Animal silvestre vivo, ferido ou em risco: ligue 190 e peça acionamento da 1ª CIPOMA, informando espécie aproximada, porte e localização.",
+    "Dúvida ambiental ou situação envolvendo fauna protegida: registre no Ibama/Linha Verde pelo 0800 061 8080 ou contate a Supes/PE."
+  ],
+  "linksDicas": [
+  {
+  "indice": 0,
+  "label": "Emlurb 156",
+  "url": "https://conecta.recife.pe.gov.br/servico/249"
+  },
+  {
+  "indice": 1,
+  "label": "CIPOMA 190",
+  "url": "https://conecta.recife.pe.gov.br/servico/915"
+  },
+  {
+  "indice": 2,
+  "label": "Ibama PE",
+  "url": "https://www.gov.br/ibama/pt-br/composicao/quem-e-quem/ibama-nos-estados/pe"
+  }
+  ],
+  "orgaosAmbientais": [
+  {
+  "nome": "Emlurb - Autarquia de Manutenção e Limpeza Urbana",
+  "contato": "156 / Conecta Recife",
+  "responsabilidade": "Remoção de animal morto em área pública",
+  "fonte": "https://conecta.recife.pe.gov.br/servico/249"
+  },
+  {
+  "nome": "1ª CIPOMA - Companhia Independente de Policiamento do Meio Ambiente",
+  "contato": "190",
+  "responsabilidade": "Resgate de animal silvestre vivo, ferido ou em situação de risco",
+  "fonte": "https://conecta.recife.pe.gov.br/servico/915"
+  },
+  {
+  "nome": "Ibama - Superintendência em Pernambuco / Linha Verde",
+  "contato": "0800 061 8080 / supes.pe@ibama.gov.br",
+  "responsabilidade": "Orientação e registro de demanda ambiental envolvendo fauna silvestre protegida",
+  "fonte": "https://www.gov.br/ibama/pt-br/composicao/quem-e-quem/ibama-nos-estados/pe"
+  }
+  ],
+  "alertaFinal": "Não toque no animal. A resposta segura começa chamando quem sabe manejar."
+  },
+  {
   "id": "oceanografia",
   "titulo": "O que é oceanografia?",
   "subtitulo": "A ciência que ajuda a entender o mar",
