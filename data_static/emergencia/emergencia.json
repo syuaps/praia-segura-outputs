@@ -34,5 +34,11 @@
     "titulo": "Disque-denúncia",
     "subtitulo": "",
     "numero": "181"
+  },
+  {
+    "id": "atendimento-mulher",
+    "titulo": "Central de atendimento à mulher",
+    "subtitulo": "Orientação sobre leis, direitos das mulheres e serviços da rede de atendimento",
+    "numero": "180"
   }
 ]
