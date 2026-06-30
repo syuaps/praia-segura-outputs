@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-26T08:45:46",
-  "bulletin_number": 25,
+  "updated_at": "2026-06-30T11:26:49",
+  "bulletin_number": 26,
   "bulletin_year": 2026,
-  "report_date": "17/06/2026",
-  "periodo": "19/06/2026 a 25/06/2026",
-  "data_coleta": "15/06/2026",
+  "report_date": "27/06/2026",
+  "periodo": "27/06/2026 a 02/07/2026",
+  "data_coleta": "25/06/2026",
   "station_count": 27,
-  "pdf": "E:\\praia_segura_backend\\data_static\\balneabilidade\\pdfs\\informativo-balneabilidade-25_2026-enterolert.pdf",
-  "source_url": "https://www2.cprh.pe.gov.br/wp-content/uploads/2026/06/informativo-balneabilidade-25_2026-enterolert.pdf"
+  "pdf": "E:\\praia_segura_backend\\data_static\\balneabilidade\\pdfs\\informativo-balneabilidade-26_2026-enterolert.pdf",
+  "source_url": "https://www2.cprh.pe.gov.br/wp-content/uploads/2026/06/informativo-balneabilidade-26_2026-enterolert.pdf"
 }
