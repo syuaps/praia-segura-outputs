@@ -1,9 +1,10 @@
 {
   "schema_version": "1.2-opendata",
-  "generated_at_utc": "2026-07-01T14:25:04Z",
+  "generated_at_utc": "2026-07-01T14:25:09Z",
   "product": "ECMWF Open Data – ENS probability products via ecmwf-opendata",
   "run_summary": {
     "oper": [
+      "2026-06-30T12:00:00Z",
       "2026-07-01T00:00:00Z"
     ],
     "wave": [
@@ -15,82 +16,83 @@
       "2026-07-01T00:00:00Z"
     ],
     "waef_ep": [
+      "2026-06-30T12:00:00Z",
       "2026-07-01T00:00:00Z"
     ]
   },
   "days_ahead_requested": 6,
   "requests_used": [
     {
-      "run_datetime_utc": "2026-06-30T12:00:00Z",
+      "run_datetime_utc": "2026-07-01T00:00:00Z",
       "stream": "enfo",
       "type": "ep",
       "param": "tpg1",
       "n_steps_requested": 6,
-      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260630_12z_enfo_ep_tpg1.grib2",
-      "temporary_file_size_mb": 2.835
-    },
-    {
-      "run_datetime_utc": "2026-07-01T00:00:00Z",
-      "stream": "enfo",
-      "type": "ep",
-      "param": "tpg5",
-      "n_steps_requested": 6,
-      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260701_00z_enfo_ep_tpg5.grib2",
-      "temporary_file_size_mb": 2.065
-    },
-    {
-      "run_datetime_utc": "2026-07-01T00:00:00Z",
-      "stream": "enfo",
-      "type": "ep",
-      "param": "tpg10",
-      "n_steps_requested": 6,
-      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260701_00z_enfo_ep_tpg10.grib2",
-      "temporary_file_size_mb": 1.469
-    },
-    {
-      "run_datetime_utc": "2026-07-01T00:00:00Z",
-      "stream": "enfo",
-      "type": "ep",
-      "param": "tpg20",
-      "n_steps_requested": 6,
-      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260701_00z_enfo_ep_tpg20.grib2",
-      "temporary_file_size_mb": 0.877
-    },
-    {
-      "run_datetime_utc": "2026-07-01T00:00:00Z",
-      "stream": "enfo",
-      "type": "ep",
-      "param": "10fgg10",
-      "n_steps_requested": 6,
-      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260701_00z_enfo_ep_10fgg10.grib2",
-      "temporary_file_size_mb": 2.864
-    },
-    {
-      "run_datetime_utc": "2026-07-01T00:00:00Z",
-      "stream": "enfo",
-      "type": "ep",
-      "param": "10fgg15",
-      "n_steps_requested": 6,
-      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260701_00z_enfo_ep_10fgg15.grib2",
-      "temporary_file_size_mb": 2.023
+      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260701_00z_enfo_ep_tpg1.grib2",
+      "temporary_file_size_mb": 2.825
     },
     {
       "run_datetime_utc": "2026-06-30T12:00:00Z",
       "stream": "enfo",
       "type": "ep",
-      "param": "10fgg25",
+      "param": "tpg5",
       "n_steps_requested": 6,
-      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260630_12z_enfo_ep_10fgg25.grib2",
-      "temporary_file_size_mb": 0.555
+      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260630_12z_enfo_ep_tpg5.grib2",
+      "temporary_file_size_mb": 2.074
+    },
+    {
+      "run_datetime_utc": "2026-06-30T12:00:00Z",
+      "stream": "enfo",
+      "type": "ep",
+      "param": "tpg10",
+      "n_steps_requested": 6,
+      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260630_12z_enfo_ep_tpg10.grib2",
+      "temporary_file_size_mb": 1.477
+    },
+    {
+      "run_datetime_utc": "2026-06-30T12:00:00Z",
+      "stream": "enfo",
+      "type": "ep",
+      "param": "tpg20",
+      "n_steps_requested": 6,
+      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260630_12z_enfo_ep_tpg20.grib2",
+      "temporary_file_size_mb": 0.877
+    },
+    {
+      "run_datetime_utc": "2026-06-30T12:00:00Z",
+      "stream": "enfo",
+      "type": "ep",
+      "param": "10fgg10",
+      "n_steps_requested": 6,
+      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260630_12z_enfo_ep_10fgg10.grib2",
+      "temporary_file_size_mb": 2.857
+    },
+    {
+      "run_datetime_utc": "2026-06-30T12:00:00Z",
+      "stream": "enfo",
+      "type": "ep",
+      "param": "10fgg15",
+      "n_steps_requested": 6,
+      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260630_12z_enfo_ep_10fgg15.grib2",
+      "temporary_file_size_mb": 2.044
     },
     {
       "run_datetime_utc": "2026-07-01T00:00:00Z",
+      "stream": "enfo",
+      "type": "ep",
+      "param": "10fgg25",
+      "n_steps_requested": 6,
+      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260701_00z_enfo_ep_10fgg25.grib2",
+      "temporary_file_size_mb": 0.544
+    },
+    {
+      "run_datetime_utc": "2026-06-30T12:00:00Z",
       "stream": "waef",
       "type": "ep",
       "param": "swhg2",
       "n_steps_requested": 12,
-      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260701_00z_waef_ep_swhg2.grib2",
-      "temporary_file_size_mb": 3.257
+      "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260630_12z_waef_ep_swhg2.grib2",
+      "temporary_file_size_mb": 3.263
     },
     {
       "run_datetime_utc": "2026-07-01T00:00:00Z",
@@ -112,6 +114,32 @@
   "enfo_ep": {
     "tpg1": {
       "times_utc": [
+        "2026-07-02T00:00:00Z",
+        "2026-07-03T00:00:00Z",
+        "2026-07-04T00:00:00Z",
+        "2026-07-05T00:00:00Z",
+        "2026-07-06T00:00:00Z",
+        "2026-07-07T00:00:00Z"
+      ],
+      "time_recife_local": [
+        "2026-07-01T21:00:00",
+        "2026-07-02T21:00:00",
+        "2026-07-03T21:00:00",
+        "2026-07-04T21:00:00",
+        "2026-07-05T21:00:00",
+        "2026-07-06T21:00:00"
+      ],
+      "values": [
+        87.75,
+        51.25,
+        80.25,
+        68.25,
+        22.75,
+        22.5
+      ]
+    },
+    "tpg5": {
+      "times_utc": [
         "2026-07-01T12:00:00Z",
         "2026-07-02T12:00:00Z",
         "2026-07-03T12:00:00Z",
@@ -128,145 +156,93 @@
         "2026-07-06T09:00:00"
       ],
       "values": [
-        96.0,
-        78.0,
-        78.25,
-        87.0,
-        72.75,
-        27.75
-      ]
-    },
-    "tpg5": {
-      "times_utc": [
-        "2026-07-02T00:00:00Z",
-        "2026-07-03T00:00:00Z",
-        "2026-07-04T00:00:00Z",
-        "2026-07-05T00:00:00Z",
-        "2026-07-06T00:00:00Z",
-        "2026-07-07T00:00:00Z"
-      ],
-      "time_recife_local": [
-        "2026-07-01T21:00:00",
-        "2026-07-02T21:00:00",
-        "2026-07-03T21:00:00",
-        "2026-07-04T21:00:00",
-        "2026-07-05T21:00:00",
-        "2026-07-06T21:00:00"
-      ],
-      "values": [
-        15.5,
-        2.5,
-        14.25,
-        30.25,
-        8.0,
-        4.5
+        31.5,
+        12.25,
+        19.75,
+        43.0,
+        39.5,
+        4.25
       ]
     },
     "tpg10": {
       "times_utc": [
-        "2026-07-02T00:00:00Z",
-        "2026-07-03T00:00:00Z",
-        "2026-07-04T00:00:00Z",
-        "2026-07-05T00:00:00Z",
-        "2026-07-06T00:00:00Z",
-        "2026-07-07T00:00:00Z"
+        "2026-07-01T12:00:00Z",
+        "2026-07-02T12:00:00Z",
+        "2026-07-03T12:00:00Z",
+        "2026-07-04T12:00:00Z",
+        "2026-07-05T12:00:00Z",
+        "2026-07-06T12:00:00Z"
       ],
       "time_recife_local": [
-        "2026-07-01T21:00:00",
-        "2026-07-02T21:00:00",
-        "2026-07-03T21:00:00",
-        "2026-07-04T21:00:00",
-        "2026-07-05T21:00:00",
-        "2026-07-06T21:00:00"
+        "2026-07-01T09:00:00",
+        "2026-07-02T09:00:00",
+        "2026-07-03T09:00:00",
+        "2026-07-04T09:00:00",
+        "2026-07-05T09:00:00",
+        "2026-07-06T09:00:00"
       ],
       "values": [
-        0.75,
-        0.0,
-        1.0,
-        7.75,
-        3.25,
-        1.0
+        3.75,
+        0.25,
+        4.5,
+        13.75,
+        14.0,
+        0.0
       ]
     },
     "tpg20": {
       "times_utc": [
-        "2026-07-02T00:00:00Z",
-        "2026-07-03T00:00:00Z",
-        "2026-07-04T00:00:00Z",
-        "2026-07-05T00:00:00Z",
-        "2026-07-06T00:00:00Z",
-        "2026-07-07T00:00:00Z"
+        "2026-07-01T12:00:00Z",
+        "2026-07-02T12:00:00Z",
+        "2026-07-03T12:00:00Z",
+        "2026-07-04T12:00:00Z",
+        "2026-07-05T12:00:00Z",
+        "2026-07-06T12:00:00Z"
       ],
       "time_recife_local": [
-        "2026-07-01T21:00:00",
-        "2026-07-02T21:00:00",
-        "2026-07-03T21:00:00",
-        "2026-07-04T21:00:00",
-        "2026-07-05T21:00:00",
-        "2026-07-06T21:00:00"
+        "2026-07-01T09:00:00",
+        "2026-07-02T09:00:00",
+        "2026-07-03T09:00:00",
+        "2026-07-04T09:00:00",
+        "2026-07-05T09:00:00",
+        "2026-07-06T09:00:00"
       ],
       "values": [
+        0.75,
         0.0,
         0.0,
-        0.0,
-        1.25,
-        0.0,
+        3.25,
+        3.0,
         0.0
       ]
     },
     "10fgg10": {
       "times_utc": [
-        "2026-07-02T00:00:00Z",
-        "2026-07-03T00:00:00Z",
-        "2026-07-04T00:00:00Z",
-        "2026-07-05T00:00:00Z",
-        "2026-07-06T00:00:00Z",
-        "2026-07-07T00:00:00Z"
+        "2026-07-01T12:00:00Z",
+        "2026-07-02T12:00:00Z",
+        "2026-07-03T12:00:00Z",
+        "2026-07-04T12:00:00Z",
+        "2026-07-05T12:00:00Z",
+        "2026-07-06T12:00:00Z"
       ],
       "time_recife_local": [
-        "2026-07-01T21:00:00",
-        "2026-07-02T21:00:00",
-        "2026-07-03T21:00:00",
-        "2026-07-04T21:00:00",
-        "2026-07-05T21:00:00",
-        "2026-07-06T21:00:00"
+        "2026-07-01T09:00:00",
+        "2026-07-02T09:00:00",
+        "2026-07-03T09:00:00",
+        "2026-07-04T09:00:00",
+        "2026-07-05T09:00:00",
+        "2026-07-06T09:00:00"
       ],
       "values": [
-        100.0,
+        97.25,
+        99.5,
         98.25,
-        83.5,
-        79.25,
-        79.0,
-        92.5
+        71.0,
+        79.5,
+        91.5
       ]
     },
     "10fgg15": {
-      "times_utc": [
-        "2026-07-02T00:00:00Z",
-        "2026-07-03T00:00:00Z",
-        "2026-07-04T00:00:00Z",
-        "2026-07-05T00:00:00Z",
-        "2026-07-06T00:00:00Z",
-        "2026-07-07T00:00:00Z"
-      ],
-      "time_recife_local": [
-        "2026-07-01T21:00:00",
-        "2026-07-02T21:00:00",
-        "2026-07-03T21:00:00",
-        "2026-07-04T21:00:00",
-        "2026-07-05T21:00:00",
-        "2026-07-06T21:00:00"
-      ],
-      "values": [
-        6.25,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    "10fgg25": {
       "times_utc": [
         "2026-07-01T12:00:00Z",
         "2026-07-02T12:00:00Z",
@@ -282,6 +258,32 @@
         "2026-07-04T09:00:00",
         "2026-07-05T09:00:00",
         "2026-07-06T09:00:00"
+      ],
+      "values": [
+        1.25,
+        0.0,
+        0.0,
+        0.0,
+        0.75,
+        0.75
+      ]
+    },
+    "10fgg25": {
+      "times_utc": [
+        "2026-07-02T00:00:00Z",
+        "2026-07-03T00:00:00Z",
+        "2026-07-04T00:00:00Z",
+        "2026-07-05T00:00:00Z",
+        "2026-07-06T00:00:00Z",
+        "2026-07-07T00:00:00Z"
+      ],
+      "time_recife_local": [
+        "2026-07-01T21:00:00",
+        "2026-07-02T21:00:00",
+        "2026-07-03T21:00:00",
+        "2026-07-04T21:00:00",
+        "2026-07-05T21:00:00",
+        "2026-07-06T21:00:00"
       ],
       "values": [
         0.0,
@@ -296,6 +298,7 @@
   "waef_ep": {
     "swhg2": {
       "times_utc": [
+        "2026-07-01T00:00:00Z",
         "2026-07-01T12:00:00Z",
         "2026-07-02T00:00:00Z",
         "2026-07-02T12:00:00Z",
@@ -306,10 +309,10 @@
         "2026-07-05T00:00:00Z",
         "2026-07-05T12:00:00Z",
         "2026-07-06T00:00:00Z",
-        "2026-07-06T12:00:00Z",
-        "2026-07-07T00:00:00Z"
+        "2026-07-06T12:00:00Z"
       ],
       "time_recife_local": [
+        "2026-06-30T21:00:00",
         "2026-07-01T09:00:00",
         "2026-07-01T21:00:00",
         "2026-07-02T09:00:00",
@@ -320,22 +323,21 @@
         "2026-07-04T21:00:00",
         "2026-07-05T09:00:00",
         "2026-07-05T21:00:00",
-        "2026-07-06T09:00:00",
-        "2026-07-06T21:00:00"
+        "2026-07-06T09:00:00"
       ],
       "values": [
+        98.0,
         100.0,
-        99.0,
+        98.5,
         100.0,
-        93.0,
-        85.5,
-        83.5,
+        98.5,
+        88.0,
+        75.5,
         22.5,
         1.5,
         0.0,
         0.0,
-        0.0,
-        1.5
+        0.0
       ]
     },
     "swhg4": {
