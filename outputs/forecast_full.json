@@ -1,6 +1,6 @@
 {
   "schema_version": "1.1",
-  "generated_at_local": "2026-07-01T17:58:00",
+  "generated_at_local": "2026-07-02T11:29:44",
   "timezone": "America/Recife",
   "location": {
     "name": "Recife, PE",
@@ -16,10 +16,10 @@
     }
   },
   "time_window": {
-    "start_utc": "2026-07-01T03:00:00Z",
-    "end_utc": "2026-07-06T03:00:00Z",
-    "start_recife_local": "2026-07-01T00:00:00",
-    "end_recife_local": "2026-07-06T00:00:00",
+    "start_utc": "2026-07-02T03:00:00Z",
+    "end_utc": "2026-07-07T03:00:00Z",
+    "start_recife_local": "2026-07-02T00:00:00",
+    "end_recife_local": "2026-07-07T00:00:00",
     "days_ahead_requested": 5
   },
   "sources": {
@@ -56,630 +56,6 @@
   },
   "days": [
     {
-      "date_local": "2026-07-01",
-      "timezone": "America/Recife",
-      "sun": {
-        "sunrise_local": "05:33",
-        "sunset_local": "17:13"
-      },
-      "sea_level": {
-        "unit": "m",
-        "series": {
-          "time_local": [
-            "2026-07-01T00:00:00",
-            "2026-07-01T03:00:00",
-            "2026-07-01T06:00:00",
-            "2026-07-01T09:00:00",
-            "2026-07-01T12:00:00",
-            "2026-07-01T15:00:00",
-            "2026-07-01T18:00:00",
-            "2026-07-01T21:00:00"
-          ],
-          "values": [
-            1.084,
-            2.202,
-            1.969,
-            0.757,
-            0.827,
-            1.982,
-            2.007,
-            0.922
-          ]
-        },
-        "high_tides": [
-          {
-            "time_local": "2026-07-01T04:00:00",
-            "height_m": 2.342
-          },
-          {
-            "time_local": "2026-07-01T17:00:00",
-            "height_m": 2.208
-          }
-        ],
-        "low_tides": [
-          {
-            "time_local": "2026-07-01T10:00:00",
-            "height_m": 0.576
-          }
-        ],
-        "daily_min_m": 0.757,
-        "daily_min_time_local": "2026-07-01T09:00:00",
-        "daily_max_m": 2.202,
-        "daily_max_time_local": "2026-07-01T03:00:00"
-      },
-      "tide": {
-        "unit": "m",
-        "series": {
-          "time_local": [
-            "2026-07-01T00:00:00",
-            "2026-07-01T00:30:00",
-            "2026-07-01T01:00:00",
-            "2026-07-01T01:30:00",
-            "2026-07-01T02:00:00",
-            "2026-07-01T02:30:00",
-            "2026-07-01T03:00:00",
-            "2026-07-01T03:30:00",
-            "2026-07-01T04:00:00",
-            "2026-07-01T04:30:00",
-            "2026-07-01T05:00:00",
-            "2026-07-01T05:30:00",
-            "2026-07-01T06:00:00",
-            "2026-07-01T06:30:00",
-            "2026-07-01T07:00:00",
-            "2026-07-01T07:30:00",
-            "2026-07-01T08:00:00",
-            "2026-07-01T08:30:00",
-            "2026-07-01T09:00:00",
-            "2026-07-01T09:30:00",
-            "2026-07-01T10:00:00",
-            "2026-07-01T10:30:00",
-            "2026-07-01T11:00:00",
-            "2026-07-01T11:30:00",
-            "2026-07-01T12:00:00",
-            "2026-07-01T12:30:00",
-            "2026-07-01T13:00:00",
-            "2026-07-01T13:30:00",
-            "2026-07-01T14:00:00",
-            "2026-07-01T14:30:00",
-            "2026-07-01T15:00:00",
-            "2026-07-01T15:30:00",
-            "2026-07-01T16:00:00",
-            "2026-07-01T16:30:00",
-            "2026-07-01T17:00:00",
-            "2026-07-01T17:30:00",
-            "2026-07-01T18:00:00",
-            "2026-07-01T18:30:00",
-            "2026-07-01T19:00:00",
-            "2026-07-01T19:30:00",
-            "2026-07-01T20:00:00",
-            "2026-07-01T20:30:00",
-            "2026-07-01T21:00:00",
-            "2026-07-01T21:30:00",
-            "2026-07-01T22:00:00",
-            "2026-07-01T22:30:00",
-            "2026-07-01T23:00:00",
-            "2026-07-01T23:30:00"
-          ],
-          "values": [
-            0.808,
-            0.992,
-            1.198,
-            1.414,
-            1.626,
-            1.819,
-            1.981,
-            2.101,
-            2.169,
-            2.182,
-            2.137,
-            2.037,
-            1.888,
-            1.7,
-            1.485,
-            1.257,
-            1.03,
-            0.819,
-            0.637,
-            0.493,
-            0.398,
-            0.356,
-            0.369,
-            0.436,
-            0.553,
-            0.712,
-            0.903,
-            1.114,
-            1.331,
-            1.541,
-            1.731,
-            1.886,
-            1.998,
-            2.058,
-            2.063,
-            2.013,
-            1.912,
-            1.767,
-            1.588,
-            1.389,
-            1.182,
-            0.983,
-            0.805,
-            0.659,
-            0.556,
-            0.501,
-            0.498,
-            0.548
-          ]
-        },
-        "high_tides": [
-          {
-            "time_local": "2026-07-01T04:30:00",
-            "height_m": 2.186
-          },
-          {
-            "time_local": "2026-07-01T17:00:00",
-            "height_m": 2.07
-          }
-        ],
-        "low_tides": [
-          {
-            "time_local": "2026-07-01T10:50:00",
-            "height_m": 0.352
-          },
-          {
-            "time_local": "2026-07-01T22:55:00",
-            "height_m": 0.491
-          }
-        ],
-        "low_tide_m": 0.356,
-        "high_tide_m": 2.182
-      },
-      "meteo": {
-        "units": {
-          "air_temp_c": "°C",
-          "humidity_pct": "%",
-          "wind_speed_ms": "m/s",
-          "wind_dir_sector": "16-pt compass",
-          "rain_prob_pct": "%",
-          "cloud_cover_pct": "%",
-          "msl_pressure_hpa": "hPa"
-        },
-        "daily": {
-          "air_temp": {
-            "min": 23.94,
-            "max": 27.48,
-            "mean": 25.39,
-            "min_time_local": "2026-07-01T00:00:00",
-            "max_time_local": "2026-07-01T12:00:00"
-          },
-          "humidity": {
-            "mean": 75.2
-          },
-          "wind_speed": {
-            "min": 5.18,
-            "max": 7.55,
-            "mean": 5.95,
-            "min_time_local": "2026-07-01T03:00:00",
-            "max_time_local": "2026-07-01T09:00:00"
-          },
-          "wind_dir_sector_mode": "SE",
-          "rain_prob_pct_max": 87.8,
-          "rain_prob_pct_mean": 87.8,
-          "cloud_cover": {
-            "mean": 28.9
-          },
-          "uv_class": "médio"
-        },
-        "series": {
-          "air_temp_c": {
-            "time_local": [
-              "2026-07-01T00:00:00",
-              "2026-07-01T03:00:00",
-              "2026-07-01T06:00:00",
-              "2026-07-01T09:00:00",
-              "2026-07-01T12:00:00",
-              "2026-07-01T15:00:00",
-              "2026-07-01T18:00:00",
-              "2026-07-01T21:00:00"
-            ],
-            "values": [
-              23.94,
-              23.95,
-              24.33,
-              26.34,
-              27.48,
-              27.14,
-              25.19,
-              24.78
-            ]
-          },
-          "humidity_pct": {
-            "time_local": [
-              "2026-07-01T00:00:00",
-              "2026-07-01T03:00:00",
-              "2026-07-01T06:00:00",
-              "2026-07-01T09:00:00",
-              "2026-07-01T12:00:00",
-              "2026-07-01T15:00:00",
-              "2026-07-01T18:00:00",
-              "2026-07-01T21:00:00"
-            ],
-            "values": [
-              85.52,
-              84.78,
-              80.08,
-              68.81,
-              62.02,
-              62.73,
-              77.92,
-              79.61
-            ]
-          },
-          "wind_speed_ms": {
-            "time_local": [
-              "2026-07-01T00:00:00",
-              "2026-07-01T03:00:00",
-              "2026-07-01T06:00:00",
-              "2026-07-01T09:00:00",
-              "2026-07-01T12:00:00",
-              "2026-07-01T15:00:00",
-              "2026-07-01T18:00:00",
-              "2026-07-01T21:00:00"
-            ],
-            "values": [
-              5.37,
-              5.18,
-              5.6,
-              7.55,
-              7.0,
-              5.84,
-              5.36,
-              5.72
-            ]
-          },
-          "wind_dir_sector": {
-            "time_local": [
-              "2026-07-01T00:00:00",
-              "2026-07-01T03:00:00",
-              "2026-07-01T06:00:00",
-              "2026-07-01T09:00:00",
-              "2026-07-01T12:00:00",
-              "2026-07-01T15:00:00",
-              "2026-07-01T18:00:00",
-              "2026-07-01T21:00:00"
-            ],
-            "values": [
-              "SE",
-              "SE",
-              "SE",
-              "SE",
-              "SE",
-              "SE",
-              "SE",
-              "SE"
-            ]
-          },
-          "rain_prob_pct": {
-            "time_local": [
-              "2026-07-01T00:00:00",
-              "2026-07-01T03:00:00",
-              "2026-07-01T06:00:00",
-              "2026-07-01T09:00:00",
-              "2026-07-01T12:00:00",
-              "2026-07-01T15:00:00",
-              "2026-07-01T18:00:00",
-              "2026-07-01T21:00:00"
-            ],
-            "values": [
-              87.8,
-              87.8,
-              87.8,
-              87.8,
-              87.8,
-              87.8,
-              87.8,
-              87.8
-            ]
-          },
-          "cloud_cover_pct": {
-            "time_local": [
-              "2026-07-01T00:00:00",
-              "2026-07-01T03:00:00",
-              "2026-07-01T06:00:00",
-              "2026-07-01T09:00:00",
-              "2026-07-01T12:00:00",
-              "2026-07-01T15:00:00",
-              "2026-07-01T18:00:00",
-              "2026-07-01T21:00:00"
-            ],
-            "values": [
-              65.23,
-              62.89,
-              26.95,
-              8.2,
-              5.47,
-              8.59,
-              28.52,
-              25.0
-            ]
-          },
-          "msl_pressure_hpa": {
-            "time_local": [
-              "2026-07-01T00:00:00",
-              "2026-07-01T03:00:00",
-              "2026-07-01T06:00:00",
-              "2026-07-01T09:00:00",
-              "2026-07-01T12:00:00",
-              "2026-07-01T15:00:00",
-              "2026-07-01T18:00:00",
-              "2026-07-01T21:00:00"
-            ],
-            "values": [
-              1015.94,
-              1014.61,
-              1015.24,
-              1016.73,
-              1015.71,
-              1014.83,
-              1015.44,
-              1017.25
-            ]
-          }
-        },
-        "periods": {
-          "madrugada": {
-            "time_local": {
-              "start": "2026-07-01T00:00:00",
-              "end": "2026-07-01T05:00:00"
-            },
-            "air_temp_c": {
-              "min": 23.94,
-              "max": 23.94,
-              "mean": 23.94
-            },
-            "humidity_pct": 85.5,
-            "wind_speed_ms": 5.37,
-            "wind_dir_sector": "SE",
-            "rain_prob_pct": 87.8,
-            "cloud_cover_pct": 65.2,
-            "uv_class": "baixo",
-            "waves": {
-              "swh_m": 2.19,
-              "mwd_sector": "ESE",
-              "pp1d_s": 9.1
-            }
-          },
-          "manha": {
-            "time_local": {
-              "start": "2026-07-01T06:00:00",
-              "end": "2026-07-01T11:00:00"
-            },
-            "air_temp_c": {
-              "min": 24.33,
-              "max": 24.33,
-              "mean": 24.33
-            },
-            "humidity_pct": 80.1,
-            "wind_speed_ms": 5.6,
-            "wind_dir_sector": "SE",
-            "rain_prob_pct": 87.8,
-            "cloud_cover_pct": 27.0,
-            "uv_class": "baixo",
-            "waves": {
-              "swh_m": 2.52,
-              "mwd_sector": "ESE",
-              "pp1d_s": 9.1
-            }
-          },
-          "tarde": {
-            "time_local": {
-              "start": "2026-07-01T12:00:00",
-              "end": "2026-07-01T17:00:00"
-            },
-            "air_temp_c": {
-              "min": 27.48,
-              "max": 27.48,
-              "mean": 27.48
-            },
-            "humidity_pct": 62.0,
-            "wind_speed_ms": 7.0,
-            "wind_dir_sector": "SE",
-            "rain_prob_pct": 87.8,
-            "cloud_cover_pct": 5.5,
-            "uv_class": "alto",
-            "waves": {
-              "swh_m": 2.54,
-              "mwd_sector": "ESE",
-              "pp1d_s": 9.0
-            }
-          },
-          "noite": {
-            "time_local": {
-              "start": "2026-07-01T18:00:00",
-              "end": "2026-07-01T23:00:00"
-            },
-            "air_temp_c": {
-              "min": 25.19,
-              "max": 25.19,
-              "mean": 25.19
-            },
-            "humidity_pct": 77.9,
-            "wind_speed_ms": 5.36,
-            "wind_dir_sector": "SE",
-            "rain_prob_pct": 87.8,
-            "cloud_cover_pct": 28.5,
-            "uv_class": "médio",
-            "waves": {
-              "swh_m": 2.29,
-              "mwd_sector": "ESE",
-              "pp1d_s": 9.4
-            }
-          }
-        },
-        "summary_pt": "Temperatura entre 23.9° e 27.5°C. Chance de chuva: 88%. Vento: SE 6.0 m/s."
-      },
-      "waves": {
-        "units": {
-          "swh_m": "m",
-          "mwd_sector": "16-pt compass",
-          "pp1d_s": "s"
-        },
-        "daily": {
-          "swh": {
-            "min": 2.19,
-            "max": 2.64,
-            "mean": 2.41,
-            "min_time_local": "2026-07-01T00:00:00",
-            "max_time_local": "2026-07-01T09:00:00"
-          }
-        },
-        "series": {
-          "swh_m": {
-            "time_local": [
-              "2026-07-01T00:00:00",
-              "2026-07-01T03:00:00",
-              "2026-07-01T06:00:00",
-              "2026-07-01T09:00:00",
-              "2026-07-01T12:00:00",
-              "2026-07-01T15:00:00",
-              "2026-07-01T18:00:00",
-              "2026-07-01T21:00:00"
-            ],
-            "values": [
-              2.19,
-              2.36,
-              2.52,
-              2.64,
-              2.54,
-              2.35,
-              2.29,
-              2.34
-            ]
-          },
-          "mwd_sector": {
-            "time_local": [
-              "2026-07-01T00:00:00",
-              "2026-07-01T03:00:00",
-              "2026-07-01T06:00:00",
-              "2026-07-01T09:00:00",
-              "2026-07-01T12:00:00",
-              "2026-07-01T15:00:00",
-              "2026-07-01T18:00:00",
-              "2026-07-01T21:00:00"
-            ],
-            "values": [
-              "ESE",
-              "ESE",
-              "ESE",
-              "ESE",
-              "ESE",
-              "ESE",
-              "ESE",
-              "ESE"
-            ]
-          },
-          "pp1d_s": {
-            "time_local": [
-              "2026-07-01T00:00:00",
-              "2026-07-01T03:00:00",
-              "2026-07-01T06:00:00",
-              "2026-07-01T09:00:00",
-              "2026-07-01T12:00:00",
-              "2026-07-01T15:00:00",
-              "2026-07-01T18:00:00",
-              "2026-07-01T21:00:00"
-            ],
-            "values": [
-              9.1,
-              9.07,
-              9.07,
-              8.96,
-              9.01,
-              9.23,
-              9.43,
-              9.49
-            ]
-          }
-        },
-        "periods": {
-          "madrugada": {
-            "swh_m": 2.19,
-            "mwd_sector": "ESE",
-            "pp1d_s": 9.1
-          },
-          "manha": {
-            "swh_m": 2.52,
-            "mwd_sector": "ESE",
-            "pp1d_s": 9.1
-          },
-          "tarde": {
-            "swh_m": 2.54,
-            "mwd_sector": "ESE",
-            "pp1d_s": 9.0
-          },
-          "noite": {
-            "swh_m": 2.29,
-            "mwd_sector": "ESE",
-            "pp1d_s": 9.4
-          }
-        }
-      },
-      "probabilities": {
-        "daily": {
-          "tpg1": 87.8,
-          "tpg5": 15.5,
-          "tpg10": 0.8,
-          "tpg20": 0.0,
-          "10fgg10": 100.0,
-          "10fgg15": 6.2,
-          "10fgg25": 0.0,
-          "swhg2": 99.5,
-          "swhg4": 0.0
-        }
-      },
-      "ui_cards": {
-        "manha": {
-          "icon_hint": "rainy",
-          "temp_min_max_c": {
-            "min": 24.3,
-            "max": 24.3
-          },
-          "rain_prob_pct": 87.8,
-          "wind_speed_mean_ms": 5.6,
-          "wind_dir_sector": "SE",
-          "uv_class": "baixo"
-        },
-        "tarde": {
-          "icon_hint": "rainy",
-          "temp_min_max_c": {
-            "min": 27.5,
-            "max": 27.5
-          },
-          "rain_prob_pct": 87.8,
-          "wind_speed_mean_ms": 7.0,
-          "wind_dir_sector": "SE",
-          "uv_class": "alto"
-        },
-        "noite": {
-          "icon_hint": "rainy",
-          "temp_min_max_c": {
-            "min": 25.2,
-            "max": 25.2
-          },
-          "rain_prob_pct": 87.8,
-          "wind_speed_mean_ms": 5.4,
-          "wind_dir_sector": "SE",
-          "uv_class": "médio"
-        },
-        "daily_badges": {
-          "rain_prob_pct_max": 87.8,
-          "rain_prob_ge_10mm_pct": 0.8,
-          "gust_prob_ge_10ms_pct": 100.0,
-          "swh_prob_ge_2m_pct": 99.5
-        }
-      }
-    },
-    {
       "date_local": "2026-07-02",
       "timezone": "America/Recife",
       "sun": {
@@ -700,35 +76,35 @@
             "2026-07-02T21:00:00"
           ],
           "values": [
-            0.922,
-            2.073,
-            2.184,
-            0.967,
-            0.688,
-            1.777,
-            2.131,
-            1.107
+            0.933,
+            2.079,
+            2.192,
+            0.979,
+            0.693,
+            1.782,
+            2.139,
+            1.117
           ]
         },
         "high_tides": [
           {
             "time_local": "2026-07-02T05:00:00",
-            "height_m": 2.364
+            "height_m": 2.371
           },
           {
             "time_local": "2026-07-02T17:00:00",
-            "height_m": 2.211
+            "height_m": 2.221
           }
         ],
         "low_tides": [
           {
             "time_local": "2026-07-02T11:00:00",
-            "height_m": 0.583
+            "height_m": 0.589
           }
         ],
-        "daily_min_m": 0.688,
+        "daily_min_m": 0.693,
         "daily_min_time_local": "2026-07-02T12:00:00",
-        "daily_max_m": 2.184,
+        "daily_max_m": 2.192,
         "daily_max_time_local": "2026-07-02T06:00:00"
       },
       "tide": {
@@ -870,27 +246,27 @@
         },
         "daily": {
           "air_temp": {
-            "min": 24.07,
-            "max": 27.0,
-            "mean": 25.39,
+            "min": 24.44,
+            "max": 27.53,
+            "mean": 25.83,
             "min_time_local": "2026-07-02T06:00:00",
             "max_time_local": "2026-07-02T12:00:00"
           },
           "humidity": {
-            "mean": 74.7
+            "mean": 68.2
           },
           "wind_speed": {
-            "min": 4.94,
-            "max": 6.95,
-            "mean": 5.66,
-            "min_time_local": "2026-07-02T18:00:00",
+            "min": 3.91,
+            "max": 7.23,
+            "mean": 5.51,
+            "min_time_local": "2026-07-02T15:00:00",
             "max_time_local": "2026-07-02T09:00:00"
           },
           "wind_dir_sector_mode": "SSE",
-          "rain_prob_pct_max": 51.2,
-          "rain_prob_pct_mean": 51.2,
+          "rain_prob_pct_max": 8.8,
+          "rain_prob_pct_mean": 8.8,
           "cloud_cover": {
-            "mean": 22.0
+            "mean": 15.5
           },
           "uv_class": "médio"
         },
@@ -907,14 +283,14 @@
               "2026-07-02T21:00:00"
             ],
             "values": [
-              24.7,
-              24.55,
-              24.07,
-              26.39,
-              27.0,
-              26.67,
-              25.06,
-              24.66
+              25.4,
+              25.12,
+              24.44,
+              27.02,
+              27.53,
+              26.99,
+              25.18,
+              24.99
             ]
           },
           "humidity_pct": {
@@ -929,14 +305,14 @@
               "2026-07-02T21:00:00"
             ],
             "values": [
-              76.0,
-              75.17,
-              79.89,
-              70.23,
-              66.65,
-              70.35,
-              78.43,
-              80.74
+              68.69,
+              69.31,
+              76.7,
+              61.8,
+              60.43,
+              61.25,
+              72.49,
+              75.17
             ]
           },
           "wind_speed_ms": {
@@ -951,14 +327,14 @@
               "2026-07-02T21:00:00"
             ],
             "values": [
-              5.69,
-              5.7,
-              5.24,
-              6.95,
-              6.57,
-              5.09,
-              4.94,
-              5.09
+              5.78,
+              6.67,
+              5.92,
+              7.23,
+              5.25,
+              3.91,
+              4.22,
+              5.07
             ]
           },
           "wind_dir_sector": {
@@ -995,14 +371,14 @@
               "2026-07-02T21:00:00"
             ],
             "values": [
-              51.2,
-              51.2,
-              51.2,
-              51.2,
-              51.2,
-              51.2,
-              51.2,
-              51.2
+              8.8,
+              8.8,
+              8.8,
+              8.8,
+              8.8,
+              8.8,
+              8.8,
+              8.8
             ]
           },
           "cloud_cover_pct": {
@@ -1017,14 +393,14 @@
               "2026-07-02T21:00:00"
             ],
             "values": [
-              10.55,
-              17.19,
-              22.27,
-              37.89,
-              48.83,
-              7.81,
-              12.89,
-              18.36
+              20.31,
+              35.55,
+              18.75,
+              23.83,
+              0.39,
+              0.0,
+              8.59,
+              16.41
             ]
           },
           "msl_pressure_hpa": {
@@ -1040,13 +416,13 @@
             ],
             "values": [
               1016.81,
-              1015.15,
-              1015.81,
-              1017.55,
-              1016.4,
-              1014.55,
-              1015.54,
-              1017.08
+              1015.11,
+              1015.88,
+              1017.25,
+              1016.15,
+              1014.71,
+              1015.3,
+              1016.86
             ]
           }
         },
@@ -1057,20 +433,20 @@
               "end": "2026-07-02T05:00:00"
             },
             "air_temp_c": {
-              "min": 24.7,
-              "max": 24.7,
-              "mean": 24.7
+              "min": 25.4,
+              "max": 25.4,
+              "mean": 25.4
             },
-            "humidity_pct": 76.0,
-            "wind_speed_ms": 5.69,
+            "humidity_pct": 68.7,
+            "wind_speed_ms": 5.78,
             "wind_dir_sector": "SSE",
-            "rain_prob_pct": 51.2,
-            "cloud_cover_pct": 10.5,
+            "rain_prob_pct": 8.8,
+            "cloud_cover_pct": 20.3,
             "uv_class": "baixo",
             "waves": {
-              "swh_m": 2.36,
+              "swh_m": 2.34,
               "mwd_sector": "ESE",
-              "pp1d_s": 9.6
+              "pp1d_s": 9.5
             }
           },
           "manha": {
@@ -1079,20 +455,20 @@
               "end": "2026-07-02T11:00:00"
             },
             "air_temp_c": {
-              "min": 24.07,
-              "max": 24.07,
-              "mean": 24.07
+              "min": 24.44,
+              "max": 24.44,
+              "mean": 24.44
             },
-            "humidity_pct": 79.9,
-            "wind_speed_ms": 5.24,
+            "humidity_pct": 76.7,
+            "wind_speed_ms": 5.92,
             "wind_dir_sector": "SSE",
-            "rain_prob_pct": 51.2,
-            "cloud_cover_pct": 22.3,
+            "rain_prob_pct": 8.8,
+            "cloud_cover_pct": 18.8,
             "uv_class": "baixo",
             "waves": {
-              "swh_m": 2.38,
+              "swh_m": 2.43,
               "mwd_sector": "ESE",
-              "pp1d_s": 9.7
+              "pp1d_s": 9.4
             }
           },
           "tarde": {
@@ -1101,20 +477,20 @@
               "end": "2026-07-02T17:00:00"
             },
             "air_temp_c": {
-              "min": 27.0,
-              "max": 27.0,
-              "mean": 27.0
+              "min": 27.53,
+              "max": 27.53,
+              "mean": 27.53
             },
-            "humidity_pct": 66.7,
-            "wind_speed_ms": 6.57,
+            "humidity_pct": 60.4,
+            "wind_speed_ms": 5.25,
             "wind_dir_sector": "SSE",
-            "rain_prob_pct": 51.2,
-            "cloud_cover_pct": 48.8,
+            "rain_prob_pct": 8.8,
+            "cloud_cover_pct": 0.4,
             "uv_class": "alto",
             "waves": {
               "swh_m": 2.36,
               "mwd_sector": "ESE",
-              "pp1d_s": 9.7
+              "pp1d_s": 9.4
             }
           },
           "noite": {
@@ -1123,24 +499,24 @@
               "end": "2026-07-02T23:00:00"
             },
             "air_temp_c": {
-              "min": 25.06,
-              "max": 25.06,
-              "mean": 25.06
+              "min": 25.18,
+              "max": 25.18,
+              "mean": 25.18
             },
-            "humidity_pct": 78.4,
-            "wind_speed_ms": 4.94,
+            "humidity_pct": 72.5,
+            "wind_speed_ms": 4.22,
             "wind_dir_sector": "SSE",
-            "rain_prob_pct": 51.2,
-            "cloud_cover_pct": 12.9,
+            "rain_prob_pct": 8.8,
+            "cloud_cover_pct": 8.6,
             "uv_class": "médio",
             "waves": {
-              "swh_m": 2.17,
+              "swh_m": 2.13,
               "mwd_sector": "ESE",
-              "pp1d_s": 9.6
+              "pp1d_s": 9.4
             }
           }
         },
-        "summary_pt": "Temperatura entre 24.1° e 27.0°C. Chance de chuva: 51%. Vento: SSE 5.7 m/s."
+        "summary_pt": "Temperatura entre 24.4° e 27.5°C. Chance de chuva: 9%. Vento: SSE 5.5 m/s."
       },
       "waves": {
         "units": {
@@ -1150,8 +526,8 @@
         },
         "daily": {
           "swh": {
-            "min": 2.09,
-            "max": 2.39,
+            "min": 2.08,
+            "max": 2.44,
             "mean": 2.3,
             "min_time_local": "2026-07-02T21:00:00",
             "max_time_local": "2026-07-02T09:00:00"
@@ -1170,14 +546,14 @@
               "2026-07-02T21:00:00"
             ],
             "values": [
-              2.36,
+              2.34,
               2.37,
-              2.38,
-              2.39,
+              2.43,
+              2.44,
               2.36,
-              2.27,
-              2.17,
-              2.09
+              2.24,
+              2.13,
+              2.08
             ]
           },
           "mwd_sector": {
@@ -1214,92 +590,92 @@
               "2026-07-02T21:00:00"
             ],
             "values": [
-              9.56,
-              9.66,
-              9.73,
-              9.74,
-              9.67,
-              9.6,
-              9.61,
-              9.66
+              9.45,
+              9.48,
+              9.44,
+              9.4,
+              9.39,
+              9.39,
+              9.42,
+              9.47
             ]
           }
         },
         "periods": {
           "madrugada": {
-            "swh_m": 2.36,
+            "swh_m": 2.34,
             "mwd_sector": "ESE",
-            "pp1d_s": 9.6
+            "pp1d_s": 9.5
           },
           "manha": {
-            "swh_m": 2.38,
+            "swh_m": 2.43,
             "mwd_sector": "ESE",
-            "pp1d_s": 9.7
+            "pp1d_s": 9.4
           },
           "tarde": {
             "swh_m": 2.36,
             "mwd_sector": "ESE",
-            "pp1d_s": 9.7
+            "pp1d_s": 9.4
           },
           "noite": {
-            "swh_m": 2.17,
+            "swh_m": 2.13,
             "mwd_sector": "ESE",
-            "pp1d_s": 9.6
+            "pp1d_s": 9.4
           }
         }
       },
       "probabilities": {
         "daily": {
-          "tpg1": 51.2,
-          "tpg5": 2.5,
+          "tpg1": 8.8,
+          "tpg5": 0.0,
           "tpg10": 0.0,
           "tpg20": 0.0,
-          "10fgg10": 98.2,
-          "10fgg15": 0.0,
+          "10fgg10": 97.8,
+          "10fgg15": 3.5,
           "10fgg25": 0.0,
-          "swhg2": 96.5,
+          "swhg2": 97.8,
           "swhg4": 0.0
         }
       },
       "ui_cards": {
         "manha": {
-          "icon_hint": "rainy",
+          "icon_hint": "sunny",
           "temp_min_max_c": {
-            "min": 24.1,
-            "max": 24.1
+            "min": 24.4,
+            "max": 24.4
           },
-          "rain_prob_pct": 51.2,
-          "wind_speed_mean_ms": 5.2,
+          "rain_prob_pct": 8.8,
+          "wind_speed_mean_ms": 5.9,
           "wind_dir_sector": "SSE",
           "uv_class": "baixo"
         },
         "tarde": {
-          "icon_hint": "rainy",
+          "icon_hint": "sunny",
           "temp_min_max_c": {
-            "min": 27.0,
-            "max": 27.0
+            "min": 27.5,
+            "max": 27.5
           },
-          "rain_prob_pct": 51.2,
-          "wind_speed_mean_ms": 6.6,
+          "rain_prob_pct": 8.8,
+          "wind_speed_mean_ms": 5.3,
           "wind_dir_sector": "SSE",
           "uv_class": "alto"
         },
         "noite": {
-          "icon_hint": "rainy",
+          "icon_hint": "sunny",
           "temp_min_max_c": {
-            "min": 25.1,
-            "max": 25.1
+            "min": 25.2,
+            "max": 25.2
           },
-          "rain_prob_pct": 51.2,
-          "wind_speed_mean_ms": 4.9,
+          "rain_prob_pct": 8.8,
+          "wind_speed_mean_ms": 4.2,
           "wind_dir_sector": "SSE",
           "uv_class": "médio"
         },
         "daily_badges": {
-          "rain_prob_pct_max": 51.2,
+          "rain_prob_pct_max": 8.8,
           "rain_prob_ge_10mm_pct": 0.0,
-          "gust_prob_ge_10ms_pct": 98.2,
-          "swh_prob_ge_2m_pct": 96.5
+          "gust_prob_ge_10ms_pct": 97.8,
+          "swh_prob_ge_2m_pct": 97.8
         }
       }
     },
@@ -1324,35 +700,35 @@
             "2026-07-03T21:00:00"
           ],
           "values": [
-            0.799,
-            1.852,
-            2.303,
-            1.22,
-            0.638,
-            1.537,
-            2.185,
-            1.343
+            0.811,
+            1.868,
+            2.32,
+            1.239,
+            0.655,
+            1.553,
+            2.2,
+            1.36
           ]
         },
         "high_tides": [
           {
             "time_local": "2026-07-03T05:00:00",
-            "height_m": 2.351
+            "height_m": 2.366
           },
           {
             "time_local": "2026-07-03T18:00:00",
-            "height_m": 2.185
+            "height_m": 2.2
           }
         ],
         "low_tides": [
           {
             "time_local": "2026-07-03T12:00:00",
-            "height_m": 0.638
+            "height_m": 0.655
           }
         ],
-        "daily_min_m": 0.638,
+        "daily_min_m": 0.655,
         "daily_min_time_local": "2026-07-03T12:00:00",
-        "daily_max_m": 2.303,
+        "daily_max_m": 2.32,
         "daily_max_time_local": "2026-07-03T06:00:00"
       },
       "tide": {
@@ -1490,27 +866,27 @@
         },
         "daily": {
           "air_temp": {
-            "min": 23.98,
-            "max": 26.34,
-            "mean": 25.15,
+            "min": 23.97,
+            "max": 27.35,
+            "mean": 25.65,
             "min_time_local": "2026-07-03T06:00:00",
-            "max_time_local": "2026-07-03T15:00:00"
+            "max_time_local": "2026-07-03T12:00:00"
           },
           "humidity": {
-            "mean": 80.3
+            "mean": 75.6
           },
           "wind_speed": {
-            "min": 3.54,
-            "max": 4.69,
-            "mean": 4.42,
+            "min": 4.13,
+            "max": 6.39,
+            "mean": 5.17,
             "min_time_local": "2026-07-03T06:00:00",
-            "max_time_local": "2026-07-03T00:00:00"
+            "max_time_local": "2026-07-03T09:00:00"
           },
           "wind_dir_sector_mode": "SSE",
-          "rain_prob_pct_max": 80.2,
-          "rain_prob_pct_mean": 80.2,
+          "rain_prob_pct_max": 58.5,
+          "rain_prob_pct_mean": 58.5,
           "cloud_cover": {
-            "mean": 59.1
+            "mean": 38.3
           },
           "uv_class": "médio"
         },
@@ -1527,14 +903,14 @@
               "2026-07-03T21:00:00"
             ],
             "values": [
-              24.27,
-              24.09,
-              23.98,
-              25.74,
-              26.18,
-              26.34,
-              25.57,
-              25.01
+              24.83,
+              24.11,
+              23.97,
+              26.95,
+              27.35,
+              27.04,
+              25.7,
+              25.26
             ]
           },
           "humidity_pct": {
@@ -1549,14 +925,14 @@
               "2026-07-03T21:00:00"
             ],
             "values": [
-              82.5,
-              82.71,
-              83.26,
-              79.05,
-              77.33,
-              76.84,
-              77.76,
-              83.29
+              77.27,
+              80.75,
+              83.5,
+              70.13,
+              68.02,
+              69.48,
+              76.45,
+              78.99
             ]
           },
           "wind_speed_ms": {
@@ -1571,14 +947,14 @@
               "2026-07-03T21:00:00"
             ],
             "values": [
-              4.69,
-              4.66,
-              3.54,
-              4.56,
-              4.69,
-              4.6,
-              4.59,
-              4.02
+              4.93,
+              4.41,
+              4.13,
+              6.39,
+              6.1,
+              5.59,
+              4.84,
+              4.94
             ]
           },
           "wind_dir_sector": {
@@ -1596,11 +972,11 @@
               "SSE",
               "SSE",
               "SSE",
-              "SSE",
+              "SE",
+              "SE",
               "SE",
               "SSE",
-              "SE",
-              "SE"
+              "SSE"
             ]
           },
           "rain_prob_pct": {
@@ -1615,14 +991,14 @@
               "2026-07-03T21:00:00"
             ],
             "values": [
-              80.2,
-              80.2,
-              80.2,
-              80.2,
-              80.2,
-              80.2,
-              80.2,
-              80.2
+              58.5,
+              58.5,
+              58.5,
+              58.5,
+              58.5,
+              58.5,
+              58.5,
+              58.5
             ]
           },
           "cloud_cover_pct": {
@@ -1637,14 +1013,14 @@
               "2026-07-03T21:00:00"
             ],
             "values": [
-              68.36,
-              64.84,
-              91.02,
-              78.52,
-              72.66,
               20.31,
-              28.91,
-              48.44
+              54.69,
+              22.27,
+              21.09,
+              49.22,
+              24.22,
+              62.11,
+              52.34
             ]
           },
           "msl_pressure_hpa": {
@@ -1659,14 +1035,14 @@
               "2026-07-03T21:00:00"
             ],
             "values": [
-              1016.41,
-              1014.93,
-              1015.63,
-              1017.34,
-              1016.23,
-              1014.6,
-              1015.3,
-              1016.6
+              1016.27,
+              1014.68,
+              1015.26,
+              1016.86,
+              1015.78,
+              1014.34,
+              1015.27,
+              1016.91
             ]
           }
         },
@@ -1677,20 +1053,20 @@
               "end": "2026-07-03T05:00:00"
             },
             "air_temp_c": {
-              "min": 24.27,
-              "max": 24.27,
-              "mean": 24.27
+              "min": 24.83,
+              "max": 24.83,
+              "mean": 24.83
             },
-            "humidity_pct": 82.5,
-            "wind_speed_ms": 4.69,
+            "humidity_pct": 77.3,
+            "wind_speed_ms": 4.93,
             "wind_dir_sector": "SSE",
-            "rain_prob_pct": 80.2,
-            "cloud_cover_pct": 68.4,
+            "rain_prob_pct": 58.5,
+            "cloud_cover_pct": 20.3,
             "uv_class": "baixo",
             "waves": {
-              "swh_m": 2.03,
+              "swh_m": 2.04,
               "mwd_sector": "ESE",
-              "pp1d_s": 9.7
+              "pp1d_s": 9.6
             }
           },
           "manha": {
@@ -1699,18 +1075,18 @@
               "end": "2026-07-03T11:00:00"
             },
             "air_temp_c": {
-              "min": 23.98,
-              "max": 23.98,
-              "mean": 23.98
+              "min": 23.97,
+              "max": 23.97,
+              "mean": 23.97
             },
-            "humidity_pct": 83.3,
-            "wind_speed_ms": 3.54,
+            "humidity_pct": 83.5,
+            "wind_speed_ms": 4.13,
             "wind_dir_sector": "SSE",
-            "rain_prob_pct": 80.2,
-            "cloud_cover_pct": 91.0,
+            "rain_prob_pct": 58.5,
+            "cloud_cover_pct": 22.3,
             "uv_class": "baixo",
             "waves": {
-              "swh_m": 2.02,
+              "swh_m": 2.16,
               "mwd_sector": "ESE",
               "pp1d_s": 9.9
             }
@@ -1721,18 +1097,18 @@
               "end": "2026-07-03T17:00:00"
             },
             "air_temp_c": {
-              "min": 26.18,
-              "max": 26.18,
-              "mean": 26.18
+              "min": 27.35,
+              "max": 27.35,
+              "mean": 27.35
             },
-            "humidity_pct": 77.3,
-            "wind_speed_ms": 4.69,
+            "humidity_pct": 68.0,
+            "wind_speed_ms": 6.1,
             "wind_dir_sector": "SE",
-            "rain_prob_pct": 80.2,
-            "cloud_cover_pct": 72.7,
+            "rain_prob_pct": 58.5,
+            "cloud_cover_pct": 49.2,
             "uv_class": "alto",
             "waves": {
-              "swh_m": 2.06,
+              "swh_m": 2.25,
               "mwd_sector": "ESE",
               "pp1d_s": 9.9
             }
@@ -1743,24 +1119,24 @@
               "end": "2026-07-03T23:00:00"
             },
             "air_temp_c": {
-              "min": 25.57,
-              "max": 25.57,
-              "mean": 25.57
+              "min": 25.7,
+              "max": 25.7,
+              "mean": 25.7
             },
-            "humidity_pct": 77.8,
-            "wind_speed_ms": 4.59,
-            "wind_dir_sector": "SE",
-            "rain_prob_pct": 80.2,
-            "cloud_cover_pct": 28.9,
+            "humidity_pct": 76.4,
+            "wind_speed_ms": 4.84,
+            "wind_dir_sector": "SSE",
+            "rain_prob_pct": 58.5,
+            "cloud_cover_pct": 62.1,
             "uv_class": "médio",
             "waves": {
-              "swh_m": 2.08,
+              "swh_m": 2.24,
               "mwd_sector": "ESE",
-              "pp1d_s": 9.7
+              "pp1d_s": 9.6
             }
           }
         },
-        "summary_pt": "Temperatura entre 24.0° e 26.3°C. Chance de chuva: 80%. Vento: SSE 4.4 m/s."
+        "summary_pt": "Temperatura entre 24.0° e 27.4°C. Chance de chuva: 58%. Vento: SSE 5.2 m/s."
       },
       "waves": {
         "units": {
@@ -1770,11 +1146,11 @@
         },
         "daily": {
           "swh": {
-            "min": 2.02,
-            "max": 2.08,
-            "mean": 2.05,
-            "min_time_local": "2026-07-03T03:00:00",
-            "max_time_local": "2026-07-03T18:00:00"
+            "min": 2.04,
+            "max": 2.25,
+            "mean": 2.18,
+            "min_time_local": "2026-07-03T00:00:00",
+            "max_time_local": "2026-07-03T15:00:00"
           }
         },
         "series": {
@@ -1790,14 +1166,14 @@
               "2026-07-03T21:00:00"
             ],
             "values": [
-              2.03,
-              2.02,
-              2.02,
               2.04,
-              2.06,
-              2.06,
-              2.08,
-              2.08
+              2.09,
+              2.16,
+              2.22,
+              2.25,
+              2.25,
+              2.24,
+              2.19
             ]
           },
           "mwd_sector": {
@@ -1834,50 +1210,50 @@
               "2026-07-03T21:00:00"
             ],
             "values": [
-              9.69,
+              9.61,
               9.8,
-              9.91,
-              9.93,
-              9.88,
-              9.8,
-              9.75,
-              9.71
+              9.92,
+              9.94,
+              9.86,
+              9.7,
+              9.6,
+              9.52
             ]
           }
         },
         "periods": {
           "madrugada": {
-            "swh_m": 2.03,
+            "swh_m": 2.04,
             "mwd_sector": "ESE",
-            "pp1d_s": 9.7
+            "pp1d_s": 9.6
           },
           "manha": {
-            "swh_m": 2.02,
+            "swh_m": 2.16,
             "mwd_sector": "ESE",
             "pp1d_s": 9.9
           },
           "tarde": {
-            "swh_m": 2.06,
+            "swh_m": 2.25,
             "mwd_sector": "ESE",
             "pp1d_s": 9.9
           },
           "noite": {
-            "swh_m": 2.08,
+            "swh_m": 2.24,
             "mwd_sector": "ESE",
-            "pp1d_s": 9.7
+            "pp1d_s": 9.6
           }
         }
       },
       "probabilities": {
         "daily": {
-          "tpg1": 80.2,
-          "tpg5": 14.2,
-          "tpg10": 1.0,
+          "tpg1": 58.5,
+          "tpg5": 2.0,
+          "tpg10": 0.0,
           "tpg20": 0.0,
-          "10fgg10": 83.5,
+          "10fgg10": 91.2,
           "10fgg15": 0.0,
           "10fgg25": 0.0,
-          "swhg2": 84.5,
+          "swhg2": 97.8,
           "swhg4": 0.0
         }
       },
@@ -1888,38 +1264,38 @@
             "min": 24.0,
             "max": 24.0
           },
-          "rain_prob_pct": 80.2,
-          "wind_speed_mean_ms": 3.5,
+          "rain_prob_pct": 58.5,
+          "wind_speed_mean_ms": 4.1,
           "wind_dir_sector": "SSE",
           "uv_class": "baixo"
         },
         "tarde": {
           "icon_hint": "rainy",
           "temp_min_max_c": {
-            "min": 26.2,
-            "max": 26.2
+            "min": 27.4,
+            "max": 27.4
           },
-          "rain_prob_pct": 80.2,
-          "wind_speed_mean_ms": 4.7,
+          "rain_prob_pct": 58.5,
+          "wind_speed_mean_ms": 6.1,
           "wind_dir_sector": "SE",
           "uv_class": "alto"
         },
         "noite": {
           "icon_hint": "rainy",
           "temp_min_max_c": {
-            "min": 25.6,
-            "max": 25.6
+            "min": 25.7,
+            "max": 25.7
           },
-          "rain_prob_pct": 80.2,
-          "wind_speed_mean_ms": 4.6,
-          "wind_dir_sector": "SE",
+          "rain_prob_pct": 58.5,
+          "wind_speed_mean_ms": 4.8,
+          "wind_dir_sector": "SSE",
           "uv_class": "médio"
         },
         "daily_badges": {
-          "rain_prob_pct_max": 80.2,
-          "rain_prob_ge_10mm_pct": 1.0,
-          "gust_prob_ge_10ms_pct": 83.5,
-          "swh_prob_ge_2m_pct": 84.5
+          "rain_prob_pct_max": 58.5,
+          "rain_prob_ge_10mm_pct": 0.0,
+          "gust_prob_ge_10ms_pct": 91.2,
+          "swh_prob_ge_2m_pct": 97.8
         }
       }
     },
@@ -1944,35 +1320,35 @@
             "2026-07-04T21:00:00"
           ],
           "values": [
-            0.768,
-            1.602,
-            2.321,
-            1.485,
-            0.669,
-            1.288,
-            2.148,
-            1.6
+            0.779,
+            1.619,
+            2.344,
+            1.509,
+            0.689,
+            1.303,
+            2.156,
+            1.604
           ]
         },
         "high_tides": [
           {
             "time_local": "2026-07-04T06:00:00",
-            "height_m": 2.321
+            "height_m": 2.344
           },
           {
             "time_local": "2026-07-04T18:00:00",
-            "height_m": 2.148
+            "height_m": 2.156
           }
         ],
         "low_tides": [
           {
             "time_local": "2026-07-04T12:00:00",
-            "height_m": 0.669
+            "height_m": 0.689
           }
         ],
-        "daily_min_m": 0.669,
+        "daily_min_m": 0.689,
         "daily_min_time_local": "2026-07-04T12:00:00",
-        "daily_max_m": 2.321,
+        "daily_max_m": 2.344,
         "daily_max_time_local": "2026-07-04T06:00:00"
       },
       "tide": {
@@ -2114,27 +1490,27 @@
         },
         "daily": {
           "air_temp": {
-            "min": 24.19,
-            "max": 27.0,
-            "mean": 25.52,
+            "min": 24.23,
+            "max": 26.66,
+            "mean": 25.5,
             "min_time_local": "2026-07-04T06:00:00",
             "max_time_local": "2026-07-04T12:00:00"
           },
           "humidity": {
-            "mean": 80.0
+            "mean": 79.2
           },
           "wind_speed": {
-            "min": 3.96,
-            "max": 6.08,
-            "mean": 5.19,
-            "min_time_local": "2026-07-04T00:00:00",
-            "max_time_local": "2026-07-04T12:00:00"
+            "min": 4.4,
+            "max": 6.33,
+            "mean": 5.32,
+            "min_time_local": "2026-07-04T21:00:00",
+            "max_time_local": "2026-07-04T09:00:00"
           },
           "wind_dir_sector_mode": "SSE",
-          "rain_prob_pct_max": 68.2,
-          "rain_prob_pct_mean": 68.2,
+          "rain_prob_pct_max": 80.2,
+          "rain_prob_pct_mean": 80.2,
           "cloud_cover": {
-            "mean": 67.2
+            "mean": 70.3
           },
           "uv_class": "médio"
         },
@@ -2151,14 +1527,14 @@
               "2026-07-04T21:00:00"
             ],
             "values": [
-              24.78,
-              24.52,
-              24.19,
-              26.13,
-              27.0,
-              26.59,
-              25.63,
-              25.31
+              24.96,
+              24.56,
+              24.23,
+              26.12,
+              26.66,
+              26.42,
+              26.03,
+              25.05
             ]
           },
           "humidity_pct": {
@@ -2173,14 +1549,14 @@
               "2026-07-04T21:00:00"
             ],
             "values": [
-              84.55,
-              84.52,
-              86.45,
+              81.64,
+              83.72,
+              85.63,
               78.88,
-              71.22,
-              74.28,
-              79.64,
-              80.83
+              73.8,
+              73.97,
+              74.98,
+              80.87
             ]
           },
           "wind_speed_ms": {
@@ -2195,14 +1571,14 @@
               "2026-07-04T21:00:00"
             ],
             "values": [
-              3.96,
-              4.53,
-              4.71,
-              5.94,
-              6.08,
-              5.65,
-              5.32,
-              5.29
+              5.0,
+              5.06,
+              4.86,
+              6.33,
+              6.21,
+              5.67,
+              5.06,
+              4.4
             ]
           },
           "wind_dir_sector": {
@@ -2217,7 +1593,7 @@
               "2026-07-04T21:00:00"
             ],
             "values": [
-              "SE",
+              "SSE",
               "SSE",
               "SSE",
               "SSE",
@@ -2239,14 +1615,14 @@
               "2026-07-04T21:00:00"
             ],
             "values": [
-              68.2,
-              68.2,
-              68.2,
-              68.2,
-              68.2,
-              68.2,
-              68.2,
-              68.2
+              80.2,
+              80.2,
+              80.2,
+              80.2,
+              80.2,
+              80.2,
+              80.2,
+              80.2
             ]
           },
           "cloud_cover_pct": {
@@ -2261,14 +1637,14 @@
               "2026-07-04T21:00:00"
             ],
             "values": [
-              60.55,
-              55.47,
-              51.17,
-              96.09,
-              86.33,
-              72.66,
-              48.05,
-              67.19
+              53.91,
+              75.39,
+              61.33,
+              43.36,
+              73.44,
+              93.75,
+              94.14,
+              66.8
             ]
           },
           "msl_pressure_hpa": {
@@ -2283,14 +1659,14 @@
               "2026-07-04T21:00:00"
             ],
             "values": [
+              1016.38,
+              1014.95,
               1015.7,
-              1014.38,
-              1015.43,
-              1017.32,
-              1016.1,
-              1014.59,
-              1015.51,
-              1017.0
+              1017.48,
+              1016.27,
+              1014.62,
+              1015.39,
+              1016.87
             ]
           }
         },
@@ -2301,20 +1677,20 @@
               "end": "2026-07-04T05:00:00"
             },
             "air_temp_c": {
-              "min": 24.78,
-              "max": 24.78,
-              "mean": 24.78
+              "min": 24.96,
+              "max": 24.96,
+              "mean": 24.96
             },
-            "humidity_pct": 84.5,
-            "wind_speed_ms": 3.96,
-            "wind_dir_sector": "SE",
-            "rain_prob_pct": 68.2,
-            "cloud_cover_pct": 60.5,
+            "humidity_pct": 81.6,
+            "wind_speed_ms": 5.0,
+            "wind_dir_sector": "SSE",
+            "rain_prob_pct": 80.2,
+            "cloud_cover_pct": 53.9,
             "uv_class": "baixo",
             "waves": {
-              "swh_m": 2.07,
+              "swh_m": 2.12,
               "mwd_sector": "ESE",
-              "pp1d_s": 9.6
+              "pp1d_s": 9.5
             }
           },
           "manha": {
@@ -2323,20 +1699,20 @@
               "end": "2026-07-04T11:00:00"
             },
             "air_temp_c": {
-              "min": 24.19,
-              "max": 24.19,
-              "mean": 24.19
+              "min": 24.23,
+              "max": 24.23,
+              "mean": 24.23
             },
-            "humidity_pct": 86.4,
-            "wind_speed_ms": 4.71,
+            "humidity_pct": 85.6,
+            "wind_speed_ms": 4.86,
             "wind_dir_sector": "SSE",
-            "rain_prob_pct": 68.2,
-            "cloud_cover_pct": 51.2,
+            "rain_prob_pct": 80.2,
+            "cloud_cover_pct": 61.3,
             "uv_class": "baixo",
             "waves": {
-              "swh_m": 2.05,
+              "swh_m": 2.01,
               "mwd_sector": "ESE",
-              "pp1d_s": 9.4
+              "pp1d_s": 9.3
             }
           },
           "tarde": {
@@ -2345,20 +1721,20 @@
               "end": "2026-07-04T17:00:00"
             },
             "air_temp_c": {
-              "min": 27.0,
-              "max": 27.0,
-              "mean": 27.0
+              "min": 26.66,
+              "max": 26.66,
+              "mean": 26.66
             },
-            "humidity_pct": 71.2,
-            "wind_speed_ms": 6.08,
+            "humidity_pct": 73.8,
+            "wind_speed_ms": 6.21,
             "wind_dir_sector": "SSE",
-            "rain_prob_pct": 68.2,
-            "cloud_cover_pct": 86.3,
+            "rain_prob_pct": 80.2,
+            "cloud_cover_pct": 73.4,
             "uv_class": "alto",
             "waves": {
-              "swh_m": 1.99,
+              "swh_m": 1.91,
               "mwd_sector": "ESE",
-              "pp1d_s": 9.1
+              "pp1d_s": 9.3
             }
           },
           "noite": {
@@ -2367,24 +1743,24 @@
               "end": "2026-07-04T23:00:00"
             },
             "air_temp_c": {
-              "min": 25.63,
-              "max": 25.63,
-              "mean": 25.63
+              "min": 26.03,
+              "max": 26.03,
+              "mean": 26.03
             },
-            "humidity_pct": 79.6,
-            "wind_speed_ms": 5.32,
+            "humidity_pct": 75.0,
+            "wind_speed_ms": 5.06,
             "wind_dir_sector": "SSE",
-            "rain_prob_pct": 68.2,
-            "cloud_cover_pct": 48.0,
-            "uv_class": "médio",
+            "rain_prob_pct": 80.2,
+            "cloud_cover_pct": 94.1,
+            "uv_class": "baixo",
             "waves": {
-              "swh_m": 1.87,
+              "swh_m": 1.84,
               "mwd_sector": "ESE",
-              "pp1d_s": 9.1
+              "pp1d_s": 9.2
             }
           }
         },
-        "summary_pt": "Temperatura entre 24.2° e 27.0°C. Chance de chuva: 68%. Vento: SSE 5.2 m/s."
+        "summary_pt": "Temperatura entre 24.2° e 26.7°C. Chance de chuva: 80%. Vento: SSE 5.3 m/s."
       },
       "waves": {
         "units": {
@@ -2394,9 +1770,9 @@
         },
         "daily": {
           "swh": {
-            "min": 1.83,
-            "max": 2.07,
-            "mean": 1.98,
+            "min": 1.8,
+            "max": 2.12,
+            "mean": 1.95,
             "min_time_local": "2026-07-04T21:00:00",
             "max_time_local": "2026-07-04T00:00:00"
           }
@@ -2414,14 +1790,14 @@
               "2026-07-04T21:00:00"
             ],
             "values": [
-              2.07,
-              2.06,
+              2.12,
               2.05,
-              2.04,
-              1.99,
-              1.93,
+              2.01,
+              1.97,
+              1.91,
               1.87,
-              1.83
+              1.84,
+              1.8
             ]
           },
           "mwd_sector": {
@@ -2458,50 +1834,50 @@
               "2026-07-04T21:00:00"
             ],
             "values": [
-              9.63,
-              9.52,
-              9.4,
+              9.47,
+              9.38,
+              9.31,
               9.26,
-              9.12,
-              9.06,
-              9.07,
-              9.06
+              9.25,
+              9.2,
+              9.2,
+              9.22
             ]
           }
         },
         "periods": {
           "madrugada": {
-            "swh_m": 2.07,
+            "swh_m": 2.12,
             "mwd_sector": "ESE",
-            "pp1d_s": 9.6
+            "pp1d_s": 9.5
           },
           "manha": {
-            "swh_m": 2.05,
+            "swh_m": 2.01,
             "mwd_sector": "ESE",
-            "pp1d_s": 9.4
+            "pp1d_s": 9.3
           },
           "tarde": {
-            "swh_m": 1.99,
+            "swh_m": 1.91,
             "mwd_sector": "ESE",
-            "pp1d_s": 9.1
+            "pp1d_s": 9.3
           },
           "noite": {
-            "swh_m": 1.87,
+            "swh_m": 1.84,
             "mwd_sector": "ESE",
-            "pp1d_s": 9.1
+            "pp1d_s": 9.2
           }
         }
       },
       "probabilities": {
         "daily": {
-          "tpg1": 68.2,
-          "tpg5": 30.2,
-          "tpg10": 7.8,
-          "tpg20": 1.2,
-          "10fgg10": 79.2,
+          "tpg1": 80.2,
+          "tpg5": 16.5,
+          "tpg10": 0.2,
+          "tpg20": 0.0,
+          "10fgg10": 91.5,
           "10fgg15": 0.0,
           "10fgg25": 0.0,
-          "swhg2": 12.0,
+          "swhg2": 7.0,
           "swhg4": 0.0
         }
       },
@@ -2512,38 +1888,38 @@
             "min": 24.2,
             "max": 24.2
           },
-          "rain_prob_pct": 68.2,
-          "wind_speed_mean_ms": 4.7,
+          "rain_prob_pct": 80.2,
+          "wind_speed_mean_ms": 4.9,
           "wind_dir_sector": "SSE",
           "uv_class": "baixo"
         },
         "tarde": {
           "icon_hint": "rainy",
           "temp_min_max_c": {
-            "min": 27.0,
-            "max": 27.0
+            "min": 26.7,
+            "max": 26.7
           },
-          "rain_prob_pct": 68.2,
-          "wind_speed_mean_ms": 6.1,
+          "rain_prob_pct": 80.2,
+          "wind_speed_mean_ms": 6.2,
           "wind_dir_sector": "SSE",
           "uv_class": "alto"
         },
         "noite": {
           "icon_hint": "rainy",
           "temp_min_max_c": {
-            "min": 25.6,
-            "max": 25.6
+            "min": 26.0,
+            "max": 26.0
           },
-          "rain_prob_pct": 68.2,
-          "wind_speed_mean_ms": 5.3,
+          "rain_prob_pct": 80.2,
+          "wind_speed_mean_ms": 5.1,
           "wind_dir_sector": "SSE",
-          "uv_class": "médio"
+          "uv_class": "baixo"
         },
         "daily_badges": {
-          "rain_prob_pct_max": 68.2,
-          "rain_prob_ge_10mm_pct": 7.8,
-          "gust_prob_ge_10ms_pct": 79.2,
-          "swh_prob_ge_2m_pct": 12.0
+          "rain_prob_pct_max": 80.2,
+          "rain_prob_ge_10mm_pct": 0.2,
+          "gust_prob_ge_10ms_pct": 91.5,
+          "swh_prob_ge_2m_pct": 7.0
         }
       }
     },
@@ -2568,35 +1944,35 @@
             "2026-07-05T21:00:00"
           ],
           "values": [
-            0.829,
-            1.348,
-            2.236,
-            1.733,
-            0.776,
-            1.051,
-            2.002,
-            1.8
+            0.834,
+            1.352,
+            2.242,
+            1.743,
+            0.792,
+            1.065,
+            2.022,
+            1.825
           ]
         },
         "high_tides": [
           {
             "time_local": "2026-07-05T07:00:00",
-            "height_m": 2.242
+            "height_m": 2.249
           },
           {
             "time_local": "2026-07-05T19:00:00",
-            "height_m": 2.104
+            "height_m": 2.126
           }
         ],
         "low_tides": [
           {
             "time_local": "2026-07-05T13:00:00",
-            "height_m": 0.701
+            "height_m": 0.716
           }
         ],
-        "daily_min_m": 0.776,
+        "daily_min_m": 0.792,
         "daily_min_time_local": "2026-07-05T12:00:00",
-        "daily_max_m": 2.236,
+        "daily_max_m": 2.242,
         "daily_max_time_local": "2026-07-05T06:00:00"
       },
       "tide": {
@@ -2738,27 +2114,27 @@
         },
         "daily": {
           "air_temp": {
-            "min": 23.87,
-            "max": 26.88,
-            "mean": 25.15,
+            "min": 23.89,
+            "max": 27.16,
+            "mean": 25.42,
             "min_time_local": "2026-07-05T06:00:00",
             "max_time_local": "2026-07-05T12:00:00"
           },
           "humidity": {
-            "mean": 76.5
+            "mean": 80.2
           },
           "wind_speed": {
-            "min": 4.16,
-            "max": 5.81,
-            "mean": 5.07,
+            "min": 4.39,
+            "max": 5.47,
+            "mean": 4.81,
             "min_time_local": "2026-07-05T03:00:00",
-            "max_time_local": "2026-07-05T12:00:00"
+            "max_time_local": "2026-07-05T15:00:00"
           },
           "wind_dir_sector_mode": "S",
-          "rain_prob_pct_max": 22.8,
-          "rain_prob_pct_mean": 22.8,
+          "rain_prob_pct_max": 82.8,
+          "rain_prob_pct_mean": 82.8,
           "cloud_cover": {
-            "mean": 24.7
+            "mean": 43.1
           },
           "uv_class": "médio"
         },
@@ -2775,14 +2151,14 @@
               "2026-07-05T21:00:00"
             ],
             "values": [
-              24.83,
-              24.02,
-              23.87,
-              26.03,
-              26.88,
-              26.34,
-              24.87,
-              24.35
+              24.56,
+              24.01,
+              23.89,
+              25.97,
+              27.16,
+              26.91,
+              25.71,
+              25.12
             ]
           },
           "humidity_pct": {
@@ -2797,14 +2173,14 @@
               "2026-07-05T21:00:00"
             ],
             "values": [
-              82.09,
-              85.04,
-              83.48,
-              74.98,
-              69.05,
-              68.35,
-              73.14,
-              75.94
+              82.21,
+              85.2,
+              86.17,
+              78.19,
+              73.32,
+              74.12,
+              79.66,
+              82.67
             ]
           },
           "wind_speed_ms": {
@@ -2819,14 +2195,14 @@
               "2026-07-05T21:00:00"
             ],
             "values": [
-              5.03,
-              4.16,
-              4.34,
-              5.72,
-              5.81,
-              5.8,
-              4.85,
-              4.87
+              4.45,
+              4.39,
+              4.41,
+              4.88,
+              5.29,
+              5.47,
+              4.79,
+              4.78
             ]
           },
           "wind_dir_sector": {
@@ -2841,14 +2217,14 @@
               "2026-07-05T21:00:00"
             ],
             "values": [
+              "S",
+              "S",
+              "S",
+              "S",
               "SSE",
-              "S",
-              "S",
               "SSE",
-              "S",
-              "S",
-              "S",
-              "S"
+              "SSE",
+              "SSE"
             ]
           },
           "rain_prob_pct": {
@@ -2863,14 +2239,14 @@
               "2026-07-05T21:00:00"
             ],
             "values": [
-              22.8,
-              22.8,
-              22.8,
-              22.8,
-              22.8,
-              22.8,
-              22.8,
-              22.8
+              82.8,
+              82.8,
+              82.8,
+              82.8,
+              82.8,
+              82.8,
+              82.8,
+              82.8
             ]
           },
           "cloud_cover_pct": {
@@ -2885,14 +2261,14 @@
               "2026-07-05T21:00:00"
             ],
             "values": [
-              23.44,
-              36.33,
-              27.34,
-              45.7,
-              28.52,
-              7.81,
-              16.41,
-              11.72
+              50.0,
+              49.22,
+              46.88,
+              53.12,
+              37.5,
+              26.17,
+              30.47,
+              51.56
             ]
           },
           "msl_pressure_hpa": {
@@ -2907,14 +2283,14 @@
               "2026-07-05T21:00:00"
             ],
             "values": [
-              1016.51,
-              1015.41,
-              1015.99,
-              1017.23,
-              1015.8,
-              1014.5,
-              1015.77,
-              1017.44
+              1016.23,
+              1015.1,
+              1015.79,
+              1017.25,
+              1015.68,
+              1013.95,
+              1014.89,
+              1016.38
             ]
           }
         },
@@ -2925,20 +2301,20 @@
               "end": "2026-07-05T05:00:00"
             },
             "air_temp_c": {
-              "min": 24.83,
-              "max": 24.83,
-              "mean": 24.83
+              "min": 24.56,
+              "max": 24.56,
+              "mean": 24.56
             },
-            "humidity_pct": 82.1,
-            "wind_speed_ms": 5.03,
-            "wind_dir_sector": "SSE",
-            "rain_prob_pct": 22.8,
-            "cloud_cover_pct": 23.4,
+            "humidity_pct": 82.2,
+            "wind_speed_ms": 4.45,
+            "wind_dir_sector": "S",
+            "rain_prob_pct": 82.8,
+            "cloud_cover_pct": 50.0,
             "uv_class": "baixo",
             "waves": {
-              "swh_m": 1.78,
+              "swh_m": 1.77,
               "mwd_sector": "ESE",
-              "pp1d_s": 9.1
+              "pp1d_s": 9.2
             }
           },
           "manha": {
@@ -2947,20 +2323,20 @@
               "end": "2026-07-05T11:00:00"
             },
             "air_temp_c": {
-              "min": 23.87,
-              "max": 23.87,
-              "mean": 23.87
+              "min": 23.89,
+              "max": 23.89,
+              "mean": 23.89
             },
-            "humidity_pct": 83.5,
-            "wind_speed_ms": 4.34,
+            "humidity_pct": 86.2,
+            "wind_speed_ms": 4.41,
             "wind_dir_sector": "S",
-            "rain_prob_pct": 22.8,
-            "cloud_cover_pct": 27.3,
+            "rain_prob_pct": 82.8,
+            "cloud_cover_pct": 46.9,
             "uv_class": "baixo",
             "waves": {
-              "swh_m": 1.65,
+              "swh_m": 1.7,
               "mwd_sector": "ESE",
-              "pp1d_s": 9.1
+              "pp1d_s": 9.2
             }
           },
           "tarde": {
@@ -2969,20 +2345,20 @@
               "end": "2026-07-05T17:00:00"
             },
             "air_temp_c": {
-              "min": 26.88,
-              "max": 26.88,
-              "mean": 26.88
+              "min": 27.16,
+              "max": 27.16,
+              "mean": 27.16
             },
-            "humidity_pct": 69.0,
-            "wind_speed_ms": 5.81,
-            "wind_dir_sector": "S",
-            "rain_prob_pct": 22.8,
-            "cloud_cover_pct": 28.5,
+            "humidity_pct": 73.3,
+            "wind_speed_ms": 5.29,
+            "wind_dir_sector": "SSE",
+            "rain_prob_pct": 82.8,
+            "cloud_cover_pct": 37.5,
             "uv_class": "alto",
             "waves": {
-              "swh_m": 1.6,
+              "swh_m": 1.67,
               "mwd_sector": "ESE",
-              "pp1d_s": 9.0
+              "pp1d_s": 9.1
             }
           },
           "noite": {
@@ -2991,24 +2367,24 @@
               "end": "2026-07-05T23:00:00"
             },
             "air_temp_c": {
-              "min": 24.87,
-              "max": 24.87,
-              "mean": 24.87
+              "min": 25.71,
+              "max": 25.71,
+              "mean": 25.71
             },
-            "humidity_pct": 73.1,
-            "wind_speed_ms": 4.85,
-            "wind_dir_sector": "S",
-            "rain_prob_pct": 22.8,
-            "cloud_cover_pct": 16.4,
+            "humidity_pct": 79.7,
+            "wind_speed_ms": 4.79,
+            "wind_dir_sector": "SSE",
+            "rain_prob_pct": 82.8,
+            "cloud_cover_pct": 30.5,
             "uv_class": "médio",
             "waves": {
-              "swh_m": 1.51,
+              "swh_m": 1.66,
               "mwd_sector": "ESE",
-              "pp1d_s": 8.9
+              "pp1d_s": 8.8
             }
           }
         },
-        "summary_pt": "Temperatura entre 23.9° e 26.9°C. Chance de chuva: 23%. Vento: S 5.1 m/s."
+        "summary_pt": "Temperatura entre 23.9° e 27.2°C. Chance de chuva: 83%. Vento: S 4.8 m/s."
       },
       "waves": {
         "units": {
@@ -3018,9 +2394,9 @@
         },
         "daily": {
           "swh": {
-            "min": 1.5,
-            "max": 1.78,
-            "mean": 1.62,
+            "min": 1.66,
+            "max": 1.77,
+            "mean": 1.69,
             "min_time_local": "2026-07-05T21:00:00",
             "max_time_local": "2026-07-05T00:00:00"
           }
@@ -3038,14 +2414,14 @@
               "2026-07-05T21:00:00"
             ],
             "values": [
-              1.78,
-              1.72,
-              1.65,
-              1.61,
-              1.6,
-              1.56,
-              1.51,
-              1.5
+              1.77,
+              1.73,
+              1.7,
+              1.68,
+              1.67,
+              1.66,
+              1.66,
+              1.66
             ]
           },
           "mwd_sector": {
@@ -3082,47 +2458,675 @@
               "2026-07-05T21:00:00"
             ],
             "values": [
-              9.07,
-              9.07,
+              9.22,
+              9.23,
+              9.18,
+              9.14,
               9.06,
-              9.04,
-              8.99,
-              8.93,
-              8.88,
-              8.82
+              8.92,
+              8.84,
+              8.77
             ]
           }
         },
         "periods": {
           "madrugada": {
-            "swh_m": 1.78,
+            "swh_m": 1.77,
             "mwd_sector": "ESE",
-            "pp1d_s": 9.1
+            "pp1d_s": 9.2
           },
           "manha": {
-            "swh_m": 1.65,
+            "swh_m": 1.7,
+            "mwd_sector": "ESE",
+            "pp1d_s": 9.2
+          },
+          "tarde": {
+            "swh_m": 1.67,
             "mwd_sector": "ESE",
             "pp1d_s": 9.1
           },
-          "tarde": {
-            "swh_m": 1.6,
-            "mwd_sector": "ESE",
-            "pp1d_s": 9.0
-          },
           "noite": {
-            "swh_m": 1.51,
+            "swh_m": 1.66,
             "mwd_sector": "ESE",
-            "pp1d_s": 8.9
+            "pp1d_s": 8.8
           }
         }
       },
       "probabilities": {
         "daily": {
-          "tpg1": 22.8,
-          "tpg5": 8.0,
-          "tpg10": 3.2,
+          "tpg1": 82.8,
+          "tpg5": 34.2,
+          "tpg10": 7.5,
           "tpg20": 0.0,
-          "10fgg10": 79.0,
+          "10fgg10": 56.2,
+          "10fgg15": 0.0,
+          "10fgg25": 0.0,
+          "swhg2": 1.0,
+          "swhg4": 0.0
+        }
+      },
+      "ui_cards": {
+        "manha": {
+          "icon_hint": "rainy",
+          "temp_min_max_c": {
+            "min": 23.9,
+            "max": 23.9
+          },
+          "rain_prob_pct": 82.8,
+          "wind_speed_mean_ms": 4.4,
+          "wind_dir_sector": "S",
+          "uv_class": "baixo"
+        },
+        "tarde": {
+          "icon_hint": "rainy",
+          "temp_min_max_c": {
+            "min": 27.2,
+            "max": 27.2
+          },
+          "rain_prob_pct": 82.8,
+          "wind_speed_mean_ms": 5.3,
+          "wind_dir_sector": "SSE",
+          "uv_class": "alto"
+        },
+        "noite": {
+          "icon_hint": "rainy",
+          "temp_min_max_c": {
+            "min": 25.7,
+            "max": 25.7
+          },
+          "rain_prob_pct": 82.8,
+          "wind_speed_mean_ms": 4.8,
+          "wind_dir_sector": "SSE",
+          "uv_class": "médio"
+        },
+        "daily_badges": {
+          "rain_prob_pct_max": 82.8,
+          "rain_prob_ge_10mm_pct": 7.5,
+          "gust_prob_ge_10ms_pct": 56.2,
+          "swh_prob_ge_2m_pct": 1.0
+        }
+      }
+    },
+    {
+      "date_local": "2026-07-06",
+      "timezone": "America/Recife",
+      "sun": {
+        "sunrise_local": "05:34",
+        "sunset_local": "17:14"
+      },
+      "sea_level": {
+        "unit": "m",
+        "series": {
+          "time_local": [
+            "2026-07-06T00:00:00",
+            "2026-07-06T03:00:00",
+            "2026-07-06T06:00:00",
+            "2026-07-06T09:00:00",
+            "2026-07-06T12:00:00",
+            "2026-07-06T15:00:00",
+            "2026-07-06T18:00:00",
+            "2026-07-06T21:00:00"
+          ],
+          "values": [
+            0.977,
+            1.145,
+            2.074,
+            1.97,
+            1.02,
+            0.923,
+            1.817,
+            2.002
+          ]
+        },
+        "high_tides": [
+          {
+            "time_local": "2026-07-06T07:00:00",
+            "height_m": 2.212
+          },
+          {
+            "time_local": "2026-07-06T20:00:00",
+            "height_m": 2.098
+          }
+        ],
+        "low_tides": [
+          {
+            "time_local": "2026-07-06T01:00:00",
+            "height_m": 0.879
+          },
+          {
+            "time_local": "2026-07-06T14:00:00",
+            "height_m": 0.798
+          }
+        ],
+        "daily_min_m": 0.923,
+        "daily_min_time_local": "2026-07-06T15:00:00",
+        "daily_max_m": 2.074,
+        "daily_max_time_local": "2026-07-06T06:00:00"
+      },
+      "tide": {
+        "unit": "m",
+        "series": {
+          "time_local": [
+            "2026-07-06T00:00:00",
+            "2026-07-06T00:30:00",
+            "2026-07-06T01:00:00",
+            "2026-07-06T01:30:00",
+            "2026-07-06T02:00:00",
+            "2026-07-06T02:30:00",
+            "2026-07-06T03:00:00",
+            "2026-07-06T03:30:00",
+            "2026-07-06T04:00:00",
+            "2026-07-06T04:30:00",
+            "2026-07-06T05:00:00",
+            "2026-07-06T05:30:00",
+            "2026-07-06T06:00:00",
+            "2026-07-06T06:30:00",
+            "2026-07-06T07:00:00",
+            "2026-07-06T07:30:00",
+            "2026-07-06T08:00:00",
+            "2026-07-06T08:30:00",
+            "2026-07-06T09:00:00",
+            "2026-07-06T09:30:00",
+            "2026-07-06T10:00:00",
+            "2026-07-06T10:30:00",
+            "2026-07-06T11:00:00",
+            "2026-07-06T11:30:00",
+            "2026-07-06T12:00:00",
+            "2026-07-06T12:30:00",
+            "2026-07-06T13:00:00",
+            "2026-07-06T13:30:00",
+            "2026-07-06T14:00:00",
+            "2026-07-06T14:30:00",
+            "2026-07-06T15:00:00",
+            "2026-07-06T15:30:00",
+            "2026-07-06T16:00:00",
+            "2026-07-06T16:30:00",
+            "2026-07-06T17:00:00",
+            "2026-07-06T17:30:00",
+            "2026-07-06T18:00:00",
+            "2026-07-06T18:30:00",
+            "2026-07-06T19:00:00",
+            "2026-07-06T19:30:00",
+            "2026-07-06T20:00:00",
+            "2026-07-06T20:30:00",
+            "2026-07-06T21:00:00",
+            "2026-07-06T21:30:00",
+            "2026-07-06T22:00:00",
+            "2026-07-06T22:30:00",
+            "2026-07-06T23:00:00",
+            "2026-07-06T23:30:00"
+          ],
+          "values": [
+            0.852,
+            0.752,
+            0.688,
+            0.665,
+            0.682,
+            0.741,
+            0.837,
+            0.965,
+            1.118,
+            1.287,
+            1.462,
+            1.631,
+            1.784,
+            1.909,
+            1.998,
+            2.045,
+            2.045,
+            2.0,
+            1.911,
+            1.785,
+            1.63,
+            1.457,
+            1.276,
+            1.099,
+            0.936,
+            0.796,
+            0.687,
+            0.614,
+            0.58,
+            0.588,
+            0.636,
+            0.723,
+            0.842,
+            0.987,
+            1.15,
+            1.319,
+            1.486,
+            1.637,
+            1.764,
+            1.858,
+            1.913,
+            1.925,
+            1.894,
+            1.823,
+            1.718,
+            1.586,
+            1.438,
+            1.283
+          ]
+        },
+        "high_tides": [
+          {
+            "time_local": "2026-07-06T07:55:00",
+            "height_m": 2.053
+          },
+          {
+            "time_local": "2026-07-06T20:35:00",
+            "height_m": 1.928
+          }
+        ],
+        "low_tides": [
+          {
+            "time_local": "2026-07-06T01:40:00",
+            "height_m": 0.663
+          },
+          {
+            "time_local": "2026-07-06T14:20:00",
+            "height_m": 0.577
+          }
+        ],
+        "low_tide_m": 0.58,
+        "high_tide_m": 2.045
+      },
+      "meteo": {
+        "units": {
+          "air_temp_c": "°C",
+          "humidity_pct": "%",
+          "wind_speed_ms": "m/s",
+          "wind_dir_sector": "16-pt compass",
+          "rain_prob_pct": "%",
+          "cloud_cover_pct": "%",
+          "msl_pressure_hpa": "hPa"
+        },
+        "daily": {
+          "air_temp": {
+            "min": 24.29,
+            "max": 26.62,
+            "mean": 25.19,
+            "min_time_local": "2026-07-06T06:00:00",
+            "max_time_local": "2026-07-06T12:00:00"
+          },
+          "humidity": {
+            "mean": 79.8
+          },
+          "wind_speed": {
+            "min": 5.52,
+            "max": 6.88,
+            "mean": 6.13,
+            "min_time_local": "2026-07-06T21:00:00",
+            "max_time_local": "2026-07-06T09:00:00"
+          },
+          "wind_dir_sector_mode": "S",
+          "rain_prob_pct_max": 52.0,
+          "rain_prob_pct_mean": 52.0,
+          "cloud_cover": {
+            "mean": 35.1
+          },
+          "uv_class": "médio"
+        },
+        "series": {
+          "air_temp_c": {
+            "time_local": [
+              "2026-07-06T00:00:00",
+              "2026-07-06T03:00:00",
+              "2026-07-06T06:00:00",
+              "2026-07-06T09:00:00",
+              "2026-07-06T12:00:00",
+              "2026-07-06T15:00:00",
+              "2026-07-06T18:00:00",
+              "2026-07-06T21:00:00"
+            ],
+            "values": [
+              24.55,
+              24.45,
+              24.29,
+              25.93,
+              26.62,
+              26.33,
+              24.98,
+              24.37
+            ]
+          },
+          "humidity_pct": {
+            "time_local": [
+              "2026-07-06T00:00:00",
+              "2026-07-06T03:00:00",
+              "2026-07-06T06:00:00",
+              "2026-07-06T09:00:00",
+              "2026-07-06T12:00:00",
+              "2026-07-06T15:00:00",
+              "2026-07-06T18:00:00",
+              "2026-07-06T21:00:00"
+            ],
+            "values": [
+              86.4,
+              86.39,
+              86.04,
+              77.81,
+              72.81,
+              72.34,
+              77.15,
+              79.55
+            ]
+          },
+          "wind_speed_ms": {
+            "time_local": [
+              "2026-07-06T00:00:00",
+              "2026-07-06T03:00:00",
+              "2026-07-06T06:00:00",
+              "2026-07-06T09:00:00",
+              "2026-07-06T12:00:00",
+              "2026-07-06T15:00:00",
+              "2026-07-06T18:00:00",
+              "2026-07-06T21:00:00"
+            ],
+            "values": [
+              5.75,
+              6.16,
+              5.84,
+              6.88,
+              6.63,
+              6.32,
+              5.93,
+              5.52
+            ]
+          },
+          "wind_dir_sector": {
+            "time_local": [
+              "2026-07-06T00:00:00",
+              "2026-07-06T03:00:00",
+              "2026-07-06T06:00:00",
+              "2026-07-06T09:00:00",
+              "2026-07-06T12:00:00",
+              "2026-07-06T15:00:00",
+              "2026-07-06T18:00:00",
+              "2026-07-06T21:00:00"
+            ],
+            "values": [
+              "S",
+              "S",
+              "S",
+              "S",
+              "SSE",
+              "SSE",
+              "S",
+              "S"
+            ]
+          },
+          "rain_prob_pct": {
+            "time_local": [
+              "2026-07-06T00:00:00",
+              "2026-07-06T03:00:00",
+              "2026-07-06T06:00:00",
+              "2026-07-06T09:00:00",
+              "2026-07-06T12:00:00",
+              "2026-07-06T15:00:00",
+              "2026-07-06T18:00:00",
+              "2026-07-06T21:00:00"
+            ],
+            "values": [
+              52.0,
+              52.0,
+              52.0,
+              52.0,
+              52.0,
+              52.0,
+              52.0,
+              52.0
+            ]
+          },
+          "cloud_cover_pct": {
+            "time_local": [
+              "2026-07-06T00:00:00",
+              "2026-07-06T03:00:00",
+              "2026-07-06T06:00:00",
+              "2026-07-06T09:00:00",
+              "2026-07-06T12:00:00",
+              "2026-07-06T15:00:00",
+              "2026-07-06T18:00:00",
+              "2026-07-06T21:00:00"
+            ],
+            "values": [
+              45.7,
+              45.31,
+              60.94,
+              81.25,
+              22.66,
+              14.06,
+              5.86,
+              4.69
+            ]
+          },
+          "msl_pressure_hpa": {
+            "time_local": [
+              "2026-07-06T00:00:00",
+              "2026-07-06T03:00:00",
+              "2026-07-06T06:00:00",
+              "2026-07-06T09:00:00",
+              "2026-07-06T12:00:00",
+              "2026-07-06T15:00:00",
+              "2026-07-06T18:00:00",
+              "2026-07-06T21:00:00"
+            ],
+            "values": [
+              1015.93,
+              1014.47,
+              1015.2,
+              1016.75,
+              1015.48,
+              1014.38,
+              1015.13,
+              1016.48
+            ]
+          }
+        },
+        "periods": {
+          "madrugada": {
+            "time_local": {
+              "start": "2026-07-06T00:00:00",
+              "end": "2026-07-06T05:00:00"
+            },
+            "air_temp_c": {
+              "min": 24.55,
+              "max": 24.55,
+              "mean": 24.55
+            },
+            "humidity_pct": 86.4,
+            "wind_speed_ms": 5.75,
+            "wind_dir_sector": "S",
+            "rain_prob_pct": 52.0,
+            "cloud_cover_pct": 45.7,
+            "uv_class": "baixo",
+            "waves": {
+              "swh_m": 1.7,
+              "mwd_sector": "ESE",
+              "pp1d_s": 8.7
+            }
+          },
+          "manha": {
+            "time_local": {
+              "start": "2026-07-06T06:00:00",
+              "end": "2026-07-06T11:00:00"
+            },
+            "air_temp_c": {
+              "min": 24.29,
+              "max": 24.29,
+              "mean": 24.29
+            },
+            "humidity_pct": 86.0,
+            "wind_speed_ms": 5.84,
+            "wind_dir_sector": "S",
+            "rain_prob_pct": 52.0,
+            "cloud_cover_pct": 60.9,
+            "uv_class": "baixo",
+            "waves": {
+              "swh_m": 1.72,
+              "mwd_sector": "ESE",
+              "pp1d_s": 8.4
+            }
+          },
+          "tarde": {
+            "time_local": {
+              "start": "2026-07-06T12:00:00",
+              "end": "2026-07-06T17:00:00"
+            },
+            "air_temp_c": {
+              "min": 26.62,
+              "max": 26.62,
+              "mean": 26.62
+            },
+            "humidity_pct": 72.8,
+            "wind_speed_ms": 6.63,
+            "wind_dir_sector": "SSE",
+            "rain_prob_pct": 52.0,
+            "cloud_cover_pct": 22.7,
+            "uv_class": "alto",
+            "waves": {
+              "swh_m": 1.64,
+              "mwd_sector": "ESE",
+              "pp1d_s": 8.2
+            }
+          },
+          "noite": {
+            "time_local": {
+              "start": "2026-07-06T18:00:00",
+              "end": "2026-07-06T23:00:00"
+            },
+            "air_temp_c": {
+              "min": 24.98,
+              "max": 24.98,
+              "mean": 24.98
+            },
+            "humidity_pct": 77.1,
+            "wind_speed_ms": 5.93,
+            "wind_dir_sector": "S",
+            "rain_prob_pct": 52.0,
+            "cloud_cover_pct": 5.9,
+            "uv_class": "médio",
+            "waves": {
+              "swh_m": 1.54,
+              "mwd_sector": "ESE",
+              "pp1d_s": 8.1
+            }
+          }
+        },
+        "summary_pt": "Temperatura entre 24.3° e 26.6°C. Chance de chuva: 52%. Vento: S 6.1 m/s."
+      },
+      "waves": {
+        "units": {
+          "swh_m": "m",
+          "mwd_sector": "16-pt compass",
+          "pp1d_s": "s"
+        },
+        "daily": {
+          "swh": {
+            "min": 1.5,
+            "max": 1.76,
+            "mean": 1.64,
+            "min_time_local": "2026-07-06T21:00:00",
+            "max_time_local": "2026-07-06T03:00:00"
+          }
+        },
+        "series": {
+          "swh_m": {
+            "time_local": [
+              "2026-07-06T00:00:00",
+              "2026-07-06T03:00:00",
+              "2026-07-06T06:00:00",
+              "2026-07-06T09:00:00",
+              "2026-07-06T12:00:00",
+              "2026-07-06T15:00:00",
+              "2026-07-06T18:00:00",
+              "2026-07-06T21:00:00"
+            ],
+            "values": [
+              1.7,
+              1.76,
+              1.72,
+              1.68,
+              1.64,
+              1.59,
+              1.54,
+              1.5
+            ]
+          },
+          "mwd_sector": {
+            "time_local": [
+              "2026-07-06T00:00:00",
+              "2026-07-06T03:00:00",
+              "2026-07-06T06:00:00",
+              "2026-07-06T09:00:00",
+              "2026-07-06T12:00:00",
+              "2026-07-06T15:00:00",
+              "2026-07-06T18:00:00",
+              "2026-07-06T21:00:00"
+            ],
+            "values": [
+              "ESE",
+              "ESE",
+              "ESE",
+              "ESE",
+              "ESE",
+              "ESE",
+              "ESE",
+              "ESE"
+            ]
+          },
+          "pp1d_s": {
+            "time_local": [
+              "2026-07-06T00:00:00",
+              "2026-07-06T03:00:00",
+              "2026-07-06T06:00:00",
+              "2026-07-06T09:00:00",
+              "2026-07-06T12:00:00",
+              "2026-07-06T15:00:00",
+              "2026-07-06T18:00:00",
+              "2026-07-06T21:00:00"
+            ],
+            "values": [
+              8.7,
+              8.53,
+              8.37,
+              8.31,
+              8.2,
+              8.1,
+              8.11,
+              8.12
+            ]
+          }
+        },
+        "periods": {
+          "madrugada": {
+            "swh_m": 1.7,
+            "mwd_sector": "ESE",
+            "pp1d_s": 8.7
+          },
+          "manha": {
+            "swh_m": 1.72,
+            "mwd_sector": "ESE",
+            "pp1d_s": 8.4
+          },
+          "tarde": {
+            "swh_m": 1.64,
+            "mwd_sector": "ESE",
+            "pp1d_s": 8.2
+          },
+          "noite": {
+            "swh_m": 1.54,
+            "mwd_sector": "ESE",
+            "pp1d_s": 8.1
+          }
+        }
+      },
+      "probabilities": {
+        "daily": {
+          "tpg1": 52.0,
+          "tpg5": 14.2,
+          "tpg10": 1.0,
+          "tpg20": 0.0,
+          "10fgg10": 83.2,
           "10fgg15": 0.0,
           "10fgg25": 0.0,
           "swhg2": 0.0,
@@ -3131,42 +3135,42 @@
       },
       "ui_cards": {
         "manha": {
-          "icon_hint": "partly_cloudy_rain",
+          "icon_hint": "rainy",
           "temp_min_max_c": {
-            "min": 23.9,
-            "max": 23.9
+            "min": 24.3,
+            "max": 24.3
           },
-          "rain_prob_pct": 22.8,
-          "wind_speed_mean_ms": 4.3,
+          "rain_prob_pct": 52.0,
+          "wind_speed_mean_ms": 5.8,
           "wind_dir_sector": "S",
           "uv_class": "baixo"
         },
         "tarde": {
-          "icon_hint": "partly_cloudy_rain",
+          "icon_hint": "rainy",
           "temp_min_max_c": {
-            "min": 26.9,
-            "max": 26.9
+            "min": 26.6,
+            "max": 26.6
           },
-          "rain_prob_pct": 22.8,
-          "wind_speed_mean_ms": 5.8,
-          "wind_dir_sector": "S",
+          "rain_prob_pct": 52.0,
+          "wind_speed_mean_ms": 6.6,
+          "wind_dir_sector": "SSE",
           "uv_class": "alto"
         },
         "noite": {
-          "icon_hint": "partly_cloudy_rain",
+          "icon_hint": "rainy",
           "temp_min_max_c": {
-            "min": 24.9,
-            "max": 24.9
+            "min": 25.0,
+            "max": 25.0
           },
-          "rain_prob_pct": 22.8,
-          "wind_speed_mean_ms": 4.9,
+          "rain_prob_pct": 52.0,
+          "wind_speed_mean_ms": 5.9,
           "wind_dir_sector": "S",
           "uv_class": "médio"
         },
         "daily_badges": {
-          "rain_prob_pct_max": 22.8,
-          "rain_prob_ge_10mm_pct": 3.2,
-          "gust_prob_ge_10ms_pct": 79.0,
+          "rain_prob_pct_max": 52.0,
+          "rain_prob_ge_10mm_pct": 1.0,
+          "gust_prob_ge_10ms_pct": 83.2,
           "swh_prob_ge_2m_pct": 0.0
         }
       }
