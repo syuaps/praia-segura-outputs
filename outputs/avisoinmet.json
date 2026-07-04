@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "fonte": {
+    "nome": "Instituto Nacional de Meteorologia",
+    "sigla": "INMET",
+    "tipo": "CAP/RSS",
+    "url": "https://apiprevmet3.inmet.gov.br/avisos/rss"
+  },
+  "local": {
+    "municipio": "Recife",
+    "uf": "Pernambuco",
+    "sigla_uf": "PE",
+    "codigo_ibge": "2611606"
+  },
+  "gerado_em": "2026-07-04T10:49:58-03:00",
+  "status_consulta": "ok",
+  "dados_em_cache": false,
+  "tem_alerta": true,
+  "tem_alerta_vigente": false,
+  "tem_alerta_futuro": true,
+  "quantidade_alertas": 1,
+  "maior_severidade": "amarelo",
+  "maior_severidade_vigente": null,
+  "mensagem": "Há aviso meteorológico futuro do INMET para Recife.",
+  "alertas": [
+    {
+      "id": "urn:oid:2.49.0.0.76.0.2026.27708.1",
+      "fonte": "INMET",
+      "titulo": "Aviso de Chuvas Intensas. Severidade Grau: Moderate",
+      "evento": "Chuvas Intensas",
+      "severidade": "amarelo",
+      "severidade_texto": "Perigo potencial",
+      "severidade_cap": "Moderate",
+      "certeza": "Likely",
+      "urgencia": "Future",
+      "status_temporal": "futuro",
+      "emitido_em": "2026-07-03T10:58:32-03:00",
+      "inicio": "2026-07-05T00:00:00-03:00",
+      "fim": "2026-07-05T23:59:00-03:00",
+      "descricao": "INMET publica aviso iniciando em: 05/07/2026 00:00. Chuva entre 20 e 30 mm/h ou até 50 mm/dia, ventos intensos (40-60 km/h). Baixo risco de corte de energia elétrica, queda de galhos de árvores, alagamentos e de descargas elétricas.",
+      "riscos": null,
+      "instrucoes": "Em caso de rajadas de vento: (não se abrigue debaixo de árvores, pois há leve risco de queda e descargas elétricas e não estacione veículos próximos a torres de transmissão e placas de propaganda). Evite usar aparelhos eletrônicos ligados à tomada. Obtenha mais informações junto à Defesa Civil (telefone 199) e ao Corpo de Bombeiros (telefone 193).",
+      "area_descricao": "Aviso para as áreas: Nordeste Paraense, Metropolitana de Recife, Oeste Maranhense, Norte Cearense, Noroeste Cearense, Central Potiguar, Sertões Cearenses, Oeste Potiguar, Leste Maranhense, Marajó, Sertão Paraibano, Agreste Paraibano, Norte Maranhense, Borborema, Mata Paraibana, Mata Pernambucana, Baixo Amazonas, Centro-Norte Piauiense, Jaguaribe, Norte do Amapá, Metropolitana de Belém, Metropolitana de Fortaleza, Leste Potiguar, Sul Cearense, Centro Maranhense, Centro-Sul Cearense, Agreste Potiguar, Norte Piauiense, Agreste Pernambucano, Sertão Pernambucano, Sudeste Paraense, Sul do Amapá",
+      "abrangencia_confirmada_por": [
+        "codigo_ibge",
+        "poligono",
+        "texto"
+      ],
+      "relevante_para_praia": true,
+      "categorias_risco": [
+        "chuva",
+        "vento",
+        "impacto_urbano"
+      ],
+      "url_oficial": "https://avisos.inmet.gov.br/54836",
+      "status_cap": "Actual",
+      "tipo_mensagem_cap": "Alert",
+      "escopo_cap": "Public",
+      "efetivo": null,
+      "poligonos": [
+        "-8.206053,-34.711304 -6.533645,-39.880371 -5.134715,-43.549805 -4.214943,-47.197266 -2.964984,-50.20752 -1.526919,-52.635498 1.098565,-52.591553 2.043024,-50.339355 -0.241699,-47.746582 -1.01069,-44.890137 -2.130856,-43.154297 -2.547988,-41.748047 -2.701635,-41.396484 -2.591889,-40.495605 -2.701635,-39.660645 -3.294082,-38.671875 -3.502455,-38.309326 -3.699819,-38.232422 -4.25329,-37.606201 -4.395706,-37.496338 -4.488809,-37.172241 -4.713303,-37.084351 -4.740675,-36.782227 -4.822786,-36.480103 -4.696879,-36.282349 -4.800891,-35.947266 -4.986977,-35.392456 -5.271478,-35.145264 -5.758105,-34.94751 -6.358975,-34.804688 -6.773716,-34.683838 -7.040927,-34.60144 -7.596663,-34.568481 -7.928675,-34.595947 -8.206053,-34.711304"
+      ]
+    }
+  ]
+}
