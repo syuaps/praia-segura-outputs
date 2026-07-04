@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2-opendata",
-  "generated_at_utc": "2026-07-04T13:53:27Z",
+  "generated_at_utc": "2026-07-04T15:30:12Z",
   "product": "ECMWF Open Data – ENS probability products via ecmwf-opendata",
   "run_summary": {
     "oper": [
@@ -23,6 +23,12 @@
       "stream": "enfo",
       "type": "ep",
       "param": "tpg1",
+      "bbox": {
+        "minLon": -35.0,
+        "maxLon": -34.8,
+        "minLat": -8.2,
+        "maxLat": -8.0
+      },
       "n_steps_requested": 6,
       "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260704_00z_enfo_ep_tpg1.grib2",
       "temporary_file_size_mb": 2.787
@@ -32,6 +38,12 @@
       "stream": "enfo",
       "type": "ep",
       "param": "tpg5",
+      "bbox": {
+        "minLon": -35.0,
+        "maxLon": -34.8,
+        "minLat": -8.2,
+        "maxLat": -8.0
+      },
       "n_steps_requested": 6,
       "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260704_00z_enfo_ep_tpg5.grib2",
       "temporary_file_size_mb": 2.042
@@ -41,6 +53,12 @@
       "stream": "enfo",
       "type": "ep",
       "param": "tpg10",
+      "bbox": {
+        "minLon": -35.0,
+        "maxLon": -34.8,
+        "minLat": -8.2,
+        "maxLat": -8.0
+      },
       "n_steps_requested": 6,
       "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260704_00z_enfo_ep_tpg10.grib2",
       "temporary_file_size_mb": 1.439
@@ -50,6 +68,12 @@
       "stream": "enfo",
       "type": "ep",
       "param": "tpg20",
+      "bbox": {
+        "minLon": -35.0,
+        "maxLon": -34.8,
+        "minLat": -8.2,
+        "maxLat": -8.0
+      },
       "n_steps_requested": 6,
       "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260704_00z_enfo_ep_tpg20.grib2",
       "temporary_file_size_mb": 0.844
@@ -59,6 +83,12 @@
       "stream": "enfo",
       "type": "ep",
       "param": "10fgg10",
+      "bbox": {
+        "minLon": -35.0,
+        "maxLon": -34.8,
+        "minLat": -8.2,
+        "maxLat": -8.0
+      },
       "n_steps_requested": 6,
       "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260704_00z_enfo_ep_10fgg10.grib2",
       "temporary_file_size_mb": 2.919
@@ -68,6 +98,12 @@
       "stream": "enfo",
       "type": "ep",
       "param": "10fgg15",
+      "bbox": {
+        "minLon": -35.0,
+        "maxLon": -34.8,
+        "minLat": -8.2,
+        "maxLat": -8.0
+      },
       "n_steps_requested": 6,
       "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260704_00z_enfo_ep_10fgg15.grib2",
       "temporary_file_size_mb": 1.963
@@ -77,6 +113,12 @@
       "stream": "enfo",
       "type": "ep",
       "param": "10fgg25",
+      "bbox": {
+        "minLon": -35.0,
+        "maxLon": -34.8,
+        "minLat": -8.2,
+        "maxLat": -8.0
+      },
       "n_steps_requested": 6,
       "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260704_00z_enfo_ep_10fgg25.grib2",
       "temporary_file_size_mb": 0.513
@@ -86,6 +128,12 @@
       "stream": "waef",
       "type": "ep",
       "param": "swhg2",
+      "bbox": {
+        "minLon": -35.1,
+        "maxLon": -34.7,
+        "minLat": -8.2,
+        "maxLat": -7.9
+      },
       "n_steps_requested": 12,
       "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260704_00z_waef_ep_swhg2.grib2",
       "temporary_file_size_mb": 3.238
@@ -95,6 +143,12 @@
       "stream": "waef",
       "type": "ep",
       "param": "swhg4",
+      "bbox": {
+        "minLon": -35.1,
+        "maxLon": -34.7,
+        "minLat": -8.2,
+        "maxLat": -7.9
+      },
       "n_steps_requested": 12,
       "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260704_00z_waef_ep_swhg4.grib2",
       "temporary_file_size_mb": 2.391
@@ -126,12 +180,12 @@
         "2026-07-09T21:00:00"
       ],
       "values": [
-        97.25,
+        98.0,
         93.5,
-        53.25,
-        20.25,
-        4.25,
-        33.25
+        45.5,
+        12.0,
+        4.5,
+        39.5
       ]
     },
     "tpg5": {
@@ -152,12 +206,12 @@
         "2026-07-09T21:00:00"
       ],
       "values": [
-        46.5,
-        29.75,
-        3.25,
+        50.5,
+        8.5,
         0.0,
-        2.5,
-        9.25
+        0.0,
+        3.0,
+        9.5
       ]
     },
     "tpg10": {
@@ -178,12 +232,12 @@
         "2026-07-09T21:00:00"
       ],
       "values": [
-        1.75,
-        2.5,
+        1.5,
         0.0,
         0.0,
-        0.5,
-        3.5
+        0.0,
+        1.0,
+        3.0
       ]
     },
     "tpg20": {
@@ -230,12 +284,12 @@
         "2026-07-09T21:00:00"
       ],
       "values": [
-        85.5,
-        44.25,
+        80.5,
+        39.0,
         99.0,
-        67.5,
-        6.25,
-        6.25
+        54.5,
+        1.5,
+        1.5
       ]
     },
     "10fgg15": {
