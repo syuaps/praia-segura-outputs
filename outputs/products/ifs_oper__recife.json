@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2-opendata",
-  "generated_at_utc": "2026-07-04T15:30:12Z",
+  "generated_at_utc": "2026-07-04T15:59:04Z",
   "product": "ECMWF Open Data – IFS HRES via ecmwf-opendata",
   "run_summary": {
     "oper": [
@@ -39,12 +39,7 @@
       "stream": "oper",
       "type": "fc",
       "param": "2t",
-      "bbox": {
-        "minLon": -35.0,
-        "maxLon": -34.8,
-        "minLat": -8.2,
-        "maxLat": -8.0
-      },
+      "spatial_reducer": "mean",
       "n_steps_requested": 49,
       "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260704_00z_oper_fc_2t.grib2",
       "temporary_file_size_mb": 32.191
@@ -54,12 +49,7 @@
       "stream": "oper",
       "type": "fc",
       "param": "2d",
-      "bbox": {
-        "minLon": -35.0,
-        "maxLon": -34.8,
-        "minLat": -8.2,
-        "maxLat": -8.0
-      },
+      "spatial_reducer": "mean",
       "n_steps_requested": 49,
       "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260704_00z_oper_fc_2d.grib2",
       "temporary_file_size_mb": 33.042
@@ -69,12 +59,7 @@
       "stream": "oper",
       "type": "fc",
       "param": "10u",
-      "bbox": {
-        "minLon": -35.0,
-        "maxLon": -34.8,
-        "minLat": -8.2,
-        "maxLat": -8.0
-      },
+      "spatial_reducer": "mean",
       "n_steps_requested": 49,
       "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260704_00z_oper_fc_10u.grib2",
       "temporary_file_size_mb": 37.753
@@ -84,12 +69,7 @@
       "stream": "oper",
       "type": "fc",
       "param": "10v",
-      "bbox": {
-        "minLon": -35.0,
-        "maxLon": -34.8,
-        "minLat": -8.2,
-        "maxLat": -8.0
-      },
+      "spatial_reducer": "mean",
       "n_steps_requested": 49,
       "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260704_00z_oper_fc_10v.grib2",
       "temporary_file_size_mb": 37.261
@@ -99,12 +79,7 @@
       "stream": "oper",
       "type": "fc",
       "param": "tp",
-      "bbox": {
-        "minLon": -35.0,
-        "maxLon": -34.8,
-        "minLat": -8.2,
-        "maxLat": -8.0
-      },
+      "spatial_reducer": "mean",
       "n_steps_requested": 49,
       "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260704_00z_oper_fc_tp.grib2",
       "temporary_file_size_mb": 38.427
@@ -114,12 +89,7 @@
       "stream": "oper",
       "type": "fc",
       "param": "ssrd",
-      "bbox": {
-        "minLon": -35.0,
-        "maxLon": -34.8,
-        "minLat": -8.2,
-        "maxLat": -8.0
-      },
+      "spatial_reducer": "mean",
       "n_steps_requested": 49,
       "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260704_00z_oper_fc_ssrd.grib2",
       "temporary_file_size_mb": 53.137
@@ -129,12 +99,7 @@
       "stream": "oper",
       "type": "fc",
       "param": "tcc",
-      "bbox": {
-        "minLon": -35.0,
-        "maxLon": -34.8,
-        "minLat": -8.2,
-        "maxLat": -8.0
-      },
+      "spatial_reducer": "mean",
       "n_steps_requested": 49,
       "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260704_00z_oper_fc_tcc.grib2",
       "temporary_file_size_mb": 27.843
@@ -144,12 +109,7 @@
       "stream": "oper",
       "type": "fc",
       "param": "msl",
-      "bbox": {
-        "minLon": -35.0,
-        "maxLon": -34.8,
-        "minLat": -8.2,
-        "maxLat": -8.0
-      },
+      "spatial_reducer": "mean",
       "n_steps_requested": 49,
       "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260704_00z_oper_fc_msl.grib2",
       "temporary_file_size_mb": 25.545
@@ -159,12 +119,7 @@
       "stream": "oper",
       "type": "fc",
       "param": "10fg",
-      "bbox": {
-        "minLon": -35.0,
-        "maxLon": -34.8,
-        "minLat": -8.2,
-        "maxLat": -8.0
-      },
+      "spatial_reducer": "mean",
       "n_steps_requested": 49,
       "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260704_00z_oper_fc_10fg.grib2",
       "temporary_file_size_mb": 40.11
@@ -174,12 +129,7 @@
       "stream": "wave",
       "type": "fc",
       "param": "swh",
-      "bbox": {
-        "minLon": -35.1,
-        "maxLon": -34.7,
-        "minLat": -8.2,
-        "maxLat": -7.9
-      },
+      "spatial_reducer": "mean",
       "n_steps_requested": 49,
       "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260704_00z_wave_fc_swh.grib2",
       "temporary_file_size_mb": 41.007
@@ -189,12 +139,7 @@
       "stream": "wave",
       "type": "fc",
       "param": "mwd",
-      "bbox": {
-        "minLon": -35.1,
-        "maxLon": -34.7,
-        "minLat": -8.2,
-        "maxLat": -7.9
-      },
+      "spatial_reducer": "mean",
       "n_steps_requested": 49,
       "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260704_00z_wave_fc_mwd.grib2",
       "temporary_file_size_mb": 47.345
@@ -204,12 +149,7 @@
       "stream": "wave",
       "type": "fc",
       "param": "pp1d",
-      "bbox": {
-        "minLon": -35.1,
-        "maxLon": -34.7,
-        "minLat": -8.2,
-        "maxLat": -7.9
-      },
+      "spatial_reducer": "mean",
       "n_steps_requested": 49,
       "temporary_file": "data_forecast\\grib_ecmwf_tmp\\ifs_20260704_00z_wave_fc_pp1d.grib2",
       "temporary_file_size_mb": 46.646
