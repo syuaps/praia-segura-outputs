@@ -9,7 +9,8 @@
   "dicas": [
     "Comece pelo nível de risco: se estiver alto, redobre a atenção e considere não entrar.",
     "Observe chuva, ondas e vento: quando esses fatores aumentam, o banho pode ficar mais perigoso.",
-    "Use a maré e a janela indicada apenas como apoio. Sempre compare com as condições reais da praia."
+    "Escolha sua praia com atenção aos avisos locais.",
+    "Use a maré e a janela indicada como apoio mas sempre compare com as condições reais da praia e os avisos dos guarda-vidas."
   ],
   "alertaFinal": "A previsão ajuda, mas a decisão final deve considerar o mar, a sinalização e os guarda-vidas."
   },
@@ -19,7 +20,7 @@
   "subtitulo": "Chuva forte pode deixar o banho perigoso",
   "imagem": "mar-turvo-chuva",
   "resumo": "Após chuva, o mar pode ficar mais turvo, forte e difícil de ler.",
-  "explicacao": "Chuvas fortes levam água e sedimentos de rios e canais para o mar. Isso reduz a visibilidade, aumenta a turbulência e pode dificultar a identificação de buracos, correntes e obstáculos.",
+  "explicacao": "Chuvas fortes levam água e sedimentos de rios e canais para o mar. Isso reduz a visibilidade, aumenta a turbulência e pode dificultar a identificação de buracos, correntes e obstáculos. O risco de incidentes com tubarões também é maior com água turva.",
   "dicas": [
     "Evite banho logo após chuva forte.",
     "Não entre se a água estiver muito turva ou agitada.",
@@ -35,6 +36,7 @@
   "resumo": "Elas puxam para o largo, mas há forma correta de sair.",
   "explicacao": "Correntes de retorno são faixas de água que voltam para o mar. Elas não puxam para baixo, mas podem afastar rapidamente o banhista da areia.",
   "dicas": [
+    "Evite trechos com avisos locais de corrente de retorno.",
     "Mantenha a calma e não nade contra a corrente.",
     "Nade para os lados, paralelo à praia.",
     "Depois de sair da corrente, volte em diagonal para a areia."
@@ -47,11 +49,12 @@
   "subtitulo": "Informação ajuda a reduzir riscos",
   "imagem": "tubaroes",
   "resumo": "Respeite os avisos locais e evite áreas de maior risco.",
-  "explicacao": "Em alguns trechos há histórico de incidentes. O cuidado principal é reduzir a exposição: respeitar placas, evitar horários de baixa visibilidade e não entrar em áreas sinalizadas.",
+  "explicacao": "Em alguns trechos há histórico de incidentes. O cuidado principal é reduzir a exposição: respeitar placas, evitar horários de maré alta, baixa visibilidade e não entrar em áreas sinalizadas.",
   "dicas": [
+    "Dê preferência às piscinas naturais durante a maré baixa.",
     "Não entre em áreas com alerta ou proibição.",
     "Evite banho em mar turvo, chuva forte ou fim de tarde.",
-    "Não nade perto de canais profundos, estuários ou sozinho."
+    "Não nade em trechos com avisos de corrente de retorno."
   ],
   "alertaFinal": "Atenção aos avisos oficiais é essencial."
   },
@@ -60,7 +63,7 @@
   "titulo": "Mar à noite: risco maior",
   "subtitulo": "Baixa visibilidade aumenta o perigo",
   "imagem": "risco-noturno",
-  "resumo": "No escuro, é mais difícil ver ondas, buracos, pedras e correntes.",
+  "resumo": "No escuro, é mais difícil ver ondas, buracos, pedras, correntes e tubarões.",
   "explicacao": "Durante a noite, a visibilidade cai muito e o banhista perde referências importantes da praia. Fica mais difícil perceber a força das ondas, reconhecer correntes, enxergar buracos, pedras, recifes, animais marinhos e pedir ajuda rapidamente.",
   "dicas": [
     "Evite entrar no mar durante a noite, mesmo em praias conhecidas.",
@@ -75,7 +78,7 @@
   "subtitulo": "Sem recifes, o mar exige mais atenção",
   "imagem": "trechos-abertos",
   "resumo": "Sem barreira natural, ondas e correntes chegam com mais força.",
-  "explicacao": "Em áreas sem proteção recifal, as ondas quebram com mais energia e as correntes podem ser mais fortes. Isso aumenta o risco de perder o pé, ser empurrado pela arrebentação ou levado para o largo.",
+  "explicacao": "Em áreas sem proteção recifal, as ondas quebram com mais energia e as correntes podem ser mais fortes. Isso aumenta o risco de perder o pé, ser empurrado pela arrebentação ou levado para o largo. O risco de incidentes com tubarões também é maior em áreas desprotegidas",
   "dicas": [
     "Prefira trechos protegidos quando as condições forem favoráveis.",
     "Evite mar aberto com ondas altas, vento forte ou água turva.",
@@ -114,7 +117,7 @@
   "dicas": [
     "Se avistar caravelas na água ou na areia, não toque e evite entrar no mar.",
     "Em caso de contato, saia da água, não esfregue a pele e não lave com água doce.",
-    "Remova tentáculos com cuidado, de preferência com pinça ou mão protegida, e procure atendimento se houver dor forte, mal-estar ou reação extensa."
+    "Remova tentáculos com cuidado, de preferência com pinça ou um cartão. Não tente tirar com as mãos. Procure atendimento se houver dor forte, mal-estar ou reação extensa."
   ],
   "alertaFinal": "Queimou? Saia da água, evite esfregar e procure orientação de saúde."
   },
@@ -127,7 +130,7 @@
   "explicacao": "Maré alta e maré baixa mudam a profundidade, a força da água e a exposição dos recifes. Em algumas áreas, piscinas naturais só ficam visíveis na maré baixa.",
   "dicas": [
     "Consulte os horários de maré antes de sair.",
-    "Evite ficar nos recifes com a maré subindo.",
+    "Evite ficar no mar com a maré subindo.",
     "Com crianças, prefira períodos mais tranquilos."
   ],
   "alertaFinal": "Planejar pela maré reduz surpresas e acidentes."
@@ -152,13 +155,15 @@
   "subtitulo": "Proteção natural com cuidado",
   "imagem": "recifes",
   "resumo": "Recifes podem reduzir a força das ondas em alguns trechos.",
-  "explicacao": "Recifes ajudam a formar áreas mais calmas na maré baixa, mas também podem ser escorregadios, rasos e causar cortes. Mesmo em piscinas naturais, o cuidado continua necessário.",
+  "explicacao": "Recifes ajudam a formar áreas mais calmas na maré baixa, mas também podem ser escorregadios, rasos e causar cortes. Mesmo em piscinas naturais, o cuidado continua necessário, principalmente com a maré alta.",
   "dicas": [
-    "Evite pisar nos recifes.",
+    "Evite as laterais das picinas e regiões com aberturas dos recifes",
+    "Não fique nas piscinas com a maré subindo.",
     "Não mergulhe onde não vê o fundo.",
+    "Evite pisar nos recifes.",
     "Proteja os organismos vivos e não retire nada do ambiente."
   ],
-  "alertaFinal": "Use os recifes como proteção, não como caminho."
+  "alertaFinal": "As piscinas naturais são áreas protegidas, mas não estão livres de riscos."
   },
   {
   "id": "restingas",
