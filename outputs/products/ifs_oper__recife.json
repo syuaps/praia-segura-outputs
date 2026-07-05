@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2-opendata",
-  "generated_at_utc": "2026-07-05T13:01:20Z",
+  "generated_at_utc": "2026-07-05T13:51:25Z",
   "product": "ECMWF Open Data – IFS HRES via ecmwf-opendata",
   "run_summary": {
     "oper": [
@@ -22,7 +22,7 @@
     "days_ahead_requested": 6
   },
   "bbox": {
-    "minLon": -35.1,
+    "minLon": -35.0,
     "maxLon": -34.7,
     "minLat": -8.2,
     "maxLat": -7.9
