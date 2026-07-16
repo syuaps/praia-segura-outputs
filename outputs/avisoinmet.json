@@ -12,15 +12,128 @@
     "sigla_uf": "PE",
     "codigo_ibge": "2611606"
   },
-  "gerado_em": "2026-07-12T10:36:30-03:00",
+  "gerado_em": "2026-07-16T06:14:13-03:00",
   "status_consulta": "ok",
   "dados_em_cache": false,
-  "tem_alerta": false,
-  "tem_alerta_vigente": false,
-  "tem_alerta_futuro": false,
-  "quantidade_alertas": 0,
-  "maior_severidade": null,
-  "maior_severidade_vigente": null,
-  "mensagem": "Não há avisos meteorológicos do INMET para Recife.",
-  "alertas": []
+  "tem_alerta": true,
+  "tem_alerta_vigente": true,
+  "tem_alerta_futuro": true,
+  "quantidade_alertas": 3,
+  "maior_severidade": "amarelo",
+  "maior_severidade_vigente": "amarelo",
+  "mensagem": "Há aviso meteorológico vigente do INMET para Recife.",
+  "alertas": [
+    {
+      "id": "urn:oid:2.49.0.0.76.0.2026.27793.1",
+      "fonte": "INMET",
+      "titulo": "Aviso de Chuvas Intensas. Severidade Grau: Moderate",
+      "evento": "Chuvas Intensas",
+      "severidade": "amarelo",
+      "severidade_texto": "Perigo potencial",
+      "severidade_cap": "Moderate",
+      "certeza": "Likely",
+      "urgencia": "Future",
+      "status_temporal": "vigente",
+      "emitido_em": "2026-07-14T11:17:03-03:00",
+      "inicio": "2026-07-16T00:00:00-03:00",
+      "fim": "2026-07-16T23:59:00-03:00",
+      "descricao": "INMET publica aviso iniciando em: 16/07/2026 00:00. Chuva entre 20 e 30 mm/h ou até 50 mm/dia, ventos intensos (40-60 km/h). Baixo risco de corte de energia elétrica, queda de galhos de árvores, alagamentos e de descargas elétricas.",
+      "riscos": null,
+      "instrucoes": "Em caso de rajadas de vento: (não se abrigue debaixo de árvores, pois há leve risco de queda e descargas elétricas e não estacione veículos próximos a torres de transmissão e placas de propaganda). Evite usar aparelhos eletrônicos ligados à tomada. Obtenha mais informações junto à Defesa Civil (telefone 199) e ao Corpo de Bombeiros (telefone 193).",
+      "area_descricao": "Aviso para as áreas: Metropolitana de Recife, Agreste Pernambucano, Mata Pernambucana, Leste Sergipano, Leste Alagoano, Agreste Sergipano, Agreste Alagoano, Mata Paraibana",
+      "abrangencia_confirmada_por": [
+        "codigo_ibge",
+        "poligono",
+        "texto"
+      ],
+      "relevante_para_praia": true,
+      "categorias_risco": [
+        "chuva",
+        "vento",
+        "impacto_urbano"
+      ],
+      "url_oficial": "https://avisos.inmet.gov.br/54972",
+      "status_cap": "Actual",
+      "tipo_mensagem_cap": "Alert",
+      "escopo_cap": "Public",
+      "efetivo": null,
+      "poligonos": [
+        "-7.612998,-34.650879 -7.427837,-35.123291 -7.890588,-35.59021 -9.194293,-36.447144 -10.174374,-37.034912 -10.746969,-36.793213 -10.585022,-36.331787 -9.633246,-35.546265 -8.955619,-35.046387 -7.612998,-34.650879"
+      ]
+    },
+    {
+      "id": "urn:oid:2.49.0.0.76.0.2026.27808.1",
+      "fonte": "INMET",
+      "titulo": "Aviso de Vendaval. Severidade Grau: Moderate",
+      "evento": "Vendaval",
+      "severidade": "amarelo",
+      "severidade_texto": "Perigo potencial",
+      "severidade_cap": "Moderate",
+      "certeza": "Likely",
+      "urgencia": "Future",
+      "status_temporal": "vigente",
+      "emitido_em": "2026-07-15T11:49:43-03:00",
+      "inicio": "2026-07-16T00:01:00-03:00",
+      "fim": "2026-07-18T23:59:00-03:00",
+      "descricao": "INMET publica aviso iniciando em: 16/07/2026 00:01. Vento variando entre 40 km/h e 60 km/h. Baixo risco de queda de galhos de árvores.",
+      "riscos": null,
+      "instrucoes": "Em caso de rajadas de vento: (não se abrigue debaixo de árvores, pois há leve risco de queda e descargas elétricas e não estacione veículos próximos a torres de transmissão e placas de propaganda). Obtenha mais informações junto à Defesa Civil (telefone 199) e ao Corpo de Bombeiros (telefone 193).",
+      "area_descricao": "Aviso para as áreas: Sul Cearense, Vale São-Franciscano da Bahia, Metropolitana de Recife, Nordeste Baiano, Norte Cearense, Noroeste Cearense, Central Potiguar, Sudeste Piauiense, Sertões Cearenses, Oeste Potiguar, Sertão Pernambucano, São Francisco Pernambucano, Agreste Pernambucano, Sertão Alagoano, Sertão Paraibano, Centro Norte Baiano, Mata Pernambucana, Agreste Paraibano, Borborema, Mata Paraibana, Jaguaribe, Centro Sul Baiano, Metropolitana de Salvador, Leste Sergipano, Leste Alagoano, Centro-Sul Cearense, Agreste Sergipano, Metropolitana de Fortaleza, Agreste Alagoano, Leste Potiguar, Centro-Norte Piauiense, Agreste Potiguar, Sertão Sergipano, Sudoeste Piauiense",
+      "abrangencia_confirmada_por": [
+        "codigo_ibge",
+        "poligono",
+        "texto"
+      ],
+      "relevante_para_praia": true,
+      "categorias_risco": [
+        "vento"
+      ],
+      "url_oficial": "https://avisos.inmet.gov.br/54995",
+      "status_cap": "Actual",
+      "tipo_mensagem_cap": "Alert",
+      "escopo_cap": "Public",
+      "efetivo": null,
+      "poligonos": [
+        "-2.855263,-40.429688 -3.272146,-40.605469 -4.346411,-40.825195 -5.090944,-41.022949 -5.769036,-41.19873 -6.904614,-41.330566 -7.776309,-41.484375 -8.428904,-41.52832 -9.253936,-41.572266 -10.141932,-41.572266 -11.480025,-41.594238 -12.232655,-41.52832 -12.897489,-41.418457 -13.261333,-41.286621 -13.261333,-40.979004 -13.234598,-40.627441 -13.186468,-40.369263 -13.09553,-40.03418 -13.09553,-39.649658 -13.11693,-39.182739 -13.165074,-38.930054 -13.184462,-38.864136 -13.165742,-38.835983 -13.138328,-38.783112 -13.096199,-38.737106 -13.054061,-38.685608 -13.024628,-38.626556 -13.017269,-38.533859 -13.017269,-38.459702 -12.980471,-38.417816 -12.961067,-38.362198 -12.946345,-38.327866 -12.855318,-38.236542 -12.76091,-38.154144 -12.638998,-38.042908 -12.585392,-37.994843 -12.290359,-37.795715 -12.094381,-37.670746 -11.887509,-37.562256 -11.649546,-37.453766 -11.449069,-37.323303 -11.354836,-37.290344 -11.233633,-37.202454 -11.097556,-37.102203 -10.945237,-37.0047 -10.784745,-36.881104 -10.717285,-36.805573 -10.637664,-36.66687 -10.576922,-36.544647 -10.52832,-36.392212 -10.498614,-36.363373 -10.343291,-36.275482 -10.312217,-36.280975 -10.181132,-36.154633 -10.16356,-36.117554 -10.10543,-36.068115 -10.013482,-35.991211 -9.901216,-35.91568 -9.822742,-35.859375 -9.692813,-35.748138 -9.684691,-35.705566 -9.660323,-35.680847 -9.598042,-35.660248 -9.528977,-35.579224 -9.430096,-35.488586 -9.360998,-35.461121 -9.272911,-35.349884 -9.152265,-35.266113 -9.079044,-35.234528 -9.020049,-35.210495 -8.982749,-35.176163 -8.871503,-35.124664 -8.826724,-35.119171 -8.795511,-35.098572 -8.587132,-35.022354 -8.557936,-35.000381 -8.487992,-34.990768 -8.368448,-34.942703 -8.352823,-34.930344 -8.297791,-34.940643 -8.239353,-34.920044 -8.089143,-34.873352 -8.012316,-34.837303 -7.927655,-34.815331 -7.902151,-34.81842 -7.819167,-34.840393 -7.811684,-34.833527 -7.753857,-34.817734 -7.687176,-34.82666 -7.619123,-34.799881 -7.592579,-34.812927 -7.56195,-34.82048 -7.516342,-34.804001 -7.472773,-34.797134 -7.453028,-34.801254 -7.328416,-34.786835 -7.211944,-34.787521 -7.141774,-34.788208 -7.085221,-34.823914 -6.975502,-34.81842 -6.888254,-34.850006 -6.866439,-34.874725 -6.66188,-34.936523 -6.378083,-34.970856 -6.338502,-35.009308 -6.226569,-35.021667 -6.189707,-35.06424 -5.994436,-35.087585 -5.871502,-35.14389 -5.738976,-35.172729 -5.68705,-35.185089 -5.569516,-35.217361 -5.470414,-35.257187 -5.358991,-35.314865 -5.356256,-35.338898 -5.273529,-35.364304 -5.198997,-35.421295 -5.150444,-35.480347 -5.098467,-35.613556 -5.105307,-35.635529 -5.034859,-35.950012 -5.036227,-36.003571 -5.075897,-36.125793 -5.082053,-36.289902 -5.076581,-36.34758 -5.051275,-36.477356 -5.058114,-36.611938 -5.059482,-36.687469 -5.026651,-36.772614 -4.940461,-36.856384 -4.908992,-36.949768 -4.915833,-37.107697 -4.885731,-37.195587 -4.725621,-37.280731 -4.672242,-37.339783 -4.614753,-37.485352 -4.617491,-37.558136 -4.497024,-37.702332 -4.38886,-37.753143 -4.336826,-37.883606 -4.138243,-38.095093 -3.93824,-38.237915 -3.894398,-38.314819 -3.691596,-38.452148 -3.680632,-38.501587 -3.666928,-38.62793 -3.529869,-38.798218 -3.47504,-38.891602 -3.392791,-38.965759 -3.384566,-39.048157 -3.187137,-39.259644 -3.161084,-39.36676 -3.010241,-39.622192 -2.981442,-39.690857 -2.856634,-39.910583 -2.815486,-40.080872 -2.790796,-40.292358 -2.805885,-40.413208 -2.855263,-40.429688"
+      ]
+    },
+    {
+      "id": "urn:oid:2.49.0.0.76.0.2026.27803.1",
+      "fonte": "INMET",
+      "titulo": "Aviso de Chuvas Intensas. Severidade Grau: Moderate",
+      "evento": "Chuvas Intensas",
+      "severidade": "amarelo",
+      "severidade_texto": "Perigo potencial",
+      "severidade_cap": "Moderate",
+      "certeza": "Likely",
+      "urgencia": "Future",
+      "status_temporal": "futuro",
+      "emitido_em": "2026-07-14T13:08:27-03:00",
+      "inicio": "2026-07-17T00:00:00-03:00",
+      "fim": "2026-07-18T23:59:00-03:00",
+      "descricao": "INMET publica aviso iniciando em: 17/07/2026 00:00. Chuva entre 20 e 30 mm/h ou até 50 mm/dia, ventos intensos (40-60 km/h). Baixo risco de corte de energia elétrica, queda de galhos de árvores, alagamentos e de descargas elétricas.",
+      "riscos": null,
+      "instrucoes": "Em caso de rajadas de vento: (não se abrigue debaixo de árvores, pois há leve risco de queda e descargas elétricas e não estacione veículos próximos a torres de transmissão e placas de propaganda). Evite usar aparelhos eletrônicos ligados à tomada. Obtenha mais informações junto à Defesa Civil (telefone 199) e ao Corpo de Bombeiros (telefone 193).",
+      "area_descricao": "Aviso para as áreas: Metropolitana de Recife, Agreste Pernambucano, Mata Pernambucana, Agreste Paraibano, Borborema, Mata Paraibana, Leste Potiguar, Agreste Potiguar, Leste Alagoano",
+      "abrangencia_confirmada_por": [
+        "codigo_ibge",
+        "poligono",
+        "texto"
+      ],
+      "relevante_para_praia": true,
+      "categorias_risco": [
+        "chuva",
+        "vento",
+        "impacto_urbano"
+      ],
+      "url_oficial": "https://avisos.inmet.gov.br/54988",
+      "status_cap": "Actual",
+      "tipo_mensagem_cap": "Alert",
+      "escopo_cap": "Public",
+      "efetivo": null,
+      "poligonos": [
+        "-9.259358,-35.293579 -8.814511,-35.101318 -8.189742,-34.804688 -7.427837,-34.771729 -6.691887,-34.777222 -6.315299,-34.958496 -5.599585,-35.167236 -5.200365,-35.348511 -5.052643,-35.529785 -5.030755,-35.672607 -5.205835,-35.700073 -5.583184,-35.897827 -6.293459,-35.936279 -6.833716,-35.958252 -7.095442,-36.002197 -7.563992,-36.035156 -8.162556,-35.991211 -8.385431,-36.018677 -8.635334,-35.941772 -9.031578,-35.881348 -9.346092,-35.683594 -9.514079,-35.441895 -9.259358,-35.293579"
+      ]
+    }
+  ]
 }
