@@ -49,9 +49,10 @@
   "subtitulo": "Informação ajuda a reduzir riscos",
   "imagem": "tubaroes",
   "resumo": "Respeite os avisos locais e evite áreas de maior risco.",
-  "explicacao": "Em alguns trechos há histórico de incidentes. O cuidado principal é reduzir a exposição: respeitar placas, evitar horários de maré alta, baixa visibilidade e não entrar em áreas sinalizadas.",
+  "explicacao": "Em alguns trechos há histórico de incidentes. O cuidado principal é reduzir a exposição: respeitar placas, evitar horários de maré alta, baixa visibilidade e áreas desprotegidas, e não entrar em áreas sinalizadas.",
   "dicas": [
     "Dê preferência às piscinas naturais durante a maré baixa.",
+    "Evite entrar no mar aberto. Prefira áreas protegidas.",
     "Não entre em áreas com alerta ou proibição.",
     "Evite banho em mar turvo, chuva forte ou fim de tarde.",
     "Não nade em trechos com avisos de corrente de retorno."
@@ -81,10 +82,11 @@
   "explicacao": "Em áreas sem proteção recifal, as ondas quebram com mais energia e as correntes podem ser mais fortes. Isso aumenta o risco de perder o pé, ser empurrado pela arrebentação ou levado para o largo. O risco de incidentes com tubarões também é maior em áreas desprotegidas",
   "dicas": [
     "Prefira trechos protegidos quando as condições forem favoráveis.",
-    "Evite mar aberto com ondas altas, vento forte ou água turva.",
-    "Observe se há espuma indo para o largo, sinal comum de corrente."
+    "Evite as laterais das piscinas e regiões com aberturas dos recifes",
+    "Evite entrar naa maré alta, quando o recife fica submerso e a força da água aumenta.",
+    "Observe se há espuma indo para o mar, sinal comum de corrente de retorno."
   ],
-  "alertaFinal": "No mar aberto, o fundo pode mudar de repente."
+  "alertaFinal": "No mar aberto, o fundo e as correntes podem mudar de repente e você fica em perigo."
   },
   {
   "id": "balneabilidade",
