@@ -1,0 +1,66 @@
+[
+  {
+    "id": "praia-sem-barreiras",
+    "title": "Praia Sem Barreiras",
+    "summary": "Inclusion project with assisted bathing and amphibious wheelchairs in an adapted section of Recife shoreline.",
+    "focus": "Beach accessibility",
+    "links": [
+      {
+        "label": "Site do projeto",
+        "url": "https://empetur.pe.gov.br/coluna-4/programas-e-acoes/75-programas-e-acoes/1363-praia-sem-barreiras"
+      }
+    ]
+  },
+  {
+    "id": "recife-cidade-parque",
+    "title": "Recife Cidade Parque",
+    "summary": "Iniciativa que conecta planejamento urbano e pesquisa para habitabilidade, sustentabilidade e resiliência da cidade.",
+    "focus": "City and coastal environment",
+    "links": [
+      {
+        "label": "Instagram do projeto",
+        "url": "https://www.instagram.com/recifecidadeparque/"
+      }
+    ]
+  },
+  {
+    "id": "museu-oceanografia",
+    "title": "Museu de Oceanografia da UFPE",
+    "summary": "Iniciativa de divulgação científica e educação oceanográfica com foco em conservação marinha e cultura costeira.",
+    "focus": "Ocean education",
+    "links": [
+      {
+        "label": "Instagram do museu",
+        "url": "https://www.instagram.com/moufpe/"
+      }
+    ]
+  },
+  {
+    "id": "parque-capibaribe",
+    "title": "Parque Capibaribe",
+    "summary": "Projeto estratégico para aproximar pessoas e rios, com impacto em drenagem, mobilidade e qualidade ambiental.",
+    "focus": "Rivers and shoreline connection",
+    "links": [
+      {
+        "label": "Página oficial",
+        "url": "https://meioambiente.recife.pe.gov.br/parque-capibaribe"
+      }
+    ]
+  },
+  {
+    "id": "balneabilidade-cprh",
+    "title": "Monitoramento de Balneabilidade",
+    "summary": "Programa técnico da CPRH para análise contínua da qualidade da água do mar e apoio a decisões de banho.",
+    "focus": "Oceanography and water quality",
+    "links": [
+      {
+        "label": "CPRH - Balneabilidade",
+        "url": "https://www2.cprh.pe.gov.br/monitoramento-ambiental/balneabilidade/"
+      },
+      {
+        "label": "Relatórios",
+        "url": "https://www2.cprh.pe.gov.br/monitoramento-ambiental/balneabilidade/relatorios-de-balneabilidade/"
+      }
+    ]
+  }
+]

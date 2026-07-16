@@ -1,0 +1,142 @@
+[
+  {
+    "id": "PISCINA_BURACO_DA_VEIA",
+    "nome": "Natural pool do Buraco da véia",
+    "descricao": "Area de natural pool na shoreline of Buraco da véia.",
+    "setorId": "ID_0001",
+    "codCPRHBalneabilidade": "REC-80",
+    "imagem": "ID_0001",
+    "balneabilidade": {
+      "status": "impropria",
+      "dataReferencia": "10/07/2026",
+      "periodo": "10/07/2026 a 16/07/2026",
+      "codCPRHBalneabilidade": "REC-80"
+    }
+  },
+  {
+    "id": "PISCINA_PINA_1",
+    "nome": "Natural pool do Pina 1",
+    "descricao": "Area de natural pool na shoreline of Pina 1.",
+    "setorId": "ID_0005",
+    "codCPRHBalneabilidade": "REC-80",
+    "imagem": "ID_0005",
+    "balneabilidade": {
+      "status": "impropria",
+      "dataReferencia": "10/07/2026",
+      "periodo": "10/07/2026 a 16/07/2026",
+      "codCPRHBalneabilidade": "REC-80"
+    }
+  },
+  {
+    "id": "PISCINA_PINA_2",
+    "nome": "Natural pool do Pina 2",
+    "descricao": "Area de natural pool na shoreline of Pina 2.",
+    "setorId": "ID_0006",
+    "codCPRHBalneabilidade": "REC-80",
+    "imagem": "ID_0006",
+    "balneabilidade": {
+      "status": "impropria",
+      "dataReferencia": "10/07/2026",
+      "periodo": "10/07/2026 a 16/07/2026",
+      "codCPRHBalneabilidade": "REC-80"
+    }
+  },
+  {
+    "id": "PISCINA_PINA_4",
+    "nome": "Natural pool do Pina 4",
+    "descricao": "Area de natural pool na shoreline of Pina 4.",
+    "setorId": "ID_0008",
+    "codCPRHBalneabilidade": "REC-80",
+    "imagem": "ID_0008",
+    "balneabilidade": {
+      "status": "impropria",
+      "dataReferencia": "10/07/2026",
+      "periodo": "10/07/2026 a 16/07/2026",
+      "codCPRHBalneabilidade": "REC-80"
+    }
+  },
+  {
+    "id": "PISCINA_ACAIACA_1",
+    "nome": "Natural pool do Acaiaca 1",
+    "descricao": "Area de natural pool na shoreline of Acaiaca 1.",
+    "setorId": "ID_0016",
+    "codCPRHBalneabilidade": "REC-50",
+    "imagem": "ID_0016",
+    "balneabilidade": {
+      "status": "impropria",
+      "dataReferencia": "10/07/2026",
+      "periodo": "10/07/2026 a 16/07/2026",
+      "codCPRHBalneabilidade": "REC-50"
+    }
+  },
+  {
+    "id": "PISCINA_ACAIACA_3",
+    "nome": "Natural pool do Acaiaca 3",
+    "descricao": "Area de natural pool na shoreline of Acaiaca 3.",
+    "setorId": "ID_0018",
+    "codCPRHBalneabilidade": "REC-50",
+    "imagem": "ID_0018",
+    "balneabilidade": {
+      "status": "impropria",
+      "dataReferencia": "10/07/2026",
+      "periodo": "10/07/2026 a 16/07/2026",
+      "codCPRHBalneabilidade": "REC-50"
+    }
+  },
+  {
+    "id": "PISCINA_ACAIACA_4",
+    "nome": "Natural pool do Acaiaca 4",
+    "descricao": "Area de natural pool na shoreline of Acaiaca 4.",
+    "setorId": "ID_0019",
+    "codCPRHBalneabilidade": "REC-50",
+    "imagem": "ID_0019",
+    "balneabilidade": {
+      "status": "impropria",
+      "dataReferencia": "10/07/2026",
+      "periodo": "10/07/2026 a 16/07/2026",
+      "codCPRHBalneabilidade": "REC-50"
+    }
+  },
+  {
+    "id": "PISCINA_PRACINHA_DE_BOA_VIAGEM",
+    "nome": "Natural pool do Pracinha de Boa Viagem",
+    "descricao": "Area de natural pool na shoreline of Pracinha de Boa Viagem.",
+    "setorId": "ID_0022",
+    "codCPRHBalneabilidade": "REC-50",
+    "imagem": "ID_0022",
+    "balneabilidade": {
+      "status": "impropria",
+      "dataReferencia": "10/07/2026",
+      "periodo": "10/07/2026 a 16/07/2026",
+      "codCPRHBalneabilidade": "REC-50"
+    }
+  },
+  {
+    "id": "PISCINA_TRANSATLANTICO",
+    "nome": "Natural pool do Transatlântico",
+    "descricao": "Area de natural pool na shoreline of Transatlântico.",
+    "setorId": "ID_0023",
+    "codCPRHBalneabilidade": "REC-10",
+    "imagem": "ID_0023",
+    "balneabilidade": {
+      "status": "impropria",
+      "dataReferencia": "10/07/2026",
+      "periodo": "10/07/2026 a 16/07/2026",
+      "codCPRHBalneabilidade": "REC-10"
+    }
+  },
+  {
+    "id": "PISCINA_ATLANTE_PLAZA",
+    "nome": "Natural pool do Atlante Plaza",
+    "descricao": "Area de natural pool na shoreline of Atlante Plaza.",
+    "setorId": "ID_0024",
+    "codCPRHBalneabilidade": "REC-10",
+    "imagem": "ID_0024",
+    "balneabilidade": {
+      "status": "impropria",
+      "dataReferencia": "10/07/2026",
+      "periodo": "10/07/2026 a 16/07/2026",
+      "codCPRHBalneabilidade": "REC-10"
+    }
+  }
+]

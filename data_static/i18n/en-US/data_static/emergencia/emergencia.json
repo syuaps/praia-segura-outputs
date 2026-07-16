@@ -1,0 +1,44 @@
+[
+  {
+    "id": "policia",
+    "titulo": "Emergencies",
+    "subtitulo": "Military Police",
+    "numero": "190"
+  },
+  {
+    "id": "bombeiros",
+    "titulo": "Fire Department",
+    "subtitulo": "",
+    "numero": "193"
+  },
+  {
+    "id": "samu",
+    "titulo": "SAMU - Ambulance",
+    "subtitulo": "",
+    "numero": "192"
+  },
+  {
+    "id": "defesa-civil",
+    "titulo": "Civil Defense",
+    "subtitulo": "Emergencies and disasters",
+    "numero": "199"
+  },
+  {
+    "id": "hospitais",
+    "titulo": "Emergency care",
+    "subtitulo": "",
+    "numero": ""
+  },
+  {
+    "id": "denuncia",
+    "titulo": "Crime hotline",
+    "subtitulo": "",
+    "numero": "181"
+  },
+  {
+    "id": "atendimento-mulher",
+    "titulo": "Women's support center",
+    "subtitulo": "Guidance on laws, women's rights, and support network services",
+    "numero": "180"
+  }
+]

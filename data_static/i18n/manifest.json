@@ -1,0 +1,16 @@
+{
+  "generated_at_utc": "2026-07-16T14:41:25.946476+00:00",
+  "locales": [
+    "en-US",
+    "es",
+    "fr"
+  ],
+  "files": [
+    "setores/setoresRecife.json",
+    "piscinas/piscinasNaturais.json",
+    "servicos/servicos.json",
+    "projetos/projetos.json",
+    "guiadomar/guiaTemas.json",
+    "emergencia/emergencia.json"
+  ]
+}

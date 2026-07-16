@@ -1,0 +1,247 @@
+[
+  {
+    "id": "mar-hoje",
+    "titulo": "Como está o mar hoje?",
+    "subtitulo": "Veja as condições antes de entrar",
+    "imagem": "mar-hoje",
+    "resumo": "A tela reúne risco do dia, chuva, ondas, vento, maré e melhor horário para banho.",
+    "explicacao": "O mar muda ao longo do dia. Por isso, o Praia Segura combina diferentes informações para ajudar na decisão: risco geral, chance de chuva, altura das ondas, vento, maré, nascer e pôr do sol e melhor janela para banho. Esses fatores ajudam a indicar quando o mar pode estar mais agitado, turvo, fundo ou com correntes mais fortes.",
+    "dicas": [
+      "Comece pelo nível de risco: se estiver alto, redobre a atenção e considere não entrar.",
+      "Observe chuva, ondas e vento: quando esses fatores aumentam, o banho pode ficar mais perigoso.",
+      "Escolha sua praia com atenção aos avisos locais.",
+      "Use a maré e a janela indicada como apoio, mas sempre compare com as condições reais da praia e os avisos dos guarda-vidas."
+    ],
+    "alertaFinal": "A previsão ajuda, mas a decisão final deve considerar o mar, a sinalização e os guarda-vidas."
+  },
+  {
+    "id": "mar-turvo-chuva",
+    "titulo": "Mar turvo, risco em dobro",
+    "subtitulo": "Chuva forte pode deixar o banho perigoso",
+    "imagem": "mar-turvo-chuva",
+    "resumo": "Após chuva, o mar pode ficar mais turvo, forte e difícil de ler.",
+    "explicacao": "Chuvas fortes levam água e sedimentos de rios e canais para o mar. Isso reduz a visibilidade, aumenta a turbulência e pode dificultar a identificação de buracos, correntes e obstáculos. O risco de incidentes com tubarões também é maior com água turva.",
+    "dicas": [
+      "Evite banho logo após chuva forte.",
+      "Não entre se a água estiver muito turva ou agitada.",
+      "Respeite placas, alertas e orientação dos guarda-vidas."
+    ],
+    "alertaFinal": "Em mar turvo e agitado, a escolha mais segura é não entrar."
+  },
+  {
+    "id": "correntes",
+    "titulo": "Correntes de retorno",
+    "subtitulo": "Entenda como reconhecer e sair",
+    "imagem": "correntes",
+    "resumo": "Elas puxam para o largo, mas há forma correta de sair.",
+    "explicacao": "Correntes de retorno são faixas de água que voltam para o mar. Elas não puxam para baixo, mas podem afastar rapidamente o banhista da areia.",
+    "dicas": [
+      "Evite trechos com avisos locais de corrente de retorno.",
+      "Mantenha a calma e não nade contra a corrente.",
+      "Nade para os lados, paralelo à praia.",
+      "Depois de sair da corrente, volte em diagonal para a areia."
+    ],
+    "alertaFinal": "Não lute contra a corrente. Saia pelos lados."
+  },
+  {
+    "id": "tubaroes",
+    "titulo": "Tubarões: cuidado sem pânico",
+    "subtitulo": "Informação ajuda a reduzir riscos",
+    "imagem": "tubaroes",
+    "resumo": "Respeite os avisos locais e evite áreas de maior risco.",
+    "explicacao": "Em alguns trechos há histórico de incidentes. O cuidado principal é reduzir a exposição: respeitar placas, evitar horários de maré alta, baixa visibilidade e não entrar em áreas sinalizadas.",
+    "dicas": [
+      "Dê preferência às piscinas naturais durante a maré baixa.",
+      "Não entre em áreas com alerta ou proibição.",
+      "Evite banho em mar turvo, chuva forte ou fim de tarde.",
+      "Não nade em trechos com avisos de corrente de retorno."
+    ],
+    "alertaFinal": "Atención aos avisos oficiais é essencial."
+  },
+  {
+    "id": "risco-noturno",
+    "titulo": "Mar à noite: risco maior",
+    "subtitulo": "Baixa visibilidade aumenta o perigo",
+    "imagem": "risco-noturno",
+    "resumo": "No escuro, é mais difícil ver ondas, buracos, pedras, correntes e tubarões.",
+    "explicacao": "Durante a noite, a visibilidade cai muito e o banhista perde referências importantes da praia. Fica mais difícil perceber a força das ondas, reconhecer correntes, enxergar buracos, pedras, recifes, animais marinhos e pedir ajuda rapidamente.",
+    "dicas": [
+      "Evite entrar no mar durante a noite, mesmo em praias conhecidas.",
+      "Não nade sozinho nem em locais sem iluminação e sem guarda-vidas.",
+      "Se quiser ficar na praia à noite, permaneça na areia e longe da arrebentação."
+    ],
+    "alertaFinal": "À noite, o mais seguro é admirar o mar pela areia."
+  },
+  {
+    "id": "trechos-abertos",
+    "titulo": "Mar aberto não é piscina",
+    "subtitulo": "Sem recifes, o mar exige mais atenção",
+    "imagem": "trechos-abertos",
+    "resumo": "Sem barreira natural, ondas e correntes chegam com mais força.",
+    "explicacao": "Em áreas sem proteção recifal, as ondas quebram com mais energia e as correntes podem ser mais fortes. Isso aumenta o risco de perder o pé, ser empurrado pela arrebentação ou levado para o largo. O risco de incidentes com tubarões também é maior em áreas desprotegidas",
+    "dicas": [
+      "Prefira trechos protegidos quando as condições forem favoráveis.",
+      "Evite mar aberto com ondas altas, vento forte ou água turva.",
+      "Observe se há espuma indo para o largo, sinal comum de corrente."
+    ],
+    "alertaFinal": "No mar aberto, o fundo pode mudar de repente."
+  },
+  {
+    "id": "balneabilidade",
+    "titulo": "Balneabilidade da praia",
+    "subtitulo": "Saiba quando a água está própria",
+    "imagem": "balneabilidade",
+    "resumo": "A balneabilidade indica a qualidade da água para banho.",
+    "explicacao": "A classificação da água ajuda a evitar contato com contaminação. Sempre confira a informação mais recente antes de entrar no mar, principalmente após chuvas.",
+    "dicas": [
+      "Verifique placas e boletins oficiais.",
+      "Evite banho após chuvas fortes.",
+      "Não entre se houver lixo, cheiro forte ou água muito turva."
+    ],
+    "linksDicas": [
+      {
+        "indice": 0,
+        "label": "Relatórios",
+        "url": "https://www2.cprh.pe.gov.br/monitoramento-ambiental/balneabilidade/relatorios-de-balneabilidade/"
+      }
+    ],
+    "alertaFinal": "Água imprópria exige cuidado e mudança de local."
+  },
+  {
+    "id": "caravelas",
+    "titulo": "Caravelas: cuidado ao tocar",
+    "subtitulo": "Mesmo na areia, elas podem causar queimaduras",
+    "imagem": "caravelas",
+    "resumo": "Caravelas têm tentáculos que podem causar dor intensa e irritação na pele.",
+    "explicacao": "Caravelas podem aparecer no mar ou encalhadas na areia, levadas pelo vento e pelas correntes. Seus tentáculos liberam substâncias urticantes que causam ardência, dor e marcas na pele. Mesmo fora da água ou aparentemente mortas, ainda podem provocar acidentes.",
+    "dicas": [
+      "Se avistar caravelas na água ou na areia, não toque e evite entrar no mar.",
+      "Em caso de contato, saia da água, não esfregue a pele e não lave com água doce.",
+      "Remova tentáculos com cuidado, de preferência com pinça ou um cartão. Não tente tirar com as mãos. Procure atendimento se houver dor forte, mal-estar ou reação extensa."
+    ],
+    "alertaFinal": "Queimou? Saia da água, evite esfregar e procure orientação de saúde."
+  },
+  {
+    "id": "mare",
+    "titulo": "Maré: o relógio da praia",
+    "subtitulo": "A maré muda a praia ao longo do dia",
+    "imagem": "mare",
+    "resumo": "A maré altera profundidade, corrente e exposição dos recifes.",
+    "explicacao": "Maré alta e maré baixa mudam a profundidade, a força da água e a exposição dos recifes. Em algumas áreas, piscinas naturais só ficam visíveis na maré baixa.",
+    "dicas": [
+      "Consulte os horários de maré antes de sair.",
+      "Evite ficar no mar com a maré subindo.",
+      "Com crianças, prefira períodos mais tranquilos."
+    ],
+    "alertaFinal": "Planejar pela maré reduz surpresas e acidentes."
+  },
+  {
+    "id": "ondas",
+    "titulo": "Ondas: quando parece pouco, mas não é",
+    "subtitulo": "Ondas pequenas também podem empurrar",
+    "imagem": "ondas",
+    "resumo": "Algumas séries de ondas podem chegar maiores de repente.",
+    "explicacao": "A altura média das ondas não mostra tudo. Em alguns momentos, ondas maiores chegam em sequência e podem derrubar ou empurrar banhistas desprevenidos.",
+    "dicas": [
+      "Observe o mar por alguns minutos antes de entrar.",
+      "Não fique de costas para as ondas.",
+      "Se a areia estiver cedendo, afaste-se da arrebentação."
+    ],
+    "alertaFinal": "Leia o ritmo das ondas antes de entrar."
+  },
+  {
+    "id": "recifes",
+    "titulo": "Recifes e piscinas naturais",
+    "subtitulo": "Proteção natural com cuidado",
+    "imagem": "recifes",
+    "resumo": "Recifes podem reduzir a força das ondas em alguns trechos.",
+    "explicacao": "Recifes ajudam a formar áreas mais calmas na maré baixa, mas também podem ser escorregadios, rasos e causar cortes. Mesmo em piscinas naturais, o cuidado continua necessário, principalmente com a maré alta.",
+    "dicas": [
+      "Evite as laterais das picinas e regiões com aberturas dos recifes",
+      "Não fique nas piscinas com a maré subindo.",
+      "Não mergulhe onde não vê o fundo.",
+      "Evite pisar nos recifes.",
+      "Proteja os organismos vivos e não retire nada do ambiente."
+    ],
+    "alertaFinal": "As piscinas naturais são áreas protegidas, mas não estão livres de riscos."
+  },
+  {
+    "id": "restingas",
+    "titulo": "Restingas protegem a costa",
+    "subtitulo": "A vegetação ajuda a segurar a praia",
+    "imagem": "restingas",
+    "resumo": "A restinga reduz erosão e protege o ecossistema costeiro.",
+    "explicacao": "A vegetação de restinga ajuda a fixar a areia, proteger a praia do vento e do avanço do mar, além de servir de abrigo para a fauna local.",
+    "dicas": [
+      "Use passarelas e caminhos sinalizados.",
+      "Não pise nem remova plantas da restinga.",
+      "Leve seu lixo de volta ou descarte corretamente."
+    ],
+    "alertaFinal": "Cuidar da restinga é cuidar da própria praia."
+  },
+  {
+    "id": "animal-encalhado",
+    "titulo": "Animal encalhado: o que fazer?",
+    "subtitulo": "Não toque e acione o órgão correto",
+    "imagem": "animal-encalhado",
+    "resumo": "Se encontrar um animal vivo, ferido ou morto na praia, mantenha distância e informe a localização.",
+    "explicacao": "Animais encalhados ou mortos podem indicar risco ambiental, doença, ferimentos ou morte recente. Não tente empurrar, carregar, enterrar, abrir ou remover o animal por conta própria. O ideal é manter pessoas e pets afastados, registrar o local com foto e ponto de referência e acionar o serviço responsável.",
+    "dicas": [
+      "Animal morto em área pública: acione a Emlurb pelo 156 ou pelo Conecta Recife e informe endereço, ponto de referência e fotos.",
+      "Animal silvestre vivo, ferido ou em risco: ligue 190 e peça acionamento da 1ª CIPOMA, informando espécie aproximada, porte e localização.",
+      "Dúvida ambiental ou situação envolvendo fauna protegida: registre no Ibama/Linha Verde pelo 0800 061 8080 ou contate a Supes/PE."
+    ],
+    "linksDicas": [
+      {
+        "indice": 0,
+        "label": "Emlurb 156",
+        "url": "https://conecta.recife.pe.gov.br/servico/249"
+      },
+      {
+        "indice": 1,
+        "label": "CIPOMA 190",
+        "url": "https://conecta.recife.pe.gov.br/servico/915"
+      },
+      {
+        "indice": 2,
+        "label": "Ibama PE",
+        "url": "https://www.gov.br/ibama/pt-br/composicao/quem-e-quem/ibama-nos-estados/pe"
+      }
+    ],
+    "orgaosAmbientais": [
+      {
+        "nome": "Emlurb - Autarquia de Manutenção e Limpeza Urbana",
+        "contato": "156 / Conecta Recife",
+        "responsabilidade": "Remoção de animal morto em área pública",
+        "fonte": "https://conecta.recife.pe.gov.br/servico/249"
+      },
+      {
+        "nome": "1ª CIPOMA - Companhia Independente de Policiamento do Meio Ambiente",
+        "contato": "190",
+        "responsabilidade": "Resgate de animal silvestre vivo, ferido ou em situação de risco",
+        "fonte": "https://conecta.recife.pe.gov.br/servico/915"
+      },
+      {
+        "nome": "Ibama - Superintendência em Pernambuco / Linha Verde",
+        "contato": "0800 061 8080 / supes.pe@ibama.gov.br",
+        "responsabilidade": "Orientação e registro de demanda ambiental envolvendo fauna silvestre protegida",
+        "fonte": "https://www.gov.br/ibama/pt-br/composicao/quem-e-quem/ibama-nos-estados/pe"
+      }
+    ],
+    "alertaFinal": "Não toque no animal. A resposta segura começa chamando quem sabe manejar."
+  },
+  {
+    "id": "oceanografia",
+    "titulo": "O que é oceanografia?",
+    "subtitulo": "A ciência que ajuda a entender o mar",
+    "imagem": "oceanografia",
+    "resumo": "Dados sobre vento, ondas, maré e correntes ajudam a traduzir o mar para o banho seguro.",
+    "explicacao": "A oceanografia estuda o comportamento do mar e transforma dados ambientais em informação útil para a sociedade. No Praia Segura, esse conhecimento ajuda a interpretar condições como ondas, vento, maré, correntes, chuva e proteção recifal, apoiando alertas e orientações para quem frequenta a praia.",
+    "dicas": [
+      "Observe como vento, ondas, maré e chuva mudam a praia ao longo do dia.",
+      "Use o app para entender melhor por que uma área pode estar mais segura ou mais perigosa.",
+      "Conheça mais sobre oceanografia: ela ajuda na segurança, na conservação e no planejamento das cidades costeiras."
+    ],
+    "alertaFinal": "Quando a ciência ajuda a entender o mar, todos podem fazer escolhas mais seguras."
+  }
+]

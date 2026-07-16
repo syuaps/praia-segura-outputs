@@ -1,0 +1,1025 @@
+[
+  {
+    "id": "ID_0001",
+    "nome": "Buraco da véia",
+    "centro": {
+      "latitude": -8.079518,
+      "longitude": -34.875937
+    },
+    "limites": {
+      "latMax": -8.078187,
+      "lonMax": -34.875461,
+      "latMin": -8.080752,
+      "lonMin": -34.876377
+    },
+    "atributos": {
+      "correnteRetorno": false,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": true,
+      "piscinasNaturais": true,
+      "incidentesTubarao": false,
+      "restinga": false,
+      "enroncamento": false,
+      "acessibilidade": false,
+      "observacao": "Piscinas naturais em maré baixa. No se arriesgue durante marea alta!",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-80",
+        "distEstacaoCPRHKm": 1.4269
+      }
+    }
+  },
+  {
+    "id": "ID_0002",
+    "nome": "Brasilia teimosa 1",
+    "centro": {
+      "latitude": -8.081801,
+      "longitude": -34.87679
+    },
+    "limites": {
+      "latMax": -8.080752,
+      "lonMax": -34.876377,
+      "latMin": -8.083301,
+      "lonMin": -34.877346
+    },
+    "atributos": {
+      "correnteRetorno": false,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": false,
+      "piscinasNaturais": false,
+      "incidentesTubarao": true,
+      "restinga": false,
+      "enroncamento": true,
+      "acessibilidade": false,
+      "observacao": "Sin área de protección! El baño no es seguro.",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-80",
+        "distEstacaoCPRHKm": 1.1575
+      }
+    }
+  },
+  {
+    "id": "ID_0003",
+    "nome": "Brasilia teimosa 2",
+    "centro": {
+      "latitude": -8.084512,
+      "longitude": -34.877769
+    },
+    "limites": {
+      "latMax": -8.083301,
+      "lonMax": -34.877346,
+      "latMin": -8.085903,
+      "lonMin": -34.878314
+    },
+    "atributos": {
+      "correnteRetorno": false,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": false,
+      "piscinasNaturais": false,
+      "incidentesTubarao": true,
+      "restinga": false,
+      "enroncamento": true,
+      "acessibilidade": false,
+      "observacao": "Sin área de protección! El baño no es seguro.",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-80",
+        "distEstacaoCPRHKm": 0.8405
+      }
+    }
+  },
+  {
+    "id": "ID_0004",
+    "nome": "Brasília temosa 3",
+    "centro": {
+      "latitude": -8.087082,
+      "longitude": -34.878708
+    },
+    "limites": {
+      "latMax": -8.085903,
+      "lonMax": -34.878314,
+      "latMin": -8.088506,
+      "lonMin": -34.879207
+    },
+    "atributos": {
+      "correnteRetorno": false,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": false,
+      "piscinasNaturais": false,
+      "incidentesTubarao": true,
+      "restinga": false,
+      "enroncamento": true,
+      "acessibilidade": false,
+      "observacao": "Sin área de protección! El baño no es seguro.",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-80",
+        "distEstacaoCPRHKm": 0.5427
+      }
+    }
+  },
+  {
+    "id": "ID_0005",
+    "nome": "Pina 1",
+    "centro": {
+      "latitude": -8.089624,
+      "longitude": -34.87966
+    },
+    "limites": {
+      "latMax": -8.088506,
+      "lonMax": -34.879207,
+      "latMin": -8.091066,
+      "lonMin": -34.880257
+    },
+    "atributos": {
+      "correnteRetorno": true,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": true,
+      "piscinasNaturais": true,
+      "incidentesTubarao": true,
+      "restinga": false,
+      "enroncamento": true,
+      "acessibilidade": false,
+      "observacao": "Piscinas naturais em maré baixa. No se arriesgue durante marea alta!",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-80",
+        "distEstacaoCPRHKm": 0.2605
+      }
+    }
+  },
+  {
+    "id": "ID_0006",
+    "nome": "Pina 2",
+    "centro": {
+      "latitude": -8.092294,
+      "longitude": -34.880653
+    },
+    "limites": {
+      "latMax": -8.091066,
+      "lonMax": -34.880257,
+      "latMin": -8.093638,
+      "lonMin": -34.881098
+    },
+    "atributos": {
+      "correnteRetorno": true,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": true,
+      "piscinasNaturais": true,
+      "incidentesTubarao": true,
+      "restinga": true,
+      "enroncamento": false,
+      "acessibilidade": false,
+      "observacao": "Piscinas naturais em maré baixa. No se arriesgue durante marea alta!",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-80",
+        "distEstacaoCPRHKm": 0.1599
+      }
+    }
+  },
+  {
+    "id": "ID_0007",
+    "nome": "Pina 3",
+    "centro": {
+      "latitude": -8.094817,
+      "longitude": -34.881444
+    },
+    "limites": {
+      "latMax": -8.093638,
+      "lonMax": -34.881098,
+      "latMin": -8.096256,
+      "lonMin": -34.881883
+    },
+    "atributos": {
+      "correnteRetorno": false,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": false,
+      "piscinasNaturais": false,
+      "incidentesTubarao": true,
+      "restinga": true,
+      "enroncamento": false,
+      "acessibilidade": false,
+      "observacao": "Mar aberto sem proteção! El baño no es seguro.",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-80",
+        "distEstacaoCPRHKm": 0.4117
+      }
+    }
+  },
+  {
+    "id": "ID_0008",
+    "nome": "Pina 4",
+    "centro": {
+      "latitude": -8.097322,
+      "longitude": -34.882251
+    },
+    "limites": {
+      "latMax": -8.096256,
+      "lonMax": -34.881883,
+      "latMin": -8.098845,
+      "lonMin": -34.882792
+    },
+    "atributos": {
+      "correnteRetorno": true,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": true,
+      "piscinasNaturais": true,
+      "incidentesTubarao": true,
+      "restinga": true,
+      "enroncamento": false,
+      "acessibilidade": false,
+      "observacao": "Piscina natural restrita com correntes de retorno. El baño no está indicado.",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-80",
+        "distEstacaoCPRHKm": 0.6953
+      }
+    }
+  },
+  {
+    "id": "ID_0009",
+    "nome": "Primeiro Jardim 1",
+    "centro": {
+      "latitude": -8.099933,
+      "longitude": -34.883312
+    },
+    "limites": {
+      "latMax": -8.098845,
+      "lonMax": -34.882792,
+      "latMin": -8.101324,
+      "lonMin": -34.883969
+    },
+    "atributos": {
+      "correnteRetorno": true,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": false,
+      "piscinasNaturais": false,
+      "incidentesTubarao": true,
+      "restinga": true,
+      "enroncamento": false,
+      "acessibilidade": false,
+      "observacao": "Área com correntes de retorno! El baño no es seguro.",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-80",
+        "distEstacaoCPRHKm": 1.0009
+      }
+    }
+  },
+  {
+    "id": "ID_0010",
+    "nome": "Primeiro Jardim 2",
+    "centro": {
+      "latitude": -8.102402,
+      "longitude": -34.884506
+    },
+    "limites": {
+      "latMax": -8.101324,
+      "lonMax": -34.883969,
+      "latMin": -8.103759,
+      "lonMin": -34.885212
+    },
+    "atributos": {
+      "correnteRetorno": true,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": false,
+      "piscinasNaturais": false,
+      "incidentesTubarao": true,
+      "restinga": true,
+      "enroncamento": false,
+      "acessibilidade": false,
+      "observacao": "Área com correntes de retorno! El baño no es seguro.",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-80",
+        "distEstacaoCPRHKm": 1.2984
+      }
+    }
+  },
+  {
+    "id": "ID_0011",
+    "nome": "Segundo Jardim 1",
+    "centro": {
+      "latitude": -8.104851,
+      "longitude": -34.885731
+    },
+    "limites": {
+      "latMax": -8.103759,
+      "lonMax": -34.885212,
+      "latMin": -8.106232,
+      "lonMin": -34.886393
+    },
+    "atributos": {
+      "correnteRetorno": true,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": false,
+      "piscinasNaturais": false,
+      "incidentesTubarao": true,
+      "restinga": true,
+      "enroncamento": false,
+      "acessibilidade": false,
+      "observacao": "Área com correntes de retorno! El baño no es seguro.",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-50",
+        "distEstacaoCPRHKm": 1.3496
+      }
+    }
+  },
+  {
+    "id": "ID_0012",
+    "nome": "Segundo Jardim 2",
+    "centro": {
+      "latitude": -8.107311,
+      "longitude": -34.886886
+    },
+    "limites": {
+      "latMax": -8.106232,
+      "lonMax": -34.886393,
+      "latMin": -8.108694,
+      "lonMin": -34.887531
+    },
+    "atributos": {
+      "correnteRetorno": true,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": false,
+      "piscinasNaturais": false,
+      "incidentesTubarao": true,
+      "restinga": true,
+      "enroncamento": false,
+      "acessibilidade": false,
+      "observacao": "Área com correntes de retorno! El baño no es seguro.",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-50",
+        "distEstacaoCPRHKm": 1.0493
+      }
+    }
+  },
+  {
+    "id": "ID_0013",
+    "nome": "Terceiro Jardim 1",
+    "centro": {
+      "latitude": -8.109759,
+      "longitude": -34.888057
+    },
+    "limites": {
+      "latMax": -8.108694,
+      "lonMax": -34.887531,
+      "latMin": -8.111163,
+      "lonMin": -34.888754
+    },
+    "atributos": {
+      "correnteRetorno": true,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": false,
+      "piscinasNaturais": false,
+      "incidentesTubarao": true,
+      "restinga": true,
+      "enroncamento": false,
+      "acessibilidade": false,
+      "observacao": "Área com correntes de retorno! El baño no es seguro.",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-50",
+        "distEstacaoCPRHKm": 0.7502
+      }
+    }
+  },
+  {
+    "id": "ID_0014",
+    "nome": "Terceiro Jardim 2",
+    "centro": {
+      "latitude": -8.112234,
+      "longitude": -34.889324
+    },
+    "limites": {
+      "latMax": -8.111163,
+      "lonMax": -34.888754,
+      "latMin": -8.113561,
+      "lonMin": -34.890035
+    },
+    "atributos": {
+      "correnteRetorno": true,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": true,
+      "piscinasNaturais": false,
+      "incidentesTubarao": true,
+      "restinga": true,
+      "enroncamento": false,
+      "acessibilidade": false,
+      "observacao": "Área com correntes de retorno! El baño no es seguro.",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-50",
+        "distEstacaoCPRHKm": 0.445
+      }
+    }
+  },
+  {
+    "id": "ID_0015",
+    "nome": "Terceiro Jardim 3",
+    "centro": {
+      "latitude": -8.114623,
+      "longitude": -34.890771
+    },
+    "limites": {
+      "latMax": -8.113561,
+      "lonMax": -34.890035,
+      "latMin": -8.115802,
+      "lonMin": -34.891592
+    },
+    "atributos": {
+      "correnteRetorno": true,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": false,
+      "piscinasNaturais": false,
+      "incidentesTubarao": true,
+      "restinga": false,
+      "enroncamento": false,
+      "acessibilidade": false,
+      "observacao": "Área com correntes de retorno! El baño no es seguro.",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-50",
+        "distEstacaoCPRHKm": 0.1423
+      }
+    }
+  },
+  {
+    "id": "ID_0016",
+    "nome": "Acaiaca 1",
+    "centro": {
+      "latitude": -8.116912,
+      "longitude": -34.892294
+    },
+    "limites": {
+      "latMax": -8.115802,
+      "lonMax": -34.891592,
+      "latMin": -8.118128,
+      "lonMin": -34.893061
+    },
+    "atributos": {
+      "correnteRetorno": true,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": true,
+      "piscinasNaturais": true,
+      "incidentesTubarao": true,
+      "restinga": false,
+      "enroncamento": false,
+      "acessibilidade": false,
+      "observacao": "Piscinas naturais em maré baixa. No se arriesgue durante marea alta!",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-50",
+        "distEstacaoCPRHKm": 0.177
+      }
+    }
+  },
+  {
+    "id": "ID_0017",
+    "nome": "Acaiaca 2",
+    "centro": {
+      "latitude": -8.119187,
+      "longitude": -34.893711
+    },
+    "limites": {
+      "latMax": -8.118128,
+      "lonMax": -34.893061,
+      "latMin": -8.120419,
+      "lonMin": -34.89451
+    },
+    "atributos": {
+      "correnteRetorno": true,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": false,
+      "piscinasNaturais": false,
+      "incidentesTubarao": true,
+      "restinga": false,
+      "enroncamento": false,
+      "acessibilidade": false,
+      "observacao": "Área com correntes de retorno! El baño no es seguro.",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-50",
+        "distEstacaoCPRHKm": 0.471
+      }
+    }
+  },
+  {
+    "id": "ID_0018",
+    "nome": "Acaiaca 3",
+    "centro": {
+      "latitude": -8.121543,
+      "longitude": -34.895113
+    },
+    "limites": {
+      "latMax": -8.120419,
+      "lonMax": -34.89451,
+      "latMin": -8.122839,
+      "lonMin": -34.895824
+    },
+    "atributos": {
+      "correnteRetorno": true,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": true,
+      "piscinasNaturais": true,
+      "incidentesTubarao": true,
+      "restinga": false,
+      "enroncamento": false,
+      "acessibilidade": true,
+      "observacao": "Piscinas naturais em maré baixa. No se arriesgue durante marea alta!",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-50",
+        "distEstacaoCPRHKm": 0.7746
+      }
+    }
+  },
+  {
+    "id": "ID_0019",
+    "nome": "Acaiaca 4",
+    "centro": {
+      "latitude": -8.124184,
+      "longitude": -34.896284
+    },
+    "limites": {
+      "latMax": -8.122839,
+      "lonMax": -34.895824,
+      "latMin": -8.125562,
+      "lonMin": -34.896779
+    },
+    "atributos": {
+      "correnteRetorno": false,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": true,
+      "piscinasNaturais": true,
+      "incidentesTubarao": true,
+      "restinga": false,
+      "enroncamento": false,
+      "acessibilidade": false,
+      "observacao": "Piscinas naturais em maré baixa. No se arriesgue durante marea alta!",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-50",
+        "distEstacaoCPRHKm": 1.0947
+      }
+    }
+  },
+  {
+    "id": "ID_0020",
+    "nome": "Acaiaca 5",
+    "centro": {
+      "latitude": -8.126839,
+      "longitude": -34.897227
+    },
+    "limites": {
+      "latMax": -8.125562,
+      "lonMax": -34.896779,
+      "latMin": -8.128147,
+      "lonMin": -34.897707
+    },
+    "atributos": {
+      "correnteRetorno": true,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": false,
+      "piscinasNaturais": false,
+      "incidentesTubarao": true,
+      "restinga": false,
+      "enroncamento": false,
+      "acessibilidade": false,
+      "observacao": "Área com correntes de retorno! El baño no es seguro.",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-50",
+        "distEstacaoCPRHKm": 1.4056
+      }
+    }
+  },
+  {
+    "id": "ID_0021",
+    "nome": "Castelinho",
+    "centro": {
+      "latitude": -8.129331,
+      "longitude": -34.898242
+    },
+    "limites": {
+      "latMax": -8.128147,
+      "lonMax": -34.897707,
+      "latMin": -8.130627,
+      "lonMin": -34.898821
+    },
+    "atributos": {
+      "correnteRetorno": true,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": false,
+      "piscinasNaturais": false,
+      "incidentesTubarao": true,
+      "restinga": false,
+      "enroncamento": true,
+      "acessibilidade": false,
+      "observacao": "Área com correntes de retorno! El baño no es seguro.",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-50",
+        "distEstacaoCPRHKm": 1.704
+      }
+    }
+  },
+  {
+    "id": "ID_0022",
+    "nome": "Pracinha de Boa Viagem",
+    "centro": {
+      "latitude": -8.131756,
+      "longitude": -34.899334
+    },
+    "limites": {
+      "latMax": -8.130627,
+      "lonMax": -34.898821,
+      "latMin": -8.133113,
+      "lonMin": -34.899934
+    },
+    "atributos": {
+      "correnteRetorno": false,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": true,
+      "piscinasNaturais": true,
+      "incidentesTubarao": true,
+      "restinga": false,
+      "enroncamento": true,
+      "acessibilidade": false,
+      "observacao": "Piscinas naturais em maré baixa. No se arriesgue durante marea alta!",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-50",
+        "distEstacaoCPRHKm": 1.9992
+      }
+    }
+  },
+  {
+    "id": "ID_0023",
+    "nome": "Transatlântico",
+    "centro": {
+      "latitude": -8.134263,
+      "longitude": -34.900418
+    },
+    "limites": {
+      "latMax": -8.133113,
+      "lonMax": -34.899934,
+      "latMin": -8.135635,
+      "lonMin": -34.900988
+    },
+    "atributos": {
+      "correnteRetorno": false,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": true,
+      "piscinasNaturais": true,
+      "incidentesTubarao": true,
+      "restinga": false,
+      "enroncamento": true,
+      "acessibilidade": false,
+      "observacao": "Piscinas naturais em maré baixa. No se arriesgue durante marea alta!",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-10",
+        "distEstacaoCPRHKm": 1.8567
+      }
+    }
+  },
+  {
+    "id": "ID_0024",
+    "nome": "Atlante Plaza",
+    "centro": {
+      "latitude": -8.136892,
+      "longitude": -34.901388
+    },
+    "limites": {
+      "latMax": -8.135635,
+      "lonMax": -34.900988,
+      "latMin": -8.138217,
+      "lonMin": -34.901841
+    },
+    "atributos": {
+      "correnteRetorno": true,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": true,
+      "piscinasNaturais": true,
+      "incidentesTubarao": false,
+      "restinga": false,
+      "enroncamento": true,
+      "acessibilidade": false,
+      "observacao": "Piscinas naturais em maré baixa. No se arriesgue durante marea alta!",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-10",
+        "distEstacaoCPRHKm": 1.5459
+      }
+    }
+  },
+  {
+    "id": "ID_0025",
+    "nome": "Dona Lindu 1",
+    "centro": {
+      "latitude": -8.139433,
+      "longitude": -34.902238
+    },
+    "limites": {
+      "latMax": -8.138217,
+      "lonMax": -34.901841,
+      "latMin": -8.140811,
+      "lonMin": -34.902697
+    },
+    "atributos": {
+      "correnteRetorno": false,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": false,
+      "piscinasNaturais": false,
+      "incidentesTubarao": false,
+      "restinga": false,
+      "enroncamento": true,
+      "acessibilidade": false,
+      "observacao": "Mar aberto sem proteção! El baño no es seguro.",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-10",
+        "distEstacaoCPRHKm": 1.2497
+      }
+    }
+  },
+  {
+    "id": "ID_0026",
+    "nome": "Dona Lindu 2",
+    "centro": {
+      "latitude": -8.141963,
+      "longitude": -34.903174
+    },
+    "limites": {
+      "latMax": -8.140811,
+      "lonMax": -34.902697,
+      "latMin": -8.143332,
+      "lonMin": -34.903752
+    },
+    "atributos": {
+      "correnteRetorno": false,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": false,
+      "piscinasNaturais": false,
+      "incidentesTubarao": false,
+      "restinga": false,
+      "enroncamento": true,
+      "acessibilidade": false,
+      "observacao": "Mar aberto sem proteção! El baño no es seguro.",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-10",
+        "distEstacaoCPRHKm": 0.9512
+      }
+    }
+  },
+  {
+    "id": "ID_0027",
+    "nome": "Dona Lindu 3",
+    "centro": {
+      "latitude": -8.144493,
+      "longitude": -34.904344
+    },
+    "limites": {
+      "latMax": -8.143332,
+      "lonMax": -34.903752,
+      "latMin": -8.145753,
+      "lonMin": -34.904991
+    },
+    "atributos": {
+      "correnteRetorno": false,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": false,
+      "piscinasNaturais": false,
+      "incidentesTubarao": false,
+      "restinga": false,
+      "enroncamento": true,
+      "acessibilidade": false,
+      "observacao": "Mar aberto sem proteção! El baño no es seguro.",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-10",
+        "distEstacaoCPRHKm": 0.6419
+      }
+    }
+  },
+  {
+    "id": "ID_0028",
+    "nome": "Fim do enroncamento",
+    "centro": {
+      "latitude": -8.146921,
+      "longitude": -34.90558
+    },
+    "limites": {
+      "latMax": -8.145753,
+      "lonMax": -34.904991,
+      "latMin": -8.148175,
+      "lonMin": -34.906222
+    },
+    "atributos": {
+      "correnteRetorno": false,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": false,
+      "piscinasNaturais": false,
+      "incidentesTubarao": false,
+      "restinga": true,
+      "enroncamento": true,
+      "acessibilidade": false,
+      "observacao": "Mar aberto sem proteção! El baño no es seguro.",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-10",
+        "distEstacaoCPRHKm": 0.3396
+      }
+    }
+  },
+  {
+    "id": "ID_0029",
+    "nome": "Vila militar 1",
+    "centro": {
+      "latitude": -8.149349,
+      "longitude": -34.906721
+    },
+    "limites": {
+      "latMax": -8.148175,
+      "lonMax": -34.906222,
+      "latMin": -8.150661,
+      "lonMin": -34.907267
+    },
+    "atributos": {
+      "correnteRetorno": false,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": false,
+      "piscinasNaturais": false,
+      "incidentesTubarao": false,
+      "restinga": true,
+      "enroncamento": false,
+      "acessibilidade": false,
+      "observacao": "Mar aberto sem proteção! El baño no es seguro.",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-10",
+        "distEstacaoCPRHKm": 0.0425
+      }
+    }
+  },
+  {
+    "id": "ID_0030",
+    "nome": "Vila militar 2",
+    "centro": {
+      "latitude": -8.151804,
+      "longitude": -34.907739
+    },
+    "limites": {
+      "latMax": -8.150661,
+      "lonMax": -34.907267,
+      "latMin": -8.153199,
+      "lonMin": -34.908319
+    },
+    "atributos": {
+      "correnteRetorno": false,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": false,
+      "piscinasNaturais": false,
+      "incidentesTubarao": false,
+      "restinga": true,
+      "enroncamento": false,
+      "acessibilidade": false,
+      "observacao": "Mar aberto sem proteção! El baño no es seguro.",
+      "balneabilidade": {
+        "status": "impropria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "REC-10",
+        "distEstacaoCPRHKm": 0.2539
+      }
+    }
+  },
+  {
+    "id": "ID_0031",
+    "nome": "Vila militar 3",
+    "centro": {
+      "latitude": -8.154062,
+      "longitude": -34.908681
+    },
+    "limites": {
+      "latMax": -8.153199,
+      "lonMax": -34.908319,
+      "latMin": -8.155068,
+      "lonMin": -34.909105
+    },
+    "atributos": {
+      "correnteRetorno": false,
+      "correntePermanente": true,
+      "mesesCorrenteSazonal": "",
+      "protecaoRecifal": false,
+      "piscinasNaturais": false,
+      "incidentesTubarao": true,
+      "restinga": true,
+      "enroncamento": false,
+      "acessibilidade": false,
+      "observacao": "Mar aberto sem proteção! El baño no es seguro.",
+      "balneabilidade": {
+        "status": "propria",
+        "dataReferencia": "10/07/2026",
+        "periodo": "10/07/2026 a 16/07/2026",
+        "codCPRHBalneabilidade": "JAB-80",
+        "distEstacaoCPRHKm": 0.33
+      }
+    }
+  }
+]
