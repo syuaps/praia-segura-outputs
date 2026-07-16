@@ -1,195 +1,197 @@
 [
   {
     "id": "mar-hoje",
-    "titulo": "Como está o mar hoje?",
-    "subtitulo": "Veja as condições antes de entrar",
+    "titulo": "¿Cómo está el mar hoy?",
+    "subtitulo": "Revise las condiciones antes de entrar",
     "imagem": "mar-hoje",
-    "resumo": "A tela reúne risco do dia, chuva, ondas, vento, maré e melhor horário para banho.",
-    "explicacao": "O mar muda ao longo do dia. Por isso, o Praia Segura combina diferentes informações para ajudar na decisão: risco geral, chance de chuva, altura das ondas, vento, maré, nascer e pôr do sol e melhor janela para banho. Esses fatores ajudam a indicar quando o mar pode estar mais agitado, turvo, fundo ou com correntes mais fortes.",
+    "resumo": "La pantalla reúne el riesgo del día, lluvia, olas, viento, marea y mejor horario para bañarse.",
+    "explicacao": "El mar cambia a lo largo del día. Por eso, Praia Segura combina diferentes datos para ayudar en la decisión: riesgo general, probabilidad de lluvia, altura de las olas, viento, marea, salida y puesta del sol y mejor ventana para bañarse. Estos factores ayudan a indicar cuándo el mar puede estar más agitado, turbio, profundo o con corrientes más fuertes.",
     "dicas": [
-      "Comece pelo nível de risco: se estiver alto, redobre a atenção e considere não entrar.",
-      "Observe chuva, ondas e vento: quando esses fatores aumentam, o banho pode ficar mais perigoso.",
-      "Escolha sua praia com atenção aos avisos locais.",
-      "Use a maré e a janela indicada como apoio, mas sempre compare com as condições reais da praia e os avisos dos guarda-vidas."
+      "Comience por el nivel de riesgo: si está alto, extreme la atención y considere no entrar.",
+      "Observe lluvia, olas y viento: cuando estos factores aumentan, el baño puede volverse más peligroso.",
+      "Elija su playa prestando atención a los avisos locales.",
+      "Use la marea y la ventana indicada como apoyo, pero siempre compárelas con las condiciones reales de la playa y los avisos de los guardavidas."
     ],
-    "alertaFinal": "A previsão ajuda, mas a decisão final deve considerar o mar, a sinalização e os guarda-vidas."
+    "alertaFinal": "El pronóstico ayuda, pero la decisión final debe considerar el mar, la señalización y los guardavidas."
   },
   {
     "id": "mar-turvo-chuva",
-    "titulo": "Mar turvo, risco em dobro",
-    "subtitulo": "Chuva forte pode deixar o banho perigoso",
+    "titulo": "Mar turbio, doble riesgo",
+    "subtitulo": "La lluvia fuerte puede hacer peligroso el baño",
     "imagem": "mar-turvo-chuva",
-    "resumo": "Após chuva, o mar pode ficar mais turvo, forte e difícil de ler.",
-    "explicacao": "Chuvas fortes levam água e sedimentos de rios e canais para o mar. Isso reduz a visibilidade, aumenta a turbulência e pode dificultar a identificação de buracos, correntes e obstáculos. O risco de incidentes com tubarões também é maior com água turva.",
+    "resumo": "Después de la lluvia, el mar puede quedar más turbio, fuerte y difícil de interpretar.",
+    "explicacao": "Las lluvias fuertes llevan agua y sedimentos de ríos y canales al mar. Esto reduce la visibilidad, aumenta la turbulencia y puede dificultar la identificación de pozos, corrientes y obstáculos. El riesgo de incidentes con tiburones también es mayor con agua turbia.",
     "dicas": [
-      "Evite banho logo após chuva forte.",
-      "Não entre se a água estiver muito turva ou agitada.",
-      "Respeite placas, alertas e orientação dos guarda-vidas."
+      "Evite bañarse justo después de lluvia fuerte.",
+      "No entre si el agua está muy turbia o agitada.",
+      "Respete señales, alertas y orientación de los guardavidas."
     ],
-    "alertaFinal": "Em mar turvo e agitado, a escolha mais segura é não entrar."
+    "alertaFinal": "En mar turbio y agitado, la opción más segura es no entrar."
   },
   {
     "id": "correntes",
-    "titulo": "Correntes de retorno",
-    "subtitulo": "Entenda como reconhecer e sair",
+    "titulo": "Corrientes de retorno",
+    "subtitulo": "Aprenda a reconocerlas y salir",
     "imagem": "correntes",
-    "resumo": "Elas puxam para o largo, mas há forma correta de sair.",
-    "explicacao": "Correntes de retorno são faixas de água que voltam para o mar. Elas não puxam para baixo, mas podem afastar rapidamente o banhista da areia.",
+    "resumo": "Arrastran mar adentro, pero hay una forma correcta de salir.",
+    "explicacao": "Las corrientes de retorno son franjas de agua que vuelven al mar. No arrastran hacia abajo, pero pueden alejar rápidamente al bañista de la arena.",
     "dicas": [
-      "Evite trechos com avisos locais de corrente de retorno.",
-      "Mantenha a calma e não nade contra a corrente.",
-      "Nade para os lados, paralelo à praia.",
-      "Depois de sair da corrente, volte em diagonal para a areia."
+      "Evite zonas con avisos locales de corriente de retorno.",
+      "Mantenga la calma y no nade contra la corriente.",
+      "Nade hacia los lados, paralelo a la playa.",
+      "Después de salir de la corriente, vuelva en diagonal hacia la arena."
     ],
-    "alertaFinal": "Não lute contra a corrente. Saia pelos lados."
+    "alertaFinal": "No luche contra la corriente. Salga por los lados."
   },
   {
     "id": "tubaroes",
-    "titulo": "Tubarões: cuidado sem pânico",
-    "subtitulo": "Informação ajuda a reduzir riscos",
+    "titulo": "Tiburones: cuidado sin pánico",
+    "subtitulo": "La información ayuda a reducir riesgos",
     "imagem": "tubaroes",
-    "resumo": "Respeite os avisos locais e evite áreas de maior risco.",
-    "explicacao": "Em alguns trechos há histórico de incidentes. O cuidado principal é reduzir a exposição: respeitar placas, evitar horários de maré alta, baixa visibilidade e não entrar em áreas sinalizadas.",
+    "resumo": "Respete los avisos locales y evite áreas de mayor riesgo.",
+    "explicacao": "En algunos tramos hay antecedentes de incidentes. El cuidado principal es reducir la exposición: respetar señales, evitar horarios de marea alta, baja visibilidad y áreas desprotegidas, y no entrar en áreas señalizadas.",
     "dicas": [
-      "Dê preferência às piscinas naturais durante a maré baixa.",
-      "Não entre em áreas com alerta ou proibição.",
-      "Evite banho em mar turvo, chuva forte ou fim de tarde.",
-      "Não nade em trechos com avisos de corrente de retorno."
+      "Prefiera las piscinas naturales durante la marea baja.",
+      "Evite entrar en mar abierto. Prefiera áreas protegidas.",
+      "No entre en áreas con alerta o prohibición.",
+      "Evite bañarse con mar turbio, lluvia fuerte o al final de la tarde.",
+      "No nade en zonas con avisos de corriente de retorno."
     ],
-    "alertaFinal": "Atención aos avisos oficiais é essencial."
+    "alertaFinal": "Prestar atención a los avisos oficiales es esencial."
   },
   {
     "id": "risco-noturno",
-    "titulo": "Mar à noite: risco maior",
-    "subtitulo": "Baixa visibilidade aumenta o perigo",
+    "titulo": "Mar de noche: mayor riesgo",
+    "subtitulo": "La baja visibilidad aumenta el peligro",
     "imagem": "risco-noturno",
-    "resumo": "No escuro, é mais difícil ver ondas, buracos, pedras, correntes e tubarões.",
-    "explicacao": "Durante a noite, a visibilidade cai muito e o banhista perde referências importantes da praia. Fica mais difícil perceber a força das ondas, reconhecer correntes, enxergar buracos, pedras, recifes, animais marinhos e pedir ajuda rapidamente.",
+    "resumo": "En la oscuridad, es más difícil ver olas, pozos, piedras, corrientes y tiburones.",
+    "explicacao": "Durante la noche, la visibilidad cae mucho y el bañista pierde referencias importantes de la playa. Es más difícil percibir la fuerza de las olas, reconocer corrientes, ver pozos, piedras, arrecifes, animales marinos y pedir ayuda rápidamente.",
     "dicas": [
-      "Evite entrar no mar durante a noite, mesmo em praias conhecidas.",
-      "Não nade sozinho nem em locais sem iluminação e sem guarda-vidas.",
-      "Se quiser ficar na praia à noite, permaneça na areia e longe da arrebentação."
+      "Evite entrar al mar de noche, incluso en playas conocidas.",
+      "No nade solo ni en lugares sin iluminación y sin guardavidas.",
+      "Si quiere quedarse en la playa de noche, permanezca en la arena y lejos de la rompiente."
     ],
-    "alertaFinal": "À noite, o mais seguro é admirar o mar pela areia."
+    "alertaFinal": "De noche, lo más seguro es admirar el mar desde la arena."
   },
   {
     "id": "trechos-abertos",
-    "titulo": "Mar aberto não é piscina",
-    "subtitulo": "Sem recifes, o mar exige mais atenção",
+    "titulo": "El mar abierto no es una piscina",
+    "subtitulo": "Sin arrecifes, el mar exige más atención",
     "imagem": "trechos-abertos",
-    "resumo": "Sem barreira natural, ondas e correntes chegam com mais força.",
-    "explicacao": "Em áreas sem proteção recifal, as ondas quebram com mais energia e as correntes podem ser mais fortes. Isso aumenta o risco de perder o pé, ser empurrado pela arrebentação ou levado para o largo. O risco de incidentes com tubarões também é maior em áreas desprotegidas",
+    "resumo": "Sin barrera natural, las olas y corrientes llegan con más fuerza.",
+    "explicacao": "En áreas sin protección de arrecifes, las olas rompen con más energía y las corrientes pueden ser más fuertes. Esto aumenta el riesgo de perder pie, ser empujado por la rompiente o llevado mar adentro. El riesgo de incidentes con tiburones también es mayor en áreas desprotegidas.",
     "dicas": [
-      "Prefira trechos protegidos quando as condições forem favoráveis.",
-      "Evite mar aberto com ondas altas, vento forte ou água turva.",
-      "Observe se há espuma indo para o largo, sinal comum de corrente."
+      "Prefiera tramos protegidos cuando las condiciones sean favorables.",
+      "Evite los laterales de las piscinas y las zonas con aberturas en los arrecifes.",
+      "Evite entrar con marea alta, cuando el arrecife queda sumergido y aumenta la fuerza del agua.",
+      "Observe si hay espuma yendo hacia el mar, señal común de corriente de retorno."
     ],
-    "alertaFinal": "No mar aberto, o fundo pode mudar de repente."
+    "alertaFinal": "En mar abierto, el fondo y las corrientes pueden cambiar de repente y ponerlo en peligro."
   },
   {
     "id": "balneabilidade",
-    "titulo": "Balneabilidade da praia",
-    "subtitulo": "Saiba quando a água está própria",
+    "titulo": "Aptitud del agua de la playa",
+    "subtitulo": "Sepa cuándo el agua es apta",
     "imagem": "balneabilidade",
-    "resumo": "A balneabilidade indica a qualidade da água para banho.",
-    "explicacao": "A classificação da água ajuda a evitar contato com contaminação. Sempre confira a informação mais recente antes de entrar no mar, principalmente após chuvas.",
+    "resumo": "La aptitud para el baño indica la calidad del agua para bañarse.",
+    "explicacao": "La clasificación del agua ayuda a evitar contacto con contaminación. Consulte siempre la información más reciente antes de entrar al mar, principalmente después de lluvias.",
     "dicas": [
-      "Verifique placas e boletins oficiais.",
-      "Evite banho após chuvas fortes.",
-      "Não entre se houver lixo, cheiro forte ou água muito turva."
+      "Revise señales y boletines oficiales.",
+      "Evite bañarse después de lluvias fuertes.",
+      "No entre si hay basura, olor fuerte o agua muy turbia."
     ],
     "linksDicas": [
       {
         "indice": 0,
-        "label": "Relatórios",
+        "label": "Informes",
         "url": "https://www2.cprh.pe.gov.br/monitoramento-ambiental/balneabilidade/relatorios-de-balneabilidade/"
       }
     ],
-    "alertaFinal": "Água imprópria exige cuidado e mudança de local."
+    "alertaFinal": "El agua no apta exige cuidado y cambio de lugar."
   },
   {
     "id": "caravelas",
-    "titulo": "Caravelas: cuidado ao tocar",
-    "subtitulo": "Mesmo na areia, elas podem causar queimaduras",
+    "titulo": "Carabelas portuguesas: cuidado al tocarlas",
+    "subtitulo": "Incluso en la arena pueden causar quemaduras",
     "imagem": "caravelas",
-    "resumo": "Caravelas têm tentáculos que podem causar dor intensa e irritação na pele.",
-    "explicacao": "Caravelas podem aparecer no mar ou encalhadas na areia, levadas pelo vento e pelas correntes. Seus tentáculos liberam substâncias urticantes que causam ardência, dor e marcas na pele. Mesmo fora da água ou aparentemente mortas, ainda podem provocar acidentes.",
+    "resumo": "Las carabelas portuguesas tienen tentáculos que pueden causar dolor intenso e irritación en la piel.",
+    "explicacao": "Las carabelas portuguesas pueden aparecer en el mar o varadas en la arena, llevadas por el viento y las corrientes. Sus tentáculos liberan sustancias urticantes que causan ardor, dolor y marcas en la piel. Incluso fuera del agua o aparentemente muertas, todavía pueden provocar accidentes.",
     "dicas": [
-      "Se avistar caravelas na água ou na areia, não toque e evite entrar no mar.",
-      "Em caso de contato, saia da água, não esfregue a pele e não lave com água doce.",
-      "Remova tentáculos com cuidado, de preferência com pinça ou um cartão. Não tente tirar com as mãos. Procure atendimento se houver dor forte, mal-estar ou reação extensa."
+      "Si ve carabelas portuguesas en el agua o en la arena, no las toque y evite entrar al mar.",
+      "En caso de contacto, salga del agua, no frote la piel y no lave con agua dulce.",
+      "Retire los tentáculos con cuidado, preferentemente con pinzas o una tarjeta. No intente retirarlos con las manos. Busque atención si hay dolor intenso, malestar o reacción extensa."
     ],
-    "alertaFinal": "Queimou? Saia da água, evite esfregar e procure orientação de saúde."
+    "alertaFinal": "¿Quemadura? Salga del agua, evite frotar y busque orientación de salud."
   },
   {
     "id": "mare",
-    "titulo": "Maré: o relógio da praia",
-    "subtitulo": "A maré muda a praia ao longo do dia",
+    "titulo": "Marea: el reloj de la playa",
+    "subtitulo": "La marea cambia la playa a lo largo del día",
     "imagem": "mare",
-    "resumo": "A maré altera profundidade, corrente e exposição dos recifes.",
-    "explicacao": "Maré alta e maré baixa mudam a profundidade, a força da água e a exposição dos recifes. Em algumas áreas, piscinas naturais só ficam visíveis na maré baixa.",
+    "resumo": "La marea altera la profundidad, la corriente y la exposición de los arrecifes.",
+    "explicacao": "La marea alta y la marea baja cambian la profundidad, la fuerza del agua y la exposición de los arrecifes. En algunas áreas, las piscinas naturales solo son visibles con marea baja.",
     "dicas": [
-      "Consulte os horários de maré antes de sair.",
-      "Evite ficar no mar com a maré subindo.",
-      "Com crianças, prefira períodos mais tranquilos."
+      "Consulte los horarios de marea antes de salir.",
+      "Evite permanecer en el mar con la marea subiendo.",
+      "Con niños, prefiera períodos más tranquilos."
     ],
-    "alertaFinal": "Planejar pela maré reduz surpresas e acidentes."
+    "alertaFinal": "Planificar según la marea reduce sorpresas y accidentes."
   },
   {
     "id": "ondas",
-    "titulo": "Ondas: quando parece pouco, mas não é",
-    "subtitulo": "Ondas pequenas também podem empurrar",
+    "titulo": "Olas: cuando parece poco, pero no lo es",
+    "subtitulo": "Las olas pequeñas también pueden empujar",
     "imagem": "ondas",
-    "resumo": "Algumas séries de ondas podem chegar maiores de repente.",
-    "explicacao": "A altura média das ondas não mostra tudo. Em alguns momentos, ondas maiores chegam em sequência e podem derrubar ou empurrar banhistas desprevenidos.",
+    "resumo": "Algunas series de olas pueden llegar más grandes de repente.",
+    "explicacao": "La altura media de las olas no lo muestra todo. En algunos momentos, olas mayores llegan en secuencia y pueden derribar o empujar a bañistas desprevenidos.",
     "dicas": [
-      "Observe o mar por alguns minutos antes de entrar.",
-      "Não fique de costas para as ondas.",
-      "Se a areia estiver cedendo, afaste-se da arrebentação."
+      "Observe el mar durante unos minutos antes de entrar.",
+      "No se ponga de espaldas a las olas.",
+      "Si la arena está cediendo, aléjese de la rompiente."
     ],
-    "alertaFinal": "Leia o ritmo das ondas antes de entrar."
+    "alertaFinal": "Lea el ritmo de las olas antes de entrar."
   },
   {
     "id": "recifes",
-    "titulo": "Recifes e piscinas naturais",
-    "subtitulo": "Proteção natural com cuidado",
+    "titulo": "Arrecifes y piscinas naturales",
+    "subtitulo": "Protección natural con cuidado",
     "imagem": "recifes",
-    "resumo": "Recifes podem reduzir a força das ondas em alguns trechos.",
-    "explicacao": "Recifes ajudam a formar áreas mais calmas na maré baixa, mas também podem ser escorregadios, rasos e causar cortes. Mesmo em piscinas naturais, o cuidado continua necessário, principalmente com a maré alta.",
+    "resumo": "Los arrecifes pueden reducir la fuerza de las olas en algunos tramos.",
+    "explicacao": "Los arrecifes ayudan a formar áreas más tranquilas con marea baja, pero también pueden ser resbaladizos, poco profundos y causar cortes. Incluso en piscinas naturales, el cuidado sigue siendo necesario, principalmente con marea alta.",
     "dicas": [
-      "Evite as laterais das picinas e regiões com aberturas dos recifes",
-      "Não fique nas piscinas com a maré subindo.",
-      "Não mergulhe onde não vê o fundo.",
-      "Evite pisar nos recifes.",
-      "Proteja os organismos vivos e não retire nada do ambiente."
+      "Evite los laterales de las piscinas y las zonas con aberturas en los arrecifes.",
+      "No permanezca en las piscinas con la marea subiendo.",
+      "No bucee donde no ve el fondo.",
+      "Evite pisar los arrecifes.",
+      "Proteja los organismos vivos y no retire nada del ambiente."
     ],
-    "alertaFinal": "As piscinas naturais são áreas protegidas, mas não estão livres de riscos."
+    "alertaFinal": "Las piscinas naturales son áreas protegidas, pero no están libres de riesgos."
   },
   {
     "id": "restingas",
-    "titulo": "Restingas protegem a costa",
-    "subtitulo": "A vegetação ajuda a segurar a praia",
+    "titulo": "Las restingas protegen la costa",
+    "subtitulo": "La vegetación ayuda a sostener la playa",
     "imagem": "restingas",
-    "resumo": "A restinga reduz erosão e protege o ecossistema costeiro.",
-    "explicacao": "A vegetação de restinga ajuda a fixar a areia, proteger a praia do vento e do avanço do mar, além de servir de abrigo para a fauna local.",
+    "resumo": "La restinga reduce la erosión y protege el ecosistema costero.",
+    "explicacao": "La vegetación de restinga ayuda a fijar la arena, proteger la playa del viento y del avance del mar, además de servir de refugio para la fauna local.",
     "dicas": [
-      "Use passarelas e caminhos sinalizados.",
-      "Não pise nem remova plantas da restinga.",
-      "Leve seu lixo de volta ou descarte corretamente."
+      "Use pasarelas y caminos señalizados.",
+      "No pise ni retire plantas de la restinga.",
+      "Lleve su basura de vuelta o deséchela correctamente."
     ],
-    "alertaFinal": "Cuidar da restinga é cuidar da própria praia."
+    "alertaFinal": "Cuidar la restinga es cuidar la propia playa."
   },
   {
     "id": "animal-encalhado",
-    "titulo": "Animal encalhado: o que fazer?",
-    "subtitulo": "Não toque e acione o órgão correto",
+    "titulo": "Animal varado: ¿qué hacer?",
+    "subtitulo": "No toque y llame al organismo correcto",
     "imagem": "animal-encalhado",
-    "resumo": "Se encontrar um animal vivo, ferido ou morto na praia, mantenha distância e informe a localização.",
-    "explicacao": "Animais encalhados ou mortos podem indicar risco ambiental, doença, ferimentos ou morte recente. Não tente empurrar, carregar, enterrar, abrir ou remover o animal por conta própria. O ideal é manter pessoas e pets afastados, registrar o local com foto e ponto de referência e acionar o serviço responsável.",
+    "resumo": "Si encuentra un animal vivo, herido o muerto en la playa, mantenga distancia e informe la ubicación.",
+    "explicacao": "Los animales varados o muertos pueden indicar riesgo ambiental, enfermedad, heridas o muerte reciente. No intente empujar, cargar, enterrar, abrir o retirar el animal por cuenta propia. Lo ideal es mantener a personas y mascotas alejadas, registrar el lugar con foto y punto de referencia y llamar al servicio responsable.",
     "dicas": [
-      "Animal morto em área pública: acione a Emlurb pelo 156 ou pelo Conecta Recife e informe endereço, ponto de referência e fotos.",
-      "Animal silvestre vivo, ferido ou em risco: ligue 190 e peça acionamento da 1ª CIPOMA, informando espécie aproximada, porte e localização.",
-      "Dúvida ambiental ou situação envolvendo fauna protegida: registre no Ibama/Linha Verde pelo 0800 061 8080 ou contate a Supes/PE."
+      "Animal muerto en área pública: contacte a Emlurb por el 156 o por Conecta Recife e informe dirección, punto de referencia y fotos.",
+      "Animal silvestre vivo, herido o en riesgo: llame al 190 y solicite la activación de la 1ª CIPOMA, informando especie aproximada, tamaño y ubicación.",
+      "Duda ambiental o situación que involucre fauna protegida: registre la demanda en Ibama/Linha Verde por el 0800 061 8080 o contacte a Supes/PE."
     ],
     "linksDicas": [
       {
@@ -212,36 +214,36 @@
       {
         "nome": "Emlurb - Autarquia de Manutenção e Limpeza Urbana",
         "contato": "156 / Conecta Recife",
-        "responsabilidade": "Remoção de animal morto em área pública",
+        "responsabilidade": "Retiro de animal muerto en área pública",
         "fonte": "https://conecta.recife.pe.gov.br/servico/249"
       },
       {
         "nome": "1ª CIPOMA - Companhia Independente de Policiamento do Meio Ambiente",
         "contato": "190",
-        "responsabilidade": "Resgate de animal silvestre vivo, ferido ou em situação de risco",
+        "responsabilidade": "Rescate de animal silvestre vivo, herido o en situación de riesgo",
         "fonte": "https://conecta.recife.pe.gov.br/servico/915"
       },
       {
         "nome": "Ibama - Superintendência em Pernambuco / Linha Verde",
         "contato": "0800 061 8080 / supes.pe@ibama.gov.br",
-        "responsabilidade": "Orientação e registro de demanda ambiental envolvendo fauna silvestre protegida",
+        "responsabilidade": "Orientación y registro de demanda ambiental que involucra fauna silvestre protegida",
         "fonte": "https://www.gov.br/ibama/pt-br/composicao/quem-e-quem/ibama-nos-estados/pe"
       }
     ],
-    "alertaFinal": "Não toque no animal. A resposta segura começa chamando quem sabe manejar."
+    "alertaFinal": "No toque al animal. La respuesta segura empieza llamando a quien sabe manejarlo."
   },
   {
     "id": "oceanografia",
-    "titulo": "O que é oceanografia?",
-    "subtitulo": "A ciência que ajuda a entender o mar",
+    "titulo": "¿Qué es la oceanografía?",
+    "subtitulo": "La ciencia que ayuda a entender el mar",
     "imagem": "oceanografia",
-    "resumo": "Dados sobre vento, ondas, maré e correntes ajudam a traduzir o mar para o banho seguro.",
-    "explicacao": "A oceanografia estuda o comportamento do mar e transforma dados ambientais em informação útil para a sociedade. No Praia Segura, esse conhecimento ajuda a interpretar condições como ondas, vento, maré, correntes, chuva e proteção recifal, apoiando alertas e orientações para quem frequenta a praia.",
+    "resumo": "Los datos sobre viento, olas, marea y corrientes ayudan a traducir el mar en orientación para un baño seguro.",
+    "explicacao": "La oceanografía estudia el comportamiento del mar y transforma datos ambientales en información útil para la sociedad. En Praia Segura, este conocimiento ayuda a interpretar condiciones como olas, viento, marea, corrientes, lluvia y protección de arrecifes, apoyando alertas y orientaciones para quienes frecuentan la playa.",
     "dicas": [
-      "Observe como vento, ondas, maré e chuva mudam a praia ao longo do dia.",
-      "Use o app para entender melhor por que uma área pode estar mais segura ou mais perigosa.",
-      "Conheça mais sobre oceanografia: ela ajuda na segurança, na conservação e no planejamento das cidades costeiras."
+      "Observe cómo el viento, las olas, la marea y la lluvia cambian la playa a lo largo del día.",
+      "Use la app para entender mejor por qué un área puede estar más segura o más peligrosa.",
+      "Conozca más sobre oceanografía: ayuda en la seguridad, la conservación y la planificación de ciudades costeras."
     ],
-    "alertaFinal": "Quando a ciência ajuda a entender o mar, todos podem fazer escolhas mais seguras."
+    "alertaFinal": "Cuando la ciencia ayuda a entender el mar, todos pueden tomar decisiones más seguras."
   }
 ]

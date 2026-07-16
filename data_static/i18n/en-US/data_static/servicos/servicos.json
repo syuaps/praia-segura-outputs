@@ -305,7 +305,7 @@
     "nome": "Núcleo de Polícia do Pina - PMPE",
     "endereco": "Av. Boa Viagem, S/N - Pina, Recife - PE, 51110-000",
     "contato": "(81) 98744-1859",
-    "funcionamento": "Aberto 24 horas",
+    "funcionamento": "Open 24 hours",
     "latitude": -8.090315,
     "longitude": -34.881492
   },
@@ -315,7 +315,7 @@
     "nome": "02º Delegacia de Polícia - Boa Viagem",
     "endereco": "Av. Eng. Domingos Ferreira, 4420 - Boa Viagem, Recife - PE, 51021-040",
     "contato": "(81) 3184-3325",
-    "funcionamento": "Aberto 24 horas",
+    "funcionamento": "Open 24 hours",
     "latitude": -8.12749,
     "longitude": -34.901489
   },
@@ -555,7 +555,7 @@
     "nome": "Praia sem barreiras",
     "endereco": "Praia de Boa Viagem, na altura da Rua Bruno Veloso",
     "contato": "(81) 3355-8645 / Email: divisaopcd@gmail.com",
-    "funcionamento": "Sexta à Domingo das 08h às 13h",
+    "funcionamento": "Friday to Sunday, 8:00 AM to 1:00 PM",
     "latitude": -8.12171,
     "longitude": -34.895544
   },
@@ -565,7 +565,7 @@
     "nome": "UPA Imbiribeira - Maria Esther Souto Carvalho",
     "endereco": "Av. Mal. Mascarenhas de Morais, 4223 - Imbiribeira, Recife - PE, 51150-004",
     "contato": "(81) 3184-4328",
-    "funcionamento": "Aberto 24 horas",
+    "funcionamento": "Open 24 hours",
     "latitude": -8.120896,
     "longitude": -34.913858
   },

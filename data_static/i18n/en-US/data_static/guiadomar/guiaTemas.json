@@ -1,195 +1,197 @@
 [
   {
     "id": "mar-hoje",
-    "titulo": "Como está o mar hoje?",
-    "subtitulo": "Veja as condições antes de entrar",
+    "titulo": "How is the sea today?",
+    "subtitulo": "Check the conditions before entering",
     "imagem": "mar-hoje",
-    "resumo": "A tela reúne risco do dia, chuva, ondas, vento, maré e melhor horário para banho.",
-    "explicacao": "O mar muda ao longo do dia. Por isso, o Praia Segura combina diferentes informações para ajudar na decisão: risco geral, chance de chuva, altura das ondas, vento, maré, nascer e pôr do sol e melhor janela para banho. Esses fatores ajudam a indicar quando o mar pode estar mais agitado, turvo, fundo ou com correntes mais fortes.",
+    "resumo": "This screen brings together today's risk, rain, waves, wind, tide and best time for swimming.",
+    "explicacao": "The sea changes throughout the day. Praia Segura combines different information to support your decision: overall risk, chance of rain, wave height, wind, tide, sunrise and sunset, and the best swimming window. These factors help indicate when the sea may be rougher, murkier, deeper or have stronger currents.",
     "dicas": [
-      "Comece pelo nível de risco: se estiver alto, redobre a atenção e considere não entrar.",
-      "Observe chuva, ondas e vento: quando esses fatores aumentam, o banho pode ficar mais perigoso.",
-      "Escolha sua praia com atenção aos avisos locais.",
-      "Use a maré e a janela indicada como apoio, mas sempre compare com as condições reais da praia e os avisos dos guarda-vidas."
+      "Start with the risk level: if it is high, be extra cautious and consider staying out.",
+      "Watch rain, waves and wind: when these factors increase, swimming can become more dangerous.",
+      "Choose your beach while paying attention to local warnings.",
+      "Use the tide and suggested window as support, but always compare them with real beach conditions and lifeguard warnings."
     ],
-    "alertaFinal": "A previsão ajuda, mas a decisão final deve considerar o mar, a sinalização e os guarda-vidas."
+    "alertaFinal": "The forecast helps, but the final decision should consider the sea, signs and lifeguards."
   },
   {
     "id": "mar-turvo-chuva",
-    "titulo": "Mar turvo, risco em dobro",
-    "subtitulo": "Chuva forte pode deixar o banho perigoso",
+    "titulo": "Murky sea, double risk",
+    "subtitulo": "Heavy rain can make swimming dangerous",
     "imagem": "mar-turvo-chuva",
-    "resumo": "Após chuva, o mar pode ficar mais turvo, forte e difícil de ler.",
-    "explicacao": "Chuvas fortes levam água e sedimentos de rios e canais para o mar. Isso reduz a visibilidade, aumenta a turbulência e pode dificultar a identificação de buracos, correntes e obstáculos. O risco de incidentes com tubarões também é maior com água turva.",
+    "resumo": "After rain, the sea can become murkier, stronger and harder to read.",
+    "explicacao": "Heavy rain carries water and sediment from rivers and canals into the sea. This reduces visibility, increases turbulence and can make it harder to identify holes, currents and obstacles. The risk of shark incidents is also higher in murky water.",
     "dicas": [
-      "Evite banho logo após chuva forte.",
-      "Não entre se a água estiver muito turva ou agitada.",
-      "Respeite placas, alertas e orientação dos guarda-vidas."
+      "Avoid swimming right after heavy rain.",
+      "Do not enter if the water is very murky or rough.",
+      "Follow signs, alerts and lifeguard guidance."
     ],
-    "alertaFinal": "Em mar turvo e agitado, a escolha mais segura é não entrar."
+    "alertaFinal": "In murky and rough seas, the safest choice is to stay out."
   },
   {
     "id": "correntes",
-    "titulo": "Correntes de retorno",
-    "subtitulo": "Entenda como reconhecer e sair",
+    "titulo": "Rip currents",
+    "subtitulo": "Learn how to recognize and escape them",
     "imagem": "correntes",
-    "resumo": "Elas puxam para o largo, mas há forma correta de sair.",
-    "explicacao": "Correntes de retorno são faixas de água que voltam para o mar. Elas não puxam para baixo, mas podem afastar rapidamente o banhista da areia.",
+    "resumo": "They pull you away from shore, but there is a correct way to escape.",
+    "explicacao": "Rip currents are channels of water flowing back out to sea. They do not pull downward, but they can quickly carry swimmers away from the sand.",
     "dicas": [
-      "Evite trechos com avisos locais de corrente de retorno.",
-      "Mantenha a calma e não nade contra a corrente.",
-      "Nade para os lados, paralelo à praia.",
-      "Depois de sair da corrente, volte em diagonal para a areia."
+      "Avoid areas with local rip current warnings.",
+      "Stay calm and do not swim against the current.",
+      "Swim sideways, parallel to the beach.",
+      "After leaving the current, return diagonally toward the sand."
     ],
-    "alertaFinal": "Não lute contra a corrente. Saia pelos lados."
+    "alertaFinal": "Do not fight the current. Exit sideways."
   },
   {
     "id": "tubaroes",
-    "titulo": "Tubarões: cuidado sem pânico",
-    "subtitulo": "Informação ajuda a reduzir riscos",
+    "titulo": "Sharks: caution without panic",
+    "subtitulo": "Information helps reduce risk",
     "imagem": "tubaroes",
-    "resumo": "Respeite os avisos locais e evite áreas de maior risco.",
-    "explicacao": "Em alguns trechos há histórico de incidentes. O cuidado principal é reduzir a exposição: respeitar placas, evitar horários de maré alta, baixa visibilidade e não entrar em áreas sinalizadas.",
+    "resumo": "Follow local warnings and avoid higher-risk areas.",
+    "explicacao": "Some stretches have a history of incidents. The main precaution is to reduce exposure: follow signs, avoid high tide, low visibility and unprotected areas, and do not enter marked areas.",
     "dicas": [
-      "Dê preferência às piscinas naturais durante a maré baixa.",
-      "Não entre em áreas com alerta ou proibição.",
-      "Evite banho em mar turvo, chuva forte ou fim de tarde.",
-      "Não nade em trechos com avisos de corrente de retorno."
+      "Prefer tidal pools during low tide.",
+      "Avoid entering open sea. Prefer protected areas.",
+      "Do not enter areas with warnings or prohibitions.",
+      "Avoid swimming in murky seas, heavy rain or late afternoon.",
+      "Do not swim in areas with rip current warnings."
     ],
-    "alertaFinal": "Attention aos avisos oficiais é essencial."
+    "alertaFinal": "Paying attention to official warnings is essential."
   },
   {
     "id": "risco-noturno",
-    "titulo": "Mar à noite: risco maior",
-    "subtitulo": "Baixa visibilidade aumenta o perigo",
+    "titulo": "Sea at night: higher risk",
+    "subtitulo": "Low visibility increases danger",
     "imagem": "risco-noturno",
-    "resumo": "No escuro, é mais difícil ver ondas, buracos, pedras, correntes e tubarões.",
-    "explicacao": "Durante a noite, a visibilidade cai muito e o banhista perde referências importantes da praia. Fica mais difícil perceber a força das ondas, reconhecer correntes, enxergar buracos, pedras, recifes, animais marinhos e pedir ajuda rapidamente.",
+    "resumo": "In the dark, it is harder to see waves, holes, rocks, currents and sharks.",
+    "explicacao": "At night, visibility drops sharply and swimmers lose important beach references. It becomes harder to judge wave strength, recognize currents, see holes, rocks, reefs and marine animals, and call for help quickly.",
     "dicas": [
-      "Evite entrar no mar durante a noite, mesmo em praias conhecidas.",
-      "Não nade sozinho nem em locais sem iluminação e sem guarda-vidas.",
-      "Se quiser ficar na praia à noite, permaneça na areia e longe da arrebentação."
+      "Avoid entering the sea at night, even at familiar beaches.",
+      "Do not swim alone or in places without lighting and lifeguards.",
+      "If you want to stay at the beach at night, remain on the sand and away from the surf zone."
     ],
-    "alertaFinal": "À noite, o mais seguro é admirar o mar pela areia."
+    "alertaFinal": "At night, the safest option is to admire the sea from the sand."
   },
   {
     "id": "trechos-abertos",
-    "titulo": "Mar aberto não é piscina",
-    "subtitulo": "Sem recifes, o mar exige mais atenção",
+    "titulo": "Open sea is not a pool",
+    "subtitulo": "Without reefs, the sea demands more attention",
     "imagem": "trechos-abertos",
-    "resumo": "Sem barreira natural, ondas e correntes chegam com mais força.",
-    "explicacao": "Em áreas sem proteção recifal, as ondas quebram com mais energia e as correntes podem ser mais fortes. Isso aumenta o risco de perder o pé, ser empurrado pela arrebentação ou levado para o largo. O risco de incidentes com tubarões também é maior em áreas desprotegidas",
+    "resumo": "Without a natural barrier, waves and currents arrive with more force.",
+    "explicacao": "In areas without reef protection, waves break with more energy and currents can be stronger. This increases the risk of losing footing, being pushed by the surf or carried offshore. The risk of shark incidents is also higher in unprotected areas.",
     "dicas": [
-      "Prefira trechos protegidos quando as condições forem favoráveis.",
-      "Evite mar aberto com ondas altas, vento forte ou água turva.",
-      "Observe se há espuma indo para o largo, sinal comum de corrente."
+      "Prefer protected stretches when conditions are favorable.",
+      "Avoid the sides of tidal pools and areas with openings in the reefs.",
+      "Avoid entering at high tide, when the reef is submerged and water force increases.",
+      "Watch for foam moving out to sea, a common sign of a rip current."
     ],
-    "alertaFinal": "No mar aberto, o fundo pode mudar de repente."
+    "alertaFinal": "In open sea, the bottom and currents can change suddenly and put you in danger."
   },
   {
     "id": "balneabilidade",
-    "titulo": "Balneabilidade da praia",
-    "subtitulo": "Saiba quando a água está própria",
+    "titulo": "Beach bathing water quality",
+    "subtitulo": "Know when the water is suitable",
     "imagem": "balneabilidade",
-    "resumo": "A balneabilidade indica a qualidade da água para banho.",
-    "explicacao": "A classificação da água ajuda a evitar contato com contaminação. Sempre confira a informação mais recente antes de entrar no mar, principalmente após chuvas.",
+    "resumo": "Bathing water quality indicates whether the water is suitable for swimming.",
+    "explicacao": "Water classification helps avoid contact with contamination. Always check the latest information before entering the sea, especially after rain.",
     "dicas": [
-      "Verifique placas e boletins oficiais.",
-      "Evite banho após chuvas fortes.",
-      "Não entre se houver lixo, cheiro forte ou água muito turva."
+      "Check official signs and bulletins.",
+      "Avoid swimming after heavy rain.",
+      "Do not enter if there is trash, a strong odor or very murky water."
     ],
     "linksDicas": [
       {
         "indice": 0,
-        "label": "Relatórios",
+        "label": "Reports",
         "url": "https://www2.cprh.pe.gov.br/monitoramento-ambiental/balneabilidade/relatorios-de-balneabilidade/"
       }
     ],
-    "alertaFinal": "Água imprópria exige cuidado e mudança de local."
+    "alertaFinal": "Unsafe water requires caution and choosing another place."
   },
   {
     "id": "caravelas",
-    "titulo": "Caravelas: cuidado ao tocar",
-    "subtitulo": "Mesmo na areia, elas podem causar queimaduras",
+    "titulo": "Portuguese man-of-war: be careful touching it",
+    "subtitulo": "Even on the sand, they can cause stings",
     "imagem": "caravelas",
-    "resumo": "Caravelas têm tentáculos que podem causar dor intensa e irritação na pele.",
-    "explicacao": "Caravelas podem aparecer no mar ou encalhadas na areia, levadas pelo vento e pelas correntes. Seus tentáculos liberam substâncias urticantes que causam ardência, dor e marcas na pele. Mesmo fora da água ou aparentemente mortas, ainda podem provocar acidentes.",
+    "resumo": "Portuguese man-of-war have tentacles that can cause intense pain and skin irritation.",
+    "explicacao": "Portuguese man-of-war can appear in the sea or stranded on the sand, carried by wind and currents. Their tentacles release stinging substances that cause burning, pain and marks on the skin. Even out of the water or apparently dead, they can still cause injuries.",
     "dicas": [
-      "Se avistar caravelas na água ou na areia, não toque e evite entrar no mar.",
-      "Em caso de contato, saia da água, não esfregue a pele e não lave com água doce.",
-      "Remova tentáculos com cuidado, de preferência com pinça ou um cartão. Não tente tirar com as mãos. Procure atendimento se houver dor forte, mal-estar ou reação extensa."
+      "If you see Portuguese man-of-war in the water or on the sand, do not touch them and avoid entering the sea.",
+      "In case of contact, leave the water, do not rub the skin and do not rinse with fresh water.",
+      "Remove tentacles carefully, preferably with tweezers or a card. Do not try to remove them with your hands. Seek care if there is severe pain, discomfort or a widespread reaction."
     ],
-    "alertaFinal": "Queimou? Saia da água, evite esfregar e procure orientação de saúde."
+    "alertaFinal": "Stung? Leave the water, avoid rubbing and seek health guidance."
   },
   {
     "id": "mare",
-    "titulo": "Maré: o relógio da praia",
-    "subtitulo": "A maré muda a praia ao longo do dia",
+    "titulo": "Tide: the beach clock",
+    "subtitulo": "The tide changes the beach throughout the day",
     "imagem": "mare",
-    "resumo": "A maré altera profundidade, corrente e exposição dos recifes.",
-    "explicacao": "Maré alta e maré baixa mudam a profundidade, a força da água e a exposição dos recifes. Em algumas áreas, piscinas naturais só ficam visíveis na maré baixa.",
+    "resumo": "The tide changes depth, currents and reef exposure.",
+    "explicacao": "High and low tides change depth, water force and reef exposure. In some areas, tidal pools are only visible at low tide.",
     "dicas": [
-      "Consulte os horários de maré antes de sair.",
-      "Evite ficar no mar com a maré subindo.",
-      "Com crianças, prefira períodos mais tranquilos."
+      "Check tide times before leaving.",
+      "Avoid staying in the sea as the tide rises.",
+      "With children, prefer calmer periods."
     ],
-    "alertaFinal": "Planejar pela maré reduz surpresas e acidentes."
+    "alertaFinal": "Planning around the tide reduces surprises and accidents."
   },
   {
     "id": "ondas",
-    "titulo": "Ondas: quando parece pouco, mas não é",
-    "subtitulo": "Ondas pequenas também podem empurrar",
+    "titulo": "Waves: when it seems small, but is not",
+    "subtitulo": "Small waves can also push you",
     "imagem": "ondas",
-    "resumo": "Algumas séries de ondas podem chegar maiores de repente.",
-    "explicacao": "A altura média das ondas não mostra tudo. Em alguns momentos, ondas maiores chegam em sequência e podem derrubar ou empurrar banhistas desprevenidos.",
+    "resumo": "Some sets of waves can suddenly arrive larger.",
+    "explicacao": "Average wave height does not show everything. At times, larger waves arrive in sets and can knock down or push unsuspecting swimmers.",
     "dicas": [
-      "Observe o mar por alguns minutos antes de entrar.",
-      "Não fique de costas para as ondas.",
-      "Se a areia estiver cedendo, afaste-se da arrebentação."
+      "Watch the sea for a few minutes before entering.",
+      "Do not turn your back to the waves.",
+      "If the sand is giving way, move away from the surf zone."
     ],
-    "alertaFinal": "Leia o ritmo das ondas antes de entrar."
+    "alertaFinal": "Read the rhythm of the waves before entering."
   },
   {
     "id": "recifes",
-    "titulo": "Recifes e piscinas naturais",
-    "subtitulo": "Proteção natural com cuidado",
+    "titulo": "Reefs and tidal pools",
+    "subtitulo": "Natural protection with care",
     "imagem": "recifes",
-    "resumo": "Recifes podem reduzir a força das ondas em alguns trechos.",
-    "explicacao": "Recifes ajudam a formar áreas mais calmas na maré baixa, mas também podem ser escorregadios, rasos e causar cortes. Mesmo em piscinas naturais, o cuidado continua necessário, principalmente com a maré alta.",
+    "resumo": "Reefs can reduce wave strength in some stretches.",
+    "explicacao": "Reefs help form calmer areas at low tide, but they can also be slippery, shallow and cause cuts. Even in tidal pools, caution is still needed, especially at high tide.",
     "dicas": [
-      "Evite as laterais das picinas e regiões com aberturas dos recifes",
-      "Não fique nas piscinas com a maré subindo.",
-      "Não mergulhe onde não vê o fundo.",
-      "Evite pisar nos recifes.",
-      "Proteja os organismos vivos e não retire nada do ambiente."
+      "Avoid the sides of tidal pools and areas with openings in the reefs.",
+      "Do not stay in the pools as the tide rises.",
+      "Do not dive where you cannot see the bottom.",
+      "Avoid stepping on reefs.",
+      "Protect living organisms and do not remove anything from the environment."
     ],
-    "alertaFinal": "As piscinas naturais são áreas protegidas, mas não estão livres de riscos."
+    "alertaFinal": "Tidal pools are protected areas, but they are not free of risk."
   },
   {
     "id": "restingas",
-    "titulo": "Restingas protegem a costa",
-    "subtitulo": "A vegetação ajuda a segurar a praia",
+    "titulo": "Restingas protect the coast",
+    "subtitulo": "Vegetation helps hold the beach",
     "imagem": "restingas",
-    "resumo": "A restinga reduz erosão e protege o ecossistema costeiro.",
-    "explicacao": "A vegetação de restinga ajuda a fixar a areia, proteger a praia do vento e do avanço do mar, além de servir de abrigo para a fauna local.",
+    "resumo": "Restinga vegetation reduces erosion and protects the coastal ecosystem.",
+    "explicacao": "Restinga vegetation helps fix the sand, protect the beach from wind and sea advance, and shelter local wildlife.",
     "dicas": [
-      "Use passarelas e caminhos sinalizados.",
-      "Não pise nem remova plantas da restinga.",
-      "Leve seu lixo de volta ou descarte corretamente."
+      "Use boardwalks and marked paths.",
+      "Do not step on or remove restinga plants.",
+      "Take your trash back or dispose of it correctly."
     ],
-    "alertaFinal": "Cuidar da restinga é cuidar da própria praia."
+    "alertaFinal": "Taking care of the restinga means taking care of the beach itself."
   },
   {
     "id": "animal-encalhado",
-    "titulo": "Animal encalhado: o que fazer?",
-    "subtitulo": "Não toque e acione o órgão correto",
+    "titulo": "Stranded animal: what to do?",
+    "subtitulo": "Do not touch it and call the right agency",
     "imagem": "animal-encalhado",
-    "resumo": "Se encontrar um animal vivo, ferido ou morto na praia, mantenha distância e informe a localização.",
-    "explicacao": "Animais encalhados ou mortos podem indicar risco ambiental, doença, ferimentos ou morte recente. Não tente empurrar, carregar, enterrar, abrir ou remover o animal por conta própria. O ideal é manter pessoas e pets afastados, registrar o local com foto e ponto de referência e acionar o serviço responsável.",
+    "resumo": "If you find a live, injured or dead animal on the beach, keep your distance and report the location.",
+    "explicacao": "Stranded or dead animals can indicate environmental risk, disease, injuries or recent death. Do not try to push, carry, bury, open or remove the animal yourself. The best approach is to keep people and pets away, record the location with a photo and reference point, and call the responsible service.",
     "dicas": [
-      "Animal morto em área pública: acione a Emlurb pelo 156 ou pelo Conecta Recife e informe endereço, ponto de referência e fotos.",
-      "Animal silvestre vivo, ferido ou em risco: ligue 190 e peça acionamento da 1ª CIPOMA, informando espécie aproximada, porte e localização.",
-      "Dúvida ambiental ou situação envolvendo fauna protegida: registre no Ibama/Linha Verde pelo 0800 061 8080 ou contate a Supes/PE."
+      "Dead animal in a public area: contact Emlurb through 156 or Conecta Recife and provide the address, reference point and photos.",
+      "Live, injured or at-risk wild animal: call 190 and ask for the 1st CIPOMA to be dispatched, reporting approximate species, size and location.",
+      "Environmental question or situation involving protected wildlife: file a report with Ibama/Linha Verde at 0800 061 8080 or contact Supes/PE."
     ],
     "linksDicas": [
       {
@@ -212,36 +214,36 @@
       {
         "nome": "Emlurb - Autarquia de Manutenção e Limpeza Urbana",
         "contato": "156 / Conecta Recife",
-        "responsabilidade": "Remoção de animal morto em área pública",
+        "responsabilidade": "Removal of dead animals from public areas",
         "fonte": "https://conecta.recife.pe.gov.br/servico/249"
       },
       {
         "nome": "1ª CIPOMA - Companhia Independente de Policiamento do Meio Ambiente",
         "contato": "190",
-        "responsabilidade": "Resgate de animal silvestre vivo, ferido ou em situação de risco",
+        "responsabilidade": "Rescue of live, injured or at-risk wild animals",
         "fonte": "https://conecta.recife.pe.gov.br/servico/915"
       },
       {
         "nome": "Ibama - Superintendência em Pernambuco / Linha Verde",
         "contato": "0800 061 8080 / supes.pe@ibama.gov.br",
-        "responsabilidade": "Orientação e registro de demanda ambiental envolvendo fauna silvestre protegida",
+        "responsabilidade": "Guidance and case registration for environmental issues involving protected wildlife",
         "fonte": "https://www.gov.br/ibama/pt-br/composicao/quem-e-quem/ibama-nos-estados/pe"
       }
     ],
-    "alertaFinal": "Não toque no animal. A resposta segura começa chamando quem sabe manejar."
+    "alertaFinal": "Do not touch the animal. A safe response starts by calling trained handlers."
   },
   {
     "id": "oceanografia",
-    "titulo": "O que é oceanografia?",
-    "subtitulo": "A ciência que ajuda a entender o mar",
+    "titulo": "What is oceanography?",
+    "subtitulo": "The science that helps understand the sea",
     "imagem": "oceanografia",
-    "resumo": "Dados sobre vento, ondas, maré e correntes ajudam a traduzir o mar para o banho seguro.",
-    "explicacao": "A oceanografia estuda o comportamento do mar e transforma dados ambientais em informação útil para a sociedade. No Praia Segura, esse conhecimento ajuda a interpretar condições como ondas, vento, maré, correntes, chuva e proteção recifal, apoiando alertas e orientações para quem frequenta a praia.",
+    "resumo": "Data on wind, waves, tides and currents help translate the sea into safer swimming guidance.",
+    "explicacao": "Oceanography studies sea behavior and turns environmental data into useful information for society. In Praia Segura, this knowledge helps interpret conditions such as waves, wind, tide, currents, rain and reef protection, supporting alerts and guidance for beachgoers.",
     "dicas": [
-      "Observe como vento, ondas, maré e chuva mudam a praia ao longo do dia.",
-      "Use o app para entender melhor por que uma área pode estar mais segura ou mais perigosa.",
-      "Conheça mais sobre oceanografia: ela ajuda na segurança, na conservação e no planejamento das cidades costeiras."
+      "Observe how wind, waves, tide and rain change the beach throughout the day.",
+      "Use the app to better understand why an area may be safer or more dangerous.",
+      "Learn more about oceanography: it supports safety, conservation and planning for coastal cities."
     ],
-    "alertaFinal": "Quando a ciência ajuda a entender o mar, todos podem fazer escolhas mais seguras."
+    "alertaFinal": "When science helps us understand the sea, everyone can make safer choices."
   }
 ]

@@ -2,11 +2,11 @@
   {
     "id": "praia-sem-barreiras",
     "title": "Praia Sem Barreiras",
-    "summary": "Projeto de inclusão com banho assistido e cadeiras anfíbias em trecho adaptado da littoral de Recife.",
-    "focus": "Accessibilité de plage",
+    "summary": "Projet d'inclusion avec baignade assistée et fauteuils amphibies dans un tronçon adapté du littoral de Recife.",
+    "focus": "Accessibilité à la plage",
     "links": [
       {
-        "label": "Site do projeto",
+        "label": "Site du projet",
         "url": "https://empetur.pe.gov.br/coluna-4/programas-e-acoes/75-programas-e-acoes/1363-praia-sem-barreiras"
       }
     ]
@@ -14,11 +14,11 @@
   {
     "id": "recife-cidade-parque",
     "title": "Recife Cidade Parque",
-    "summary": "Iniciativa que conecta planejamento urbano e pesquisa para habitabilidade, sustentabilidade e resiliência da cidade.",
+    "summary": "Initiative qui relie planification urbaine et recherche pour l'habitabilité, la durabilité et la résilience de la ville.",
     "focus": "Ville et environnement côtier",
     "links": [
       {
-        "label": "Instagram do projeto",
+        "label": "Instagram du projet",
         "url": "https://www.instagram.com/recifecidadeparque/"
       }
     ]
@@ -26,11 +26,11 @@
   {
     "id": "museu-oceanografia",
     "title": "Museu de Oceanografia da UFPE",
-    "summary": "Iniciativa de divulgação científica e educação oceanográfica com foco em conservação marinha e cultura costeira.",
+    "summary": "Initiative de vulgarisation scientifique et d'éducation océanographique axée sur la conservation marine et la culture côtière.",
     "focus": "Éducation océanographique",
     "links": [
       {
-        "label": "Instagram do museu",
+        "label": "Instagram du musée",
         "url": "https://www.instagram.com/moufpe/"
       }
     ]
@@ -38,27 +38,27 @@
   {
     "id": "parque-capibaribe",
     "title": "Parque Capibaribe",
-    "summary": "Projeto estratégico para aproximar pessoas e rios, com impacto em drenagem, mobilidade e qualidade ambiental.",
+    "summary": "Projet stratégique pour rapprocher les personnes et les rivières, avec un impact sur le drainage, la mobilité et la qualité environnementale.",
     "focus": "Rivières et connexion au littoral",
     "links": [
       {
-        "label": "Página oficial",
+        "label": "Page officielle",
         "url": "https://meioambiente.recife.pe.gov.br/parque-capibaribe"
       }
     ]
   },
   {
     "id": "balneabilidade-cprh",
-    "title": "Monitoramento de Balneabilidade",
-    "summary": "Programa técnico da CPRH para análise contínua da qualidade da água do mar e apoio a decisões de banho.",
+    "title": "Suivi de la qualité des eaux de baignade",
+    "summary": "Programme technique de la CPRH pour l'analyse continue de la qualité de l'eau de mer et l'aide aux décisions de baignade.",
     "focus": "Océanographie et qualité de l'eau",
     "links": [
       {
-        "label": "CPRH - Balneabilidade",
+        "label": "CPRH - Qualité des eaux de baignade",
         "url": "https://www2.cprh.pe.gov.br/monitoramento-ambiental/balneabilidade/"
       },
       {
-        "label": "Relatórios",
+        "label": "Rapports",
         "url": "https://www2.cprh.pe.gov.br/monitoramento-ambiental/balneabilidade/relatorios-de-balneabilidade/"
       }
     ]

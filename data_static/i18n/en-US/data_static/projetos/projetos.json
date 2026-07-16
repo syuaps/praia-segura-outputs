@@ -6,7 +6,7 @@
     "focus": "Beach accessibility",
     "links": [
       {
-        "label": "Site do projeto",
+        "label": "Project website",
         "url": "https://empetur.pe.gov.br/coluna-4/programas-e-acoes/75-programas-e-acoes/1363-praia-sem-barreiras"
       }
     ]
@@ -14,11 +14,11 @@
   {
     "id": "recife-cidade-parque",
     "title": "Recife Cidade Parque",
-    "summary": "Iniciativa que conecta planejamento urbano e pesquisa para habitabilidade, sustentabilidade e resiliência da cidade.",
+    "summary": "Initiative connecting urban planning and research for city habitability, sustainability and resilience.",
     "focus": "City and coastal environment",
     "links": [
       {
-        "label": "Instagram do projeto",
+        "label": "Project Instagram",
         "url": "https://www.instagram.com/recifecidadeparque/"
       }
     ]
@@ -26,11 +26,11 @@
   {
     "id": "museu-oceanografia",
     "title": "Museu de Oceanografia da UFPE",
-    "summary": "Iniciativa de divulgação científica e educação oceanográfica com foco em conservação marinha e cultura costeira.",
+    "summary": "Science outreach and ocean education initiative focused on marine conservation and coastal culture.",
     "focus": "Ocean education",
     "links": [
       {
-        "label": "Instagram do museu",
+        "label": "Museum Instagram",
         "url": "https://www.instagram.com/moufpe/"
       }
     ]
@@ -38,27 +38,27 @@
   {
     "id": "parque-capibaribe",
     "title": "Parque Capibaribe",
-    "summary": "Projeto estratégico para aproximar pessoas e rios, com impacto em drenagem, mobilidade e qualidade ambiental.",
+    "summary": "Strategic project to reconnect people and rivers, with impact on drainage, mobility and environmental quality.",
     "focus": "Rivers and shoreline connection",
     "links": [
       {
-        "label": "Página oficial",
+        "label": "Official page",
         "url": "https://meioambiente.recife.pe.gov.br/parque-capibaribe"
       }
     ]
   },
   {
     "id": "balneabilidade-cprh",
-    "title": "Monitoramento de Balneabilidade",
-    "summary": "Programa técnico da CPRH para análise contínua da qualidade da água do mar e apoio a decisões de banho.",
+    "title": "Bathing Water Quality Monitoring",
+    "summary": "CPRH technical program for continuous seawater quality analysis and support for bathing decisions.",
     "focus": "Oceanography and water quality",
     "links": [
       {
-        "label": "CPRH - Balneabilidade",
+        "label": "CPRH - Bathing water quality",
         "url": "https://www2.cprh.pe.gov.br/monitoramento-ambiental/balneabilidade/"
       },
       {
-        "label": "Relatórios",
+        "label": "Reports",
         "url": "https://www2.cprh.pe.gov.br/monitoramento-ambiental/balneabilidade/relatorios-de-balneabilidade/"
       }
     ]

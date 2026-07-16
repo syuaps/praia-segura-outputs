@@ -22,11 +22,11 @@
       "restinga": false,
       "enroncamento": false,
       "acessibilidade": false,
-      "observacao": "Piscinas naturais em maré baixa. No se arriesgue durante marea alta!",
+      "observacao": "Piscinas naturales con marea baja. No se arriesgue durante la marea alta.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-80",
         "distEstacaoCPRHKm": 1.4269
       }
@@ -55,11 +55,11 @@
       "restinga": false,
       "enroncamento": true,
       "acessibilidade": false,
-      "observacao": "Sin área de protección! El baño no es seguro.",
+      "observacao": "Sin área de protección. El baño no es seguro.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-80",
         "distEstacaoCPRHKm": 1.1575
       }
@@ -88,11 +88,11 @@
       "restinga": false,
       "enroncamento": true,
       "acessibilidade": false,
-      "observacao": "Sin área de protección! El baño no es seguro.",
+      "observacao": "Sin área de protección. El baño no es seguro.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-80",
         "distEstacaoCPRHKm": 0.8405
       }
@@ -121,11 +121,11 @@
       "restinga": false,
       "enroncamento": true,
       "acessibilidade": false,
-      "observacao": "Sin área de protección! El baño no es seguro.",
+      "observacao": "Sin área de protección. El baño no es seguro.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-80",
         "distEstacaoCPRHKm": 0.5427
       }
@@ -154,11 +154,11 @@
       "restinga": false,
       "enroncamento": true,
       "acessibilidade": false,
-      "observacao": "Piscinas naturais em maré baixa. No se arriesgue durante marea alta!",
+      "observacao": "Piscinas naturales con marea baja. No se arriesgue durante la marea alta.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-80",
         "distEstacaoCPRHKm": 0.2605
       }
@@ -187,11 +187,11 @@
       "restinga": true,
       "enroncamento": false,
       "acessibilidade": false,
-      "observacao": "Piscinas naturais em maré baixa. No se arriesgue durante marea alta!",
+      "observacao": "Piscinas naturales con marea baja. No se arriesgue durante la marea alta.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-80",
         "distEstacaoCPRHKm": 0.1599
       }
@@ -220,11 +220,11 @@
       "restinga": true,
       "enroncamento": false,
       "acessibilidade": false,
-      "observacao": "Mar aberto sem proteção! El baño no es seguro.",
+      "observacao": "Mar abierto sin protección. El baño no es seguro.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-80",
         "distEstacaoCPRHKm": 0.4117
       }
@@ -253,11 +253,11 @@
       "restinga": true,
       "enroncamento": false,
       "acessibilidade": false,
-      "observacao": "Piscina natural restrita com correntes de retorno. El baño no está indicado.",
+      "observacao": "Piscina natural restringida con corrientes de retorno. El baño no está recomendado.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-80",
         "distEstacaoCPRHKm": 0.6953
       }
@@ -286,11 +286,11 @@
       "restinga": true,
       "enroncamento": false,
       "acessibilidade": false,
-      "observacao": "Área com correntes de retorno! El baño no es seguro.",
+      "observacao": "Área con corrientes de retorno. El baño no es seguro.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-80",
         "distEstacaoCPRHKm": 1.0009
       }
@@ -319,11 +319,11 @@
       "restinga": true,
       "enroncamento": false,
       "acessibilidade": false,
-      "observacao": "Área com correntes de retorno! El baño no es seguro.",
+      "observacao": "Área con corrientes de retorno. El baño no es seguro.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-80",
         "distEstacaoCPRHKm": 1.2984
       }
@@ -352,11 +352,11 @@
       "restinga": true,
       "enroncamento": false,
       "acessibilidade": false,
-      "observacao": "Área com correntes de retorno! El baño no es seguro.",
+      "observacao": "Área con corrientes de retorno. El baño no es seguro.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-50",
         "distEstacaoCPRHKm": 1.3496
       }
@@ -385,11 +385,11 @@
       "restinga": true,
       "enroncamento": false,
       "acessibilidade": false,
-      "observacao": "Área com correntes de retorno! El baño no es seguro.",
+      "observacao": "Área con corrientes de retorno. El baño no es seguro.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-50",
         "distEstacaoCPRHKm": 1.0493
       }
@@ -418,11 +418,11 @@
       "restinga": true,
       "enroncamento": false,
       "acessibilidade": false,
-      "observacao": "Área com correntes de retorno! El baño no es seguro.",
+      "observacao": "Área con corrientes de retorno. El baño no es seguro.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-50",
         "distEstacaoCPRHKm": 0.7502
       }
@@ -451,11 +451,11 @@
       "restinga": true,
       "enroncamento": false,
       "acessibilidade": false,
-      "observacao": "Área com correntes de retorno! El baño no es seguro.",
+      "observacao": "Área con corrientes de retorno. El baño no es seguro.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-50",
         "distEstacaoCPRHKm": 0.445
       }
@@ -484,11 +484,11 @@
       "restinga": false,
       "enroncamento": false,
       "acessibilidade": false,
-      "observacao": "Área com correntes de retorno! El baño no es seguro.",
+      "observacao": "Área con corrientes de retorno. El baño no es seguro.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-50",
         "distEstacaoCPRHKm": 0.1423
       }
@@ -517,11 +517,11 @@
       "restinga": false,
       "enroncamento": false,
       "acessibilidade": false,
-      "observacao": "Piscinas naturais em maré baixa. No se arriesgue durante marea alta!",
+      "observacao": "Piscinas naturales con marea baja. No se arriesgue durante la marea alta.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-50",
         "distEstacaoCPRHKm": 0.177
       }
@@ -550,11 +550,11 @@
       "restinga": false,
       "enroncamento": false,
       "acessibilidade": false,
-      "observacao": "Área com correntes de retorno! El baño no es seguro.",
+      "observacao": "Área con corrientes de retorno. El baño no es seguro.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-50",
         "distEstacaoCPRHKm": 0.471
       }
@@ -583,11 +583,11 @@
       "restinga": false,
       "enroncamento": false,
       "acessibilidade": true,
-      "observacao": "Piscinas naturais em maré baixa. No se arriesgue durante marea alta!",
+      "observacao": "Piscinas naturales con marea baja. No se arriesgue durante la marea alta.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-50",
         "distEstacaoCPRHKm": 0.7746
       }
@@ -616,11 +616,11 @@
       "restinga": false,
       "enroncamento": false,
       "acessibilidade": false,
-      "observacao": "Piscinas naturais em maré baixa. No se arriesgue durante marea alta!",
+      "observacao": "Piscinas naturales con marea baja. No se arriesgue durante la marea alta.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-50",
         "distEstacaoCPRHKm": 1.0947
       }
@@ -649,11 +649,11 @@
       "restinga": false,
       "enroncamento": false,
       "acessibilidade": false,
-      "observacao": "Área com correntes de retorno! El baño no es seguro.",
+      "observacao": "Área con corrientes de retorno. El baño no es seguro.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-50",
         "distEstacaoCPRHKm": 1.4056
       }
@@ -682,11 +682,11 @@
       "restinga": false,
       "enroncamento": true,
       "acessibilidade": false,
-      "observacao": "Área com correntes de retorno! El baño no es seguro.",
+      "observacao": "Área con corrientes de retorno. El baño no es seguro.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-50",
         "distEstacaoCPRHKm": 1.704
       }
@@ -715,11 +715,11 @@
       "restinga": false,
       "enroncamento": true,
       "acessibilidade": false,
-      "observacao": "Piscinas naturais em maré baixa. No se arriesgue durante marea alta!",
+      "observacao": "Piscinas naturales con marea baja. No se arriesgue durante la marea alta.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-50",
         "distEstacaoCPRHKm": 1.9992
       }
@@ -748,11 +748,11 @@
       "restinga": false,
       "enroncamento": true,
       "acessibilidade": false,
-      "observacao": "Piscinas naturais em maré baixa. No se arriesgue durante marea alta!",
+      "observacao": "Piscinas naturales con marea baja. No se arriesgue durante la marea alta.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-10",
         "distEstacaoCPRHKm": 1.8567
       }
@@ -781,11 +781,11 @@
       "restinga": false,
       "enroncamento": true,
       "acessibilidade": false,
-      "observacao": "Piscinas naturais em maré baixa. No se arriesgue durante marea alta!",
+      "observacao": "Piscinas naturales con marea baja. No se arriesgue durante la marea alta.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-10",
         "distEstacaoCPRHKm": 1.5459
       }
@@ -814,11 +814,11 @@
       "restinga": false,
       "enroncamento": true,
       "acessibilidade": false,
-      "observacao": "Mar aberto sem proteção! El baño no es seguro.",
+      "observacao": "Mar abierto sin protección. El baño no es seguro.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-10",
         "distEstacaoCPRHKm": 1.2497
       }
@@ -847,11 +847,11 @@
       "restinga": false,
       "enroncamento": true,
       "acessibilidade": false,
-      "observacao": "Mar aberto sem proteção! El baño no es seguro.",
+      "observacao": "Mar abierto sin protección. El baño no es seguro.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-10",
         "distEstacaoCPRHKm": 0.9512
       }
@@ -880,11 +880,11 @@
       "restinga": false,
       "enroncamento": true,
       "acessibilidade": false,
-      "observacao": "Mar aberto sem proteção! El baño no es seguro.",
+      "observacao": "Mar abierto sin protección. El baño no es seguro.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-10",
         "distEstacaoCPRHKm": 0.6419
       }
@@ -913,11 +913,11 @@
       "restinga": true,
       "enroncamento": true,
       "acessibilidade": false,
-      "observacao": "Mar aberto sem proteção! El baño no es seguro.",
+      "observacao": "Mar abierto sin protección. El baño no es seguro.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-10",
         "distEstacaoCPRHKm": 0.3396
       }
@@ -946,11 +946,11 @@
       "restinga": true,
       "enroncamento": false,
       "acessibilidade": false,
-      "observacao": "Mar aberto sem proteção! El baño no es seguro.",
+      "observacao": "Mar abierto sin protección. El baño no es seguro.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-10",
         "distEstacaoCPRHKm": 0.0425
       }
@@ -979,11 +979,11 @@
       "restinga": true,
       "enroncamento": false,
       "acessibilidade": false,
-      "observacao": "Mar aberto sem proteção! El baño no es seguro.",
+      "observacao": "Mar abierto sin protección. El baño no es seguro.",
       "balneabilidade": {
         "status": "impropria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "REC-10",
         "distEstacaoCPRHKm": 0.2539
       }
@@ -1012,11 +1012,11 @@
       "restinga": true,
       "enroncamento": false,
       "acessibilidade": false,
-      "observacao": "Mar aberto sem proteção! El baño no es seguro.",
+      "observacao": "Mar abierto sin protección. El baño no es seguro.",
       "balneabilidade": {
         "status": "propria",
         "dataReferencia": "10/07/2026",
-        "periodo": "10/07/2026 a 16/07/2026",
+        "periodo": "10/07/2026 al 16/07/2026",
         "codCPRHBalneabilidade": "JAB-80",
         "distEstacaoCPRHKm": 0.33
       }
