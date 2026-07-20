@@ -1,0 +1,44 @@
+[
+  {
+    "id": "policia",
+    "titulo": "Urgences",
+    "subtitulo": "Police militaire",
+    "numero": "190"
+  },
+  {
+    "id": "bombeiros",
+    "titulo": "Pompiers",
+    "subtitulo": "",
+    "numero": "193"
+  },
+  {
+    "id": "samu",
+    "titulo": "SAMU - Ambulance",
+    "subtitulo": "",
+    "numero": "192"
+  },
+  {
+    "id": "defesa-civil",
+    "titulo": "Protection civile",
+    "subtitulo": "Urgences et catastrophes",
+    "numero": "199"
+  },
+  {
+    "id": "hospitais",
+    "titulo": "Urgences médicales",
+    "subtitulo": "",
+    "numero": ""
+  },
+  {
+    "id": "denuncia",
+    "titulo": "Ligne de signalement",
+    "subtitulo": "",
+    "numero": "181"
+  },
+  {
+    "id": "atendimento-mulher",
+    "titulo": "Centre d'assistance aux femmes",
+    "subtitulo": "Orientation sur les lois, les droits des femmes et les services du réseau d'assistance",
+    "numero": "180"
+  }
+]

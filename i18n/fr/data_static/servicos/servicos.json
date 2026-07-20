@@ -1,0 +1,1552 @@
+[
+  {
+    "id": "academia-da-cidade-01",
+    "categoria": "AC",
+    "nome": "Salle de sport de la ville - Brasília Teimosa",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.081277,
+    "longitude": -34.876961
+  },
+  {
+    "id": "academia-da-cidade-02",
+    "categoria": "AC",
+    "nome": "Salle de sport de la ville",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.104444,
+    "longitude": -34.886313
+  },
+  {
+    "id": "academia-da-cidade-03",
+    "categoria": "AC",
+    "nome": "Salle de sport de la ville",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.105953,
+    "longitude": -34.887
+  },
+  {
+    "id": "banheiro-01",
+    "categoria": "BH",
+    "nome": "Toilettes 01",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.078452,
+    "longitude": -34.875998
+  },
+  {
+    "id": "banheiro-02",
+    "categoria": "BH",
+    "nome": "Toilettes 02",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.080969,
+    "longitude": -34.876686
+  },
+  {
+    "id": "banheiro-04",
+    "categoria": "BH",
+    "nome": "Toilettes 04",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.090505,
+    "longitude": -34.881573
+  },
+  {
+    "id": "banheiro-05",
+    "categoria": "BH",
+    "nome": "Toilettes 05",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.095728,
+    "longitude": -34.882939
+  },
+  {
+    "id": "banheiro-06",
+    "categoria": "BH",
+    "nome": "Toilettes 06",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.098171,
+    "longitude": -34.883582
+  },
+  {
+    "id": "banheiro-07",
+    "categoria": "BH",
+    "nome": "Toilettes 07",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.101586,
+    "longitude": -34.885006
+  },
+  {
+    "id": "banheiro-08",
+    "categoria": "BH",
+    "nome": "Toilettes 08",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.104767,
+    "longitude": -34.88658
+  },
+  {
+    "id": "banheiro-09",
+    "categoria": "BH",
+    "nome": "Toilettes 09",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.108161,
+    "longitude": -34.888008
+  },
+  {
+    "id": "banheiro-10",
+    "categoria": "BH",
+    "nome": "Toilettes 10",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.110471,
+    "longitude": -34.889174
+  },
+  {
+    "id": "banheiro-11",
+    "categoria": "BH",
+    "nome": "Toilettes 11",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.115332,
+    "longitude": -34.891996
+  },
+  {
+    "id": "banheiro-12",
+    "categoria": "BH",
+    "nome": "Toilettes 12",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.118788,
+    "longitude": -34.894053
+  },
+  {
+    "id": "banheiro-13",
+    "categoria": "BH",
+    "nome": "Toilettes 13",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.121994,
+    "longitude": -34.895893
+  },
+  {
+    "id": "banheiro-14",
+    "categoria": "BH",
+    "nome": "Toilettes 14",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.128273,
+    "longitude": -34.898107
+  },
+  {
+    "id": "banheiro-15",
+    "categoria": "BH",
+    "nome": "Toilettes 15",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.13305,
+    "longitude": -34.900229
+  },
+  {
+    "id": "banheiro-16",
+    "categoria": "BH",
+    "nome": "Toilettes 16",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.135454,
+    "longitude": -34.901276
+  },
+  {
+    "id": "banheiro-17",
+    "categoria": "BH",
+    "nome": "Toilettes 17",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.139007,
+    "longitude": -34.902408
+  },
+  {
+    "id": "banheiro-18",
+    "categoria": "BH",
+    "nome": "Toilettes 18",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.142203,
+    "longitude": -34.903561
+  },
+  {
+    "id": "banheiro-19",
+    "categoria": "BH",
+    "nome": "Toilettes 19",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.14546,
+    "longitude": -34.905169
+  },
+  {
+    "id": "banheiro-20",
+    "categoria": "BH",
+    "nome": "Toilettes 20",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.147989,
+    "longitude": -34.906391
+  },
+  {
+    "id": "banheiro-21",
+    "categoria": "BH",
+    "nome": "Toilettes 21",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.152463,
+    "longitude": -34.908187
+  },
+  {
+    "id": "parquinho-01",
+    "categoria": "BI",
+    "nome": "Aire de jeux",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.101374,
+    "longitude": -34.88491
+  },
+  {
+    "id": "parquinho-02",
+    "categoria": "BI",
+    "nome": "Aire de jeux",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.101829,
+    "longitude": -34.885152
+  },
+  {
+    "id": "parquinho-03",
+    "categoria": "BI",
+    "nome": "Aire de jeux",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.102268,
+    "longitude": -34.885357
+  },
+  {
+    "id": "parquinho-04",
+    "categoria": "BI",
+    "nome": "Aire de jeux",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.107945,
+    "longitude": -34.887942
+  },
+  {
+    "id": "parquinho-05",
+    "categoria": "BI",
+    "nome": "Aire de jeux",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.108843,
+    "longitude": -34.888359
+  },
+  {
+    "id": "parquinho-bt-01",
+    "categoria": "BI",
+    "nome": "Aire de jeux",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.082641,
+    "longitude": -34.877379
+  },
+  {
+    "id": "parquinho-bt-02",
+    "categoria": "BI",
+    "nome": "Aire de jeux",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.085544,
+    "longitude": -34.878435
+  },
+  {
+    "id": "delegacia-01",
+    "categoria": "DE",
+    "nome": "Unité de police de Pina - PMPE",
+    "endereco": "Av. Boa Viagem, S/N - Pina, Recife - PE, 51110-000",
+    "contato": "(81) 98744-1859",
+    "funcionamento": "Ouvert 24 h/24",
+    "latitude": -8.090315,
+    "longitude": -34.881492
+  },
+  {
+    "id": "delegacia-02",
+    "categoria": "DE",
+    "nome": "2e commissariat de police - Boa Viagem",
+    "endereco": "Av. Eng. Domingos Ferreira, 4420 - Boa Viagem, Recife - PE, 51021-040",
+    "contato": "(81) 3184-3325",
+    "funcionamento": "Ouvert 24 h/24",
+    "latitude": -8.12749,
+    "longitude": -34.901489
+  },
+  {
+    "id": "escada-acesso-01",
+    "categoria": "ES",
+    "nome": "Escalier d'accès 01",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.07886012694376,
+    "longitude": -34.8759037910383
+  },
+  {
+    "id": "escada-acesso-02",
+    "categoria": "ES",
+    "nome": "Escalier d'accès 02",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.12857016202209,
+    "longitude": -34.8981767956812
+  },
+  {
+    "id": "escada-acesso-03",
+    "categoria": "ES",
+    "nome": "Escalier d'accès 03",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.12916373456206,
+    "longitude": -34.8984420445129
+  },
+  {
+    "id": "escada-acesso-04",
+    "categoria": "ES",
+    "nome": "Escalier d'accès 04",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.13007143651708,
+    "longitude": -34.8988650875337
+  },
+  {
+    "id": "escada-acesso-05",
+    "categoria": "ES",
+    "nome": "Escalier d'accès 05",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.13064925135351,
+    "longitude": -34.8991506915362
+  },
+  {
+    "id": "escada-acesso-06",
+    "categoria": "ES",
+    "nome": "Escalier d'accès 06",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.13181287263681,
+    "longitude": -34.8996644850489
+  },
+  {
+    "id": "escada-acesso-07",
+    "categoria": "ES",
+    "nome": "Escalier d'accès 07",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.13255228535707,
+    "longitude": -34.89997418326
+  },
+  {
+    "id": "escada-acesso-08",
+    "categoria": "ES",
+    "nome": "Escalier d'accès 08",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.13332572070398,
+    "longitude": -34.9002713629279
+  },
+  {
+    "id": "escada-acesso-09",
+    "categoria": "ES",
+    "nome": "Escalier d'accès 09",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.13416250136989,
+    "longitude": -34.9006581913504
+  },
+  {
+    "id": "escada-acesso-10",
+    "categoria": "ES",
+    "nome": "Escalier d'accès 10",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.13489693916737,
+    "longitude": -34.9009940657573
+  },
+  {
+    "id": "escada-acesso-11",
+    "categoria": "ES",
+    "nome": "Escalier d'accès 11",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.13655438274289,
+    "longitude": -34.9015497354214
+  },
+  {
+    "id": "escada-acesso-12",
+    "categoria": "ES",
+    "nome": "Escalier d'accès 12",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.13729073787085,
+    "longitude": -34.9017965575779
+  },
+  {
+    "id": "escada-acesso-13",
+    "categoria": "ES",
+    "nome": "Escalier d'accès 13",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.13864380334733,
+    "longitude": -34.9022343389815
+  },
+  {
+    "id": "escada-acesso-14",
+    "categoria": "ES",
+    "nome": "Escalier d'accès 14",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.13962025491214,
+    "longitude": -34.9025322783663
+  },
+  {
+    "id": "escada-acesso-15",
+    "categoria": "ES",
+    "nome": "Escalier d'accès 15",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.14301384525319,
+    "longitude": -34.9038706400781
+  },
+  {
+    "id": "escada-acesso-16",
+    "categoria": "ES",
+    "nome": "Escalier d'accès 16",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.14371256534171,
+    "longitude": -34.9042208728572
+  },
+  {
+    "id": "escada-acesso-17",
+    "categoria": "ES",
+    "nome": "Escalier d'accès 17",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.14424332287563,
+    "longitude": -34.9044680320745
+  },
+  {
+    "id": "escada-acesso-18",
+    "categoria": "ES",
+    "nome": "Escalier d'accès 18",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.14493454234207,
+    "longitude": -34.9047935577944
+  },
+  {
+    "id": "escada-acesso-19",
+    "categoria": "ES",
+    "nome": "Escalier d'accès 19",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.14539712675228,
+    "longitude": -34.9050289121593
+  },
+  {
+    "id": "escada-acesso-20",
+    "categoria": "ES",
+    "nome": "Escalier d'accès 20",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.14600011998087,
+    "longitude": -34.9053097590496
+  },
+  {
+    "id": "escada-acesso-21",
+    "categoria": "ES",
+    "nome": "Escalier d'accès 21",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.14658335598252,
+    "longitude": -34.9056028644189
+  },
+  {
+    "id": "escada-acesso-22",
+    "categoria": "ES",
+    "nome": "Escalier d'accès 22",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.1470243923497,
+    "longitude": -34.9058023636155
+  },
+  {
+    "id": "escada-acesso-23",
+    "categoria": "ES",
+    "nome": "Escalier d'accès 23",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.14751384785925,
+    "longitude": -34.9060320599322
+  },
+  {
+    "id": "praia-sem-barreiras",
+    "categoria": "PB",
+    "nome": "Plage sans barrières",
+    "endereco": "Praia de Boa Viagem, na altura da Rua Bruno Veloso",
+    "contato": "(81) 3355-8645 / Email: divisaopcd@gmail.com",
+    "funcionamento": "Du vendredi au dimanche, de 08 h à 13 h",
+    "latitude": -8.12171,
+    "longitude": -34.895544
+  },
+  {
+    "id": "pronto-socorro-01",
+    "categoria": "PS",
+    "nome": "Unité de soins d'urgence (UPA) Imbiribeira - Maria Esther Souto Carvalho",
+    "endereco": "Av. Mal. Mascarenhas de Morais, 4223 - Imbiribeira, Recife - PE, 51150-004",
+    "contato": "(81) 3184-4328",
+    "funcionamento": "Ouvert 24 h/24",
+    "latitude": -8.120896,
+    "longitude": -34.913858
+  },
+  {
+    "id": "quadra-01",
+    "categoria": "QD",
+    "nome": "Terrain de sable",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.093199,
+    "longitude": -34.882052
+  },
+  {
+    "id": "quadra-01-bt",
+    "categoria": "QD",
+    "nome": "Terrain de sable",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.082284,
+    "longitude": -34.876995
+  },
+  {
+    "id": "quadra-02",
+    "categoria": "QD",
+    "nome": "Terrain de sable",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.094108,
+    "longitude": -34.88228
+  },
+  {
+    "id": "quadra-02-bt",
+    "categoria": "QD",
+    "nome": "Terrain de sable",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.087384,
+    "longitude": -34.87887
+  },
+  {
+    "id": "quadra-03",
+    "categoria": "QD",
+    "nome": "Terrain de volley-ball",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.095616,
+    "longitude": -34.882732
+  },
+  {
+    "id": "quadra-04",
+    "categoria": "QD",
+    "nome": "Terrain de basket-ball",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.096042,
+    "longitude": -34.88281
+  },
+  {
+    "id": "quadra-05",
+    "categoria": "QD",
+    "nome": "Terrain de futsal",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.096475,
+    "longitude": -34.882926
+  },
+  {
+    "id": "quadra-06",
+    "categoria": "QD",
+    "nome": "Terrain de basket-ball",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.098279,
+    "longitude": -34.883426
+  },
+  {
+    "id": "quadra-07",
+    "categoria": "QD",
+    "nome": "Terrain",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.099284,
+    "longitude": -34.88375
+  },
+  {
+    "id": "quadra-08",
+    "categoria": "QD",
+    "nome": "Terrain",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.099781,
+    "longitude": -34.883983
+  },
+  {
+    "id": "quadra-09",
+    "categoria": "QD",
+    "nome": "Terrain",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.10026,
+    "longitude": -34.884166
+  },
+  {
+    "id": "quadra-10",
+    "categoria": "QD",
+    "nome": "Terrain",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.100749,
+    "longitude": -34.884314
+  },
+  {
+    "id": "quadra-11",
+    "categoria": "QD",
+    "nome": "Terrain de futsal",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.110463,
+    "longitude": -34.888958
+  },
+  {
+    "id": "quiosque-01",
+    "categoria": "QS",
+    "nome": "Kiosque 01",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.091387,
+    "longitude": -34.88182
+  },
+  {
+    "id": "quiosque-02",
+    "categoria": "QS",
+    "nome": "Kiosque 02",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.094135,
+    "longitude": -34.882509
+  },
+  {
+    "id": "quiosque-03",
+    "categoria": "QS",
+    "nome": "Kiosque 03",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.095461,
+    "longitude": -34.88286
+  },
+  {
+    "id": "quiosque-04",
+    "categoria": "QS",
+    "nome": "Kiosque 04",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.097908,
+    "longitude": -34.883492
+  },
+  {
+    "id": "quiosque-05",
+    "categoria": "QS",
+    "nome": "Kiosque 05",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.099987,
+    "longitude": -34.884362
+  },
+  {
+    "id": "quiosque-06",
+    "categoria": "QS",
+    "nome": "Kiosque 06",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.10123,
+    "longitude": -34.885004
+  },
+  {
+    "id": "quiosque-07",
+    "categoria": "QS",
+    "nome": "Kiosque 07",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.102326,
+    "longitude": -34.88549
+  },
+  {
+    "id": "quiosque-08",
+    "categoria": "QS",
+    "nome": "Kiosque 08",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.103248,
+    "longitude": -34.885922
+  },
+  {
+    "id": "quiosque-09",
+    "categoria": "QS",
+    "nome": "Kiosque 09",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.104005,
+    "longitude": -34.886253
+  },
+  {
+    "id": "quiosque-10",
+    "categoria": "QS",
+    "nome": "Kiosque 10",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.106172,
+    "longitude": -34.887248
+  },
+  {
+    "id": "quiosque-11",
+    "categoria": "QS",
+    "nome": "Kiosque 11",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.107776,
+    "longitude": -34.887967
+  },
+  {
+    "id": "quiosque-12",
+    "categoria": "QS",
+    "nome": "Kiosque 12",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.1089,
+    "longitude": -34.888512
+  },
+  {
+    "id": "quiosque-13",
+    "categoria": "QS",
+    "nome": "Kiosque 13",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.11022,
+    "longitude": -34.88909
+  },
+  {
+    "id": "quiosque-14",
+    "categoria": "QS",
+    "nome": "Kiosque 14",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.111986,
+    "longitude": -34.889894
+  },
+  {
+    "id": "quiosque-15",
+    "categoria": "QS",
+    "nome": "Kiosque 15",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.112941,
+    "longitude": -34.890438
+  },
+  {
+    "id": "quiosque-16",
+    "categoria": "QS",
+    "nome": "Kiosque 16",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.113772,
+    "longitude": -34.890926
+  },
+  {
+    "id": "quiosque-17",
+    "categoria": "QS",
+    "nome": "Kiosque 17",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.114652,
+    "longitude": -34.891541
+  },
+  {
+    "id": "quiosque-18",
+    "categoria": "QS",
+    "nome": "Kiosque 18",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.115512,
+    "longitude": -34.892113
+  },
+  {
+    "id": "quiosque-19",
+    "categoria": "QS",
+    "nome": "Kiosque 19",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.11615,
+    "longitude": -34.892516
+  },
+  {
+    "id": "quiosque-20",
+    "categoria": "QS",
+    "nome": "Kiosque 20",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.116888,
+    "longitude": -34.892919
+  },
+  {
+    "id": "quiosque-21",
+    "categoria": "QS",
+    "nome": "Kiosque 21",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.117578,
+    "longitude": -34.893358
+  },
+  {
+    "id": "quiosque-22",
+    "categoria": "QS",
+    "nome": "Kiosque 22",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.118533,
+    "longitude": -34.893921
+  },
+  {
+    "id": "quiosque-23",
+    "categoria": "QS",
+    "nome": "Kiosque 23",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.119383,
+    "longitude": -34.894428
+  },
+  {
+    "id": "quiosque-24",
+    "categoria": "QS",
+    "nome": "Kiosque 24",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.120151,
+    "longitude": -34.894885
+  },
+  {
+    "id": "quiosque-25",
+    "categoria": "QS",
+    "nome": "Kiosque 25",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.120595,
+    "longitude": -34.895135
+  },
+  {
+    "id": "quiosque-26",
+    "categoria": "QS",
+    "nome": "Kiosque 26",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.121861,
+    "longitude": -34.895782
+  },
+  {
+    "id": "quiosque-27",
+    "categoria": "QS",
+    "nome": "Kiosque 27",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.12239,
+    "longitude": -34.896067
+  },
+  {
+    "id": "quiosque-28",
+    "categoria": "QS",
+    "nome": "Kiosque 28",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.123273,
+    "longitude": -34.896424
+  },
+  {
+    "id": "quiosque-29",
+    "categoria": "QS",
+    "nome": "Kiosque 29",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.12359,
+    "longitude": -34.89651
+  },
+  {
+    "id": "quiosque-30",
+    "categoria": "QS",
+    "nome": "Kiosque 30",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.124995,
+    "longitude": -34.896937
+  },
+  {
+    "id": "quiosque-31",
+    "categoria": "QS",
+    "nome": "Kiosque 31",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.125657,
+    "longitude": -34.8972
+  },
+  {
+    "id": "quiosque-32",
+    "categoria": "QS",
+    "nome": "Kiosque 32",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.126886,
+    "longitude": -34.897669
+  },
+  {
+    "id": "quiosque-33",
+    "categoria": "QS",
+    "nome": "Kiosque 33",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.128417,
+    "longitude": -34.898173
+  },
+  {
+    "id": "quiosque-34",
+    "categoria": "QS",
+    "nome": "Kiosque 34",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.129625,
+    "longitude": -34.898717
+  },
+  {
+    "id": "quiosque-35",
+    "categoria": "QS",
+    "nome": "Kiosque 35",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.130307,
+    "longitude": -34.899028
+  },
+  {
+    "id": "quiosque-36",
+    "categoria": "QS",
+    "nome": "Kiosque 36",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.131693,
+    "longitude": -34.899655
+  },
+  {
+    "id": "quiosque-37",
+    "categoria": "QS",
+    "nome": "Kiosque 37",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.132887,
+    "longitude": -34.900152
+  },
+  {
+    "id": "quiosque-38",
+    "categoria": "QS",
+    "nome": "Kiosque 38",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.133698,
+    "longitude": -34.900537
+  },
+  {
+    "id": "quiosque-39",
+    "categoria": "QS",
+    "nome": "Kiosque 39",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.134205,
+    "longitude": -34.900775
+  },
+  {
+    "id": "quiosque-40",
+    "categoria": "QS",
+    "nome": "Kiosque 40",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.13525,
+    "longitude": -34.901195
+  },
+  {
+    "id": "quiosque-41",
+    "categoria": "QS",
+    "nome": "Kiosque 41",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.135693,
+    "longitude": -34.901343
+  },
+  {
+    "id": "quiosque-42",
+    "categoria": "QS",
+    "nome": "Kiosque 42",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.137012,
+    "longitude": -34.901767
+  },
+  {
+    "id": "quiosque-43",
+    "categoria": "QS",
+    "nome": "Kiosque 43",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.13757,
+    "longitude": -34.901938
+  },
+  {
+    "id": "quiosque-44",
+    "categoria": "QS",
+    "nome": "Kiosque 44",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.138175,
+    "longitude": -34.902134
+  },
+  {
+    "id": "quiosque-45",
+    "categoria": "QS",
+    "nome": "Kiosque 45",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.138856,
+    "longitude": -34.902355
+  },
+  {
+    "id": "quiosque-46",
+    "categoria": "QS",
+    "nome": "Kiosque 46",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.139244,
+    "longitude": -34.902506
+  },
+  {
+    "id": "quiosque-47",
+    "categoria": "QS",
+    "nome": "Kiosque 47",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.140347,
+    "longitude": -34.902827
+  },
+  {
+    "id": "quiosque-48",
+    "categoria": "QS",
+    "nome": "Kiosque 48",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.140961,
+    "longitude": -34.903083
+  },
+  {
+    "id": "quiosque-49",
+    "categoria": "QS",
+    "nome": "Kiosque 49",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.1425,
+    "longitude": -34.903676
+  },
+  {
+    "id": "quiosque-50",
+    "categoria": "QS",
+    "nome": "Kiosque 50",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.143445,
+    "longitude": -34.904188
+  },
+  {
+    "id": "quiosque-51",
+    "categoria": "QS",
+    "nome": "Kiosque 51",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.14439,
+    "longitude": -34.904667
+  },
+  {
+    "id": "quiosque-52",
+    "categoria": "QS",
+    "nome": "Kiosque 52",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.145051,
+    "longitude": -34.905004
+  },
+  {
+    "id": "quiosque-53",
+    "categoria": "QS",
+    "nome": "Kiosque 53",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.145936,
+    "longitude": -34.905399
+  },
+  {
+    "id": "quiosque-54",
+    "categoria": "QS",
+    "nome": "Kiosque 54",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.146584,
+    "longitude": -34.905762
+  },
+  {
+    "id": "quiosque-55",
+    "categoria": "QS",
+    "nome": "Kiosque 55",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.147749,
+    "longitude": -34.906228
+  },
+  {
+    "id": "quiosque-56",
+    "categoria": "QS",
+    "nome": "Kiosque 56",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.148737,
+    "longitude": -34.906703
+  },
+  {
+    "id": "quiosque-57",
+    "categoria": "QS",
+    "nome": "Kiosque 57",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.149505,
+    "longitude": -34.90702
+  },
+  {
+    "id": "quiosque-58",
+    "categoria": "QS",
+    "nome": "Kiosque 58",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.150292,
+    "longitude": -34.907318
+  },
+  {
+    "id": "quiosque-59",
+    "categoria": "QS",
+    "nome": "Kiosque 59",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.152779,
+    "longitude": -34.908312
+  },
+  {
+    "id": "quiosque-60",
+    "categoria": "QS",
+    "nome": "Kiosque 60",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.153435,
+    "longitude": -34.908587
+  },
+  {
+    "id": "quiosque-bt-01",
+    "categoria": "QS",
+    "nome": "Kiosque 01 - Brasília Teimosa",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.081806,
+    "longitude": -34.877136
+  },
+  {
+    "id": "quiosque-bt-02",
+    "categoria": "QS",
+    "nome": "Kiosque 02 - Brasília Teimosa",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.082423,
+    "longitude": -34.877307
+  },
+  {
+    "id": "quiosque-bt-03",
+    "categoria": "QS",
+    "nome": "Kiosque 03 - Brasília Teimosa",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.082921,
+    "longitude": -34.877456
+  },
+  {
+    "id": "quiosque-bt-04",
+    "categoria": "QS",
+    "nome": "Kiosque 04 - Brasília Teimosa",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.08318,
+    "longitude": -34.877544
+  },
+  {
+    "id": "quiosque-bt-05",
+    "categoria": "QS",
+    "nome": "Kiosque 05 - Brasília Teimosa",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.08342,
+    "longitude": -34.877642
+  },
+  {
+    "id": "quiosque-bt-06",
+    "categoria": "QS",
+    "nome": "Kiosque 06 - Brasília Teimosa",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.08351,
+    "longitude": -34.877651
+  },
+  {
+    "id": "quiosque-bt-07",
+    "categoria": "QS",
+    "nome": "Kiosque 07 - Brasília Teimosa",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.084779,
+    "longitude": -34.878108
+  },
+  {
+    "id": "quiosque-bt-08",
+    "categoria": "QS",
+    "nome": "Kiosque 08 - Brasília Teimosa",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.086084,
+    "longitude": -34.878639
+  },
+  {
+    "id": "quiosque-bt-09",
+    "categoria": "QS",
+    "nome": "Kiosque 09 - Brasília Teimosa",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.086156,
+    "longitude": -34.878658
+  },
+  {
+    "id": "rampa-acesso-01",
+    "categoria": "RA",
+    "nome": "Rampe d'accès 01",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.09367157393906,
+    "longitude": -34.8823524729512
+  },
+  {
+    "id": "rampa-acesso-02",
+    "categoria": "RA",
+    "nome": "Rampe d'accès 02",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.09621930789232,
+    "longitude": -34.8830287513214
+  },
+  {
+    "id": "rampa-acesso-03",
+    "categoria": "RA",
+    "nome": "Rampe d'accès 03",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.09718517940788,
+    "longitude": -34.8832470567166
+  },
+  {
+    "id": "rampa-acesso-04",
+    "categoria": "RA",
+    "nome": "Rampe d'accès 04",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.09863495909123,
+    "longitude": -34.8837477345522
+  },
+  {
+    "id": "rampa-acesso-05",
+    "categoria": "RA",
+    "nome": "Rampe d'accès 05",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.09944096483704,
+    "longitude": -34.8841381689147
+  },
+  {
+    "id": "rampa-acesso-06",
+    "categoria": "RA",
+    "nome": "Rampe d'accès 06",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.1006421659656,
+    "longitude": -34.8846613251536
+  },
+  {
+    "id": "pista-de-skate-01",
+    "categoria": "RS",
+    "nome": "Skatepark",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.097859,
+    "longitude": -34.883291
+  },
+  {
+    "id": "pista-de-skate-02",
+    "categoria": "RS",
+    "nome": "Mini-rampe de skate",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.103039,
+    "longitude": -34.885709
+  },
+  {
+    "id": "pista-de-skate-03",
+    "categoria": "RS",
+    "nome": "Mini-rampe de skate",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.106731,
+    "longitude": -34.887468
+  },
+  {
+    "id": "salva-vidas-01",
+    "categoria": "SV",
+    "nome": "Poste de secours 01",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.081085,
+    "longitude": -34.876716
+  },
+  {
+    "id": "salva-vidas-03",
+    "categoria": "SV",
+    "nome": "Poste de secours 03",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.099461,
+    "longitude": -34.883454
+  },
+  {
+    "id": "salva-vidas-04",
+    "categoria": "SV",
+    "nome": "Poste de secours 04",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.104954,
+    "longitude": -34.88623
+  },
+  {
+    "id": "salva-vidas-05",
+    "categoria": "SV",
+    "nome": "Poste de secours 05",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.111412,
+    "longitude": -34.889518
+  },
+  {
+    "id": "salva-vidas-06",
+    "categoria": "SV",
+    "nome": "Poste de secours 06",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.117854,
+    "longitude": -34.893299
+  },
+  {
+    "id": "salva-vidas-07",
+    "categoria": "SV",
+    "nome": "Poste de secours 07",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.121741,
+    "longitude": -34.89554
+  },
+  {
+    "id": "salva-vidas-08",
+    "categoria": "SV",
+    "nome": "Poste de secours 08",
+    "endereco": "",
+    "contato": "",
+    "funcionamento": "",
+    "latitude": -8.15103,
+    "longitude": -34.907538
+  }
+]

@@ -1,0 +1,249 @@
+[
+  {
+    "id": "mar-hoje",
+    "titulo": "Comment est la mer aujourd'hui ?",
+    "subtitulo": "Consultez les conditions avant d'entrer",
+    "imagem": "mar-hoje",
+    "resumo": "L'écran réunit le risque du jour, la pluie, les vagues, le vent, la marée et le meilleur horaire pour se baigner.",
+    "explicacao": "La mer change au cours de la journée. C'est pourquoi Praia Segura combine différentes informations pour aider à décider : risque général, probabilité de pluie, hauteur des vagues, vent, marée, lever et coucher du soleil et meilleure fenêtre de baignade. Ces facteurs aident à indiquer quand la mer peut être plus agitée, trouble, profonde ou avec des courants plus forts.",
+    "dicas": [
+      "Commencez par le niveau de risque : s'il est élevé, redoublez d'attention et envisagez de ne pas entrer.",
+      "Observez la pluie, les vagues et le vent : lorsque ces facteurs augmentent, la baignade peut devenir plus dangereuse.",
+      "Choisissez votre plage en tenant compte des avis locaux.",
+      "Utilisez la marée et la fenêtre indiquée comme repères, mais comparez toujours avec les conditions réelles de la plage et les avis des sauveteurs."
+    ],
+    "alertaFinal": "La prévision aide, mais la décision finale doit tenir compte de la mer, de la signalisation et des sauveteurs."
+  },
+  {
+    "id": "mar-turvo-chuva",
+    "titulo": "Mer trouble, risque doublé",
+    "subtitulo": "Une forte pluie peut rendre la baignade dangereuse",
+    "imagem": "mar-turvo-chuva",
+    "resumo": "Après la pluie, la mer peut devenir plus trouble, plus forte et plus difficile à lire.",
+    "explicacao": "Les fortes pluies entraînent l'eau et les sédiments des rivières et canaux vers la mer. Cela réduit la visibilité, augmente la turbulence et peut rendre plus difficile l'identification des trous, courants et obstacles. Le risque d'incidents avec des requins est également plus élevé dans l'eau trouble.",
+    "dicas": [
+      "Évitez de vous baigner juste après une forte pluie.",
+      "N'entrez pas si l'eau est très trouble ou agitée.",
+      "Respectez les panneaux, les alertes et les consignes des sauveteurs."
+    ],
+    "alertaFinal": "Dans une mer trouble et agitée, le choix le plus sûr est de ne pas entrer."
+  },
+  {
+    "id": "correntes",
+    "titulo": "Courants de baïne",
+    "subtitulo": "Apprenez à les reconnaître et à en sortir",
+    "imagem": "correntes",
+    "resumo": "Ils entraînent vers le large, mais il existe une bonne façon d'en sortir.",
+    "explicacao": "Les courants de baïne sont des bandes d'eau qui retournent vers le large. Ils ne tirent pas vers le bas, mais peuvent éloigner rapidement le baigneur du sable.",
+    "dicas": [
+      "Évitez les secteurs avec des avis locaux de courant de baïne.",
+      "Gardez votre calme et ne nagez pas contre le courant.",
+      "Nagez sur le côté, parallèlement à la plage.",
+      "Après être sorti du courant, revenez en diagonale vers le sable."
+    ],
+    "alertaFinal": "Ne luttez pas contre le courant. Sortez par les côtés."
+  },
+  {
+    "id": "tubaroes",
+    "titulo": "Requins : prudence sans panique",
+    "subtitulo": "L'information aide à réduire les risques",
+    "imagem": "tubaroes",
+    "resumo": "Respectez les avis locaux et évitez les zones à risque plus élevé.",
+    "explicacao": "Certains secteurs ont un historique d'incidents. La principale précaution consiste à réduire l'exposition : respecter les panneaux, éviter la marée haute, la faible visibilité et les zones non protégées, et ne pas entrer dans les zones signalées.",
+    "dicas": [
+      "Privilégiez les piscines naturelles à marée basse.",
+      "Évitez d'entrer en mer ouverte. Préférez les zones protégées.",
+      "N'entrez pas dans les zones avec alerte ou interdiction.",
+      "Évitez de vous baigner dans une mer trouble, sous forte pluie ou en fin d'après-midi.",
+      "Ne nagez pas dans les secteurs avec des avis de courant de baïne."
+    ],
+    "alertaFinal": "Il est essentiel de prêter attention aux avis officiels."
+  },
+  {
+    "id": "risco-noturno",
+    "titulo": "Mer de nuit : risque plus élevé",
+    "subtitulo": "La faible visibilité augmente le danger",
+    "imagem": "risco-noturno",
+    "resumo": "Dans l'obscurité, il est plus difficile de voir les vagues, trous, pierres, courants et requins.",
+    "explicacao": "La nuit, la visibilité baisse fortement et le baigneur perd des repères importants de la plage. Il devient plus difficile de percevoir la force des vagues, reconnaître les courants, voir les trous, pierres, récifs, animaux marins et demander rapidement de l'aide.",
+    "dicas": [
+      "Évitez d'entrer dans la mer la nuit, même sur des plages connues.",
+      "Ne nagez pas seul ni dans des lieux sans éclairage et sans sauveteurs.",
+      "Si vous souhaitez rester sur la plage la nuit, restez sur le sable et loin de la zone de déferlement."
+    ],
+    "alertaFinal": "La nuit, le plus sûr est d'admirer la mer depuis le sable."
+  },
+  {
+    "id": "trechos-abertos",
+    "titulo": "La mer ouverte n'est pas une piscine",
+    "subtitulo": "Sans récifs, la mer demande plus d'attention",
+    "imagem": "trechos-abertos",
+    "resumo": "Sans barrière naturelle, les vagues et les courants arrivent avec plus de force.",
+    "explicacao": "Dans les zones sans protection récifale, les vagues déferlent avec plus d'énergie et les courants peuvent être plus forts. Cela augmente le risque de perdre pied, d'être poussé par le ressac ou entraîné vers le large. Le risque d'incidents avec des requins est également plus élevé dans les zones non protégées.",
+    "dicas": [
+      "Préférez les secteurs protégés lorsque les conditions sont favorables.",
+      "Évitez les côtés des piscines naturelles et les zones avec des ouvertures dans les récifs.",
+      "Évitez d'entrer à marée haute, lorsque le récif est submergé et que la force de l'eau augmente.",
+      "Observez s'il y a de l'écume qui part vers le large, signe fréquent de courant de baïne."
+    ],
+    "alertaFinal": "En mer ouverte, le fond et les courants peuvent changer soudainement et vous mettre en danger."
+  },
+  {
+    "id": "balneabilidade",
+    "titulo": "Qualité des eaux de baignade de la plage",
+    "subtitulo": "Sachez quand l'eau est propre à la baignade",
+    "imagem": "balneabilidade",
+    "resumo": "La qualité des eaux de baignade indique si l'eau est adaptée à la baignade.",
+    "explicacao": "La classification de l'eau aide à éviter le contact avec la contamination. Consultez toujours l'information la plus récente avant d'entrer dans la mer, surtout après la pluie.",
+    "dicas": [
+      "Vérifiez les panneaux et bulletins officiels.",
+      "Évitez de vous baigner après de fortes pluies.",
+      "N'entrez pas s'il y a des déchets, une forte odeur ou une eau très trouble."
+    ],
+    "linksDicas": [
+      {
+        "indice": 0,
+        "label": "Rapports",
+        "url": "https://www2.cprh.pe.gov.br/monitoramento-ambiental/balneabilidade/relatorios-de-balneabilidade/"
+      }
+    ],
+    "alertaFinal": "Une eau impropre exige de la prudence et un changement de lieu."
+  },
+  {
+    "id": "caravelas",
+    "titulo": "Physalies : attention au contact",
+    "subtitulo": "Même sur le sable, elles peuvent provoquer des brûlures",
+    "imagem": "caravelas",
+    "resumo": "Les physalies ont des tentacules qui peuvent provoquer une douleur intense et une irritation de la peau.",
+    "explicacao": "Les physalies peuvent apparaître en mer ou échouées sur le sable, poussées par le vent et les courants. Leurs tentacules libèrent des substances urticantes qui provoquent brûlure, douleur et marques sur la peau. Même hors de l'eau ou apparemment mortes, elles peuvent encore causer des accidents.",
+    "dicas": [
+      "Si vous voyez des physalies dans l'eau ou sur le sable, ne les touchez pas et évitez d'entrer dans la mer.",
+      "En cas de contact, sortez de l'eau, ne frottez pas la peau et ne rincez pas à l'eau douce.",
+      "Retirez les tentacules avec précaution, de préférence avec une pince ou une carte. N'essayez pas de les retirer avec les mains. Consultez si la douleur est forte, s'il y a un malaise ou une réaction étendue."
+    ],
+    "alertaFinal": "Piqûre ? Sortez de l'eau, évitez de frotter et demandez conseil à un service de santé."
+  },
+  {
+    "id": "mare",
+    "titulo": "Marée : l'horloge de la plage",
+    "subtitulo": "La marée transforme la plage au cours de la journée",
+    "imagem": "mare",
+    "resumo": "La marée modifie la profondeur, les courants et l'exposition des récifs.",
+    "explicacao": "La marée haute et la marée basse modifient la profondeur, la force de l'eau et l'exposition des récifs. Dans certaines zones, les piscines naturelles ne sont visibles qu'à marée basse.",
+    "dicas": [
+      "Consultez les horaires de marée avant de partir.",
+      "Évitez de rester dans la mer lorsque la marée monte.",
+      "Avec des enfants, privilégiez les périodes plus calmes."
+    ],
+    "alertaFinal": "Planifier selon la marée réduit les surprises et les accidents."
+  },
+  {
+    "id": "ondas",
+    "titulo": "Vagues : quand cela semble faible, mais ne l'est pas",
+    "subtitulo": "Les petites vagues peuvent aussi pousser",
+    "imagem": "ondas",
+    "resumo": "Certaines séries de vagues peuvent soudainement arriver plus grandes.",
+    "explicacao": "La hauteur moyenne des vagues ne montre pas tout. Par moments, de plus grosses vagues arrivent en série et peuvent renverser ou pousser des baigneurs surpris.",
+    "dicas": [
+      "Observez la mer pendant quelques minutes avant d'entrer.",
+      "Ne tournez pas le dos aux vagues.",
+      "Si le sable cède sous vos pieds, éloignez-vous de la zone de déferlement."
+    ],
+    "alertaFinal": "Lisez le rythme des vagues avant d'entrer."
+  },
+  {
+    "id": "recifes",
+    "titulo": "Récifs et piscines naturelles",
+    "subtitulo": "Protection naturelle avec prudence",
+    "imagem": "recifes",
+    "resumo": "Les récifs peuvent réduire la force des vagues dans certains secteurs.",
+    "explicacao": "Les récifs aident à former des zones plus calmes à marée basse, mais ils peuvent aussi être glissants, peu profonds et provoquer des coupures. Même dans les piscines naturelles, la prudence reste nécessaire, surtout à marée haute.",
+    "dicas": [
+      "Évitez les côtés des piscines naturelles et les zones avec des ouvertures dans les récifs.",
+      "Ne restez pas dans les piscines lorsque la marée monte.",
+      "Ne plongez pas là où vous ne voyez pas le fond.",
+      "Évitez de marcher sur les récifs.",
+      "Protégez les organismes vivants et ne retirez rien du milieu."
+    ],
+    "alertaFinal": "Les piscines naturelles sont des zones protégées, mais elles ne sont pas sans risques."
+  },
+  {
+    "id": "restingas",
+    "titulo": "Les restingas protègent la côte",
+    "subtitulo": "La végétation aide à maintenir la plage",
+    "imagem": "restingas",
+    "resumo": "La restinga réduit l'érosion et protège l'écosystème côtier.",
+    "explicacao": "La végétation de restinga aide à fixer le sable, protéger la plage du vent et de l'avancée de la mer, et sert aussi d'abri à la faune locale.",
+    "dicas": [
+      "Utilisez les passerelles et les chemins balisés.",
+      "Ne marchez pas sur les plantes de restinga et ne les retirez pas.",
+      "Rapportez vos déchets ou jetez-les correctement."
+    ],
+    "alertaFinal": "Prendre soin de la restinga, c'est prendre soin de la plage elle-même."
+  },
+  {
+    "id": "animal-encalhado",
+    "titulo": "Animal échoué : que faire ?",
+    "subtitulo": "Ne touchez pas et appelez le bon organisme",
+    "imagem": "animal-encalhado",
+    "resumo": "Si vous trouvez un animal vivant, blessé ou mort sur la plage, gardez vos distances et signalez l'emplacement.",
+    "explicacao": "Les animaux échoués ou morts peuvent indiquer un risque environnemental, une maladie, des blessures ou une mort récente. N'essayez pas de pousser, porter, enterrer, ouvrir ou retirer l'animal vous-même. L'idéal est de tenir les personnes et les animaux domestiques à distance, d'enregistrer le lieu avec une photo et un point de repère, puis d'appeler le service responsable.",
+    "dicas": [
+      "Animal mort dans une zone publique : contactez Emlurb au 156 ou via Conecta Recife et indiquez l'adresse, le point de repère et des photos.",
+      "Animal sauvage vivant, blessé ou en danger : appelez le 190 et demandez l'intervention de la 1re CIPOMA, en indiquant l'espèce approximative, la taille et l'emplacement.",
+      "Question environnementale ou situation impliquant une faune protégée : enregistrez la demande auprès d'Ibama/Linha Verde au 0800 061 8080 ou contactez Supes/PE."
+    ],
+    "linksDicas": [
+      {
+        "indice": 0,
+        "label": "Emlurb 156",
+        "url": "https://conecta.recife.pe.gov.br/servico/249"
+      },
+      {
+        "indice": 1,
+        "label": "CIPOMA 190",
+        "url": "https://conecta.recife.pe.gov.br/servico/915"
+      },
+      {
+        "indice": 2,
+        "label": "Ibama PE",
+        "url": "https://www.gov.br/ibama/pt-br/composicao/quem-e-quem/ibama-nos-estados/pe"
+      }
+    ],
+    "orgaosAmbientais": [
+      {
+        "nome": "Emlurb - Autarquia de Manutenção e Limpeza Urbana",
+        "contato": "156 / Conecta Recife",
+        "responsabilidade": "Retrait d'animal mort dans une zone publique",
+        "fonte": "https://conecta.recife.pe.gov.br/servico/249"
+      },
+      {
+        "nome": "1ª CIPOMA - Companhia Independente de Policiamento do Meio Ambiente",
+        "contato": "190",
+        "responsabilidade": "Sauvetage d'animal sauvage vivant, blessé ou en situation de risque",
+        "fonte": "https://conecta.recife.pe.gov.br/servico/915"
+      },
+      {
+        "nome": "Ibama - Superintendência em Pernambuco / Linha Verde",
+        "contato": "0800 061 8080 / supes.pe@ibama.gov.br",
+        "responsabilidade": "Orientation et enregistrement de demande environnementale impliquant une faune sauvage protégée",
+        "fonte": "https://www.gov.br/ibama/pt-br/composicao/quem-e-quem/ibama-nos-estados/pe"
+      }
+    ],
+    "alertaFinal": "Ne touchez pas l'animal. Une réponse sûre commence par appeler des personnes formées à sa manipulation."
+  },
+  {
+    "id": "oceanografia",
+    "titulo": "Qu'est-ce que l'océanographie ?",
+    "subtitulo": "La science qui aide à comprendre la mer",
+    "imagem": "oceanografia",
+    "resumo": "Les données sur le vent, les vagues, la marée et les courants aident à traduire la mer en conseils pour une baignade plus sûre.",
+    "explicacao": "L'océanographie étudie le comportement de la mer et transforme les données environnementales en informations utiles pour la société. Dans Praia Segura, ce savoir aide à interpréter des conditions comme les vagues, le vent, la marée, les courants, la pluie et la protection récifale, en soutenant les alertes et les orientations pour les personnes qui fréquentent la plage.",
+    "dicas": [
+      "Observez comment le vent, les vagues, la marée et la pluie modifient la plage au cours de la journée.",
+      "Utilisez l'application pour mieux comprendre pourquoi une zone peut être plus sûre ou plus dangereuse.",
+      "Découvrez l'océanographie : elle aide à la sécurité, à la conservation et à la planification des villes côtières."
+    ],
+    "alertaFinal": "Lorsque la science aide à comprendre la mer, chacun peut faire des choix plus sûrs."
+  }
+]

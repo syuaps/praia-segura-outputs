@@ -1,0 +1,249 @@
+[
+  {
+    "id": "mar-hoje",
+    "titulo": "How is the sea today?",
+    "subtitulo": "Check the conditions before entering",
+    "imagem": "mar-hoje",
+    "resumo": "This screen brings together today's risk, rain, waves, wind, tide and best time for swimming.",
+    "explicacao": "The sea changes throughout the day. Praia Segura combines different information to support your decision: overall risk, chance of rain, wave height, wind, tide, sunrise and sunset, and the best swimming window. These factors help indicate when the sea may be rougher, murkier, deeper or have stronger currents.",
+    "dicas": [
+      "Start with the risk level: if it is high, be extra cautious and consider staying out.",
+      "Watch rain, waves and wind: when these factors increase, swimming can become more dangerous.",
+      "Choose your beach while paying attention to local warnings.",
+      "Use the tide and suggested window as support, but always compare them with real beach conditions and lifeguard warnings."
+    ],
+    "alertaFinal": "The forecast helps, but the final decision should consider the sea, signs and lifeguards."
+  },
+  {
+    "id": "mar-turvo-chuva",
+    "titulo": "Murky sea, double risk",
+    "subtitulo": "Heavy rain can make swimming dangerous",
+    "imagem": "mar-turvo-chuva",
+    "resumo": "After rain, the sea can become murkier, stronger and harder to read.",
+    "explicacao": "Heavy rain carries water and sediment from rivers and canals into the sea. This reduces visibility, increases turbulence and can make it harder to identify holes, currents and obstacles. The risk of shark incidents is also higher in murky water.",
+    "dicas": [
+      "Avoid swimming right after heavy rain.",
+      "Do not enter if the water is very murky or rough.",
+      "Follow signs, alerts and lifeguard guidance."
+    ],
+    "alertaFinal": "In murky and rough seas, the safest choice is to stay out."
+  },
+  {
+    "id": "correntes",
+    "titulo": "Rip currents",
+    "subtitulo": "Learn how to recognize and escape them",
+    "imagem": "correntes",
+    "resumo": "They pull you away from shore, but there is a correct way to escape.",
+    "explicacao": "Rip currents are channels of water flowing back out to sea. They do not pull downward, but they can quickly carry swimmers away from the sand.",
+    "dicas": [
+      "Avoid areas with local rip current warnings.",
+      "Stay calm and do not swim against the current.",
+      "Swim sideways, parallel to the beach.",
+      "After leaving the current, return diagonally toward the sand."
+    ],
+    "alertaFinal": "Do not fight the current. Exit sideways."
+  },
+  {
+    "id": "tubaroes",
+    "titulo": "Sharks: caution without panic",
+    "subtitulo": "Information helps reduce risk",
+    "imagem": "tubaroes",
+    "resumo": "Follow local warnings and avoid higher-risk areas.",
+    "explicacao": "Some stretches have a history of incidents. The main precaution is to reduce exposure: follow signs, avoid high tide, low visibility and unprotected areas, and do not enter marked areas.",
+    "dicas": [
+      "Prefer tidal pools during low tide.",
+      "Avoid entering open sea. Prefer protected areas.",
+      "Do not enter areas with warnings or prohibitions.",
+      "Avoid swimming in murky seas, heavy rain or late afternoon.",
+      "Do not swim in areas with rip current warnings."
+    ],
+    "alertaFinal": "Paying attention to official warnings is essential."
+  },
+  {
+    "id": "risco-noturno",
+    "titulo": "Sea at night: higher risk",
+    "subtitulo": "Low visibility increases danger",
+    "imagem": "risco-noturno",
+    "resumo": "In the dark, it is harder to see waves, holes, rocks, currents and sharks.",
+    "explicacao": "At night, visibility drops sharply and swimmers lose important beach references. It becomes harder to judge wave strength, recognize currents, see holes, rocks, reefs and marine animals, and call for help quickly.",
+    "dicas": [
+      "Avoid entering the sea at night, even at familiar beaches.",
+      "Do not swim alone or in places without lighting and lifeguards.",
+      "If you want to stay at the beach at night, remain on the sand and away from the surf zone."
+    ],
+    "alertaFinal": "At night, the safest option is to admire the sea from the sand."
+  },
+  {
+    "id": "trechos-abertos",
+    "titulo": "Open sea is not a pool",
+    "subtitulo": "Without reefs, the sea demands more attention",
+    "imagem": "trechos-abertos",
+    "resumo": "Without a natural barrier, waves and currents arrive with more force.",
+    "explicacao": "In areas without reef protection, waves break with more energy and currents can be stronger. This increases the risk of losing footing, being pushed by the surf or carried offshore. The risk of shark incidents is also higher in unprotected areas.",
+    "dicas": [
+      "Prefer protected stretches when conditions are favorable.",
+      "Avoid the sides of tidal pools and areas with openings in the reefs.",
+      "Avoid entering at high tide, when the reef is submerged and water force increases.",
+      "Watch for foam moving out to sea, a common sign of a rip current."
+    ],
+    "alertaFinal": "In open sea, the bottom and currents can change suddenly and put you in danger."
+  },
+  {
+    "id": "balneabilidade",
+    "titulo": "Beach bathing water quality",
+    "subtitulo": "Know when the water is suitable",
+    "imagem": "balneabilidade",
+    "resumo": "Bathing water quality indicates whether the water is suitable for swimming.",
+    "explicacao": "Water classification helps avoid contact with contamination. Always check the latest information before entering the sea, especially after rain.",
+    "dicas": [
+      "Check official signs and bulletins.",
+      "Avoid swimming after heavy rain.",
+      "Do not enter if there is trash, a strong odor or very murky water."
+    ],
+    "linksDicas": [
+      {
+        "indice": 0,
+        "label": "Reports",
+        "url": "https://www2.cprh.pe.gov.br/monitoramento-ambiental/balneabilidade/relatorios-de-balneabilidade/"
+      }
+    ],
+    "alertaFinal": "Unsafe water requires caution and choosing another place."
+  },
+  {
+    "id": "caravelas",
+    "titulo": "Portuguese man-of-war: be careful touching it",
+    "subtitulo": "Even on the sand, they can cause stings",
+    "imagem": "caravelas",
+    "resumo": "Portuguese man-of-war have tentacles that can cause intense pain and skin irritation.",
+    "explicacao": "Portuguese man-of-war can appear in the sea or stranded on the sand, carried by wind and currents. Their tentacles release stinging substances that cause burning, pain and marks on the skin. Even out of the water or apparently dead, they can still cause injuries.",
+    "dicas": [
+      "If you see Portuguese man-of-war in the water or on the sand, do not touch them and avoid entering the sea.",
+      "In case of contact, leave the water, do not rub the skin and do not rinse with fresh water.",
+      "Remove tentacles carefully, preferably with tweezers or a card. Do not try to remove them with your hands. Seek care if there is severe pain, discomfort or a widespread reaction."
+    ],
+    "alertaFinal": "Stung? Leave the water, avoid rubbing and seek health guidance."
+  },
+  {
+    "id": "mare",
+    "titulo": "Tide: the beach clock",
+    "subtitulo": "The tide changes the beach throughout the day",
+    "imagem": "mare",
+    "resumo": "The tide changes depth, currents and reef exposure.",
+    "explicacao": "High and low tides change depth, water force and reef exposure. In some areas, tidal pools are only visible at low tide.",
+    "dicas": [
+      "Check tide times before leaving.",
+      "Avoid staying in the sea as the tide rises.",
+      "With children, prefer calmer periods."
+    ],
+    "alertaFinal": "Planning around the tide reduces surprises and accidents."
+  },
+  {
+    "id": "ondas",
+    "titulo": "Waves: when it seems small, but is not",
+    "subtitulo": "Small waves can also push you",
+    "imagem": "ondas",
+    "resumo": "Some sets of waves can suddenly arrive larger.",
+    "explicacao": "Average wave height does not show everything. At times, larger waves arrive in sets and can knock down or push unsuspecting swimmers.",
+    "dicas": [
+      "Watch the sea for a few minutes before entering.",
+      "Do not turn your back to the waves.",
+      "If the sand is giving way, move away from the surf zone."
+    ],
+    "alertaFinal": "Read the rhythm of the waves before entering."
+  },
+  {
+    "id": "recifes",
+    "titulo": "Reefs and tidal pools",
+    "subtitulo": "Natural protection with care",
+    "imagem": "recifes",
+    "resumo": "Reefs can reduce wave strength in some stretches.",
+    "explicacao": "Reefs help form calmer areas at low tide, but they can also be slippery, shallow and cause cuts. Even in tidal pools, caution is still needed, especially at high tide.",
+    "dicas": [
+      "Avoid the sides of tidal pools and areas with openings in the reefs.",
+      "Do not stay in the pools as the tide rises.",
+      "Do not dive where you cannot see the bottom.",
+      "Avoid stepping on reefs.",
+      "Protect living organisms and do not remove anything from the environment."
+    ],
+    "alertaFinal": "Tidal pools are protected areas, but they are not free of risk."
+  },
+  {
+    "id": "restingas",
+    "titulo": "Restingas protect the coast",
+    "subtitulo": "Vegetation helps hold the beach",
+    "imagem": "restingas",
+    "resumo": "Restinga vegetation reduces erosion and protects the coastal ecosystem.",
+    "explicacao": "Restinga vegetation helps fix the sand, protect the beach from wind and sea advance, and shelter local wildlife.",
+    "dicas": [
+      "Use boardwalks and marked paths.",
+      "Do not step on or remove restinga plants.",
+      "Take your trash back or dispose of it correctly."
+    ],
+    "alertaFinal": "Taking care of the restinga means taking care of the beach itself."
+  },
+  {
+    "id": "animal-encalhado",
+    "titulo": "Stranded animal: what to do?",
+    "subtitulo": "Do not touch it and call the right agency",
+    "imagem": "animal-encalhado",
+    "resumo": "If you find a live, injured or dead animal on the beach, keep your distance and report the location.",
+    "explicacao": "Stranded or dead animals can indicate environmental risk, disease, injuries or recent death. Do not try to push, carry, bury, open or remove the animal yourself. The best approach is to keep people and pets away, record the location with a photo and reference point, and call the responsible service.",
+    "dicas": [
+      "Dead animal in a public area: contact Emlurb through 156 or Conecta Recife and provide the address, reference point and photos.",
+      "Live, injured or at-risk wild animal: call 190 and ask for the 1st CIPOMA to be dispatched, reporting approximate species, size and location.",
+      "Environmental question or situation involving protected wildlife: file a report with Ibama/Linha Verde at 0800 061 8080 or contact Supes/PE."
+    ],
+    "linksDicas": [
+      {
+        "indice": 0,
+        "label": "Emlurb 156",
+        "url": "https://conecta.recife.pe.gov.br/servico/249"
+      },
+      {
+        "indice": 1,
+        "label": "CIPOMA 190",
+        "url": "https://conecta.recife.pe.gov.br/servico/915"
+      },
+      {
+        "indice": 2,
+        "label": "Ibama PE",
+        "url": "https://www.gov.br/ibama/pt-br/composicao/quem-e-quem/ibama-nos-estados/pe"
+      }
+    ],
+    "orgaosAmbientais": [
+      {
+        "nome": "Emlurb - Autarquia de Manutenção e Limpeza Urbana",
+        "contato": "156 / Conecta Recife",
+        "responsabilidade": "Removal of dead animals from public areas",
+        "fonte": "https://conecta.recife.pe.gov.br/servico/249"
+      },
+      {
+        "nome": "1ª CIPOMA - Companhia Independente de Policiamento do Meio Ambiente",
+        "contato": "190",
+        "responsabilidade": "Rescue of live, injured or at-risk wild animals",
+        "fonte": "https://conecta.recife.pe.gov.br/servico/915"
+      },
+      {
+        "nome": "Ibama - Superintendência em Pernambuco / Linha Verde",
+        "contato": "0800 061 8080 / supes.pe@ibama.gov.br",
+        "responsabilidade": "Guidance and case registration for environmental issues involving protected wildlife",
+        "fonte": "https://www.gov.br/ibama/pt-br/composicao/quem-e-quem/ibama-nos-estados/pe"
+      }
+    ],
+    "alertaFinal": "Do not touch the animal. A safe response starts by calling trained handlers."
+  },
+  {
+    "id": "oceanografia",
+    "titulo": "What is oceanography?",
+    "subtitulo": "The science that helps understand the sea",
+    "imagem": "oceanografia",
+    "resumo": "Data on wind, waves, tides and currents help translate the sea into safer swimming guidance.",
+    "explicacao": "Oceanography studies sea behavior and turns environmental data into useful information for society. In Praia Segura, this knowledge helps interpret conditions such as waves, wind, tide, currents, rain and reef protection, supporting alerts and guidance for beachgoers.",
+    "dicas": [
+      "Observe how wind, waves, tide and rain change the beach throughout the day.",
+      "Use the app to better understand why an area may be safer or more dangerous.",
+      "Learn more about oceanography: it supports safety, conservation and planning for coastal cities."
+    ],
+    "alertaFinal": "When science helps us understand the sea, everyone can make safer choices."
+  }
+]
