@@ -1,6 +1,6 @@
 {
   "schema_version": "1.1",
-  "generated_at_local": "2026-07-23T05:15:40",
+  "generated_at_local": "2026-07-23T05:24:47",
   "timezone": "America/Recife",
   "location": {
     "name": "Recife, PE",
@@ -246,14 +246,14 @@
         },
         "daily": {
           "air_temp": {
-            "min": 23.62,
-            "max": 25.66,
-            "mean": 24.53,
-            "min_time_local": "2026-07-23T06:00:00",
-            "max_time_local": "2026-07-23T15:00:00"
+            "min": 23.67,
+            "max": 26.47,
+            "mean": 24.61,
+            "min_time_local": "2026-07-23T00:00:00",
+            "max_time_local": "2026-07-23T12:00:00"
           },
           "humidity": {
-            "mean": 85.8
+            "mean": 85.5
           },
           "wind_speed": {
             "min": 3.61,
@@ -283,14 +283,14 @@
               "2026-07-23T21:00:00"
             ],
             "values": [
-              23.69,
-              23.72,
-              23.62,
-              24.87,
+              23.67,
+              23.79,
+              23.76,
               25.6,
-              25.66,
-              24.74,
-              24.35
+              26.47,
+              25.01,
+              24.4,
+              24.17
             ]
           },
           "humidity_pct": {
@@ -305,14 +305,14 @@
               "2026-07-23T21:00:00"
             ],
             "values": [
-              89.94,
-              90.28,
-              90.53,
-              85.94,
-              79.79,
-              79.88,
-              83.82,
-              86.54
+              90.03,
+              89.9,
+              89.76,
+              82.28,
+              75.82,
+              83.0,
+              85.53,
+              87.48
             ]
           },
           "wind_speed_ms": {
@@ -433,11 +433,11 @@
               "end": "2026-07-23T05:00:00"
             },
             "air_temp_c": {
-              "min": 23.69,
-              "max": 23.69,
-              "mean": 23.69
+              "min": 23.67,
+              "max": 23.67,
+              "mean": 23.67
             },
-            "humidity_pct": 89.9,
+            "humidity_pct": 90.0,
             "wind_speed_ms": 3.93,
             "wind_dir_sector": "SE",
             "rain_prob_pct": 100.0,
@@ -455,11 +455,11 @@
               "end": "2026-07-23T11:00:00"
             },
             "air_temp_c": {
-              "min": 23.62,
-              "max": 23.62,
-              "mean": 23.62
+              "min": 23.76,
+              "max": 23.76,
+              "mean": 23.76
             },
-            "humidity_pct": 90.5,
+            "humidity_pct": 89.8,
             "wind_speed_ms": 3.61,
             "wind_dir_sector": "SE",
             "rain_prob_pct": 100.0,
@@ -477,11 +477,11 @@
               "end": "2026-07-23T17:00:00"
             },
             "air_temp_c": {
-              "min": 25.6,
-              "max": 25.6,
-              "mean": 25.6
+              "min": 26.47,
+              "max": 26.47,
+              "mean": 26.47
             },
-            "humidity_pct": 79.8,
+            "humidity_pct": 75.8,
             "wind_speed_ms": 5.18,
             "wind_dir_sector": "SE",
             "rain_prob_pct": 100.0,
@@ -499,11 +499,11 @@
               "end": "2026-07-23T23:00:00"
             },
             "air_temp_c": {
-              "min": 24.74,
-              "max": 24.74,
-              "mean": 24.74
+              "min": 24.4,
+              "max": 24.4,
+              "mean": 24.4
             },
-            "humidity_pct": 83.8,
+            "humidity_pct": 85.5,
             "wind_speed_ms": 4.76,
             "wind_dir_sector": "SE",
             "rain_prob_pct": 100.0,
@@ -516,7 +516,7 @@
             }
           }
         },
-        "summary_pt": "Temperatura entre 23.6° e 25.7°C. Chance de chuva: 100%. Vento: SE 4.3 m/s."
+        "summary_pt": "Temperatura entre 23.7° e 26.5°C. Chance de chuva: 100%. Vento: SE 4.3 m/s."
       },
       "waves": {
         "units": {
@@ -641,8 +641,8 @@
         "manha": {
           "icon_hint": "rainy",
           "temp_min_max_c": {
-            "min": 23.6,
-            "max": 23.6
+            "min": 23.8,
+            "max": 23.8
           },
           "rain_prob_pct": 100.0,
           "wind_speed_mean_ms": 3.6,
@@ -652,8 +652,8 @@
         "tarde": {
           "icon_hint": "rainy",
           "temp_min_max_c": {
-            "min": 25.6,
-            "max": 25.6
+            "min": 26.5,
+            "max": 26.5
           },
           "rain_prob_pct": 100.0,
           "wind_speed_mean_ms": 5.2,
@@ -663,8 +663,8 @@
         "noite": {
           "icon_hint": "rainy",
           "temp_min_max_c": {
-            "min": 24.7,
-            "max": 24.7
+            "min": 24.4,
+            "max": 24.4
           },
           "rain_prob_pct": 100.0,
           "wind_speed_mean_ms": 4.8,
@@ -866,14 +866,14 @@
         },
         "daily": {
           "air_temp": {
-            "min": 23.64,
-            "max": 25.27,
-            "mean": 24.47,
-            "min_time_local": "2026-07-24T06:00:00",
+            "min": 23.62,
+            "max": 26.18,
+            "mean": 24.35,
+            "min_time_local": "2026-07-24T00:00:00",
             "max_time_local": "2026-07-24T12:00:00"
           },
           "humidity": {
-            "mean": 86.1
+            "mean": 86.8
           },
           "wind_speed": {
             "min": 2.58,
@@ -903,14 +903,14 @@
               "2026-07-24T21:00:00"
             ],
             "values": [
-              23.91,
-              23.79,
-              23.64,
-              24.85,
-              25.27,
-              25.16,
-              24.63,
-              24.48
+              23.62,
+              23.72,
+              23.69,
+              24.71,
+              26.18,
+              24.8,
+              24.17,
+              23.9
             ]
           },
           "humidity_pct": {
@@ -925,14 +925,14 @@
               "2026-07-24T21:00:00"
             ],
             "values": [
-              89.36,
-              88.33,
-              89.08,
-              86.26,
-              83.17,
-              82.13,
-              85.51,
-              85.08
+              90.97,
+              88.65,
+              88.8,
+              86.99,
+              78.78,
+              83.95,
+              87.88,
+              88.08
             ]
           },
           "wind_speed_ms": {
@@ -1053,11 +1053,11 @@
               "end": "2026-07-24T05:00:00"
             },
             "air_temp_c": {
-              "min": 23.91,
-              "max": 23.91,
-              "mean": 23.91
+              "min": 23.62,
+              "max": 23.62,
+              "mean": 23.62
             },
-            "humidity_pct": 89.4,
+            "humidity_pct": 91.0,
             "wind_speed_ms": 2.68,
             "wind_dir_sector": "SE",
             "rain_prob_pct": 99.0,
@@ -1075,11 +1075,11 @@
               "end": "2026-07-24T11:00:00"
             },
             "air_temp_c": {
-              "min": 23.64,
-              "max": 23.64,
-              "mean": 23.64
+              "min": 23.69,
+              "max": 23.69,
+              "mean": 23.69
             },
-            "humidity_pct": 89.1,
+            "humidity_pct": 88.8,
             "wind_speed_ms": 3.28,
             "wind_dir_sector": "SSE",
             "rain_prob_pct": 99.0,
@@ -1097,11 +1097,11 @@
               "end": "2026-07-24T17:00:00"
             },
             "air_temp_c": {
-              "min": 25.27,
-              "max": 25.27,
-              "mean": 25.27
+              "min": 26.18,
+              "max": 26.18,
+              "mean": 26.18
             },
-            "humidity_pct": 83.2,
+            "humidity_pct": 78.8,
             "wind_speed_ms": 5.09,
             "wind_dir_sector": "SE",
             "rain_prob_pct": 99.0,
@@ -1119,11 +1119,11 @@
               "end": "2026-07-24T23:00:00"
             },
             "air_temp_c": {
-              "min": 24.63,
-              "max": 24.63,
-              "mean": 24.63
+              "min": 24.17,
+              "max": 24.17,
+              "mean": 24.17
             },
-            "humidity_pct": 85.5,
+            "humidity_pct": 87.9,
             "wind_speed_ms": 4.14,
             "wind_dir_sector": "SSE",
             "rain_prob_pct": 99.0,
@@ -1136,7 +1136,7 @@
             }
           }
         },
-        "summary_pt": "Temperatura entre 23.6° e 25.3°C. Chance de chuva: 99%. Vento: SSE 3.8 m/s."
+        "summary_pt": "Temperatura entre 23.6° e 26.2°C. Chance de chuva: 99%. Vento: SSE 3.8 m/s."
       },
       "waves": {
         "units": {
@@ -1261,8 +1261,8 @@
         "manha": {
           "icon_hint": "rainy",
           "temp_min_max_c": {
-            "min": 23.6,
-            "max": 23.6
+            "min": 23.7,
+            "max": 23.7
           },
           "rain_prob_pct": 99.0,
           "wind_speed_mean_ms": 3.3,
@@ -1272,8 +1272,8 @@
         "tarde": {
           "icon_hint": "rainy",
           "temp_min_max_c": {
-            "min": 25.3,
-            "max": 25.3
+            "min": 26.2,
+            "max": 26.2
           },
           "rain_prob_pct": 99.0,
           "wind_speed_mean_ms": 5.1,
@@ -1283,8 +1283,8 @@
         "noite": {
           "icon_hint": "rainy",
           "temp_min_max_c": {
-            "min": 24.6,
-            "max": 24.6
+            "min": 24.2,
+            "max": 24.2
           },
           "rain_prob_pct": 99.0,
           "wind_speed_mean_ms": 4.1,
@@ -1494,14 +1494,14 @@
         },
         "daily": {
           "air_temp": {
-            "min": 23.66,
-            "max": 27.04,
-            "mean": 25.11,
+            "min": 23.69,
+            "max": 25.52,
+            "mean": 24.51,
             "min_time_local": "2026-07-25T03:00:00",
             "max_time_local": "2026-07-25T12:00:00"
           },
           "humidity": {
-            "mean": 77.8
+            "mean": 80.5
           },
           "wind_speed": {
             "min": 3.43,
@@ -1531,14 +1531,14 @@
               "2026-07-25T21:00:00"
             ],
             "values": [
-              23.73,
-              23.66,
-              23.73,
-              26.08,
-              27.04,
-              26.39,
-              25.27,
-              24.99
+              23.75,
+              23.69,
+              23.72,
+              24.78,
+              25.52,
+              25.06,
+              24.69,
+              24.86
             ]
           },
           "humidity_pct": {
@@ -1553,14 +1553,14 @@
               "2026-07-25T21:00:00"
             ],
             "values": [
-              86.48,
-              85.08,
-              83.07,
-              75.34,
-              69.21,
-              70.77,
-              75.87,
-              76.56
+              86.36,
+              84.91,
+              83.11,
+              81.4,
+              75.72,
+              76.58,
+              78.56,
+              77.12
             ]
           },
           "wind_speed_ms": {
@@ -1681,11 +1681,11 @@
               "end": "2026-07-25T05:00:00"
             },
             "air_temp_c": {
-              "min": 23.73,
-              "max": 23.73,
-              "mean": 23.73
+              "min": 23.75,
+              "max": 23.75,
+              "mean": 23.75
             },
-            "humidity_pct": 86.5,
+            "humidity_pct": 86.4,
             "wind_speed_ms": 3.43,
             "wind_dir_sector": "S",
             "rain_prob_pct": 51.5,
@@ -1703,9 +1703,9 @@
               "end": "2026-07-25T11:00:00"
             },
             "air_temp_c": {
-              "min": 23.73,
-              "max": 23.73,
-              "mean": 23.73
+              "min": 23.72,
+              "max": 23.72,
+              "mean": 23.72
             },
             "humidity_pct": 83.1,
             "wind_speed_ms": 4.36,
@@ -1725,11 +1725,11 @@
               "end": "2026-07-25T17:00:00"
             },
             "air_temp_c": {
-              "min": 27.04,
-              "max": 27.04,
-              "mean": 27.04
+              "min": 25.52,
+              "max": 25.52,
+              "mean": 25.52
             },
-            "humidity_pct": 69.2,
+            "humidity_pct": 75.7,
             "wind_speed_ms": 6.26,
             "wind_dir_sector": "SSE",
             "rain_prob_pct": 51.5,
@@ -1747,11 +1747,11 @@
               "end": "2026-07-25T23:00:00"
             },
             "air_temp_c": {
-              "min": 25.27,
-              "max": 25.27,
-              "mean": 25.27
+              "min": 24.69,
+              "max": 24.69,
+              "mean": 24.69
             },
-            "humidity_pct": 75.9,
+            "humidity_pct": 78.6,
             "wind_speed_ms": 4.96,
             "wind_dir_sector": "SSE",
             "rain_prob_pct": 51.5,
@@ -1764,7 +1764,7 @@
             }
           }
         },
-        "summary_pt": "Temperatura entre 23.7° e 27.0°C. Chance de chuva: 52%. Vento: SSE 5.0 m/s."
+        "summary_pt": "Temperatura entre 23.7° e 25.5°C. Chance de chuva: 52%. Vento: SSE 5.0 m/s."
       },
       "waves": {
         "units": {
@@ -1900,8 +1900,8 @@
         "tarde": {
           "icon_hint": "rainy",
           "temp_min_max_c": {
-            "min": 27.0,
-            "max": 27.0
+            "min": 25.5,
+            "max": 25.5
           },
           "rain_prob_pct": 51.5,
           "wind_speed_mean_ms": 6.3,
@@ -1911,8 +1911,8 @@
         "noite": {
           "icon_hint": "rainy",
           "temp_min_max_c": {
-            "min": 25.3,
-            "max": 25.3
+            "min": 24.7,
+            "max": 24.7
           },
           "rain_prob_pct": 51.5,
           "wind_speed_mean_ms": 5.0,
@@ -2122,14 +2122,14 @@
         },
         "daily": {
           "air_temp": {
-            "min": 23.95,
-            "max": 26.22,
-            "mean": 25.0,
-            "min_time_local": "2026-07-26T06:00:00",
+            "min": 24.06,
+            "max": 26.9,
+            "mean": 25.28,
+            "min_time_local": "2026-07-26T03:00:00",
             "max_time_local": "2026-07-26T12:00:00"
           },
           "humidity": {
-            "mean": 80.6
+            "mean": 79.3
           },
           "wind_speed": {
             "min": 2.91,
@@ -2159,14 +2159,14 @@
               "2026-07-26T21:00:00"
             ],
             "values": [
-              24.51,
-              23.98,
-              23.95,
-              25.61,
-              26.22,
-              26.06,
-              25.12,
-              24.51
+              24.21,
+              24.06,
+              24.2,
+              26.18,
+              26.9,
+              26.53,
+              25.26,
+              24.9
             ]
           },
           "humidity_pct": {
@@ -2181,14 +2181,14 @@
               "2026-07-26T21:00:00"
             ],
             "values": [
-              79.19,
-              82.62,
-              86.59,
-              80.48,
-              76.53,
-              76.36,
-              79.88,
-              83.0
+              80.62,
+              82.2,
+              85.34,
+              77.81,
+              73.51,
+              74.25,
+              79.21,
+              81.08
             ]
           },
           "wind_speed_ms": {
@@ -2309,11 +2309,11 @@
               "end": "2026-07-26T05:00:00"
             },
             "air_temp_c": {
-              "min": 24.51,
-              "max": 24.51,
-              "mean": 24.51
+              "min": 24.21,
+              "max": 24.21,
+              "mean": 24.21
             },
-            "humidity_pct": 79.2,
+            "humidity_pct": 80.6,
             "wind_speed_ms": 3.39,
             "wind_dir_sector": "SSE",
             "rain_prob_pct": 65.8,
@@ -2331,11 +2331,11 @@
               "end": "2026-07-26T11:00:00"
             },
             "air_temp_c": {
-              "min": 23.95,
-              "max": 23.95,
-              "mean": 23.95
+              "min": 24.2,
+              "max": 24.2,
+              "mean": 24.2
             },
-            "humidity_pct": 86.6,
+            "humidity_pct": 85.3,
             "wind_speed_ms": 3.71,
             "wind_dir_sector": "SSE",
             "rain_prob_pct": 65.8,
@@ -2353,11 +2353,11 @@
               "end": "2026-07-26T17:00:00"
             },
             "air_temp_c": {
-              "min": 26.22,
-              "max": 26.22,
-              "mean": 26.22
+              "min": 26.9,
+              "max": 26.9,
+              "mean": 26.9
             },
-            "humidity_pct": 76.5,
+            "humidity_pct": 73.5,
             "wind_speed_ms": 5.65,
             "wind_dir_sector": "SE",
             "rain_prob_pct": 65.8,
@@ -2375,11 +2375,11 @@
               "end": "2026-07-26T23:00:00"
             },
             "air_temp_c": {
-              "min": 25.12,
-              "max": 25.12,
-              "mean": 25.12
+              "min": 25.26,
+              "max": 25.26,
+              "mean": 25.26
             },
-            "humidity_pct": 79.9,
+            "humidity_pct": 79.2,
             "wind_speed_ms": 5.0,
             "wind_dir_sector": "SE",
             "rain_prob_pct": 65.8,
@@ -2392,7 +2392,7 @@
             }
           }
         },
-        "summary_pt": "Temperatura entre 24.0° e 26.2°C. Chance de chuva: 66%. Vento: SSE 4.5 m/s."
+        "summary_pt": "Temperatura entre 24.1° e 26.9°C. Chance de chuva: 66%. Vento: SSE 4.5 m/s."
       },
       "waves": {
         "units": {
@@ -2517,8 +2517,8 @@
         "manha": {
           "icon_hint": "rainy",
           "temp_min_max_c": {
-            "min": 24.0,
-            "max": 24.0
+            "min": 24.2,
+            "max": 24.2
           },
           "rain_prob_pct": 65.8,
           "wind_speed_mean_ms": 3.7,
@@ -2528,8 +2528,8 @@
         "tarde": {
           "icon_hint": "rainy",
           "temp_min_max_c": {
-            "min": 26.2,
-            "max": 26.2
+            "min": 26.9,
+            "max": 26.9
           },
           "rain_prob_pct": 65.8,
           "wind_speed_mean_ms": 5.6,
@@ -2539,8 +2539,8 @@
         "noite": {
           "icon_hint": "rainy",
           "temp_min_max_c": {
-            "min": 25.1,
-            "max": 25.1
+            "min": 25.3,
+            "max": 25.3
           },
           "rain_prob_pct": 65.8,
           "wind_speed_mean_ms": 5.0,
@@ -2750,8 +2750,8 @@
         },
         "daily": {
           "air_temp": {
-            "min": 23.79,
-            "max": 26.86,
+            "min": 24.17,
+            "max": 26.69,
             "mean": 25.07,
             "min_time_local": "2026-07-27T06:00:00",
             "max_time_local": "2026-07-27T12:00:00"
@@ -2787,14 +2787,14 @@
               "2026-07-27T21:00:00"
             ],
             "values": [
-              24.06,
-              23.8,
-              23.79,
-              25.61,
-              26.86,
-              26.32,
-              25.22,
-              24.93
+              24.37,
+              24.18,
+              24.17,
+              25.66,
+              26.69,
+              26.12,
+              25.07,
+              24.3
             ]
           },
           "humidity_pct": {
@@ -2809,14 +2809,14 @@
               "2026-07-27T21:00:00"
             ],
             "values": [
-              84.63,
-              85.67,
-              85.67,
-              79.19,
-              68.71,
-              70.76,
-              75.21,
-              77.44
+              83.08,
+              83.74,
+              83.74,
+              78.98,
+              69.44,
+              71.63,
+              75.89,
+              80.42
             ]
           },
           "wind_speed_ms": {
@@ -2937,11 +2937,11 @@
               "end": "2026-07-27T05:00:00"
             },
             "air_temp_c": {
-              "min": 24.06,
-              "max": 24.06,
-              "mean": 24.06
+              "min": 24.37,
+              "max": 24.37,
+              "mean": 24.37
             },
-            "humidity_pct": 84.6,
+            "humidity_pct": 83.1,
             "wind_speed_ms": 4.25,
             "wind_dir_sector": "SSE",
             "rain_prob_pct": 51.2,
@@ -2959,11 +2959,11 @@
               "end": "2026-07-27T11:00:00"
             },
             "air_temp_c": {
-              "min": 23.79,
-              "max": 23.79,
-              "mean": 23.79
+              "min": 24.17,
+              "max": 24.17,
+              "mean": 24.17
             },
-            "humidity_pct": 85.7,
+            "humidity_pct": 83.7,
             "wind_speed_ms": 3.7,
             "wind_dir_sector": "SSE",
             "rain_prob_pct": 51.2,
@@ -2981,11 +2981,11 @@
               "end": "2026-07-27T17:00:00"
             },
             "air_temp_c": {
-              "min": 26.86,
-              "max": 26.86,
-              "mean": 26.86
+              "min": 26.69,
+              "max": 26.69,
+              "mean": 26.69
             },
-            "humidity_pct": 68.7,
+            "humidity_pct": 69.4,
             "wind_speed_ms": 5.73,
             "wind_dir_sector": "SE",
             "rain_prob_pct": 51.2,
@@ -3003,11 +3003,11 @@
               "end": "2026-07-27T23:00:00"
             },
             "air_temp_c": {
-              "min": 25.22,
-              "max": 25.22,
-              "mean": 25.22
+              "min": 25.07,
+              "max": 25.07,
+              "mean": 25.07
             },
-            "humidity_pct": 75.2,
+            "humidity_pct": 75.9,
             "wind_speed_ms": 4.83,
             "wind_dir_sector": "SE",
             "rain_prob_pct": 51.2,
@@ -3020,7 +3020,7 @@
             }
           }
         },
-        "summary_pt": "Temperatura entre 23.8° e 26.9°C. Chance de chuva: 51%. Vento: SE 4.7 m/s."
+        "summary_pt": "Temperatura entre 24.2° e 26.7°C. Chance de chuva: 51%. Vento: SE 4.7 m/s."
       },
       "waves": {
         "units": {
@@ -3145,8 +3145,8 @@
         "manha": {
           "icon_hint": "rainy",
           "temp_min_max_c": {
-            "min": 23.8,
-            "max": 23.8
+            "min": 24.2,
+            "max": 24.2
           },
           "rain_prob_pct": 51.2,
           "wind_speed_mean_ms": 3.7,
@@ -3156,8 +3156,8 @@
         "tarde": {
           "icon_hint": "rainy",
           "temp_min_max_c": {
-            "min": 26.9,
-            "max": 26.9
+            "min": 26.7,
+            "max": 26.7
           },
           "rain_prob_pct": 51.2,
           "wind_speed_mean_ms": 5.7,
@@ -3167,8 +3167,8 @@
         "noite": {
           "icon_hint": "rainy",
           "temp_min_max_c": {
-            "min": 25.2,
-            "max": 25.2
+            "min": 25.1,
+            "max": 25.1
           },
           "rain_prob_pct": 51.2,
           "wind_speed_mean_ms": 4.8,
