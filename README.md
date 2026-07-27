@@ -10,7 +10,7 @@ Este repositório já contém a base pública consumida pelo aplicativo:
 - Previsão consolidada em `outputs/forecast_full.json`.
 - Avisos meteorológicos do INMET em `outputs/avisoinmet.json`.
 - Dados estáticos de setores, piscinas, serviços, emergências, Guia do Mar, projetos e balneabilidade.
-- Imagens públicas de setores, piscinas, Guia do Mar, projetos e marcadores de mapa.
+- Imagens públicas de setores, piscinas, Guia do Mar, projetos e marcadores de mapa, incluindo o conjunto atual de pins `pin-grey`, `pin-blue`, `pin-red`, `pin-green`, `pin-yellow`, `pin-accessibility` e `pin-me`.
 - JSONs localizados em `data_static/i18n/<locale>/...` para `en-US`, `es` e `fr`.
 - `rodada_atual.json` para controle de atualização pelo cliente.
 
@@ -143,20 +143,26 @@ Arquivo mínimo usado para saber se existe uma rodada nova:
 
 É o arquivo principal para o cliente. Ele agrega os produtos do backend em uma estrutura pronta para exibição.
 
-Campos de alto nível esperados:
+Campos de alto nível esperados no contrato simplificado:
 
 | Campo | Conteúdo |
 | --- | --- |
-| `schema_version` | Versão do schema publicado. |
 | `generated_at_local` | Data/hora local de geração. |
-| `timezone` | `America/Recife`. |
-| `location` | Nome, bbox e ponto de referência solar. |
-| `time_window` | Janela temporal da previsão. |
-| `sources` | Metadados das fontes usadas. |
-| `notes` | Notas técnicas e aproximações. |
-| `days[]` | Lista de dias com sol, maré, nível do mar, meteorologia, ondas e probabilidades. |
+| `days[]` | Lista de dias da previsão. |
 
-O app usa esse arquivo para as telas de "Mar hoje", "Previsão", "Previsão completa" e "Resumo da previsão".
+Campos principais por dia:
+
+| Campo | Conteúdo |
+| --- | --- |
+| `date_local` | Data local da previsão. |
+| `sun` | Nascer e pôr do sol usados nas janelas de banho. |
+| `tide` | Série, preamares e baixa-mares da maré TPXO. |
+| `meteo.daily` | Temperatura, vento, direção do vento e classe UV. |
+| `waves.daily` | Altura significativa mínima e máxima das ondas. |
+| `probabilities.daily` | Probabilidades usadas nas regras de risco do app. |
+| `ui_cards.manha.icon_hint` | Sugestão visual simples para o card principal. |
+
+O app usa esse arquivo para as telas de "Mar hoje", "Previsão", "Previsão completa", "Resumo da previsão" e para colorir os pins do `mapapraia` conforme o risco do dia atual.
 
 ## `outputs/avisoinmet.json`
 
@@ -206,13 +212,27 @@ Todas as imagens são servidas como arquivos públicos. Não há endpoint separa
 | Ícone do Guia | `data_static/guiadomar/guiadomar_icons/icon-mare.png` |
 | Ícone fallback | `data_static/guiadomar/guiadomar_icons/icon-fallback.png` |
 | Projeto | `data_static/projetos/projetos_img/<id>.png` |
-| Marcador de mapa | `data_static/assets/map-markers/pin-default.png` |
+| Marcadores de mapa | `data_static/assets/map-markers/pin-grey.png`, `pin-blue.png`, `pin-red.png`, `pin-green.png`, `pin-yellow.png`, `pin-accessibility.png`, `pin-me.png` |
 
 Exemplo:
 
 ```text
 https://syuaps.github.io/praia-segura-outputs/data_static/setores/setores_img/ID_0001.jpg
 ```
+
+Marcadores atuais:
+
+| Arquivo | Uso no app |
+| --- | --- |
+| `pin-grey.png` | Pin padrão do mapa de serviços. |
+| `pin-blue.png` | Pin selecionado nos mapas de praia e serviços. |
+| `pin-accessibility.png` | Pin de acessibilidade/Praia sem Barreiras. |
+| `pin-red.png` | Risco alto no mapa da praia. |
+| `pin-green.png` | Piscinas e setores protegidos em risco baixo/intermediário. |
+| `pin-yellow.png` | Setores sem proteção em risco baixo/intermediário. |
+| `pin-me.png` | Localização aproximada do usuário. |
+
+`pin-default.png` e `pin-selected.png` podem permanecer publicados por compatibilidade histórica, mas o app atual usa `pin-grey.png` e `pin-blue.png`.
 
 ## Internacionalização
 
