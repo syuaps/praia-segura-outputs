@@ -1,5 +1,5 @@
 {
-  "generated_at_local": "2026-07-28T00:12:44",
+  "generated_at_local": "2026-07-28T16:07:06",
   "days": [
     {
       "date_local": "2026-07-28",
@@ -134,29 +134,29 @@
       "meteo": {
         "daily": {
           "air_temp": {
-            "min": 23.38,
-            "max": 26.5
+            "min": 23.41,
+            "max": 26.86
           },
           "wind_speed": {
-            "mean": 4.42,
+            "mean": 4.27,
             "unit": "m/s"
           },
-          "wind_dir_sector_mode": "SE",
+          "wind_dir_sector_mode": "SSE",
           "uv_class": "médio"
         }
       },
       "waves": {
         "daily": {
           "swh": {
-            "min": 1.09,
-            "max": 1.36
+            "min": 1.06,
+            "max": 1.34
           }
         }
       },
       "probabilities": {
         "daily": {
-          "tpg5": 25.8,
-          "10fgg10": 5.8,
+          "tpg5": 21.5,
+          "10fgg10": 73.2,
           "swhg2": 0.0
         }
       },
@@ -299,11 +299,11 @@
       "meteo": {
         "daily": {
           "air_temp": {
-            "min": 23.33,
-            "max": 27.19
+            "min": 23.47,
+            "max": 27.04
           },
           "wind_speed": {
-            "mean": 3.95,
+            "mean": 3.81,
             "unit": "m/s"
           },
           "wind_dir_sector_mode": "SSE",
@@ -313,15 +313,15 @@
       "waves": {
         "daily": {
           "swh": {
-            "min": 1.12,
-            "max": 1.32
+            "min": 1.11,
+            "max": 1.3
           }
         }
       },
       "probabilities": {
         "daily": {
-          "tpg5": 0.5,
-          "10fgg10": 63.0,
+          "tpg5": 0.0,
+          "10fgg10": 20.8,
           "swhg2": 0.0
         }
       },
@@ -464,11 +464,11 @@
       "meteo": {
         "daily": {
           "air_temp": {
-            "min": 22.99,
-            "max": 26.06
+            "min": 23.09,
+            "max": 26.91
           },
           "wind_speed": {
-            "mean": 4.03,
+            "mean": 4.06,
             "unit": "m/s"
           },
           "wind_dir_sector_mode": "SSE",
@@ -478,21 +478,21 @@
       "waves": {
         "daily": {
           "swh": {
-            "min": 1.1,
-            "max": 1.19
+            "min": 1.15,
+            "max": 1.17
           }
         }
       },
       "probabilities": {
         "daily": {
           "tpg5": 0.0,
-          "10fgg10": 2.8,
+          "10fgg10": 20.0,
           "swhg2": 0.0
         }
       },
       "ui_cards": {
         "manha": {
-          "icon_hint": "sun"
+          "icon_hint": "partly"
         }
       }
     },
@@ -629,30 +629,30 @@
       "meteo": {
         "daily": {
           "air_temp": {
-            "min": 22.68,
-            "max": 25.43
+            "min": 23.29,
+            "max": 26.36
           },
           "wind_speed": {
-            "mean": 4.4,
+            "mean": 5.03,
             "unit": "m/s"
           },
-          "wind_dir_sector_mode": "SSE",
+          "wind_dir_sector_mode": "S",
           "uv_class": "médio"
         }
       },
       "waves": {
         "daily": {
           "swh": {
-            "min": 1.19,
-            "max": 1.47
+            "min": 1.12,
+            "max": 1.49
           }
         }
       },
       "probabilities": {
         "daily": {
-          "tpg5": 30.2,
-          "10fgg10": 21.8,
-          "swhg2": 0.8
+          "tpg5": 32.8,
+          "10fgg10": 94.0,
+          "swhg2": 0.0
         }
       },
       "ui_cards": {
@@ -794,11 +794,11 @@
       "meteo": {
         "daily": {
           "air_temp": {
-            "min": 22.99,
-            "max": 26.43
+            "min": 22.83,
+            "max": 26.31
           },
           "wind_speed": {
-            "mean": 5.87,
+            "mean": 5.96,
             "unit": "m/s"
           },
           "wind_dir_sector_mode": "SSE",
@@ -808,16 +808,16 @@
       "waves": {
         "daily": {
           "swh": {
-            "min": 1.53,
-            "max": 1.94
+            "min": 1.51,
+            "max": 1.95
           }
         }
       },
       "probabilities": {
         "daily": {
-          "tpg5": 75.8,
-          "10fgg10": 85.2,
-          "swhg2": 25.8
+          "tpg5": 50.8,
+          "10fgg10": 100.0,
+          "swhg2": 18.0
         }
       },
       "ui_cards": {
