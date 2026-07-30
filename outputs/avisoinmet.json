@@ -12,15 +12,18 @@
     "sigla_uf": "PE",
     "codigo_ibge": "2611606"
   },
-  "gerado_em": "2026-07-29T00:14:37-03:00",
-  "status_consulta": "ok",
-  "dados_em_cache": false,
-  "tem_alerta": false,
-  "tem_alerta_vigente": false,
-  "tem_alerta_futuro": false,
+  "gerado_em": "2026-07-30T06:00:58-03:00",
+  "status_consulta": "erro_com_cache",
+  "dados_em_cache": true,
+  "tem_alerta": null,
+  "tem_alerta_vigente": null,
+  "tem_alerta_futuro": null,
   "quantidade_alertas": 0,
   "maior_severidade": null,
   "maior_severidade_vigente": null,
-  "mensagem": "Não há avisos meteorológicos do INMET para Recife.",
-  "alertas": []
+  "mensagem": "Não foi possível consultar o INMET; o cache anterior não possui avisos ainda válidos.",
+  "alertas": [],
+  "consultado_em": "2026-07-30T06:00:58-03:00",
+  "erro_consulta": "http_429",
+  "cache_gerado_em": "2026-07-29T00:14:37-03:00"
 }
