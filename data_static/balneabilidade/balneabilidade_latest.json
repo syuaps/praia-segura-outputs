@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-03T11:48:47",
-  "bulletin_number": 30,
+  "updated_at": "2026-08-04T07:00:41",
+  "bulletin_number": 2,
   "bulletin_year": 2026,
-  "report_date": "24/07/2026",
-  "periodo": "24/07/2026 a 30/07/2026",
-  "data_coleta": "20/07/2026",
+  "report_date": "08/01/2026",
+  "periodo": "09/01/2026 a 15/01/2026",
+  "data_coleta": "05/01/2026",
   "station_count": 27,
-  "pdf": "informativo-balneabilidade-30_2026-enterolert.pdf",
-  "source_url": "https://www2.cprh.pe.gov.br/wp-content/uploads/2026/07/informativo-balneabilidade-30_2026-enterolert.pdf"
+  "pdf": "informativo-balneabilidade-02_2026-enterolert.pdf",
+  "source_url": "https://www2.cprh.pe.gov.br/wp-content/uploads/2026/01/informativo-balneabilidade-02_2026-enterolert.pdf"
 }
