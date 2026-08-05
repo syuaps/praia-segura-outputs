@@ -25,8 +25,8 @@
       "observacao": "Piscines naturelles à marée basse. Ne prenez pas de risques à marée haute.",
       "balneabilidade": {
         "status": "impropria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-80",
         "distEstacaoCPRHKm": 1.4269
       }
@@ -58,8 +58,8 @@
       "observacao": "Aucune zone protégée. La baignade n'est pas sûre.",
       "balneabilidade": {
         "status": "impropria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-80",
         "distEstacaoCPRHKm": 1.1575
       }
@@ -91,8 +91,8 @@
       "observacao": "Aucune zone protégée. La baignade n'est pas sûre.",
       "balneabilidade": {
         "status": "impropria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-80",
         "distEstacaoCPRHKm": 0.8405
       }
@@ -124,8 +124,8 @@
       "observacao": "Aucune zone protégée. La baignade n'est pas sûre.",
       "balneabilidade": {
         "status": "impropria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-80",
         "distEstacaoCPRHKm": 0.5427
       }
@@ -157,8 +157,8 @@
       "observacao": "Piscines naturelles à marée basse. Ne prenez pas de risques à marée haute.",
       "balneabilidade": {
         "status": "impropria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-80",
         "distEstacaoCPRHKm": 0.2605
       }
@@ -190,8 +190,8 @@
       "observacao": "Piscines naturelles à marée basse. Ne prenez pas de risques à marée haute.",
       "balneabilidade": {
         "status": "impropria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-80",
         "distEstacaoCPRHKm": 0.1599
       }
@@ -223,8 +223,8 @@
       "observacao": "Mer ouverte sans protection. La baignade n'est pas sûre.",
       "balneabilidade": {
         "status": "impropria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-80",
         "distEstacaoCPRHKm": 0.4117
       }
@@ -256,8 +256,8 @@
       "observacao": "Piscine naturelle restreinte avec courants de baïne. La baignade n'est pas recommandée.",
       "balneabilidade": {
         "status": "impropria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-80",
         "distEstacaoCPRHKm": 0.6953
       }
@@ -289,8 +289,8 @@
       "observacao": "Zone de courants de baïne. La baignade n'est pas sûre.",
       "balneabilidade": {
         "status": "impropria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-80",
         "distEstacaoCPRHKm": 1.0009
       }
@@ -322,8 +322,8 @@
       "observacao": "Zone de courants de baïne. La baignade n'est pas sûre.",
       "balneabilidade": {
         "status": "impropria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-80",
         "distEstacaoCPRHKm": 1.2984
       }
@@ -354,9 +354,9 @@
       "acessibilidade": false,
       "observacao": "Zone de courants de baïne. La baignade n'est pas sûre.",
       "balneabilidade": {
-        "status": "propria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "status": "impropria",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-50",
         "distEstacaoCPRHKm": 1.3496
       }
@@ -387,9 +387,9 @@
       "acessibilidade": false,
       "observacao": "Zone de courants de baïne. La baignade n'est pas sûre.",
       "balneabilidade": {
-        "status": "propria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "status": "impropria",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-50",
         "distEstacaoCPRHKm": 1.0493
       }
@@ -420,9 +420,9 @@
       "acessibilidade": false,
       "observacao": "Zone de courants de baïne. La baignade n'est pas sûre.",
       "balneabilidade": {
-        "status": "propria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "status": "impropria",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-50",
         "distEstacaoCPRHKm": 0.7502
       }
@@ -453,9 +453,9 @@
       "acessibilidade": false,
       "observacao": "Zone de courants de baïne. La baignade n'est pas sûre.",
       "balneabilidade": {
-        "status": "propria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "status": "impropria",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-50",
         "distEstacaoCPRHKm": 0.445
       }
@@ -486,9 +486,9 @@
       "acessibilidade": false,
       "observacao": "Zone de courants de baïne. La baignade n'est pas sûre.",
       "balneabilidade": {
-        "status": "propria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "status": "impropria",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-50",
         "distEstacaoCPRHKm": 0.1423
       }
@@ -519,9 +519,9 @@
       "acessibilidade": false,
       "observacao": "Piscines naturelles à marée basse. Ne prenez pas de risques à marée haute.",
       "balneabilidade": {
-        "status": "propria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "status": "impropria",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-50",
         "distEstacaoCPRHKm": 0.177
       }
@@ -552,9 +552,9 @@
       "acessibilidade": false,
       "observacao": "Zone de courants de baïne. La baignade n'est pas sûre.",
       "balneabilidade": {
-        "status": "propria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "status": "impropria",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-50",
         "distEstacaoCPRHKm": 0.471
       }
@@ -585,9 +585,9 @@
       "acessibilidade": true,
       "observacao": "Piscines naturelles à marée basse. Ne prenez pas de risques à marée haute.",
       "balneabilidade": {
-        "status": "propria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "status": "impropria",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-50",
         "distEstacaoCPRHKm": 0.7746
       }
@@ -618,9 +618,9 @@
       "acessibilidade": false,
       "observacao": "Piscines naturelles à marée basse. Ne prenez pas de risques à marée haute.",
       "balneabilidade": {
-        "status": "propria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "status": "impropria",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-50",
         "distEstacaoCPRHKm": 1.0947
       }
@@ -651,9 +651,9 @@
       "acessibilidade": false,
       "observacao": "Zone de courants de baïne. La baignade n'est pas sûre.",
       "balneabilidade": {
-        "status": "propria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "status": "impropria",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-50",
         "distEstacaoCPRHKm": 1.4056
       }
@@ -684,9 +684,9 @@
       "acessibilidade": false,
       "observacao": "Zone de courants de baïne. La baignade n'est pas sûre.",
       "balneabilidade": {
-        "status": "propria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "status": "impropria",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-50",
         "distEstacaoCPRHKm": 1.704
       }
@@ -717,9 +717,9 @@
       "acessibilidade": false,
       "observacao": "Piscines naturelles à marée basse. Ne prenez pas de risques à marée haute.",
       "balneabilidade": {
-        "status": "propria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "status": "impropria",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-50",
         "distEstacaoCPRHKm": 1.9992
       }
@@ -751,8 +751,8 @@
       "observacao": "Piscines naturelles à marée basse. Ne prenez pas de risques à marée haute.",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-10",
         "distEstacaoCPRHKm": 1.8567
       }
@@ -784,8 +784,8 @@
       "observacao": "Piscines naturelles à marée basse. Ne prenez pas de risques à marée haute.",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-10",
         "distEstacaoCPRHKm": 1.5459
       }
@@ -817,8 +817,8 @@
       "observacao": "Mer ouverte sans protection. La baignade n'est pas sûre.",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-10",
         "distEstacaoCPRHKm": 1.2497
       }
@@ -850,8 +850,8 @@
       "observacao": "Mer ouverte sans protection. La baignade n'est pas sûre.",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-10",
         "distEstacaoCPRHKm": 0.9512
       }
@@ -883,8 +883,8 @@
       "observacao": "Mer ouverte sans protection. La baignade n'est pas sûre.",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-10",
         "distEstacaoCPRHKm": 0.6419
       }
@@ -916,8 +916,8 @@
       "observacao": "Mer ouverte sans protection. La baignade n'est pas sûre.",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-10",
         "distEstacaoCPRHKm": 0.3396
       }
@@ -949,8 +949,8 @@
       "observacao": "Mer ouverte sans protection. La baignade n'est pas sûre.",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-10",
         "distEstacaoCPRHKm": 0.0425
       }
@@ -982,8 +982,8 @@
       "observacao": "Mer ouverte sans protection. La baignade n'est pas sûre.",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "REC-10",
         "distEstacaoCPRHKm": 0.2539
       }
@@ -1015,8 +1015,8 @@
       "observacao": "Mer ouverte sans protection. La baignade n'est pas sûre.",
       "balneabilidade": {
         "status": "propria",
-        "dataReferencia": "08/01/2026",
-        "periodo": "du 09/01/2026 au 15/01/2026",
+        "dataReferencia": "24/07/2026",
+        "periodo": "du 24/07/2026 au 30/07/2026",
         "codCPRHBalneabilidade": "JAB-80",
         "distEstacaoCPRHKm": 0.33
       }
