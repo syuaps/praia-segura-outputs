@@ -12,7 +12,7 @@
     "sigla_uf": "PE",
     "codigo_ibge": "2611606"
   },
-  "gerado_em": "2026-08-04T08:13:47-03:00",
+  "gerado_em": "2026-08-05T10:11:35-03:00",
   "status_consulta": "ok",
   "dados_em_cache": false,
   "tem_alerta": true,
@@ -24,12 +24,12 @@
   "mensagem": "Há aviso meteorológico vigente do INMET para Recife.",
   "alertas": [
     {
-      "id": "urn:oid:2.49.0.0.76.0.2026.27958.2",
+      "id": "urn:oid:2.49.0.0.76.0.2026.27972.1",
       "fonte": "INMET",
-      "titulo": "Aviso de Chuvas Intensas. Severidade Grau: Moderate",
-      "evento": "Chuvas Intensas",
-      "evento_chave": "chuvas intensas",
-      "evento_grupo": "chuva",
+      "titulo": "Aviso de Vendaval. Severidade Grau: Moderate",
+      "evento": "Vendaval",
+      "evento_chave": "vendaval",
+      "evento_grupo": "vento",
       "prioridade_praia": "prioritario",
       "severidade": "amarelo",
       "severidade_texto": "Perigo potencial",
@@ -37,13 +37,13 @@
       "certeza": "Likely",
       "urgencia": "Future",
       "status_temporal": "vigente",
-      "emitido_em": "2026-08-03T00:00:00-03:00",
-      "inicio": "2026-08-03T09:00:00-03:00",
-      "fim": "2026-08-05T10:00:00-03:00",
-      "descricao": "INMET publica aviso iniciando em: 03/08/2026 09:00. Chuva entre 20 e 30 mm/h ou até 50 mm/dia, ventos intensos (40-60 km/h). Baixo risco de corte de energia elétrica, queda de galhos de árvores, alagamentos e de descargas elétricas.",
+      "emitido_em": "2026-08-05T11:50:27-03:00",
+      "inicio": "2026-08-05T08:55:00-03:00",
+      "fim": "2026-08-06T23:59:00-03:00",
+      "descricao": "INMET publica aviso iniciando em: 05/08/2026 08:55. Vento variando entre 40 km/h e 60 km/h. Baixo risco de queda de galhos de árvores.",
       "riscos": null,
-      "instrucoes": "Em caso de rajadas de vento: (não se abrigue debaixo de árvores, pois há leve risco de queda e descargas elétricas e não estacione veículos próximos a torres de transmissão e placas de propaganda). Evite usar aparelhos eletrônicos ligados à tomada. Obtenha mais informações junto à Defesa Civil (telefone 199) e ao Corpo de Bombeiros (telefone 193).",
-      "area_descricao": "Aviso para as áreas: Metropolitana de Recife, Mata Pernambucana, Mata Paraibana, Leste Potiguar, Leste Alagoano",
+      "instrucoes": "Em caso de rajadas de vento: (não se abrigue debaixo de árvores, pois há leve risco de queda e descargas elétricas e não estacione veículos próximos a torres de transmissão e placas de propaganda). Obtenha mais informações junto à Defesa Civil (telefone 199) e ao Corpo de Bombeiros (telefone 193).",
+      "area_descricao": "Aviso para as áreas: Sul Cearense, Vale São-Franciscano da Bahia, Metropolitana de Recife, Norte Cearense, Noroeste Cearense, Central Potiguar, Sudeste Piauiense, Sertões Cearenses, Oeste Potiguar, Nordeste Baiano, Sertão Pernambucano, São Francisco Pernambucano, Agreste Pernambucano, Sertão Alagoano, Centro-Norte Piauiense, Sertão Paraibano, Leste Maranhense, Agreste Paraibano, Norte Maranhense, Borborema, Mata Paraibana, Mata Pernambucana, Oriental do Tocantins, Sul Maranhense, Jaguaribe, Sudoeste Piauiense, Centro Norte Baiano, Extremo Oeste Baiano, Centro-Sul Cearense, Metropolitana de Fortaleza, Leste Potiguar, Nordeste Paraense, Agreste Potiguar, Centro Maranhense, Norte Piauiense, Centro Sul Baiano, Agreste Alagoano, Oeste Maranhense, Sertão Sergipano, Ocidental do Tocantins, Leste Sergipano, Agreste Sergipano",
       "abrangencia_confirmada_por": [
         "codigo_ibge",
         "poligono",
@@ -51,16 +51,15 @@
       ],
       "relevante_para_praia": true,
       "categorias_risco": [
-        "chuva",
-        "impacto_urbano"
+        "vento"
       ],
-      "url_oficial": "https://avisos.inmet.gov.br/55242",
+      "url_oficial": "https://avisos.inmet.gov.br/55257",
       "status_cap": "Actual",
-      "tipo_mensagem_cap": "Update",
+      "tipo_mensagem_cap": "Alert",
       "escopo_cap": "Public",
       "efetivo": null,
       "poligonos": [
-        "-5.998533,-35.15625 -6.489983,-35.255127 -6.970049,-35.211182 -7.765423,-35.211182 -8.428904,-35.36499 -8.798225,-35.529785 -9.156333,-35.771484 -9.438224,-35.947266 -9.882275,-36.177979 -10.141932,-36.14502 -10.120302,-36.002197 -9.687398,-35.661621 -9.21056,-35.238647 -8.738507,-34.985962 -8.418036,-34.887085 -7.830731,-34.782715 -7.275292,-34.716797 -6.833716,-34.821167 -6.593674,-34.881592 -6.342597,-34.93103 -5.99307,-35.046387 -5.998533,-35.15625"
+        "-5.975931,-42.4189 -5.717746,-44.495773 -5.7972,-46.233158 -6.353059,-47.111836 -7.165897,-47.491264 -7.739967,-47.750874 -8.9646,-47.890664 -10.145815,-47.750874 -10.989709,-46.932105 -11.342263,-46.512738 -11.772571,-45.534209 -11.948414,-41.100884 -11.772571,-40.142327 -10.832883,-38.365003 -10.381553,-37.526264 -9.98856,-36.907197 -9.260284,-36.547737 -8.658983,-35.872363 -8.315185,-35.092335 -8.16694,-34.779768 -7.937744,-34.830321 -7.864874,-34.743604 -7.360274,-34.693679 -6.855098,-34.763574 -6.002041,-35.083094 -5.485577,-35.182943 -5.247056,-35.302763 -5.058162,-35.462522 -4.958722,-35.871906 -4.918941,-36.391124 -4.958722,-36.740599 -4.749849,-37.209892 -4.261462,-37.777234 -3.96277,-38.176631 -3.664953,-38.454651 -3.439606,-38.777733 -3.026204,-39.494647 -2.667291,-40.193597 -2.79444,-41.285621 -2.567574,-42.230531 -2.16863,-43.288937 -2.009022,-43.808155 -2.208649,-43.915372 -2.206995,-44.187985 -1.946686,-44.330321 -1.629893,-44.367314 -1.430322,-44.626922 -1.181006,-44.869666 -1.091011,-45.645389 -0.90536,-46.045704 -0.691775,-46.524067 -1.290611,-46.723767 -1.430322,-46.364308 -1.550066,-45.82512 -1.949165,-45.385781 -2.427957,-44.666863 -2.767,-44.167614 -2.906579,-42.570018 -3.205617,-41.711313 -3.404927,-41.192092 -3.823343,-40.612966 -4.560039,-40.093745 -5.673566,-40.872574 -5.872196,-41.831131 -5.975931,-42.4189"
       ]
     }
   ]
