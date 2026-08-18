@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2-opendata",
-  "generated_at_utc": "2026-08-18T14:33:12Z",
+  "generated_at_utc": "2026-08-18T14:34:00Z",
   "product": "ECMWF Open Data – ENS probability products via ecmwf-opendata",
   "run_summary": {
     "oper": [
@@ -8,7 +8,7 @@
       "2026-08-18T00:00:00Z"
     ],
     "wave": [
-      "2026-08-18T00:00:00Z"
+      "2026-08-17T12:00:00Z"
     ],
     "enfo_ep": [
       "2026-08-18T00:00:00Z"
