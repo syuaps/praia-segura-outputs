@@ -12,15 +12,96 @@
     "sigla_uf": "PE",
     "codigo_ibge": "2611606"
   },
-  "gerado_em": "2026-08-12T04:57:39-03:00",
+  "gerado_em": "2026-08-18T11:16:28-03:00",
   "status_consulta": "ok",
   "dados_em_cache": false,
-  "tem_alerta": false,
-  "tem_alerta_vigente": false,
+  "tem_alerta": true,
+  "tem_alerta_vigente": true,
   "tem_alerta_futuro": false,
-  "quantidade_alertas": 0,
-  "maior_severidade": null,
-  "maior_severidade_vigente": null,
-  "mensagem": "Não há avisos meteorológicos do INMET para Recife.",
-  "alertas": []
+  "quantidade_alertas": 2,
+  "maior_severidade": "laranja",
+  "maior_severidade_vigente": "laranja",
+  "mensagem": "Há aviso meteorológico vigente do INMET para Recife.",
+  "alertas": [
+    {
+      "id": "urn:oid:2.49.0.0.76.0.2026.28066.1",
+      "fonte": "INMET",
+      "titulo": "Aviso de Chuvas Intensas. Severidade Grau: Severe",
+      "evento": "Chuvas Intensas",
+      "evento_chave": "chuvas intensas",
+      "evento_grupo": "chuva",
+      "prioridade_praia": "prioritario",
+      "severidade": "laranja",
+      "severidade_texto": "Perigo",
+      "severidade_cap": "Severe",
+      "certeza": "Likely",
+      "urgencia": "Future",
+      "status_temporal": "vigente",
+      "emitido_em": "2026-08-18T13:48:26-03:00",
+      "inicio": "2026-08-18T10:50:00-03:00",
+      "fim": "2026-08-19T09:00:00-03:00",
+      "descricao": "INMET publica aviso iniciando em: 18/08/2026 10:50. Chuva entre 30 e 60 mm/h ou 50 e 100 mm/dia, ventos intensos (60-100 km/h). Risco de corte de energia elétrica,  queda de galhos de árvores, alagamentos e de descargas elétricas.",
+      "riscos": null,
+      "instrucoes": "Em caso de rajadas de vento: (não se abrigue debaixo de árvores, pois há risco de queda e descargas elétricas e não estacione veículos próximos a torres de transmissão e placas de propaganda) Se possível, desligue aparelhos elétricos e quadro geral de energia. Obtenha mais informações junto à Defesa Civil (telefone 199) e ao Corpo de Bombeiros (telefone 193).",
+      "area_descricao": "Aviso para as áreas: Metropolitana de Recife, Agreste Pernambucano, Mata Pernambucana, Leste Alagoano, Agreste Alagoano",
+      "abrangencia_confirmada_por": [
+        "codigo_ibge",
+        "poligono",
+        "texto"
+      ],
+      "relevante_para_praia": true,
+      "categorias_risco": [
+        "chuva",
+        "impacto_urbano"
+      ],
+      "url_oficial": "https://avisos.inmet.gov.br/55409",
+      "status_cap": "Actual",
+      "tipo_mensagem_cap": "Alert",
+      "escopo_cap": "Public",
+      "efetivo": null,
+      "poligonos": [
+        "-7.863382,-34.700317 -7.879706,-34.914551 -7.958597,-35.455627 -8.05923,-35.829163 -8.222364,-36.084595 -8.447922,-36.287842 -8.735792,-36.44165 -8.874217,-36.515808 -9.131927,-36.589966 -9.302728,-36.567993 -9.400291,-36.513062 -9.468027,-36.422424 -9.60075,-36.147766 -9.695521,-35.793457 -9.709057,-35.601196 -9.524914,-35.419922 -9.123792,-35.098572 -8.583737,-34.892578 -7.863382,-34.700317"
+      ]
+    },
+    {
+      "id": "urn:oid:2.49.0.0.76.0.2026.28056.1",
+      "fonte": "INMET",
+      "titulo": "Aviso de Chuvas Intensas. Severidade Grau: Moderate",
+      "evento": "Chuvas Intensas",
+      "evento_chave": "chuvas intensas",
+      "evento_grupo": "chuva",
+      "prioridade_praia": "prioritario",
+      "severidade": "amarelo",
+      "severidade_texto": "Perigo potencial",
+      "severidade_cap": "Moderate",
+      "certeza": "Likely",
+      "urgencia": "Future",
+      "status_temporal": "vigente",
+      "emitido_em": "2026-08-18T11:07:54-03:00",
+      "inicio": "2026-08-18T08:10:00-03:00",
+      "fim": "2026-08-19T09:00:00-03:00",
+      "descricao": "INMET publica aviso iniciando em: 18/08/2026 08:10. Chuva entre 20 e 30 mm/h ou até 50 mm/dia, ventos intensos (40-60 km/h). Baixo risco de corte de energia elétrica, queda de galhos de árvores, alagamentos e de descargas elétricas.",
+      "riscos": null,
+      "instrucoes": "Em caso de rajadas de vento: (não se abrigue debaixo de árvores, pois há leve risco de queda e descargas elétricas e não estacione veículos próximos a torres de transmissão e placas de propaganda). Evite usar aparelhos eletrônicos ligados à tomada. Obtenha mais informações junto à Defesa Civil (telefone 199) e ao Corpo de Bombeiros (telefone 193).",
+      "area_descricao": "Aviso para as áreas: Metropolitana de Recife, Agreste Pernambucano, Mata Pernambucana, Mata Paraibana, Leste Alagoano, Agreste Paraibano, Agreste Alagoano, Borborema",
+      "abrangencia_confirmada_por": [
+        "codigo_ibge",
+        "poligono",
+        "texto"
+      ],
+      "relevante_para_praia": true,
+      "categorias_risco": [
+        "chuva",
+        "impacto_urbano"
+      ],
+      "url_oficial": "https://avisos.inmet.gov.br/55393",
+      "status_cap": "Actual",
+      "tipo_mensagem_cap": "Alert",
+      "escopo_cap": "Public",
+      "efetivo": null,
+      "poligonos": [
+        "-9.784851,-36.584473 -9.979671,-36.331787 -10.009425,-36.22467 -10.009425,-36.084595 -10.020244,-35.955505 -9.985081,-35.889587 -9.763198,-35.650635 -9.167179,-35.15625 -8.352823,-34.815674 -7.836173,-34.705811 -7.471411,-34.716797 -7.046379,-34.694824 -6.588217,-34.881592 -6.599131,-35.024414 -6.948239,-35.321045 -7.28619,-35.650635 -7.667441,-35.914307 -8.124491,-36.23291 -8.483239,-36.463623 -8.754795,-36.606445 -9.112945,-36.760254 -9.557417,-36.782227 -9.784851,-36.584473"
+      ]
+    }
+  ]
 }
