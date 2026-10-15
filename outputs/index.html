@@ -9,27 +9,39 @@
 <body>
   <header>
     <h1>Praia Segura - Index de outputs</h1>
-    <p>Lista de arquivos de previsao publicados em <code>outputs/</code>.</p>
-    <p class="muted"><a href="../index.html">Voltar para o indice principal</a></p>
+    <p>Lista de arquivos de previs&atilde;o publicados em <code>outputs/</code>.</p>
+    <p class="muted"><a href="../index.html">Voltar para o &iacute;ndice principal</a></p>
   </header>
 
   <main>
+    <div class="card">
+      <div class="row">
+        <span class="pill">Publica&ccedil;&atilde;o</span>
+        <a href="../rodada_atual.json">rodada_atual.json</a>
+        <time datetime="2026-10-15T11:55:02-03:00">15/10/2026 &agrave;s 11:55:02 (UTC-3)</time>
+      </div>
+      <p class="card-note">Previs&atilde;o consolidada gerada em <time datetime="2026-10-15T11:11:35-03:00">15/10/2026 &agrave;s 11:11:35 (UTC-3)</time>, com 5 dias: <time datetime="2026-10-15">15/10/2026</time> a <time datetime="2026-10-19">19/10/2026</time>.</p>
+      <p>Os produtos t&ecirc;m hor&aacute;rios de gera&ccedil;&atilde;o e per&iacute;odos de cobertura pr&oacute;prios, descritos abaixo.</p>
+    </div>
+
     <details open>
       <summary>outputs/</summary>
       <ul>
-        <li><a href="./avisoinmet.json">avisoinmet.json</a> (avisos do INMET)</li>
-        <li><a href="./forecast_full.json">forecast_full.json</a> (agregador principal da rodada)</li>
+        <li><a href="./forecast_full.json">forecast_full.json</a> (agregador principal da rodada: <code>generated_at_local</code> e <code>days[]</code>; sol, mar&eacute;s, meteorologia, ondas, probabilidades e &iacute;cone para a interface)</li>
+        <li><a href="./avisoinmet.json">avisoinmet.json</a> (avisos do INMET para Recife; consulta em <time datetime="2026-10-15T10:59:17-03:00">15/10/2026 &agrave;s 10:59:17, UTC-3</time>; <code>status_consulta: ok</code>, sem uso de cache e sem alertas)</li>
       </ul>
+      <p class="muted">Em cada dia de <code>forecast_full.json</code>: <code>date_local</code>, <code>sun</code>, <code>tide</code>, <code>meteo.daily</code>, <code>waves.daily</code>, <code>probabilities.daily</code> e <code>ui_cards.manha.icon_hint</code>.</p>
     </details>
 
     <details open>
       <summary>outputs/products/</summary>
       <ul>
-        <li><a href="./products/ifs_oper__recife.json">products/ifs_oper__recife.json</a> (ECMWF Open Data - IFS HRES operacional)</li>
-        <li><a href="./products/ifs_ens_probs__recife.json">products/ifs_ens_probs__recife.json</a> (ECMWF Open Data - probabilidades do ensemble)</li>
-        <li><a href="./products/TPXO10_atlas_v2_recife.json">products/TPXO10_atlas_v2_recife.json</a> (mares TPXO10 atlas v2)</li>
-        <li><a href="./products/cmems_mod_glo_phy_anfc_merged-sl_PT1H-i__recife_timeseries.json">products/cmems_mod_glo_phy_anfc_merged-sl_PT1H-i__recife_timeseries.json</a> (Copernicus Marine - serie temporal em Recife)</li>
+        <li><a href="./products/ifs_oper__recife.json">products/ifs_oper__recife.json</a> (ECMWF Open Data - IFS HRES, atmosfera e ondas; rodada de 15/10/2026 &agrave;s 00 UTC, gerado em <time datetime="2026-10-15T14:11:34Z">15/10/2026 &agrave;s 14:11:34 UTC</time>; janela de 15/10 a 21/10/2026 &agrave;s 00h, UTC-3)</li>
+        <li><a href="./products/ifs_ens_probs__recife.json">products/ifs_ens_probs__recife.json</a> (ECMWF Open Data - probabilidades do ensemble para chuva, rajadas e ondas em <code>enfo_ep</code> e <code>waef_ep</code>; rodada de 15/10/2026 &agrave;s 00 UTC, gerado em <time datetime="2026-10-15T14:11:34Z">15/10/2026 &agrave;s 14:11:34 UTC</time>; horizonte solicitado de 6 dias)</li>
+        <li><a href="./products/TPXO10_atlas_v2_recife.json">products/TPXO10_atlas_v2_recife.json</a> (mar&eacute;s TPXO10 atlas v2; s&eacute;rie a cada 5 minutos e extremos de mar&eacute;; gerado em <time datetime="2026-10-15T14:00:49Z">15/10/2026 &agrave;s 14:00:49 UTC</time>; janela de 15/10 a 21/10/2026 &agrave;s 00h, UTC-3)</li>
+        <li><a href="./products/cmems_mod_glo_phy_anfc_merged-sl_PT1H-i__recife_timeseries.json">products/cmems_mod_glo_phy_anfc_merged-sl_PT1H-i__recife_timeseries.json</a> (Copernicus Marine - s&eacute;rie hor&aacute;ria do n&iacute;vel do mar em Recife; gerado em <time datetime="2026-07-23T08:00:35.810489Z">23/07/2026 &agrave;s 08:00:35 UTC</time>; janela de 23/07 a 29/07/2026 &agrave;s 00h, UTC-3)</li>
       </ul>
+      <p class="muted">O arquivo CMEMS dispon&iacute;vel cobre julho de 2026; sua janela difere da previs&atilde;o consolidada de outubro.</p>
     </details>
   </main>
 </body>
