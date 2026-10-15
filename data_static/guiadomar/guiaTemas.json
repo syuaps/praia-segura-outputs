@@ -60,6 +60,22 @@
   "alertaFinal": "Atenção aos avisos oficiais é essencial."
   },
   {
+  "id": "tubarao-piscinas",
+  "titulo": "Tubarões nas piscinas naturais?",
+  "subtitulo": "Na maré alta, o recife pode ficar submerso",
+  "imagem": "tubarao-piscinas",
+  "resumo": "Com a maré cheia, tubarões podem acessar áreas que formam piscinas naturais na maré baixa.",
+  "explicacao": "Na maré baixa, os recifes expostos ajudam a delimitar piscinas naturais e dificultam o acesso de animais maiores. Quando a maré sobe e cobre os recifes, essas áreas ficam mais conectadas ao mar aberto. Se houver profundidade suficiente, tubarões podem passar sobre os recifes ou por suas aberturas e chegar ao lado onde as piscinas se formam. Por isso, um trecho que parecia protegido na maré baixa pode deixar de oferecer essa proteção na maré cheia. A presença de recifes e a maré baixa não garantem ausência de tubarões nem eliminam outros riscos do banho de mar.",
+  "dicas": [
+    "Consulte a tábua de marés e observe se a água está subindo antes de entrar.",
+    "Saia das piscinas com a maré subindo; não espere os recifes ficarem cobertos.",
+    "Evite banho na maré alta, mesmo em trechos onde havia piscinas naturais mais cedo.",
+    "Mantenha distância das aberturas e das laterais dos recifes e não ultrapasse a linha de proteção.",
+    "Respeite placas, proibições e orientações dos guarda-vidas, inclusive na maré baixa."
+  ],
+  "alertaFinal": "Recife submerso não garante proteção: com a maré subindo, saia da água."
+  },
+  {
   "id": "risco-noturno",
   "titulo": "Mar à noite: risco maior",
   "subtitulo": "Baixa visibilidade aumenta o perigo",
@@ -231,6 +247,21 @@
   }
   ],
   "alertaFinal": "Não toque no animal. A resposta segura começa chamando quem sabe manejar."
+  },
+  {
+  "id": "enrocamento",
+  "titulo": "O que é enrocamento?",
+  "subtitulo": "Pedras que ajudam a proteger a orla",
+  "imagem": "enrocamento",
+  "resumo": "Enrocamento é uma estrutura de blocos de rocha usada para reduzir a erosão e proteger a costa.",
+  "explicacao": "Na praia, o enrocamento é uma obra feita com grandes blocos de rocha colocados para proteger a orla da ação das ondas e das correntes. Ele ajuda a reduzir a erosão e os danos em calçadas, ruas e construções próximas ao mar. É uma estrutura artificial, diferente dos recifes naturais, e sua presença não garante uma área segura para banho. As pedras podem ser escorregadias e ter vãos, oferecendo risco de quedas e ferimentos.",
+  "dicas": [
+    "Evite caminhar, subir ou brincar sobre as pedras do enrocamento.",
+    "Mantenha distância da estrutura ao entrar no mar e não mergulhe junto às pedras.",
+    "Com ondas fortes ou maré subindo, afaste-se das pedras e da água que pode alcançá-las.",
+    "Mantenha crianças afastadas e respeite a sinalização e a orientação dos guarda-vidas."
+  ],
+  "alertaFinal": "O enrocamento protege a orla, mas exige distância e cuidado de quem frequenta a praia."
   },
   {
   "id": "oceanografia",
